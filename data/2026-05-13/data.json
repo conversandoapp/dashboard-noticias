@@ -1,0 +1,35 @@
+{
+  "fecha": "2026-05-13",
+  "generado_en": "2026-05-13T22:18:04.675509Z",
+  "noticias": {
+    "mundo": [],
+    "negocios": [],
+    "tecnologia": []
+  },
+  "mercados": {
+    "sp500": {
+      "error": "argument of type 'NoneType' is not iterable"
+    },
+    "nasdaq": {
+      "error": "argument of type 'NoneType' is not iterable"
+    },
+    "dow": {
+      "error": "'Response' object has no attribute 'get'"
+    },
+    "vix": {
+      "error": "'Response' object has no attribute 'get'"
+    },
+    "oro": {
+      "error": "'Response' object has no attribute 'get'"
+    },
+    "petroleo": {
+      "error": "'Response' object has no attribute 'get'"
+    },
+    "btc": {
+      "error": "'Response' object has no attribute 'get'"
+    },
+    "dxy": {
+      "error": "'Response' object has no attribute 'get'"
+    }
+  }
+}

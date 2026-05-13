@@ -8,9 +8,10 @@ Uso:
 import argparse
 import datetime
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
-import feedparser
+import requests
 import yfinance as yf
 
 
@@ -41,16 +42,48 @@ MARKET_TICKERS = {
 
 
 def _fetch_rss(name: str, url: str, max_items: int = 6) -> list[dict]:
-    feed = feedparser.parse(url)
+    NS = {
+        "atom": "http://www.w3.org/2005/Atom",
+        "media": "http://search.yahoo.com/mrss/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+    }
+    try:
+        resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
+        root = ET.fromstring(resp.content)
+    except Exception as exc:
+        print(f"[WARN] No se pudo parsear {name}: {exc}")
+        return []
+
     items = []
-    for entry in feed.entries[:max_items]:
+    # RSS 2.0
+    for item in root.findall(".//item")[:max_items]:
+        titulo = item.findtext("title") or ""
+        resumen = item.findtext("description") or ""
+        link = item.findtext("link") or ""
+        publicado = item.findtext("pubDate") or item.findtext("dc:date", namespaces=NS) or ""
         items.append({
-            "titulo": entry.get("title", ""),
-            "resumen": entry.get("summary", "")[:400],
-            "url": entry.get("link", ""),
-            "publicado": entry.get("published", ""),
+            "titulo": titulo.strip(),
+            "resumen": resumen.strip()[:400],
+            "url": link.strip(),
+            "publicado": publicado.strip(),
             "fuente": name,
         })
+    # Atom
+    if not items:
+        for entry in root.findall(".//atom:entry", NS)[:max_items]:
+            titulo = entry.findtext("atom:title", namespaces=NS) or ""
+            resumen = entry.findtext("atom:summary", namespaces=NS) or entry.findtext("atom:content", namespaces=NS) or ""
+            link_el = entry.find("atom:link", NS)
+            link = link_el.get("href", "") if link_el is not None else ""
+            publicado = entry.findtext("atom:published", namespaces=NS) or entry.findtext("atom:updated", namespaces=NS) or ""
+            items.append({
+                "titulo": titulo.strip(),
+                "resumen": resumen.strip()[:400],
+                "url": link.strip(),
+                "publicado": publicado.strip(),
+                "fuente": name,
+            })
     return items
 
 
