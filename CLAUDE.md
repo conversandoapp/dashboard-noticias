@@ -59,7 +59,7 @@ Lee `data.json` + `contenido_claude.json` y genera `dashboard.html`.
 ```bash
 git add data/
 git commit -m "Dashboard YYYY-MM-DD"
-git push
+git push origin HEAD:main
 ```
 
 ---
@@ -86,10 +86,10 @@ Ejecuta el dashboard diario de noticias y mercados siguiendo estos pasos:
 4. Genera el dashboard:
    python run.py
 
-5. Haz commit y push:
+5. Haz commit y push directo a main:
    git add data/
    git commit -m "Dashboard <FECHA>"
-   git push
+   git push origin HEAD:main
 ```
 
 ---
