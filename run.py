@@ -76,6 +76,7 @@ def main() -> None:
     latest_dir = ROOT / "data" / "latest"
     latest_dir.mkdir(parents=True, exist_ok=True)
     (latest_dir / "dashboard.html").write_bytes(html_path.read_bytes())
+    (latest_dir / "index.html").write_bytes(html_path.read_bytes())
     (latest_dir / "data.json").write_bytes(datos_path.read_bytes())
     print(f"[INFO] latest/ actualizado")
 
