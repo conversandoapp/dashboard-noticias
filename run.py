@@ -1,90 +1,85 @@
 #!/usr/bin/env python3
 """
-Punto de entrada principal.
+Punto de entrada principal — solo obtiene datos y genera el HTML.
+La generación de texto (resumen, nota) la realiza Claude directamente
+como parte de la rutina, escribiendo contenido_claude.json.
 
 Uso:
-    python run.py                  # Ejecuta todo (requiere ANTHROPIC_API_KEY)
-    python run.py --skip-claude    # Omite llamadas a Claude (útil para pruebas)
-    python run.py --date 2026-05-13
+    python run.py                  # fetch + genera HTML (requiere contenido_claude.json previo)
+    python run.py --date 2026-05-14
+    python run.py --fetch-only     # Solo descarga datos, sin generar HTML
 """
 import argparse
 import json
-import os
 import sys
 from pathlib import Path
-from dotenv import load_dotenv
-
-load_dotenv()
 
 ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT))
 
-from scripts.fetch_data import recopilar
+from scripts.fetch_data import fetch_noticias, fetch_mercados
 from scripts.generate_dashboard import generar_html
+
+import datetime
 
 
 def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Dashboard diario de noticias y mercados")
-    p.add_argument("--skip-claude", action="store_true", help="No llama a la API de Claude")
-    p.add_argument("--date", default=None, help="Fecha YYYY-MM-DD (por defecto: hoy)")
+    p = argparse.ArgumentParser()
+    p.add_argument("--date", default=None)
+    p.add_argument("--fetch-only", action="store_true", help="Solo descarga datos")
     return p.parse_args()
-
-
-def _stub_contenido() -> dict:
-    return {
-        "resumen_noticias": "*(Resumen no generado — ejecuta sin --skip-claude para activar Claude)*",
-        "nota_emprendimiento": "*(Nota no generada — ejecuta sin --skip-claude para activar Claude)*",
-    }
 
 
 def main() -> None:
     args = parse_args()
+    fecha = args.date or datetime.date.today().isoformat()
 
     # 1. Recopilar datos
-    datos = recopilar()
-    if args.date:
-        datos["fecha"] = args.date
+    print(f"[INFO] Recopilando datos para {fecha}...")
+    noticias = fetch_noticias()
+    mercados = fetch_mercados()
 
-    fecha = datos["fecha"]
+    datos = {
+        "fecha": fecha,
+        "generado_en": datetime.datetime.utcnow().isoformat() + "Z",
+        "noticias": noticias,
+        "mercados": mercados,
+    }
 
-    # 2. Guardar datos crudos
+    # 2. Guardar data.json
     data_dir = ROOT / "data" / fecha
     data_dir.mkdir(parents=True, exist_ok=True)
-
     datos_path = data_dir / "data.json"
     datos_path.write_text(json.dumps(datos, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"[INFO] Datos guardados en {datos_path}")
 
-    # 3. Generar contenido con Claude (opcional)
-    if args.skip_claude:
-        print("[INFO] --skip-claude activo: omitiendo Claude API")
-        contenido = _stub_contenido()
-    else:
-        api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-        if not api_key:
-            print("[WARN] ANTHROPIC_API_KEY no encontrada. Usa --skip-claude o configura .env")
-            contenido = _stub_contenido()
-        else:
-            from scripts.generate_note import generar_contenido_claude
-            contenido = generar_contenido_claude(datos)
+    if args.fetch_only:
+        print("[INFO] --fetch-only: terminando aquí.")
+        print(f"  Siguiente paso: Claude lee {datos_path} y escribe contenido_claude.json")
+        return
 
-    # Guardar contenido Claude junto a los datos
+    # 3. Leer contenido generado por Claude
     contenido_path = data_dir / "contenido_claude.json"
-    contenido_path.write_text(json.dumps(contenido, indent=2, ensure_ascii=False), encoding="utf-8")
+    if not contenido_path.exists():
+        print(f"[WARN] {contenido_path} no existe — genera el contenido con Claude primero.")
+        print("       En modo manual puedes crear ese archivo con el formato:")
+        print('       {"resumen_noticias": "...", "nota_emprendimiento": "..."}')
+        return
+
+    contenido = json.loads(contenido_path.read_text(encoding="utf-8"))
 
     # 4. Generar dashboard HTML
     html_path = data_dir / "dashboard.html"
     generar_html(datos, contenido, html_path)
 
-    # 5. Copiar como "latest"
+    # 5. Actualizar latest/
     latest_dir = ROOT / "data" / "latest"
     latest_dir.mkdir(parents=True, exist_ok=True)
     (latest_dir / "dashboard.html").write_bytes(html_path.read_bytes())
     (latest_dir / "data.json").write_bytes(datos_path.read_bytes())
-    print(f"[INFO] Copia 'latest' actualizada en {latest_dir}")
+    print(f"[INFO] latest/ actualizado")
 
     print(f"\n✓ Dashboard listo: {html_path}")
-    print(f"  Abre en tu navegador: file://{html_path.resolve()}")
 
 
 if __name__ == "__main__":
