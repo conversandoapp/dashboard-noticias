@@ -1,0 +1,443 @@
+{
+  "fecha": "2026-05-14",
+  "generado_en": "2026-05-14T12:26:13.157332Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Wes Streeting resigns as health secretary - his letter in full",
+        "resumen": "Health Secretary Wes Streeting has announced his resignation from government.",
+        "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 12:18:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The potential challengers to Keir Starmer",
+        "resumen": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job.",
+        "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 09:45:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How would a Labour leadership contest work?",
+        "resumen": "How could MPs who want to see Sir Keir Starmer replaced force a leadership contest?",
+        "url": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 09:44:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: What now for Angela Rayner?",
+        "resumen": "BBC chief political correspondent Henry Zeffman explains what this could mean for a potential Labour leadership contest.",
+        "url": "https://www.bbc.com/news/videos/c5yepj79n04o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 07:31:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK economy sees surprise growth in March despite Iran war",
+        "resumen": "The economy grew by 0.3% in the month, official figures show, confounding  analysts' forecasts of a small contraction.",
+        "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 09:53:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Troops, cheering children and Temple of Heaven tour - day one of Trump's China visit",
+        "resumen": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.",
+        "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 07:13:24 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "UK economy sees surprise growth in March despite Iran war",
+        "resumen": "The economy grew by 0.3% in the month, official figures show, confounding  analysts' forecasts of a small contraction.",
+        "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 09:53:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Warning higher Europe air fares 'inevitable' due to Iran war",
+        "resumen": "Flying by air will get more expensive as oil prices remain high, says international industry body boss.",
+        "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 13 May 2026 23:03:15 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+        "resumen": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors.",
+        "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 05:10:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
+        "resumen": "Kevin Warsh was confirmed by the narrowest margin since the role required a Senate confirmation vote.",
+        "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 13 May 2026 20:15:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Woman in bank row over depositing £900 HMRC cheque",
+        "resumen": "Annabel Yates says she faces a 94 mile round trip to bank a cheque because of changes at Lloyds.",
+        "url": "https://www.bbc.com/news/articles/ce9p0kkeer8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 14 May 2026 05:29:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Big tech bets on new mascots in bid to seem more cuddly",
+        "resumen": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage.",
+        "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 13 May 2026 23:08:37 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+        "resumen": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+        "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+        "publicado": "Thu, 14 May 2026 06:05:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+        "resumen": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+        "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "publicado": "Thu, 14 May 2026 05:24:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Notion just turned its workspace into a hub for AI agents",
+        "resumen": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "publicado": "Wed, 13 May 2026 21:45:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "resumen": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+        "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+        "publicado": "Wed, 13 May 2026 19:49:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+        "resumen": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+        "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+        "publicado": "Wed, 13 May 2026 19:28:06 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
+        "resumen": "What would some of the world's largest repositories of malware look like if they were stacked as hard drives, one on top of the other?",
+        "url": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+        "publicado": "Wed, 13 May 2026 18:12:29 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Insta360’s new viewfinder turns the action cam into a retro shooter",
+        "resumen": "The pill-shaped Insta360 Go 3S 4K action camera launched in June 2024 as an updated version of the 2.7K Go 3 that debuted a year prior. While last year’s Go Ultra introduced a redesign with a larger sensor and higher frame rates, the Go 3S has stuck around as a smaller but still very capable [&#8230;]",
+        "url": "https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory",
+        "publicado": "2026-05-14T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I’m obsessed with Forza Horizon 6, and I’ve barely even raced",
+        "resumen": "For the last week, I've spent every evening unwinding by speeding through the Japanese countryside, blaring Babymetal as I take in the sights. Forza Horizon 6 is ostensibly a racing game, one in which you play an up-and-coming driver intent on making a name for themselves. But, like the rest of the series, it's also [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc",
+        "publicado": "2026-05-14T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "You can make an app for that",
+        "resumen": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better? Learn to code, I guess. Until [&#8230;]",
+        "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
+        "publicado": "2026-05-14T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Android’s latest AI feature predicts what you’ll do next",
+        "resumen": "Google is rolling out a new AI-powered \"contextual suggestions\" feature to Android users that recommends actions based on your daily habits, Android Authority reports. The feature is designed to predict your next action based on your location and habits - such as allowing music streaming apps to suggest your usual playlist when you arrive at [&#8230;]",
+        "url": "https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-feature-rollout",
+        "publicado": "2026-05-14T06:37:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Windows Update will soon automatically roll back faulty drivers",
+        "resumen": "Microsoft is on a mission to fix Windows 11, and part of that involves improving the often-frustrating Windows Update experience. While you'll soon be able to pause updates indefinitely, Microsoft is also adding a new feature that automatically rolls back problematic drivers that have been installed through Windows Update. Microsoft has created a new \"Cloud-Initiated [&#8230;]",
+        "url": "https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature",
+        "publicado": "2026-05-14T05:40:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+        "resumen": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
+        "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+        "publicado": "2026-05-13T18:04:28-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7444.25,
+      "cambio_pct": 0.58,
+      "cierre_anterior": 7400.96,
+      "maximo_periodo": 7444.25,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 8.78,
+      "historico_fechas": [
+        "2026-02-17",
+        "2026-02-18",
+        "2026-02-19",
+        "2026-02-20",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13"
+      ],
+      "historico_cierres": [
+        6843.22,
+        6881.31,
+        6861.89,
+        6909.51,
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26402.34,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 26088.2,
+      "historico_fechas": [
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13"
+      ],
+      "historico_cierres": [
+        25806.2,
+        26247.08,
+        26274.13,
+        26088.2,
+        26402.34
+      ]
+    },
+    "dow": {
+      "ultimo": 49693.2,
+      "cambio_pct": -0.14,
+      "cierre_anterior": 49760.56,
+      "historico_fechas": [
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13"
+      ],
+      "historico_cierres": [
+        49596.97,
+        49609.16,
+        49704.47,
+        49760.56,
+        49693.2
+      ]
+    },
+    "vix": {
+      "ultimo": 17.84,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 17.87,
+      "historico_fechas": [
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14"
+      ],
+      "historico_cierres": [
+        17.19,
+        18.38,
+        17.99,
+        17.87,
+        17.84
+      ]
+    },
+    "oro": {
+      "ultimo": 4708.2,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 4697.7,
+      "historico_fechas": [
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14"
+      ],
+      "historico_cierres": [
+        4718.7,
+        4677.6,
+        4697.7,
+        4708.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 99.52,
+      "cambio_pct": -1.48,
+      "cierre_anterior": 101.02,
+      "historico_fechas": [
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14"
+      ],
+      "historico_cierres": [
+        98.07,
+        102.18,
+        101.02,
+        99.52
+      ]
+    },
+    "btc": {
+      "ultimo": 79384.72,
+      "cambio_pct": 0.14,
+      "cierre_anterior": 79277.12,
+      "historico_fechas": [
+        "2026-05-10",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14"
+      ],
+      "historico_cierres": [
+        82138.93,
+        81728.3,
+        80477.49,
+        79277.12,
+        79384.72
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.54,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 98.48,
+      "historico_fechas": [
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14"
+      ],
+      "historico_cierres": [
+        97.94,
+        98.29,
+        98.48,
+        98.54
+      ]
+    }
+  }
+}
