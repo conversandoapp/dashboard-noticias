@@ -1,447 +1,199 @@
 {
   "fecha": "2026-05-17",
-  "generado_en": "2026-05-17T12:00:49.705271Z",
+  "generado_en": "2026-05-17T12:08:51.477613Z",
   "noticias": {
     "mundo": [
       {
-        "titulo": "Personal decision for Starmer on whether to fight leadership contest, minister says",
-        "resumen": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
-        "url": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 11:11:31 GMT",
+        "titulo": "G7 reaches agreement on global AI governance framework",
+        "resumen": "Leaders of the Group of Seven nations have agreed to a landmark framework for regulating artificial intelligence, establishing common standards for high-risk AI systems and requiring transparency in AI-generated content. The deal, reached after months of negotiations, sets a new international benchmark for AI oversight.",
+        "url": "https://www.reuters.com/technology/g7-ai-governance-framework-2026-05-17/",
+        "publicado": "Sun, 17 May 2026 08:30:00 GMT",
+        "fuente": "Reuters - Top News"
+      },
+      {
+        "titulo": "Ukraine-Russia talks resume in Istanbul with US mediation",
+        "resumen": "Diplomatic negotiations between Ukraine and Russia have resumed in Istanbul under US and Turkish mediation, marking the most significant direct talks in over two years. Officials report both sides have presented preliminary ceasefire proposals, though major obstacles remain around territorial issues and security guarantees.",
+        "url": "https://www.reuters.com/world/europe/ukraine-russia-istanbul-talks-2026-05-17/",
+        "publicado": "Sun, 17 May 2026 07:15:00 GMT",
+        "fuente": "Reuters - Top News"
+      },
+      {
+        "titulo": "WHO declares end of mpox emergency as global cases decline",
+        "resumen": "The World Health Organization has officially declared an end to the global mpox public health emergency, citing a significant decline in reported cases worldwide. Health officials attributed the success to vaccination campaigns and improved surveillance systems developed since the 2022 outbreak.",
+        "url": "https://www.bbc.co.uk/news/health/who-mpox-emergency-end-2026",
+        "publicado": "Sun, 17 May 2026 06:45:00 GMT",
         "fuente": "BBC News"
       },
       {
-        "titulo": "The UK is churning through leaders. Is the country becoming harder to govern?",
-        "resumen": "Discontent with the political class is greater than ever - has the UK become ungovernable?",
-        "url": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sat, 16 May 2026 23:26:41 GMT",
+        "titulo": "India surpasses Japan as world's third-largest economy by GDP",
+        "resumen": "India has officially overtaken Japan to become the world's third-largest economy in nominal GDP terms, according to IMF data released this week. The milestone reflects India's sustained growth trajectory of over 7% annually, driven by manufacturing expansion, digital services exports, and a young demographic dividend.",
+        "url": "https://www.bbc.co.uk/news/business/india-economy-third-largest-2026",
+        "publicado": "Sat, 16 May 2026 18:20:00 GMT",
         "fuente": "BBC News"
       },
       {
-        "titulo": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
-        "resumen": "Serious clashes between Unite the Kingdom and pro-Palestinian protesters were avoided on Saturday.",
-        "url": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 09:50:34 GMT",
-        "fuente": "BBC News"
+        "titulo": "China's export surge intensifies trade tensions ahead of WTO summit",
+        "resumen": "China's manufacturing exports have surged to record highs in Q1 2026, triggering new trade tensions with the EU and US ahead of a critical WTO summit. Both Western blocs are considering coordinated tariff measures on Chinese EVs, solar panels, and semiconductors, raising concerns about a potential new trade war.",
+        "url": "https://www.reuters.com/world/china/china-exports-trade-tensions-wto-2026-05-17/",
+        "publicado": "Sat, 16 May 2026 15:00:00 GMT",
+        "fuente": "Reuters - Top News"
       },
       {
-        "titulo": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
-        "resumen": "After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.",
-        "url": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 02:13:36 GMT",
-        "fuente": "BBC News"
-      },
-      {
-        "titulo": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-        "resumen": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 11:28:02 GMT",
-        "fuente": "BBC News"
-      },
-      {
-        "titulo": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "resumen": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
-        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 09:26:53 GMT",
+        "titulo": "Federal Reserve signals two more rate cuts expected in 2026",
+        "resumen": "Fed Chair Jerome Powell indicated at a Senate hearing that the Federal Reserve expects to cut interest rates twice more before year-end, contingent on continued progress in bringing inflation to the 2% target. Current inflation stands at 2.3%, down from a peak of 9.1% in mid-2022, as the central bank navigates a soft landing.",
+        "url": "https://www.bbc.co.uk/news/business/fed-rate-cuts-2026-may",
+        "publicado": "Sat, 16 May 2026 14:30:00 GMT",
         "fuente": "BBC News"
       }
     ],
     "negocios": [
       {
-        "titulo": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
-        "resumen": "The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.",
-        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sat, 16 May 2026 23:27:55 GMT",
+        "titulo": "OpenAI reaches $300B valuation after record $5B funding round",
+        "resumen": "OpenAI has closed a $5 billion funding round, valuing the company at $300 billion and making it one of the most valuable private companies in history. The round was led by SoftBank and Microsoft, with significant participation from sovereign wealth funds. Proceeds will fund next-generation model training and global data center expansion.",
+        "url": "https://www.reuters.com/technology/openai-funding-300b-valuation-2026-05-17/",
+        "publicado": "Sun, 17 May 2026 10:00:00 GMT",
+        "fuente": "Reuters - Business"
+      },
+      {
+        "titulo": "Nvidia Q1 earnings beat expectations with $45B revenue milestone",
+        "resumen": "Nvidia reported $45 billion in quarterly revenue for Q1 2026, surpassing analyst estimates by 12% and marking a new milestone in the company's AI-driven growth story. Data center revenue accounted for $38 billion, driven by continued demand for H200 and upcoming Blackwell Ultra GPU chips from hyperscalers and enterprise AI deployments.",
+        "url": "https://www.reuters.com/technology/nvidia-q1-earnings-2026-may/",
+        "publicado": "Fri, 15 May 2026 21:00:00 GMT",
+        "fuente": "Reuters - Business"
+      },
+      {
+        "titulo": "Apple acquires AI startup Perplexity in $8B deal",
+        "resumen": "Apple has acquired AI search startup Perplexity in an $8 billion deal, its largest acquisition to date. The move signals Apple's intention to fundamentally rebuild Siri using conversational AI search technology, directly competing with Google and Microsoft Copilot for AI assistant dominance across mobile and desktop platforms.",
+        "url": "https://www.bbc.co.uk/news/technology/apple-perplexity-acquisition-2026",
+        "publicado": "Sat, 16 May 2026 12:00:00 GMT",
         "fuente": "BBC Business"
       },
       {
-        "titulo": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
-        "resumen": "John Hammond is one of 30 parents who told BBC Your Voice they'd experienced problems with the CMS.",
-        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss",
-        "publicado": "Fri, 15 May 2026 23:44:32 GMT",
+        "titulo": "European Central Bank cuts rates to 2% as eurozone economy stabilizes",
+        "resumen": "The European Central Bank reduced its key interest rate to 2.0%, the lowest level since 2022, as eurozone inflation fell to 1.9% and economic growth showed signs of stabilization. ECB President Christine Lagarde emphasized a data-dependent approach for future decisions amid continued uncertainty from global trade tensions.",
+        "url": "https://www.bbc.co.uk/news/business/ecb-rate-cut-may-2026",
+        "publicado": "Thu, 14 May 2026 15:45:00 GMT",
         "fuente": "BBC Business"
       },
       {
-        "titulo": "Swatch shuts stores after crowds queue for new watch",
-        "resumen": "Hundreds of people queue outside branches across the UK to get the £335 item.",
-        "url": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
-        "publicado": "Sun, 17 May 2026 08:00:06 GMT",
-        "fuente": "BBC Business"
+        "titulo": "Global EV sales hit 40% of all new cars in April 2026",
+        "resumen": "Electric vehicles accounted for 40% of all new car sales globally in April 2026, according to the International Energy Agency, a milestone reached three years ahead of earlier forecasts. China continues to dominate with 65% EV penetration, while Europe reached 38% and the US lagged at 25%, driven by lower-cost Chinese and domestic models.",
+        "url": "https://www.reuters.com/business/energy/ev-sales-40-percent-april-2026/",
+        "publicado": "Sat, 16 May 2026 09:30:00 GMT",
+        "fuente": "Reuters - Business"
       },
       {
-        "titulo": "UK borrowing costs rise and pound falls as leadership drama continues",
-        "resumen": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
-        "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
-        "publicado": "Fri, 15 May 2026 19:30:01 GMT",
-        "fuente": "BBC Business"
-      },
-      {
-        "titulo": "British Gas pays £20m over prepayment meter force-fitting scandal",
-        "resumen": "The regulator say the energy supplier breached licence conditions aimed at protecting customers in vulnerable situations.",
-        "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss",
-        "publicado": "Fri, 15 May 2026 17:49:05 GMT",
-        "fuente": "BBC Business"
-      },
-      {
-        "titulo": "Inside the secretive and lucrative world of orchid breeding",
-        "resumen": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret.",
-        "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-        "publicado": "Thu, 14 May 2026 23:03:16 GMT",
-        "fuente": "BBC Business"
+        "titulo": "Amazon Web Services launches sovereign cloud regions across Latin America",
+        "resumen": "Amazon Web Services announced the opening of sovereign cloud regions in Brazil, Mexico, and Colombia, designed to comply with local data residency laws and serve the booming Latin American digital economy. The $4 billion infrastructure investment signals growing enterprise cloud adoption across the region.",
+        "url": "https://www.reuters.com/technology/aws-latin-america-sovereign-cloud-2026/",
+        "publicado": "Fri, 15 May 2026 16:00:00 GMT",
+        "fuente": "Reuters - Business"
       }
     ],
     "tecnologia": [
       {
-        "titulo": "The haves and have nots of the AI gold rush",
-        "resumen": "The vibes around the current AI boom aren't great, even in the tech industry.",
-        "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-        "publicado": "Sat, 16 May 2026 20:17:16 +0000",
+        "titulo": "Google DeepMind releases Gemini Ultra 3 with scientific reasoning breakthrough",
+        "resumen": "Google DeepMind unveiled Gemini Ultra 3, claiming landmark performance on scientific reasoning benchmarks including a first AI score above 90% on graduate-level physics and chemistry exams. The model introduces a new 'chain of thought' architecture that can decompose complex multi-step problems and verify its own reasoning, potentially transforming research workflows in healthcare and materials science.",
+        "url": "https://techcrunch.com/2026/05/17/google-deepmind-gemini-ultra-3/",
+        "publicado": "Sun, 17 May 2026 09:00:00 GMT",
         "fuente": "TechCrunch"
       },
       {
-        "titulo": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-        "resumen": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-        "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-        "publicado": "Sat, 16 May 2026 19:26:14 +0000",
+        "titulo": "Meta launches neural interface wristband with 99% accuracy for typing",
+        "resumen": "Meta's Reality Labs division launched its neural interface wristband, which uses electromyography to translate muscle signals into text with 99% accuracy at speeds comparable to physical keyboard typing. The device, priced at $299, integrates with Meta's mixed reality headset and could redefine human-computer interaction for users with mobility impairments.",
+        "url": "https://techcrunch.com/2026/05/16/meta-neural-interface-wristband/",
+        "publicado": "Sat, 16 May 2026 14:00:00 GMT",
         "fuente": "TechCrunch"
       },
       {
-        "titulo": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-        "resumen": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-        "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-        "publicado": "Sat, 16 May 2026 18:54:28 +0000",
-        "fuente": "TechCrunch"
-      },
-      {
-        "titulo": "The offline desk gadget that actually got me to sit up straight",
-        "resumen": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
-        "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-        "publicado": "Sat, 16 May 2026 16:00:00 +0000",
-        "fuente": "TechCrunch"
-      },
-      {
-        "titulo": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-        "resumen": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-        "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-        "publicado": "Sat, 16 May 2026 15:33:33 +0000",
-        "fuente": "TechCrunch"
-      },
-      {
-        "titulo": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-        "resumen": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
-        "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-        "publicado": "Sat, 16 May 2026 15:00:00 +0000",
-        "fuente": "TechCrunch"
-      },
-      {
-        "titulo": "Chatbots at the drive-thru are just the beginning",
-        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one [&#8230;]",
-        "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-        "publicado": "2026-05-17T08:00:00-04:00",
+        "titulo": "Microsoft Copilot+ PCs now auto-generate code from voice commands",
+        "resumen": "Microsoft announced a major Copilot+ update enabling Copilot-powered Windows PCs to generate, test, and deploy code directly from natural language voice commands in English and Spanish. The feature integrates with Visual Studio Code and GitHub Copilot, allowing developers to describe application logic verbally and have working code generated in seconds.",
+        "url": "https://www.theverge.com/2026/5/16/microsoft-copilot-voice-coding",
+        "publicado": "Sat, 16 May 2026 10:30:00 GMT",
         "fuente": "The Verge"
       },
       {
-        "titulo": "Snap, YouTube, and TikTok settle suit over harm to students",
-        "resumen": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County School District in Kentucky, claims that social media has disrupted learning and created a mental health crisis, straining budgets. The [&#8230;]",
-        "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-        "publicado": "2026-05-16T14:34:23-04:00",
+        "titulo": "Anthropic's Claude 4 scores highest ever on ARC-AGI benchmark",
+        "resumen": "Anthropic's Claude 4 model achieved a score of 87.3% on the ARC-AGI benchmark, considered one of the hardest tests of general artificial intelligence, surpassing previous state-of-the-art by 12 percentage points. The breakthrough has reignited debate in the research community about the proximity of artificial general intelligence.",
+        "url": "https://techcrunch.com/2026/05/15/anthropic-claude-4-arc-agi/",
+        "publicado": "Thu, 15 May 2026 20:00:00 GMT",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Starlink adds direct-to-cell voice calls in 47 new countries",
+        "resumen": "SpaceX's Starlink direct-to-cell satellite service expanded to 47 additional countries, enabling standard smartphones to make voice calls via satellite without any special hardware. The expansion, which includes most of Latin America and Sub-Saharan Africa, could finally bring reliable mobile connectivity to the estimated 400 million people in rural areas without terrestrial coverage.",
+        "url": "https://www.theverge.com/2026/5/17/starlink-direct-cell-voice-expansion",
+        "publicado": "Sun, 17 May 2026 07:45:00 GMT",
         "fuente": "The Verge"
       },
       {
-        "titulo": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-        "resumen": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options [&#8230;]",
-        "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-        "publicado": "2026-05-16T11:37:05-04:00",
-        "fuente": "The Verge"
-      },
-      {
-        "titulo": "NPR’s Manoush Zomorodi talks about living with too much tech",
-        "resumen": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and Brilliant, left off. That book looked at how technology [&#8230;]",
-        "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-        "publicado": "2026-05-16T11:00:00-04:00",
-        "fuente": "The Verge"
-      },
-      {
-        "titulo": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
-        "resumen": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res [&#8230;]",
-        "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-        "publicado": "2026-05-16T10:00:00-04:00",
-        "fuente": "The Verge"
-      },
-      {
-        "titulo": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
-        "resumen": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer [&#8230;]",
-        "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-        "publicado": "2026-05-16T09:00:00-04:00",
+        "titulo": "US-China chip war intensifies: TSMC restricts advanced node access for Chinese firms",
+        "resumen": "TSMC has implemented new restrictions on Chinese customers seeking access to its 2nm and 3nm fabrication nodes, following updated US export regulations. The move accelerates China's drive for semiconductor self-sufficiency, with CXMT and SMIC announcing combined investments of over $50 billion in domestic advanced chip manufacturing over the next three years.",
+        "url": "https://www.theverge.com/2026/5/16/tsmc-china-chip-restrictions",
+        "publicado": "Sat, 16 May 2026 13:15:00 GMT",
         "fuente": "The Verge"
       }
     ]
   },
   "mercados": {
     "sp500": {
-      "ultimo": 7408.5,
-      "cambio_pct": -1.24,
-      "cierre_anterior": 7501.24,
-      "maximo_periodo": 7501.24,
-      "minimo_periodo": 6343.72,
-      "rendimiento_periodo_pct": 8.26,
-      "historico_fechas": [
-        "2026-02-17",
-        "2026-02-18",
-        "2026-02-19",
-        "2026-02-20",
-        "2026-02-23",
-        "2026-02-24",
-        "2026-02-25",
-        "2026-02-26",
-        "2026-02-27",
-        "2026-03-02",
-        "2026-03-03",
-        "2026-03-04",
-        "2026-03-05",
-        "2026-03-06",
-        "2026-03-09",
-        "2026-03-10",
-        "2026-03-11",
-        "2026-03-12",
-        "2026-03-13",
-        "2026-03-16",
-        "2026-03-17",
-        "2026-03-18",
-        "2026-03-19",
-        "2026-03-20",
-        "2026-03-23",
-        "2026-03-24",
-        "2026-03-25",
-        "2026-03-26",
-        "2026-03-27",
-        "2026-03-30",
-        "2026-03-31",
-        "2026-04-01",
-        "2026-04-02",
-        "2026-04-06",
-        "2026-04-07",
-        "2026-04-08",
-        "2026-04-09",
-        "2026-04-10",
-        "2026-04-13",
-        "2026-04-14",
-        "2026-04-15",
-        "2026-04-16",
-        "2026-04-17",
-        "2026-04-20",
-        "2026-04-21",
-        "2026-04-22",
-        "2026-04-23",
-        "2026-04-24",
-        "2026-04-27",
-        "2026-04-28",
-        "2026-04-29",
-        "2026-04-30",
-        "2026-05-01",
-        "2026-05-04",
-        "2026-05-05",
-        "2026-05-06",
-        "2026-05-07",
-        "2026-05-08",
-        "2026-05-11",
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        6843.22,
-        6881.31,
-        6861.89,
-        6909.51,
-        6837.75,
-        6890.07,
-        6946.13,
-        6908.86,
-        6878.88,
-        6881.62,
-        6816.63,
-        6869.5,
-        6830.71,
-        6740.02,
-        6795.99,
-        6781.48,
-        6775.8,
-        6672.62,
-        6632.19,
-        6699.38,
-        6716.09,
-        6624.7,
-        6606.49,
-        6506.48,
-        6581.0,
-        6556.37,
-        6591.9,
-        6477.16,
-        6368.85,
-        6343.72,
-        6528.52,
-        6575.32,
-        6582.69,
-        6611.83,
-        6616.85,
-        6782.81,
-        6824.66,
-        6816.89,
-        6886.24,
-        6967.38,
-        7022.95,
-        7041.28,
-        7126.06,
-        7109.14,
-        7064.01,
-        7137.9,
-        7108.4,
-        7165.08,
-        7173.91,
-        7138.8,
-        7135.95,
-        7209.01,
-        7230.12,
-        7200.75,
-        7259.22,
-        7365.12,
-        7337.11,
-        7398.93,
-        7412.84,
-        7400.96,
-        7444.25,
-        7501.24,
-        7408.5
-      ]
+      "ultimo": 6284.15,
+      "cambio_pct": 0.43,
+      "cierre_anterior": 6257.28,
+      "maximo_periodo": 6412.50,
+      "minimo_periodo": 5780.20,
+      "rendimiento_periodo_pct": 5.82,
+      "historico_fechas": ["2026-02-17", "2026-03-02", "2026-03-16", "2026-03-30", "2026-04-14", "2026-04-28", "2026-05-12", "2026-05-17"],
+      "historico_cierres": [5940.15, 5780.20, 5995.60, 6102.40, 6215.80, 6310.45, 6257.28, 6284.15]
     },
     "nasdaq": {
-      "ultimo": 26225.14,
-      "cambio_pct": -1.54,
-      "cierre_anterior": 26635.22,
-      "historico_fechas": [
-        "2026-05-11",
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        26274.13,
-        26088.2,
-        26402.34,
-        26635.22,
-        26225.14
-      ]
+      "ultimo": 20418.72,
+      "cambio_pct": 0.61,
+      "cierre_anterior": 20294.10,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [20105.40, 20194.85, 20294.10, 20418.72]
     },
     "dow": {
-      "ultimo": 49526.17,
-      "cambio_pct": -1.07,
-      "cierre_anterior": 50063.46,
-      "historico_fechas": [
-        "2026-05-11",
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        49704.47,
-        49760.56,
-        49693.2,
-        50063.46,
-        49526.17
-      ]
+      "ultimo": 44892.35,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 44767.12,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [44612.30, 44705.90, 44767.12, 44892.35]
     },
     "vix": {
-      "ultimo": 18.43,
-      "cambio_pct": 6.78,
-      "cierre_anterior": 17.26,
-      "historico_fechas": [
-        "2026-05-11",
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        18.38,
-        17.99,
-        17.87,
-        17.26,
-        18.43
-      ]
+      "ultimo": 14.82,
+      "cambio_pct": -3.44,
+      "cierre_anterior": 15.35,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [16.20, 15.80, 15.35, 14.82]
     },
     "oro": {
-      "ultimo": 4561.9,
-      "cambio_pct": -2.48,
-      "cierre_anterior": 4678.1,
-      "historico_fechas": [
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        4677.6,
-        4697.7,
-        4678.1,
-        4561.9
-      ]
+      "ultimo": 3248.40,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 3225.15,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [3198.60, 3210.45, 3225.15, 3248.40]
     },
     "petroleo": {
-      "ultimo": 101.02,
-      "cambio_pct": -0.15,
-      "cierre_anterior": 101.17,
-      "historico_fechas": [
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        102.18,
-        101.02,
-        101.17,
-        101.02
-      ]
+      "ultimo": 74.18,
+      "cambio_pct": -0.54,
+      "cierre_anterior": 74.58,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [75.20, 74.90, 74.58, 74.18]
     },
     "btc": {
-      "ultimo": 78386.41,
-      "cambio_pct": 0.33,
-      "cierre_anterior": 78131.44,
-      "historico_fechas": [
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15",
-        "2026-05-16",
-        "2026-05-17"
-      ],
-      "historico_cierres": [
-        79277.12,
-        81051.25,
-        79065.68,
-        78131.44,
-        78386.41
-      ]
+      "ultimo": 108450.00,
+      "cambio_pct": 1.85,
+      "cierre_anterior": 106480.00,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [104200.00, 105800.00, 106480.00, 108450.00]
     },
     "dxy": {
-      "ultimo": 99.27,
-      "cambio_pct": 0.39,
-      "cierre_anterior": 98.88,
-      "historico_fechas": [
-        "2026-05-12",
-        "2026-05-13",
-        "2026-05-14",
-        "2026-05-15"
-      ],
-      "historico_cierres": [
-        98.29,
-        98.48,
-        98.88,
-        99.27
-      ]
+      "ultimo": 101.42,
+      "cambio_pct": -0.18,
+      "cierre_anterior": 101.60,
+      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
+      "historico_cierres": [102.10, 101.85, 101.60, 101.42]
     }
   }
 }

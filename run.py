@@ -27,31 +27,39 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser()
     p.add_argument("--date", default=None)
     p.add_argument("--fetch-only", action="store_true", help="Solo descarga datos")
+    p.add_argument("--render-only", action="store_true", help="Solo genera HTML (usa data.json existente)")
     return p.parse_args()
 
 
 def main() -> None:
     args = parse_args()
     fecha = args.date or datetime.date.today().isoformat()
-
-    # 1. Recopilar datos
-    print(f"[INFO] Recopilando datos para {fecha}...")
-    noticias = fetch_noticias()
-    mercados = fetch_mercados()
-
-    datos = {
-        "fecha": fecha,
-        "generado_en": datetime.datetime.utcnow().isoformat() + "Z",
-        "noticias": noticias,
-        "mercados": mercados,
-    }
-
-    # 2. Guardar data.json
     data_dir = ROOT / "data" / fecha
-    data_dir.mkdir(parents=True, exist_ok=True)
-    datos_path = data_dir / "data.json"
-    datos_path.write_text(json.dumps(datos, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"[INFO] Datos guardados en {datos_path}")
+
+    if args.render_only:
+        datos_path = data_dir / "data.json"
+        if not datos_path.exists():
+            print(f"[ERROR] {datos_path} no existe.")
+            return
+        datos = json.loads(datos_path.read_text(encoding="utf-8"))
+    else:
+        # 1. Recopilar datos
+        print(f"[INFO] Recopilando datos para {fecha}...")
+        noticias = fetch_noticias()
+        mercados = fetch_mercados()
+
+        datos = {
+            "fecha": fecha,
+            "generado_en": datetime.datetime.utcnow().isoformat() + "Z",
+            "noticias": noticias,
+            "mercados": mercados,
+        }
+
+        # 2. Guardar data.json
+        data_dir.mkdir(parents=True, exist_ok=True)
+        datos_path = data_dir / "data.json"
+        datos_path.write_text(json.dumps(datos, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"[INFO] Datos guardados en {datos_path}")
 
     if args.fetch_only:
         print("[INFO] --fetch-only: terminando aquí.")
