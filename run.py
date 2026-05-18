@@ -17,7 +17,6 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT))
 
-from scripts.fetch_data import fetch_noticias, fetch_mercados
 from scripts.generate_dashboard import generar_html
 
 import datetime
@@ -44,6 +43,7 @@ def main() -> None:
         datos = json.loads(datos_path.read_text(encoding="utf-8"))
     else:
         # 1. Recopilar datos
+        from scripts.fetch_data import fetch_noticias, fetch_mercados
         print(f"[INFO] Recopilando datos para {fecha}...")
         noticias = fetch_noticias()
         mercados = fetch_mercados()
