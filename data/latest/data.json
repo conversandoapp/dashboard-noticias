@@ -1,199 +1,447 @@
 {
-  "fecha": "2026-05-17",
-  "generado_en": "2026-05-17T12:08:51.477613Z",
+  "fecha": "2026-05-18",
+  "generado_en": "2026-05-18T14:31:16.729373Z",
   "noticias": {
     "mundo": [
       {
-        "titulo": "G7 reaches agreement on global AI governance framework",
-        "resumen": "Leaders of the Group of Seven nations have agreed to a landmark framework for regulating artificial intelligence, establishing common standards for high-risk AI systems and requiring transparency in AI-generated content. The deal, reached after months of negotiations, sets a new international benchmark for AI oversight.",
-        "url": "https://www.reuters.com/technology/g7-ai-governance-framework-2026-05-17/",
-        "publicado": "Sun, 17 May 2026 08:30:00 GMT",
-        "fuente": "Reuters - Top News"
-      },
-      {
-        "titulo": "Ukraine-Russia talks resume in Istanbul with US mediation",
-        "resumen": "Diplomatic negotiations between Ukraine and Russia have resumed in Istanbul under US and Turkish mediation, marking the most significant direct talks in over two years. Officials report both sides have presented preliminary ceasefire proposals, though major obstacles remain around territorial issues and security guarantees.",
-        "url": "https://www.reuters.com/world/europe/ukraine-russia-istanbul-talks-2026-05-17/",
-        "publicado": "Sun, 17 May 2026 07:15:00 GMT",
-        "fuente": "Reuters - Top News"
-      },
-      {
-        "titulo": "WHO declares end of mpox emergency as global cases decline",
-        "resumen": "The World Health Organization has officially declared an end to the global mpox public health emergency, citing a significant decline in reported cases worldwide. Health officials attributed the success to vaccination campaigns and improved surveillance systems developed since the 2022 outbreak.",
-        "url": "https://www.bbc.co.uk/news/health/who-mpox-emergency-end-2026",
-        "publicado": "Sun, 17 May 2026 06:45:00 GMT",
+        "titulo": "Bodies of missing Italian divers found in Maldives",
+        "resumen": "The bodies of all five Italian divers who died in the Maldives last week have now been found, officials tell the BBC.",
+        "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 14:05:29 GMT",
         "fuente": "BBC News"
       },
       {
-        "titulo": "India surpasses Japan as world's third-largest economy by GDP",
-        "resumen": "India has officially overtaken Japan to become the world's third-largest economy in nominal GDP terms, according to IMF data released this week. The milestone reflects India's sustained growth trajectory of over 7% annually, driven by manufacturing expansion, digital services exports, and a young demographic dividend.",
-        "url": "https://www.bbc.co.uk/news/business/india-economy-third-largest-2026",
-        "publicado": "Sat, 16 May 2026 18:20:00 GMT",
+        "titulo": "Prince William selling 20% of duchy property for housing and nature projects",
+        "resumen": "The Duchy of Cornwall is to sell part of its 128,000 acre estate and re-invest in more housing.",
+        "url": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 13:10:31 GMT",
         "fuente": "BBC News"
       },
       {
-        "titulo": "China's export surge intensifies trade tensions ahead of WTO summit",
-        "resumen": "China's manufacturing exports have surged to record highs in Q1 2026, triggering new trade tensions with the EU and US ahead of a critical WTO summit. Both Western blocs are considering coordinated tariff measures on Chinese EVs, solar panels, and semiconductors, raising concerns about a potential new trade war.",
-        "url": "https://www.reuters.com/world/china/china-exports-trade-tensions-wto-2026-05-17/",
-        "publicado": "Sat, 16 May 2026 15:00:00 GMT",
-        "fuente": "Reuters - Top News"
+        "titulo": "UK companies linked to payments for small boat crossings, BBC finds",
+        "resumen": "Smugglers are directing migrants to pay using a network of British businesses, secret filming reveals.",
+        "url": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 05:00:33 GMT",
+        "fuente": "BBC News"
       },
       {
-        "titulo": "Federal Reserve signals two more rate cuts expected in 2026",
-        "resumen": "Fed Chair Jerome Powell indicated at a Senate hearing that the Federal Reserve expects to cut interest rates twice more before year-end, contingent on continued progress in bringing inflation to the 2% target. Current inflation stands at 2.3%, down from a peak of 9.1% in mid-2022, as the central bank navigates a soft landing.",
-        "url": "https://www.bbc.co.uk/news/business/fed-rate-cuts-2026-may",
-        "publicado": "Sat, 16 May 2026 14:30:00 GMT",
+        "titulo": "Are baby boomers like me the luckiest generation in history?",
+        "resumen": "As young graduates criticise the terms of their student debt, Evan Davis asks whether baby boomers really were the luckiest generation",
+        "url": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 17 May 2026 23:11:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK growth forecast upgraded by IMF but risks remain",
+        "resumen": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
+        "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 13:04:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tube strikes called off by RMT union",
+        "resumen": "The Rail, Maritime and Transport (RMT) union calls off a series of 24-hour strikes starting on Tuesday.",
+        "url": "https://www.bbc.com/news/articles/cze2wrk08kko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 14:25:14 GMT",
         "fuente": "BBC News"
       }
     ],
     "negocios": [
       {
-        "titulo": "OpenAI reaches $300B valuation after record $5B funding round",
-        "resumen": "OpenAI has closed a $5 billion funding round, valuing the company at $300 billion and making it one of the most valuable private companies in history. The round was led by SoftBank and Microsoft, with significant participation from sovereign wealth funds. Proceeds will fund next-generation model training and global data center expansion.",
-        "url": "https://www.reuters.com/technology/openai-funding-300b-valuation-2026-05-17/",
-        "publicado": "Sun, 17 May 2026 10:00:00 GMT",
-        "fuente": "Reuters - Business"
-      },
-      {
-        "titulo": "Nvidia Q1 earnings beat expectations with $45B revenue milestone",
-        "resumen": "Nvidia reported $45 billion in quarterly revenue for Q1 2026, surpassing analyst estimates by 12% and marking a new milestone in the company's AI-driven growth story. Data center revenue accounted for $38 billion, driven by continued demand for H200 and upcoming Blackwell Ultra GPU chips from hyperscalers and enterprise AI deployments.",
-        "url": "https://www.reuters.com/technology/nvidia-q1-earnings-2026-may/",
-        "publicado": "Fri, 15 May 2026 21:00:00 GMT",
-        "fuente": "Reuters - Business"
-      },
-      {
-        "titulo": "Apple acquires AI startup Perplexity in $8B deal",
-        "resumen": "Apple has acquired AI search startup Perplexity in an $8 billion deal, its largest acquisition to date. The move signals Apple's intention to fundamentally rebuild Siri using conversational AI search technology, directly competing with Google and Microsoft Copilot for AI assistant dominance across mobile and desktop platforms.",
-        "url": "https://www.bbc.co.uk/news/technology/apple-perplexity-acquisition-2026",
-        "publicado": "Sat, 16 May 2026 12:00:00 GMT",
+        "titulo": "UK growth forecast upgraded by IMF but risks remain",
+        "resumen": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
+        "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 13:04:20 GMT",
         "fuente": "BBC Business"
       },
       {
-        "titulo": "European Central Bank cuts rates to 2% as eurozone economy stabilizes",
-        "resumen": "The European Central Bank reduced its key interest rate to 2.0%, the lowest level since 2022, as eurozone inflation fell to 1.9% and economic growth showed signs of stabilization. ECB President Christine Lagarde emphasized a data-dependent approach for future decisions amid continued uncertainty from global trade tensions.",
-        "url": "https://www.bbc.co.uk/news/business/ecb-rate-cut-may-2026",
-        "publicado": "Thu, 14 May 2026 15:45:00 GMT",
+        "titulo": "Is the UK's once favourite car coming back as an EV?",
+        "resumen": "The company has announced plans to build seven new models in Europe including a small electric hatchback.",
+        "url": "https://www.bbc.com/news/articles/c759v6g1zp1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 14:26:43 GMT",
         "fuente": "BBC Business"
       },
       {
-        "titulo": "Global EV sales hit 40% of all new cars in April 2026",
-        "resumen": "Electric vehicles accounted for 40% of all new car sales globally in April 2026, according to the International Energy Agency, a milestone reached three years ahead of earlier forecasts. China continues to dominate with 65% EV penetration, while Europe reached 38% and the US lagged at 25%, driven by lower-cost Chinese and domestic models.",
-        "url": "https://www.reuters.com/business/energy/ev-sales-40-percent-april-2026/",
-        "publicado": "Sat, 16 May 2026 09:30:00 GMT",
-        "fuente": "Reuters - Business"
+        "titulo": "HS2 failings blamed on high-speed focus and political pressure",
+        "resumen": "A new reviews confirms the high-speed rail line's \"original sins\" include a technical design, changing political priorities and ballooning costs.",
+        "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 10:07:56 GMT",
+        "fuente": "BBC Business"
       },
       {
-        "titulo": "Amazon Web Services launches sovereign cloud regions across Latin America",
-        "resumen": "Amazon Web Services announced the opening of sovereign cloud regions in Brazil, Mexico, and Colombia, designed to comply with local data residency laws and serve the booming Latin American digital economy. The $4 billion infrastructure investment signals growing enterprise cloud adoption across the region.",
-        "url": "https://www.reuters.com/technology/aws-latin-america-sovereign-cloud-2026/",
-        "publicado": "Fri, 15 May 2026 16:00:00 GMT",
-        "fuente": "Reuters - Business"
+        "titulo": "Global oil prices and bond yields rise after Trump warns Iran over stalled peace talks",
+        "resumen": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
+        "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 11:37:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
+        "resumen": "The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.",
+        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 16 May 2026 23:27:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why does Amazon have no Western rivals?",
+        "resumen": "The internet giant dwarfs other online retailers on both sides of the Atlantic.",
+        "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 07:25:14 GMT",
+        "fuente": "BBC Business"
       }
     ],
     "tecnologia": [
       {
-        "titulo": "Google DeepMind releases Gemini Ultra 3 with scientific reasoning breakthrough",
-        "resumen": "Google DeepMind unveiled Gemini Ultra 3, claiming landmark performance on scientific reasoning benchmarks including a first AI score above 90% on graduate-level physics and chemistry exams. The model introduces a new 'chain of thought' architecture that can decompose complex multi-step problems and verify its own reasoning, potentially transforming research workflows in healthcare and materials science.",
-        "url": "https://techcrunch.com/2026/05/17/google-deepmind-gemini-ultra-3/",
-        "publicado": "Sun, 17 May 2026 09:00:00 GMT",
+        "titulo": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+        "resumen": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+        "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+        "publicado": "Mon, 18 May 2026 13:42:19 +0000",
         "fuente": "TechCrunch"
       },
       {
-        "titulo": "Meta launches neural interface wristband with 99% accuracy for typing",
-        "resumen": "Meta's Reality Labs division launched its neural interface wristband, which uses electromyography to translate muscle signals into text with 99% accuracy at speeds comparable to physical keyboard typing. The device, priced at $299, integrates with Meta's mixed reality headset and could redefine human-computer interaction for users with mobility impairments.",
-        "url": "https://techcrunch.com/2026/05/16/meta-neural-interface-wristband/",
-        "publicado": "Sat, 16 May 2026 14:00:00 GMT",
+        "titulo": "South Korea’s LetinAR is building optics behind AI glasses",
+        "resumen": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+        "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+        "publicado": "Mon, 18 May 2026 11:00:00 +0000",
         "fuente": "TechCrunch"
       },
       {
-        "titulo": "Microsoft Copilot+ PCs now auto-generate code from voice commands",
-        "resumen": "Microsoft announced a major Copilot+ update enabling Copilot-powered Windows PCs to generate, test, and deploy code directly from natural language voice commands in English and Spanish. The feature integrates with Visual Studio Code and GitHub Copilot, allowing developers to describe application logic verbally and have working code generated in seconds.",
-        "url": "https://www.theverge.com/2026/5/16/microsoft-copilot-voice-coding",
-        "publicado": "Sat, 16 May 2026 10:30:00 GMT",
+        "titulo": "Apple’s Siri revamp could include auto-deleting chats",
+        "resumen": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+        "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+        "publicado": "Sun, 17 May 2026 20:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "resumen": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+        "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "publicado": "Sun, 17 May 2026 19:46:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "resumen": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+        "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+        "publicado": "Sun, 17 May 2026 16:32:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "resumen": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "publicado": "Sun, 17 May 2026 16:05:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
+        "resumen": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register reports. That probably doesn't apply to stuff [&#8230;]",
+        "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+        "publicado": "2026-05-18T10:21:10-04:00",
         "fuente": "The Verge"
       },
       {
-        "titulo": "Anthropic's Claude 4 scores highest ever on ARC-AGI benchmark",
-        "resumen": "Anthropic's Claude 4 model achieved a score of 87.3% on the ARC-AGI benchmark, considered one of the hardest tests of general artificial intelligence, surpassing previous state-of-the-art by 12 percentage points. The breakthrough has reignited debate in the research community about the proximity of artificial general intelligence.",
-        "url": "https://techcrunch.com/2026/05/15/anthropic-claude-4-arc-agi/",
-        "publicado": "Thu, 15 May 2026 20:00:00 GMT",
-        "fuente": "TechCrunch"
-      },
-      {
-        "titulo": "Starlink adds direct-to-cell voice calls in 47 new countries",
-        "resumen": "SpaceX's Starlink direct-to-cell satellite service expanded to 47 additional countries, enabling standard smartphones to make voice calls via satellite without any special hardware. The expansion, which includes most of Latin America and Sub-Saharan Africa, could finally bring reliable mobile connectivity to the estimated 400 million people in rural areas without terrestrial coverage.",
-        "url": "https://www.theverge.com/2026/5/17/starlink-direct-cell-voice-expansion",
-        "publicado": "Sun, 17 May 2026 07:45:00 GMT",
+        "titulo": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+        "resumen": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [&#8230;]",
+        "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
+        "publicado": "2026-05-18T10:15:00-04:00",
         "fuente": "The Verge"
       },
       {
-        "titulo": "US-China chip war intensifies: TSMC restricts advanced node access for Chinese firms",
-        "resumen": "TSMC has implemented new restrictions on Chinese customers seeking access to its 2nm and 3nm fabrication nodes, following updated US export regulations. The move accelerates China's drive for semiconductor self-sufficiency, with CXMT and SMIC announcing combined investments of over $50 billion in domestic advanced chip manufacturing over the next three years.",
-        "url": "https://www.theverge.com/2026/5/16/tsmc-china-chip-restrictions",
-        "publicado": "Sat, 16 May 2026 13:15:00 GMT",
+        "titulo": "Starlink raises prices across satellite internet plans",
+        "resumen": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Residential Max plan went from [&#8230;]",
+        "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
+        "publicado": "2026-05-18T10:08:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
+        "resumen": "We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X \"The ColleXion\" Edition have been shared online by OnLeaks and HotEUDeals, showing thicker leatherette padding and \"generously sized\" earcups compared to Sony's current WH-1000XM6 [&#8230;]",
+        "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
+        "publicado": "2026-05-18T08:10:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Bad, Bad, Bad, Bad Roommate",
+        "resumen": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bungalow on a [&#8230;]",
+        "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+        "publicado": "2026-05-18T07:00:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+        "resumen": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"frozen\" for five years and [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+        "publicado": "2026-05-18T06:00:00-04:00",
         "fuente": "The Verge"
       }
     ]
   },
   "mercados": {
     "sp500": {
-      "ultimo": 6284.15,
-      "cambio_pct": 0.43,
-      "cierre_anterior": 6257.28,
-      "maximo_periodo": 6412.50,
-      "minimo_periodo": 5780.20,
-      "rendimiento_periodo_pct": 5.82,
-      "historico_fechas": ["2026-02-17", "2026-03-02", "2026-03-16", "2026-03-30", "2026-04-14", "2026-04-28", "2026-05-12", "2026-05-17"],
-      "historico_cierres": [5940.15, 5780.20, 5995.60, 6102.40, 6215.80, 6310.45, 6257.28, 6284.15]
+      "ultimo": 7413.05,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 7408.5,
+      "maximo_periodo": 7501.24,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 7.73,
+      "historico_fechas": [
+        "2026-02-18",
+        "2026-02-19",
+        "2026-02-20",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        6881.31,
+        6861.89,
+        6909.51,
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7413.05
+      ]
     },
     "nasdaq": {
-      "ultimo": 20418.72,
-      "cambio_pct": 0.61,
-      "cierre_anterior": 20294.10,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [20105.40, 20194.85, 20294.10, 20418.72]
+      "ultimo": 26175.93,
+      "cambio_pct": -0.19,
+      "cierre_anterior": 26225.14,
+      "historico_fechas": [
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        26088.2,
+        26402.34,
+        26635.22,
+        26225.14,
+        26175.93
+      ]
     },
     "dow": {
-      "ultimo": 44892.35,
-      "cambio_pct": 0.28,
-      "cierre_anterior": 44767.12,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [44612.30, 44705.90, 44767.12, 44892.35]
+      "ultimo": 49692.41,
+      "cambio_pct": 0.34,
+      "cierre_anterior": 49526.17,
+      "historico_fechas": [
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        49760.56,
+        49693.2,
+        50063.46,
+        49526.17,
+        49692.41
+      ]
     },
     "vix": {
-      "ultimo": 14.82,
-      "cambio_pct": -3.44,
-      "cierre_anterior": 15.35,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [16.20, 15.80, 15.35, 14.82]
+      "ultimo": 18.32,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 18.43,
+      "historico_fechas": [
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        17.99,
+        17.87,
+        17.26,
+        18.43,
+        18.32
+      ]
     },
     "oro": {
-      "ultimo": 3248.40,
-      "cambio_pct": 0.72,
-      "cierre_anterior": 3225.15,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [3198.60, 3210.45, 3225.15, 3248.40]
+      "ultimo": 4566.0,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 4555.8,
+      "historico_fechas": [
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        4697.7,
+        4678.1,
+        4555.8,
+        4566.0
+      ]
     },
     "petroleo": {
-      "ultimo": 74.18,
-      "cambio_pct": -0.54,
-      "cierre_anterior": 74.58,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [75.20, 74.90, 74.58, 74.18]
+      "ultimo": 100.67,
+      "cambio_pct": -4.51,
+      "cierre_anterior": 105.42,
+      "historico_fechas": [
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        101.02,
+        101.17,
+        105.42,
+        100.67
+      ]
     },
     "btc": {
-      "ultimo": 108450.00,
-      "cambio_pct": 1.85,
-      "cierre_anterior": 106480.00,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [104200.00, 105800.00, 106480.00, 108450.00]
+      "ultimo": 76585.41,
+      "cambio_pct": -1.09,
+      "cierre_anterior": 77429.35,
+      "historico_fechas": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-16",
+        "2026-05-17",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        81051.25,
+        79065.68,
+        78131.44,
+        77429.35,
+        76585.41
+      ]
     },
     "dxy": {
-      "ultimo": 101.42,
-      "cambio_pct": -0.18,
-      "cierre_anterior": 101.60,
-      "historico_fechas": ["2026-05-13", "2026-05-14", "2026-05-15", "2026-05-17"],
-      "historico_cierres": [102.10, 101.85, 101.60, 101.42]
+      "ultimo": 99.08,
+      "cambio_pct": -0.19,
+      "cierre_anterior": 99.27,
+      "historico_fechas": [
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18"
+      ],
+      "historico_cierres": [
+        98.48,
+        98.88,
+        99.27,
+        99.08
+      ]
     }
   }
 }
