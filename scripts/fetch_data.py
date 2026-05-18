@@ -8,9 +8,10 @@ Uso:
 import argparse
 import datetime
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
-import feedparser
+import requests
 import yfinance as yf
 
 
@@ -40,17 +41,37 @@ MARKET_TICKERS = {
 }
 
 
+_RSS_NS = {
+    "atom": "http://www.w3.org/2005/Atom",
+    "media": "http://search.yahoo.com/mrss/",
+}
+
+
 def _fetch_rss(name: str, url: str, max_items: int = 6) -> list[dict]:
-    feed = feedparser.parse(url)
+    resp = requests.get(url, timeout=15, headers={"User-Agent": "dashboard-noticias/1.0"})
+    resp.raise_for_status()
+    root = ET.fromstring(resp.content)
+
     items = []
-    for entry in feed.entries[:max_items]:
-        items.append({
-            "titulo": entry.get("title", ""),
-            "resumen": entry.get("summary", "")[:400],
-            "url": entry.get("link", ""),
-            "publicado": entry.get("published", ""),
-            "fuente": name,
-        })
+    # RSS 2.0
+    for item in root.findall(".//item")[:max_items]:
+        titulo = (item.findtext("title") or "").strip()
+        resumen = (item.findtext("description") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        publicado = (item.findtext("pubDate") or "").strip()
+        items.append({"titulo": titulo, "resumen": resumen[:400], "url": link, "publicado": publicado, "fuente": name})
+
+    if not items:
+        # Atom
+        ns = "http://www.w3.org/2005/Atom"
+        for entry in root.findall(f"{{{ns}}}entry")[:max_items]:
+            titulo = (entry.findtext(f"{{{ns}}}title") or "").strip()
+            resumen = (entry.findtext(f"{{{ns}}}summary") or entry.findtext(f"{{{ns}}}content") or "").strip()
+            link_el = entry.find(f"{{{ns}}}link")
+            link = (link_el.get("href") if link_el is not None else "") or ""
+            publicado = (entry.findtext(f"{{{ns}}}published") or entry.findtext(f"{{{ns}}}updated") or "").strip()
+            items.append({"titulo": titulo, "resumen": resumen[:400], "url": link, "publicado": publicado, "fuente": name})
+
     return items
 
 
