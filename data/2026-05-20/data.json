@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-05-20",
+  "generado_en": "2026-05-20T13:40:25.323692Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+        "resumen": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 08:30:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Channel 4 boss 'deeply sorry' over MAFS UK rape allegations",
+        "resumen": "Priya Dogra says a Panorama which included allegations from former cast members was \"very troubling\" to watch.",
+        "url": "https://www.bbc.com/news/articles/clyp50kg9k8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 11:36:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Inflation falls to 2.8% but is expected to rise from here",
+        "resumen": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war.",
+        "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 10:34:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Scheme to trial scrapping fit notes to get people back to work",
+        "resumen": "The government says the system is \"broken\", with too many people signed off work with no help to return.",
+        "url": "https://www.bbc.com/news/articles/cy82pxlmmyno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 12:52:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Kylie Minogue reveals she had second cancer diagnosis in 2021",
+        "resumen": "In a new documentary, the star says she \"got through it, again\" following successful treatment in 2005.",
+        "url": "https://www.bbc.com/news/articles/ckgpydgklneo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 09:25:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK waters down new Russian oil sanctions as fuel prices rise",
+        "resumen": "The change reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+        "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 12:07:53 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+        "resumen": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 08:30:20 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fuel duty freeze extended until the end of the year",
+        "resumen": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
+        "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 13:21:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK waters down new Russian oil sanctions as fuel prices rise",
+        "resumen": "The change reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+        "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 12:07:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Inflation falls to 2.8% but is expected to rise from here",
+        "resumen": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war.",
+        "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 10:34:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
+        "resumen": "In a recording obtained by the BBC, the worker was threatened with jail for allegedly hacking emails at lifestyle app vVoosh.",
+        "url": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 20 May 2026 05:00:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Robo-top: The machines that could make your next t-shirt",
+        "resumen": "Most clothes are made in Asia, but new machines could bring some of that work back to the West.",
+        "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 18 May 2026 23:04:14 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "GitHub says hackers stole data from thousands of internal repositories",
+        "resumen": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
+        "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+        "publicado": "Wed, 20 May 2026 13:25:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Figma adds an AI assistant to its collaborative canvas",
+        "resumen": "Figma's new AI assistant will be first available on Figma Design",
+        "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+        "publicado": "Wed, 20 May 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Quartermaster is building a maritime hive mind",
+        "resumen": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
+        "url": "https://techcrunch.com/2026/05/20/quartermaster-is-building-a-maritime-hive-mind/",
+        "publicado": "Wed, 20 May 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+        "resumen": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+        "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+        "publicado": "Wed, 20 May 2026 05:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google just declared itself a contender in AI design at IO 2026",
+        "resumen": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+        "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+        "publicado": "Tue, 19 May 2026 21:33:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "resumen": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+        "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+        "publicado": "Tue, 19 May 2026 21:25:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "If Google can’t make AI agents useful, maybe no one can",
+        "resumen": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+        "publicado": "2026-05-20T09:24:22-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The biggest data center ever is becoming a huge problem in Utah",
+        "resumen": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+        "publicado": "2026-05-20T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "‘It’s in the air’: Apple TV’s hottest new shows explore different sides of OnlyFans",
+        "resumen": "Apple TV is best known for its lineup of science fiction shows and feel-good sitcoms, but of late the streaming service has veered in a different direction. A pair of its current buzziest shows explore the world of OnlyFans creators and cam models, and they're timed up near perfectly; just as one ends (Margo's Got [&#8230;]",
+        "url": "https://www.theverge.com/tech/934078/apple-tv-onlyfans-margo-maximum-pleasure-guaranteed",
+        "publicado": "2026-05-20T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Android 17 is getting its own version of Apple&#8217;s Handoff",
+        "resumen": "Google is adding a new Android feature that resembles Apple's Handoff, allowing you to start a task on your Android phone and continue it right where you left off from a compatible tablet. \"Continue On\" is designed to eventually be bidirectional, but Google says that at launch it will only support tasks moving from a [&#8230;]",
+        "url": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
+        "publicado": "2026-05-20T07:07:33-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung workers set to strike at worst possible time",
+        "resumen": "More than 47,000 Samsung Electronics workers are gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike is set to start on Thursday and will be limited to Samsung's domestic chipmaking plants, raising concerns around the already constrained production of memory chips amid the ongoing shortage. [&#8230;]",
+        "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+        "publicado": "2026-05-20T04:49:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+        "resumen": "The era of ultra-high performance Mercedes EVs is here. The German automaker finally revealed its new super sedan, the AMG GT 4-door coupe, with technology borrowed from the automaker's XX concept that last year made history by driving 24,901 miles in under 8 days at Nard&#242; Ring in southern Italy. With the production model, Mercedes [&#8230;]",
+        "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+        "publicado": "2026-05-19T23:30:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7369.01,
+      "cambio_pct": 0.21,
+      "cierre_anterior": 7353.61,
+      "maximo_periodo": 7501.24,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 6.65,
+      "historico_fechas": [
+        "2026-02-20",
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        6909.51,
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7369.01
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25971.51,
+      "cambio_pct": 0.39,
+      "cierre_anterior": 25870.71,
+      "historico_fechas": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        26635.22,
+        26225.14,
+        26090.73,
+        25870.71,
+        25971.51
+      ]
+    },
+    "dow": {
+      "ultimo": 49323.52,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 49363.88,
+      "historico_fechas": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        50063.46,
+        49526.17,
+        49686.12,
+        49363.88,
+        49323.52
+      ]
+    },
+    "vix": {
+      "ultimo": 17.97,
+      "cambio_pct": -0.5,
+      "cierre_anterior": 18.06,
+      "historico_fechas": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        17.26,
+        18.43,
+        17.82,
+        18.06,
+        17.97
+      ]
+    },
+    "oro": {
+      "ultimo": 4493.7,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 4506.3,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        4555.8,
+        4552.5,
+        4506.3,
+        4493.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 102.04,
+      "cambio_pct": -5.32,
+      "cierre_anterior": 107.77,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        105.42,
+        108.66,
+        107.77,
+        102.04
+      ]
+    },
+    "btc": {
+      "ultimo": 76950.85,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 76750.91,
+      "historico_fechas": [
+        "2026-05-16",
+        "2026-05-17",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        78131.44,
+        77429.35,
+        76954.17,
+        76750.91,
+        76950.85
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.4,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 99.3,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20"
+      ],
+      "historico_cierres": [
+        99.27,
+        98.97,
+        99.3,
+        99.4
+      ]
+    }
+  }
+}
