@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-05-22",
+  "generado_en": "2026-05-22T13:33:00.981619Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "UK scientists developing new Ebola vaccine that could be ready in months",
+        "resumen": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 12:56:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Parents of Southport survivors say anonymity has erased their girls from the story",
+        "resumen": "The BBC has spoken to parents of some of the children who survived the knife attack, who believe they have been given insufficient support because of the anonymity order.",
+        "url": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 05:00:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Andrew investigation could look into sexual misconduct allegations",
+        "resumen": "The former prince was arrested in February on suspicion of misconduct in public office.",
+        "url": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 08:12:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "resumen": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:56:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Guardiola says 'nothing is eternal' as Man City confirm exit after 10 years",
+        "resumen": "Manchester City confirm that Pep Guardiola will leave at the end of the season after a decade of unparalleled success.",
+        "url": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 11:56:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jury discharged in Ian Watkins prison murder trial",
+        "resumen": "Rico Gedel and Samuel Dodsworth had been on trial at Leeds Crown Court accused of his murder.",
+        "url": "https://www.bbc.com/news/articles/c1d26nv6xw5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 12:16:09 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "resumen": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:56:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Morrisons planning to close 100 stores in next few months",
+        "resumen": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+        "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 12:28:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Borrowing in April hit highest level since Covid",
+        "resumen": "Borrowing was higher than expected last month and retail sales fell as fuel prices surged.",
+        "url": "https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 11:11:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why thousands of stock trades tied to Trump are raising eyebrows",
+        "resumen": "The BBC's Michelle Fleury looks at trades disclosed by the president.",
+        "url": "https://www.bbc.com/news/videos/cd6pzg7z319o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:45:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Queues at Dover build in first half-term getaway with new EU checks",
+        "resumen": "It is the first holiday period since the EU's new border system was fully implemented.",
+        "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:53:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Love factually: Dating start-ups promise to cut the cheats",
+        "resumen": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+        "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 21 May 2026 23:14:18 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+        "resumen": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+        "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+        "publicado": "Fri, 22 May 2026 06:41:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "resumen": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "publicado": "Fri, 22 May 2026 00:37:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "resumen": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+        "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "publicado": "Fri, 22 May 2026 00:07:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+        "resumen": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+        "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+        "publicado": "Thu, 21 May 2026 21:39:03 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+        "resumen": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+        "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+        "publicado": "Thu, 21 May 2026 21:13:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+        "resumen": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+        "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+        "publicado": "Thu, 21 May 2026 21:00:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Boys limped through its last season, but made up for it with the finale",
+        "resumen": "It's hard existing in a world seemingly designed for the undeservingly powerful and painfully boring few. They have been gifted what many of us only dream of: the ability to effectively do whatever they like, free from everyday concerns like money, housing, and health. But instead of living in quiet serenity, many choose to use [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/935482/the-boys-finale-review",
+        "publicado": "2026-05-22T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "If I could only have one laptop for work and gaming, I&#8217;d get this one",
+        "resumen": "I've loved the Asus ROG Zephyrus G14 since it launched in 2020. I bought one for my wife after reading about how awesome it was on a little site called The Verge dot com. Since then, the G14 has gotten some facelifts, chip bumps, an occasional special edition, a full redesign, and a 16-inch sibling [&#8230;]",
+        "url": "https://www.theverge.com/tech/935898/asus-rog-zephyrus-g14-2026-intel-nvidia-review",
+        "publicado": "2026-05-22T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+        "resumen": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible [&#8230;]",
+        "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+        "publicado": "2026-05-22T07:05:25-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft’s consumer marketing chief to leave next year",
+        "resumen": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting that he will leave Microsoft next year. He will remain focused on marketing for Windows, Copilot for consumers and the Microsoft 365 consumer business until [&#8230;]",
+        "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
+        "publicado": "2026-05-22T06:57:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft is letting Office users remove an annoying Copilot button",
+        "resumen": "Microsoft is rolling out Office app updates next week that allow users to disable a floating Copilot button. The button appeared in Word, Excel, and PowerPoint in recent weeks, and floats above the bottom right-hand section of spreadsheets or documents. It has angered many Excel users in particular, because it obstructs cells and you can't [&#8230;]",
+        "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+        "publicado": "2026-05-22T05:52:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+        "resumen": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's voice can be clearly heard during calls, even in [&#8230;]",
+        "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+        "publicado": "2026-05-21T19:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7489.82,
+      "cambio_pct": 0.59,
+      "cierre_anterior": 7445.72,
+      "maximo_periodo": 7501.24,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 9.54,
+      "historico_fechas": [
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7489.82
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26449.98,
+      "cambio_pct": 0.6,
+      "cierre_anterior": 26293.1,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        26090.73,
+        25870.71,
+        26270.36,
+        26293.1,
+        26449.98
+      ]
+    },
+    "dow": {
+      "ultimo": 50657.47,
+      "cambio_pct": 0.74,
+      "cierre_anterior": 50285.66,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        49686.12,
+        49363.88,
+        50009.35,
+        50285.66,
+        50657.47
+      ]
+    },
+    "vix": {
+      "ultimo": 16.66,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 16.76,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        17.82,
+        18.06,
+        17.44,
+        16.76,
+        16.66
+      ]
+    },
+    "oro": {
+      "ultimo": 4526.5,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 4539.8,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        4552.5,
+        4506.3,
+        4531.3,
+        4539.8,
+        4526.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.18,
+      "cambio_pct": -0.18,
+      "cierre_anterior": 96.35,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        108.66,
+        107.77,
+        98.26,
+        96.35,
+        96.18
+      ]
+    },
+    "btc": {
+      "ultimo": 77178.64,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 77539.17,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        76954.17,
+        76750.91,
+        77457.77,
+        77539.17,
+        77178.64
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.25,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 99.19,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        98.97,
+        99.3,
+        99.11,
+        99.19,
+        99.25
+      ]
+    }
+  }
+}
