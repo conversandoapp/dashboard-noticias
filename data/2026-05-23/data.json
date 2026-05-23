@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-05-23",
+  "generado_en": "2026-05-23T12:00:50.265275Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "At least 90 killed in Chinese coal mine explosion, state media reports",
+        "resumen": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 23 May 2026 11:23:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hot weather to intensify in UK over bank holiday weekend",
+        "resumen": "Amber heat health alerts are in place for the Midlands, eastern and south-east England.",
+        "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 23:04:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "resumen": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 23 May 2026 07:44:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ebola experts and survivor from outbreak a decade ago warn lessons must be learnt",
+        "resumen": "Those caught up in West Africa's Ebola outbreak a decade ago on how best to tackle the current epidemic.",
+        "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 23:07:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK officials suggested single market for goods with Europe",
+        "resumen": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
+        "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 23 May 2026 03:47:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Suddenly I could see myself': Why breast reductions are more popular now",
+        "resumen": "For the first time, more people in the UK are choosing reduction procedures than enlargements.",
+        "url": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 23:06:41 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "resumen": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:56:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Bank boss sorry after describing workers as 'lower value human capital'",
+        "resumen": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
+        "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 18:55:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI may speed up search for drugs to treat brain conditions",
+        "resumen": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+        "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 21:30:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump wants new Fed chair to be 'totally independent'",
+        "resumen": "The US president piled major pressure on Kevin Warsh's predecessor to cut interest rates.",
+        "url": "https://www.bbc.com/news/articles/cvgz311dq3ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 18:16:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Morrisons planning to close 100 stores in next few months",
+        "resumen": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+        "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 12:28:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Love factually: Dating start-ups promise to cut the cheats",
+        "resumen": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+        "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 21 May 2026 23:14:18 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+        "resumen": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+        "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+        "publicado": "Sat, 23 May 2026 07:01:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI is being used to resurrect the voices of dead pilots",
+        "resumen": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "publicado": "Fri, 22 May 2026 23:03:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+        "resumen": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+        "publicado": "Fri, 22 May 2026 22:55:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+        "resumen": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+        "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+        "publicado": "Fri, 22 May 2026 21:37:17 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "resumen": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+        "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+        "publicado": "Fri, 22 May 2026 21:02:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "resumen": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "publicado": "Fri, 22 May 2026 20:40:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "I have a new go-to browser",
+        "resumen": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) This week, I've mostly been sick, which has meant nearly a full rewatch of Parks [&#8230;]",
+        "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+        "publicado": "2026-05-23T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s new anything-to-anything AI model is wild",
+        "resumen": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. [&#8230;]",
+        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+        "publicado": "2026-05-23T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+        "resumen": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the [&#8230;]",
+        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+        "publicado": "2026-05-22T16:39:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
+        "resumen": "With Memorial day weekend kicking off the travel season, we’re seeing a lot of deals pop up on travel gadgets, from portable power banks to noise-canceling headphones. One of the best right now is Twelve South’s AirFly Pro 2 Bluetooth adapter, which lets you use your wireless headphones with in-flight entertainment systems so you can [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
+        "publicado": "2026-05-22T14:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
+        "resumen": "Meta's new Forum app for iPhones takes Facebook Groups and moves them to a dedicated app with a dedicated AI chatbot to go with it, like an AI revamp of the ill-fated Groups app Facebook shut down in 2017. Rather than going to ChatGPT or tacking \"Reddit\" onto the end of a Google search, Forum [&#8230;]",
+        "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+        "publicado": "2026-05-22T13:27:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Elon, stop trying to make Grok happen",
+        "resumen": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+        "publicado": "2026-05-22T13:17:06-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7473.47,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 7445.72,
+      "maximo_periodo": 7501.24,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 9.3,
+      "historico_fechas": [
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26343.97,
+      "cambio_pct": 0.19,
+      "cierre_anterior": 26293.1,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        26090.73,
+        25870.71,
+        26270.36,
+        26293.1,
+        26343.97
+      ]
+    },
+    "dow": {
+      "ultimo": 50579.7,
+      "cambio_pct": 0.58,
+      "cierre_anterior": 50285.66,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        49686.12,
+        49363.88,
+        50009.35,
+        50285.66,
+        50579.7
+      ]
+    },
+    "vix": {
+      "ultimo": 16.7,
+      "cambio_pct": -0.36,
+      "cierre_anterior": 16.76,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        17.82,
+        18.06,
+        17.44,
+        16.76,
+        16.7
+      ]
+    },
+    "oro": {
+      "ultimo": 4521.0,
+      "cambio_pct": -0.41,
+      "cierre_anterior": 4539.8,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        4552.5,
+        4506.3,
+        4531.3,
+        4539.8,
+        4521.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.6,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 96.35,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        108.66,
+        107.77,
+        98.26,
+        96.35,
+        96.6
+      ]
+    },
+    "btc": {
+      "ultimo": 74710.29,
+      "cambio_pct": -1.03,
+      "cierre_anterior": 75488.24,
+      "historico_fechas": [
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-23"
+      ],
+      "historico_cierres": [
+        76750.91,
+        77457.77,
+        77539.17,
+        75488.24,
+        74710.29
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.32,
+      "cambio_pct": 0.13,
+      "cierre_anterior": 99.19,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        98.97,
+        99.3,
+        99.11,
+        99.19,
+        99.32
+      ]
+    }
+  }
+}
