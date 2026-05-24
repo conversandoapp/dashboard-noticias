@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-05-24",
+  "generado_en": "2026-05-24T12:01:14.374169Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
+        "resumen": "Speaking to the BBC’s Laura Kuenssberg, the girl, who is now 16, said: \"What was the point in putting me through that?\"",
+        "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 10:27:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "resumen": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 10:52:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Suspect killed after opening fire on Secret Service near White House",
+        "resumen": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 06:15:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Midnight Sun-derland: Zara Larsson electrifies the crowd at Big Weekend",
+        "resumen": "The Swedish pop star treated the crowds to back-to-back, high-energy pop bangers on day two of the festival.",
+        "url": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 23 May 2026 22:34:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why the stakes are so high in Spurs and West Ham's relegation shootout",
+        "resumen": "Why the stakes could not be higher in Tottenham and West Ham's relegation shootout.",
+        "url": "https://www.bbc.com/sport/football/articles/cpqpyprner9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 05:15:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "It's like the Olympics - except steroids are allowed",
+        "resumen": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
+        "url": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 04:46:07 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+        "resumen": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
+        "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 01:02:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+        "resumen": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
+        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 24 May 2026 10:21:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "resumen": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 10:56:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Bank boss sorry after describing workers as 'lower value human capital'",
+        "resumen": "The Standard Chartered boss said he values all colleagues and is committed to helping them cope with change.",
+        "url": "https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 18:55:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI may speed up search for drugs to treat brain conditions",
+        "resumen": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+        "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 22 May 2026 21:30:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Love factually: Dating start-ups promise to cut the cheats",
+        "resumen": "Frustration with fake dating profiles has spurred new dating services with different approaches.",
+        "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 21 May 2026 23:14:18 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+        "resumen": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+        "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+        "publicado": "Sat, 23 May 2026 20:03:13 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "These special phone and app features can help protect you from spyware",
+        "resumen": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+        "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "publicado": "Sat, 23 May 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Ferrari is using IBM’s AI to create F1 superfans",
+        "resumen": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "publicado": "Sat, 23 May 2026 15:08:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+        "resumen": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+        "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+        "publicado": "Sat, 23 May 2026 14:50:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Elon Musk has given up on solar power (on Earth)",
+        "resumen": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "publicado": "Sat, 23 May 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+        "resumen": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+        "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+        "publicado": "Sat, 23 May 2026 07:01:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. [&#8230;]",
+        "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "publicado": "2026-05-24T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+        "resumen": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually better? Nuro, the [&#8230;]",
+        "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+        "publicado": "2026-05-24T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Record Club is trying to be Letterboxd for music nerds",
+        "resumen": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+        "publicado": "2026-05-23T18:41:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+        "resumen": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless records [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+        "publicado": "2026-05-23T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Here are 38 Memorial Day deals we recommend for $50 or less",
+        "resumen": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on gadgets that retail for $50 or less, from portable chargers and 4K streaming devices to [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
+        "publicado": "2026-05-23T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Hanging out in my favorite virtual coffee shop in Tokyo",
+        "resumen": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a coffee shop that's bright, airy, and full of art, and another that doubles as [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+        "publicado": "2026-05-23T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7473.47,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 7445.72,
+      "maximo_periodo": 7501.24,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 9.3,
+      "historico_fechas": [
+        "2026-02-23",
+        "2026-02-24",
+        "2026-02-25",
+        "2026-02-26",
+        "2026-02-27",
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        6837.75,
+        6890.07,
+        6946.13,
+        6908.86,
+        6878.88,
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26343.97,
+      "cambio_pct": 0.19,
+      "cierre_anterior": 26293.1,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        26090.73,
+        25870.71,
+        26270.36,
+        26293.1,
+        26343.97
+      ]
+    },
+    "dow": {
+      "ultimo": 50579.7,
+      "cambio_pct": 0.58,
+      "cierre_anterior": 50285.66,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        49686.12,
+        49363.88,
+        50009.35,
+        50285.66,
+        50579.7
+      ]
+    },
+    "vix": {
+      "ultimo": 16.7,
+      "cambio_pct": -0.36,
+      "cierre_anterior": 16.76,
+      "historico_fechas": [
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        17.82,
+        18.06,
+        17.44,
+        16.76,
+        16.7
+      ]
+    },
+    "oro": {
+      "ultimo": 4523.2,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 4539.8,
+      "historico_fechas": [
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        4506.3,
+        4531.3,
+        4539.8,
+        4523.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.6,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 96.35,
+      "historico_fechas": [
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        107.77,
+        98.26,
+        96.35,
+        96.6
+      ]
+    },
+    "btc": {
+      "ultimo": 77196.44,
+      "cambio_pct": 0.68,
+      "cierre_anterior": 76673.37,
+      "historico_fechas": [
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-23",
+        "2026-05-24"
+      ],
+      "historico_cierres": [
+        77457.77,
+        77539.17,
+        75488.24,
+        76673.37,
+        77196.44
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.32,
+      "cambio_pct": 0.13,
+      "cierre_anterior": 99.19,
+      "historico_fechas": [
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22"
+      ],
+      "historico_cierres": [
+        99.3,
+        99.11,
+        99.19,
+        99.32
+      ]
+    }
+  }
+}
