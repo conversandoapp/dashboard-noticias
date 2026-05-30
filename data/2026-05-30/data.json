@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-05-30",
+  "generado_en": "2026-05-30T12:05:15.161672Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Palace was handed Andrew's controversial envoy emails six years ago",
+        "resumen": "Thousands of emails containing information about the former prince's financial dealings were given to the Royal Household in 2020.",
+        "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 10:51:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "resumen": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 11:39:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "resumen": "Wizz Air CEO Yvonne Moynihan also advises passengers to carry portable chargers and water due to lengthy queues.",
+        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 08:56:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Liverpool sack head coach Slot",
+        "resumen": "Liverpool sack head coach Arne Slot after two seasons in charge.",
+        "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 11:30:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
+        "resumen": "A new DNA test could help screen whether patients require the treatment or not, according to a new international trial.",
+        "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 08:46:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Attorney general had 'no doubt' on reviewing teen boys' rape sentences",
+        "resumen": "Lord Hermer tells the BBC he wanted \"detail as quickly as possible\" after hearing about the case in which the rapists were spared custody.",
+        "url": "https://www.bbc.com/news/articles/c1m21k99vpdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 10:14:38 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Only three-quarters of first class mail delivered on time",
+        "resumen": "Royal Mail says its service is improving and that it is on track to hit the regulator Ofcom's reduced targets",
+        "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 29 May 2026 15:51:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Universal rejects billionaire Bill Ackman's takeover bid",
+        "resumen": "The music giant said Pershing Square's offer fundamentally undervalued the business.",
+        "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 29 May 2026 19:29:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
+        "resumen": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
+        "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 29 May 2026 10:55:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+        "resumen": "A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.",
+        "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 28 May 2026 15:09:57 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+        "resumen": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
+        "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 28 May 2026 15:56:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Humanoid robots 'the future' of car making, says BMW",
+        "resumen": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+        "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 28 May 2026 23:36:45 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+        "resumen": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
+        "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
+        "publicado": "Sat, 30 May 2026 02:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+        "resumen": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+        "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+        "publicado": "Sat, 30 May 2026 00:39:13 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+        "resumen": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+        "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+        "publicado": "Fri, 29 May 2026 22:21:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Coders are refusing to work without AI — and that could come back to bite them",
+        "resumen": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+        "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+        "publicado": "Fri, 29 May 2026 22:14:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "So you’ve heard these AI terms and nodded along; let’s fix that",
+        "resumen": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "publicado": "Fri, 29 May 2026 18:49:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "What happens when companies become too AI-pilled?",
+        "resumen": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+        "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+        "publicado": "Fri, 29 May 2026 17:57:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sometimes, a short game hits the spot",
+        "resumen": "Slots &#38; Daggers, a low-key, fantasy-themed slot machine roguelike, was one of my favorite games last year. That may sound like a complicated description, but the game mixes ideas from deckbuilding roguelikes with slot machines to create an engrossing loop, and there's steady meta-progression that helps you push further with just about every run. Perhaps [&#8230;]",
+        "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
+        "publicado": "2026-05-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The SpaceX IPO is great for Elon Musk and terrible for you",
+        "resumen": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder. Lots of the top-line [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+        "publicado": "2026-05-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This is the James Bond game we’ve been waiting for",
+        "resumen": "Hi, friends! Welcome to Installer No. 130, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, don't forget to hydrate, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Victor Wembanyama and mahjong and Merlin Mann's pearls of [&#8230;]",
+        "url": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
+        "publicado": "2026-05-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+        "resumen": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed [&#8230;]",
+        "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+        "publicado": "2026-05-29T19:03:29-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
+        "resumen": "The Pentagon awarded SpaceX a $4.16 billion contract to build missile-tracking satellites linked with President Donald Trump's planned \"Golden Dome\" defense system, as reported earlier by Bloomberg. In an announcement on Friday, the US Space Force says the sensor-equipped satellites will allow it to detect and track targets from space. The Elon Musk-owned SpaceX - [&#8230;]",
+        "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
+        "publicado": "2026-05-29T17:48:52-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Acer’s launching a Linux handheld for streaming your PC games",
+        "resumen": "The Acer Nitro Blaze Link might run on Linux, but it's no Steam Deck. Acer says it's a \"streaming-first handheld and companion device,\" like a PlayStation Portal for your PC. Announced ahead of Computex on Friday, it's launching in Q4 2026 with a 7-inch (1920 x 1200) display, Wi-Fi 6, just 1GB of LPDDR4 RAM, [&#8230;]",
+        "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+        "publicado": "2026-05-29T15:01:48-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7580.06,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 7563.63,
+      "maximo_periodo": 7580.06,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 10.15,
+      "historico_fechas": [
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26972.62,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 26917.47,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        26343.97,
+        26656.18,
+        26674.73,
+        26917.47,
+        26972.62
+      ]
+    },
+    "dow": {
+      "ultimo": 51032.46,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 50668.97,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        50579.7,
+        50461.68,
+        50644.28,
+        50668.97,
+        51032.46
+      ]
+    },
+    "vix": {
+      "ultimo": 15.32,
+      "cambio_pct": -2.67,
+      "cierre_anterior": 15.74,
+      "historico_fechas": [
+        "2026-05-25",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        16.59,
+        17.01,
+        16.29,
+        15.74,
+        15.32
+      ]
+    },
+    "oro": {
+      "ultimo": 4560.5,
+      "cambio_pct": 1.36,
+      "cierre_anterior": 4499.3,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        4500.4,
+        4447.5,
+        4499.3,
+        4560.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.36,
+      "cambio_pct": -1.73,
+      "cierre_anterior": 88.9,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        93.89,
+        88.68,
+        88.9,
+        87.36
+      ]
+    },
+    "btc": {
+      "ultimo": 73491.99,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 73372.52,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-05-30"
+      ],
+      "historico_cierres": [
+        75825.73,
+        74344.7,
+        73536.55,
+        73372.52,
+        73491.99
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.91,
+      "cambio_pct": -0.11,
+      "cierre_anterior": 99.02,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        99.17,
+        99.21,
+        99.02,
+        98.91
+      ]
+    }
+  }
+}
