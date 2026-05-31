@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-05-31",
+  "generado_en": "2026-05-31T12:12:30.604245Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
+        "resumen": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
+        "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 31 May 2026 11:29:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Key moments from Nicola Sturgeon's interview with Laura Kuenssberg",
+        "resumen": "Former First Minister of Scotland Nicola Sturgeon speaks to the BBC in her first interview since her estranged husband Peter Murrell pled guilty to embezzling £400,000 from the SNP",
+        "url": "https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 31 May 2026 08:17:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+        "resumen": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 31 May 2026 11:26:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How Putin became master of the image",
+        "resumen": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
+        "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 23:17:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "resumen": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 31 May 2026 11:15:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
+        "resumen": "How bad is the signal on our trains? We spoke to commuters to find out.",
+        "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 23:02:37 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
+        "resumen": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 22:23:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "resumen": "Wizz Air CEO Yvonne Moynihan also advises passengers to carry portable chargers and water due to lengthy queues.",
+        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 08:56:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why Britain's notoriously bad train wi-fi might soon be a thing of the past",
+        "resumen": "How bad is the signal on our trains? We spoke to commuters to find out.",
+        "url": "https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 23:02:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How a borough in Merseyside is bucking the UK's youth unemployment trend",
+        "resumen": "Could personalised early intervention help prevent under-16s falling into the Neet trap?",
+        "url": "https://www.bbc.com/news/articles/cd6p9yyg64vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 00:50:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ex-M&S chief to help government tackle youth unemployment",
+        "resumen": "Marc Bolland will advise on getting young people into work after a review warned of a \"lost generation\".",
+        "url": "https://www.bbc.com/news/articles/cg5p9y25qj1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 30 May 2026 21:30:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Humanoid robots 'the future' of car making, says BMW",
+        "resumen": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+        "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 28 May 2026 23:36:45 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "SoftBank says it will invest up to €75 billion to build French data centers",
+        "resumen": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "publicado": "Sat, 30 May 2026 21:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This weekend’s two biggest movies were both directed by YouTubers",
+        "resumen": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+        "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+        "publicado": "Sat, 30 May 2026 21:12:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Snap alums unveil Ghost Angels fund",
+        "resumen": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+        "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+        "publicado": "Sat, 30 May 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "resumen": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "publicado": "Sat, 30 May 2026 16:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta is reportedly developing an AI pendant",
+        "resumen": "Meta seems to be making big bets on AI-powered hardware.",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "publicado": "Sat, 30 May 2026 15:59:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "resumen": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "publicado": "Sat, 30 May 2026 15:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "User-replaceable batteries are coming back in a big way",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about gadgets and smartphones, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2023, the European Union agreed on two landmark pieces [&#8230;]",
+        "url": "https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation",
+        "publicado": "2026-05-31T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Mercedes CLA offers great EV specs for an average price",
+        "resumen": "Despite headwinds from the current administration, automakers continue to release well-equipped EVs with bigger battery packs and increasingly faster charging speeds. For those who want to travel further between plugging in, the future is still bright, just slightly tinted. But there haven't been many sedans starting around or below $50,000, as crossover SUVs have largely [&#8230;]",
+        "url": "https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs",
+        "publicado": "2026-05-31T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Backrooms is a certified blockbuster with a $38 million opening day",
+        "resumen": "The Kane Parsons' film Backrooms is expected to earn up to $90 million in its opening weekend after pulling down $38 million on Friday alone. That's not only above expectations, but absolutely obliterates A24's previous opening weekend record of $25.5 million for Alex Garland's Civil War. It's also a better opening day than The Mandalorian [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+        "publicado": "2026-05-30T12:58:51-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+        "resumen": "Cecil Baldwin's r&#233;sum&#233; includes appearances on Gravity Falls, narrating the documentary Scream, Queen! My Nightmare on Elm Street, and performing as part of the New York Neo-Futurists theater company. But he is best known as the host of the podcast Welcome to Night Vale, a long-running fiction show that blends macabre Lovecraftian horror with absurdist [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+        "publicado": "2026-05-30T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft is threatening legal action for disclosing exploits",
+        "resumen": "Microsoft is facing criticism for its handling of zero-day exploits. Someone going by the name Nightmare Eclipse has been publicly feuding with the company, posting proof-of-concept exploit code. Some of their posts suggest that they're a disgruntled former employee. But what caught cyber security researcher Kevin Beaumont's eye was how Microsoft has responded. Microsoft suggests [&#8230;]",
+        "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+        "publicado": "2026-05-30T11:19:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Two of our favorite art TVs are more than 40 percent off this weekend",
+        "resumen": "Art TVs aren’t exactly known for being affordable, which is why Woot’s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025 CanvasTV. The 65-inch CanvasTV is down to $779.99 ($520 off) — its best price of the year — while Samsung’s like-minded Frame TV is [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+        "publicado": "2026-05-30T11:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7580.06,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 7563.63,
+      "maximo_periodo": 7580.06,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 10.15,
+      "historico_fechas": [
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26972.62,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 26917.47,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        26343.97,
+        26656.18,
+        26674.73,
+        26917.47,
+        26972.62
+      ]
+    },
+    "dow": {
+      "ultimo": 51032.46,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 50668.97,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        50579.7,
+        50461.68,
+        50644.28,
+        50668.97,
+        51032.46
+      ]
+    },
+    "vix": {
+      "ultimo": 15.32,
+      "cambio_pct": -2.67,
+      "cierre_anterior": 15.74,
+      "historico_fechas": [
+        "2026-05-25",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        16.59,
+        17.01,
+        16.29,
+        15.74,
+        15.32
+      ]
+    },
+    "oro": {
+      "ultimo": 4593.0,
+      "cambio_pct": 2.08,
+      "cierre_anterior": 4499.3,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        4500.4,
+        4447.5,
+        4499.3,
+        4593.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.36,
+      "cambio_pct": -1.73,
+      "cierre_anterior": 88.9,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        93.89,
+        88.68,
+        88.9,
+        87.36
+      ]
+    },
+    "btc": {
+      "ultimo": 73792.07,
+      "cambio_pct": 0.05,
+      "cierre_anterior": 73754.84,
+      "historico_fechas": [
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-05-30",
+        "2026-05-31"
+      ],
+      "historico_cierres": [
+        74344.7,
+        73536.55,
+        73372.52,
+        73754.84,
+        73792.07
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.91,
+      "cambio_pct": -0.11,
+      "cierre_anterior": 99.02,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29"
+      ],
+      "historico_cierres": [
+        99.17,
+        99.21,
+        99.02,
+        98.91
+      ]
+    }
+  }
+}
