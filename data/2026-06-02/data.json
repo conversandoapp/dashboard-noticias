@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-02",
+  "generado_en": "2026-06-02T14:54:17.409296Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Murdered student told police 'I can't breathe' while handcuffed",
+        "resumen": "An independent investigation into why Henry Nowak was handcuffed by police as he was dying is ongoing.",
+        "url": "https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 13:06:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Murrell used SNP cards for £400,000 spending spree",
+        "resumen": "The former SNP chief executive is facing a lengthy jail sentence after admitting embezzling funds from the party.",
+        "url": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 12:03:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Five questions left unanswered by the Mandelson files",
+        "resumen": "A second batch of files relating to Lord Mandelson's appointment as US ambassador has been released.",
+        "url": "https://www.bbc.com/news/articles/cn4p9pv13kdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 12:50:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK Athletics fined £350,000 over death of Paralympian",
+        "resumen": "A judge at the Old Bailey has fined UK Athletics £350,000 with £44,000 in costs after hearing how a Paralympic athlete died when equipment fell on him at a training ground in east London.",
+        "url": "https://www.bbc.com/sport/athletics/articles/c1e2x1qze8vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 13:46:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukraine rescuers pull dead from rubble after Russian strikes kill 21 people",
+        "resumen": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 14:07:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Scotland legend Sir Kenny Dalglish undergoing treatment for cancer",
+        "resumen": "Scotland, Liverpool and Celtic great Sir Kenny Dalglish confirms he is undergoing treatment for cancer.",
+        "url": "https://www.bbc.com/sport/football/articles/clyp4e14m1do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 12:28:42 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+        "resumen": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+        "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 11:40:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Third of people say uni degree not worth it, as student loan inquiry begins",
+        "resumen": "MPs will hear the concerns of graduates about the size of their student debts, and the interest rates.",
+        "url": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 12:38:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+        "resumen": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 07:00:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Post Office scandal victim dedicates OBE to 'sub-postmasters we have lost'",
+        "resumen": "The 92-year-old said she dedicate the OBE to 'all sub-postmasters we have lost'.",
+        "url": "https://www.bbc.com/news/videos/cx2186r2vj8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 10:17:50 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Steph Curry signs with Chinese brand after Under Armour split",
+        "resumen": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
+        "url": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 06:29:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How 'confused' AI rollout hurts firms and baffles staff",
+        "resumen": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+        "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 01 Jun 2026 23:05:11 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "X caters to creators with new ‘React with Video’ feature",
+        "resumen": "X will now let you 'react with video' to posts.",
+        "url": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
+        "publicado": "Tue, 02 Jun 2026 14:46:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "resumen": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+        "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+        "publicado": "Tue, 02 Jun 2026 14:44:21 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple’s MacBook Neo is winning over a new generation of buyers",
+        "resumen": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market.",
+        "url": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
+        "publicado": "Tue, 02 Jun 2026 14:39:29 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon Prime Day 2026 takes place June 23-26",
+        "resumen": "Groceries and household essentials will be a main focus of this year's deals event.",
+        "url": "https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/",
+        "publicado": "Tue, 02 Jun 2026 13:47:53 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Blue Origin plans to launch New Glenn again this year after explosion",
+        "resumen": "CEO Dave Limp said damage to the company's launchpad in Florida was not as bad as expected. But Blue Origin still hasn't shared the cause of last week's explosion.",
+        "url": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
+        "publicado": "Tue, 02 Jun 2026 13:25:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ZeroDrift raises $10M to protect AI models from themselves",
+        "resumen": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+        "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+        "publicado": "Tue, 02 Jun 2026 12:32:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could",
+        "resumen": "When Lego announced its tech-packed Smart Bricks at CES, we were impressed by the potential - enough to give it our Best in Show award. But when the first Star Wars sets actually launched in March, we were less enamored. All that promise of clever interaction and creative play ultimately boiled down to a few [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets",
+        "publicado": "2026-06-02T09:28:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Thermacell&#8217;s latest smart mosquito system is bigger and more expensive",
+        "resumen": "Thermacell has launched Liv 2.0, the next generation of its Wi-Fi-connected smart mosquito protection system. It features new hardware and can cover a larger area, and Thermacell says its formula can now deter no-see-ums. But it's also more expensive and requires professional installation. Liv 2.0 uses the same setup as the original Liv - a [&#8230;]",
+        "url": "https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell",
+        "publicado": "2026-06-02T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon’s four-day Prime Day begins on June 23rd",
+        "resumen": "Amazon bucked its usual tradition of having Prime Day in July. Prime Day 2026 is happening in June, kicking off in just a few weeks. Prime members will get access to many deals starting June 23rd at 3:01AM ET through June 27th at 3:01AM ET. As with Amazon’s previous events, you don’t need to be [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals",
+        "publicado": "2026-06-02T08:38:59-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+        "resumen": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+        "publicado": "2026-06-02T08:38:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "People are leaving a lot of weird stuff in their robotaxis",
+        "resumen": "A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures. These are just some of the items left behind in robotaxis in the past year, according to Uber's annual Lost and Found Index. For the first time, the company is expanding its annual of accounting of things forgotten in Uber vehicles to [&#8230;]",
+        "url": "https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride",
+        "publicado": "2026-06-02T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How to watch Microsoft’s Build 2026 conference",
+        "resumen": "Microsoft is kicking off its yearly Build developer conference in San Francisco today, sandwiched between the recent Google I/O and Apple's upcoming WWDC event. While tickets to attend Build in person are sold out, the conference is being streamed for free online, with CEO Satya Nadella opening with a keynote at 12:30PM ET / 9:30AM [&#8230;]",
+        "url": "https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream",
+        "publicado": "2026-06-02T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7611.56,
+      "cambio_pct": 0.15,
+      "cierre_anterior": 7599.96,
+      "maximo_periodo": 7611.56,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 10.61,
+      "historico_fechas": [
+        "2026-03-02",
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        6881.62,
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7611.56
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27133.84,
+      "cambio_pct": 0.17,
+      "cierre_anterior": 27086.81,
+      "historico_fechas": [
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        26674.73,
+        26917.47,
+        26972.62,
+        27086.81,
+        27133.84
+      ]
+    },
+    "dow": {
+      "ultimo": 51109.16,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 51078.88,
+      "historico_fechas": [
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        50644.28,
+        50668.97,
+        51032.46,
+        51078.88,
+        51109.16
+      ]
+    },
+    "vix": {
+      "ultimo": 16.06,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 16.05,
+      "historico_fechas": [
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        16.29,
+        15.74,
+        15.32,
+        16.05,
+        16.06
+      ]
+    },
+    "oro": {
+      "ultimo": 4533.0,
+      "cambio_pct": 1.29,
+      "cierre_anterior": 4475.2,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        4499.3,
+        4560.5,
+        4475.2,
+        4533.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.85,
+      "cambio_pct": -0.34,
+      "cierre_anterior": 92.16,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        88.9,
+        87.36,
+        92.16,
+        91.85
+      ]
+    },
+    "btc": {
+      "ultimo": 67966.89,
+      "cambio_pct": -4.7,
+      "cierre_anterior": 71319.77,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-05-30",
+        "2026-05-31",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        73372.52,
+        73754.84,
+        73579.69,
+        71319.77,
+        67966.89
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.09,
+      "cambio_pct": -0.11,
+      "cierre_anterior": 99.2,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02"
+      ],
+      "historico_cierres": [
+        99.02,
+        98.91,
+        99.2,
+        99.09
+      ]
+    }
+  }
+}
