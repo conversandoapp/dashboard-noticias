@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-03",
+  "generado_en": "2026-06-03T15:28:15.853859Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Three die in Royal Navy helicopter crash during training exercise",
+        "resumen": "The Ministry of Defence says an investigation into the crash is under way.",
+        "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 14:17:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
+        "resumen": "It comes after the Reform UK leader said the public should respond with \"pure, cold rage\" to the actions of police.",
+        "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 14:56:17 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+        "resumen": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 11:34:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+        "resumen": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 14:02:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How a content creator tried to use a YouTube alibi to get away with murder",
+        "resumen": "Stephen McCullagh, 36, of Woodland Gardens in Lisburn, will serve at least 31 years in prison for the murder of his pregnant partner Natalie McNally.",
+        "url": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 10:30:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The end of Trump's 'weaponisation' fund is another sign Republicans are fighting back",
+        "resumen": "The $1.8bn fund would have paid people the Trump administration decided were unjustly and politically targeted.",
+        "url": "https://www.bbc.com/news/articles/c87q9d7r57yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 12:25:31 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "US announces new tariffs over forced labour concerns",
+        "resumen": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+        "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 15:12:28 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
+        "resumen": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 23:02:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The 18 creatures in the running to be on the new banknotes",
+        "resumen": "The Bank of England is asking the public which animals should appear on future banknotes.",
+        "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 02 Jun 2026 23:02:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Universal park officially named as government pledges £1.3bn",
+        "resumen": "The government's contribution is going towards upgrading local infrastructure and transport links.",
+        "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 13:30:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+        "resumen": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
+        "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 03 Jun 2026 14:16:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How 'confused' AI rollout hurts firms and baffles staff",
+        "resumen": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+        "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 01 Jun 2026 23:05:11 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "resumen": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+        "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+        "publicado": "Wed, 03 Jun 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+        "resumen": "The company is reducing its workforce as it exits 22 countries, reduces management layers, and invests in its infrastructure to scale its platform.",
+        "url": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
+        "publicado": "Wed, 03 Jun 2026 14:59:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "resumen": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the UK then rolled out globally.",
+        "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+        "publicado": "Wed, 03 Jun 2026 14:58:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
+        "resumen": "The app allows users to engage with other fans, explore trending videos, and access curated creator feeds.",
+        "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
+        "publicado": "Wed, 03 Jun 2026 14:04:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The worst hacks and breaches of 2026 (so far)",
+        "resumen": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+        "url": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
+        "publicado": "Wed, 03 Jun 2026 14:02:45 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’",
+        "resumen": "This open-source community project lets you create a StumbleUpon-like experience for recommending your favorite sites.",
+        "url": "https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/",
+        "publicado": "Wed, 03 Jun 2026 14:00:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Supernatural isn’t dead after all",
+        "resumen": "A few months ago, Meta effectively handed Supernatural, a popular VR fitness game on the Meta Quest, a death sentence. As part of overarching VR layoffs, the company announced the game would no longer get any new content, enraging its tightly knit, devoted community. Now it looks like Supernatural is getting a second chance. Today, [&#8230;]",
+        "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
+        "publicado": "2026-06-03T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280",
+        "resumen": "The Dreame L20 Ultra isn’t the company&#8217;s newest model, but it&#8217;s still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever price right now. Originally $1,400 when it launched in 2023, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
+        "publicado": "2026-06-03T10:53:10-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "resumen": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+        "publicado": "2026-06-03T10:04:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
+        "resumen": "Microsoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark Dev Box at Microsoft's Build conference this week, and while both have the same chip inside, they're utilizing Nvidia's [&#8230;]",
+        "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
+        "publicado": "2026-06-03T09:22:17-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SwitchBot’s acquisition of Nanoleaf is about more than lighting",
+        "resumen": "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is changing operationally,\" says Chu, adding that there [&#8230;]",
+        "url": "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics",
+        "publicado": "2026-06-03T08:00:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trans teens have something to say",
+        "resumen": "By the time the Children's Hospital closed its doors to trans patients, Sage had already stopped taking testosterone. A nonbinary high school student, they originally received treatment for the rapid onset of puberty. The changes their body experienced felt frightening and sudden. They developed PMOS, a relatively common hormonal disorder that can lead to hair [&#8230;]",
+        "url": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
+        "publicado": "2026-06-03T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7574.08,
+      "cambio_pct": -0.47,
+      "cierre_anterior": 7609.78,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 11.11,
+      "historico_fechas": [
+        "2026-03-03",
+        "2026-03-04",
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        6816.63,
+        6869.5,
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7574.08
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26904.71,
+      "cambio_pct": -0.7,
+      "cierre_anterior": 27093.9,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        26917.47,
+        26972.62,
+        27086.81,
+        27093.9,
+        26904.71
+      ]
+    },
+    "dow": {
+      "ultimo": 50927.48,
+      "cambio_pct": -0.74,
+      "cierre_anterior": 51307.79,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        50668.97,
+        51032.46,
+        51078.88,
+        51307.79,
+        50927.48
+      ]
+    },
+    "vix": {
+      "ultimo": 16.08,
+      "cambio_pct": 1.97,
+      "cierre_anterior": 15.77,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        15.74,
+        15.32,
+        16.05,
+        15.77,
+        16.08
+      ]
+    },
+    "oro": {
+      "ultimo": 4475.5,
+      "cambio_pct": -0.3,
+      "cierre_anterior": 4489.1,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        4560.5,
+        4475.2,
+        4489.1,
+        4475.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 95.28,
+      "cambio_pct": 1.62,
+      "cierre_anterior": 93.76,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        87.36,
+        92.16,
+        93.76,
+        95.28
+      ]
+    },
+    "btc": {
+      "ultimo": 66455.84,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 66703.66,
+      "historico_fechas": [
+        "2026-05-30",
+        "2026-05-31",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        73754.84,
+        73579.69,
+        71319.77,
+        66703.66,
+        66455.84
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.42,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 99.22,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "historico_cierres": [
+        98.91,
+        99.2,
+        99.22,
+        99.42
+      ]
+    }
+  }
+}
