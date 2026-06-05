@@ -1,0 +1,457 @@
+{
+  "fecha": "2026-06-05",
+  "generado_en": "2026-06-05T13:52:45.360431Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+        "resumen": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+        "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 11:00:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "World-first vaccine designed by AI could protect against whole families of viruses",
+        "resumen": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
+        "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 04 Jun 2026 23:29:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
+        "resumen": "The boys' sentencing last month caused an outcry when they were given youth rehabilitation orders (YROs).",
+        "url": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 10:56:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
+        "resumen": "What stood out from the Question Time exchanges between candidates in the Makerfield by-election?",
+        "url": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 10:16:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The deeply contentious debate around what it means to be English",
+        "resumen": "The debate about English identity has been a perennial one but has now taken on a harder edge",
+        "url": "https://www.bbc.com/news/articles/c3626n0lgj3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 08:57:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "A-level maths exam marking to be watched closely by regulator after students 'crestfallen'",
+        "resumen": "More than 20,000 people sign a petition calling for a review of a paper they say was significantly more challenging than any past exam.",
+        "url": "https://www.bbc.com/news/articles/c4g9gz9d2qzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 12:13:11 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "We need to stop AI developing without humans, says Anthropic co-founder",
+        "resumen": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 07:17:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Who can buy shares in Elon Musk's SpaceX?",
+        "resumen": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
+        "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 09:51:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is there an AI stock market bubble, and is it ready to burst?",
+        "resumen": "Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.",
+        "url": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 12:46:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Hospitality jobs boom as US prepares for World Cup",
+        "resumen": "It is the third month in a row US jobs figures have beaten expectations.",
+        "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 13:19:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "British Heart Foundation plans to close 150 charity shops",
+        "resumen": "The charity says it is facing \"an exceptionally challenging trading environment\".",
+        "url": "https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 02:32:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The ancient trick making food waste useful and tasty",
+        "resumen": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+        "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 04 Jun 2026 23:10:26 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "resumen": "The Australian data center operator plans to set up 5GW of capacity in India.",
+        "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "publicado": "Fri, 05 Jun 2026 13:03:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mira Murati steps back into the spotlight, carefully",
+        "resumen": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+        "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+        "publicado": "Fri, 05 Jun 2026 05:06:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+        "resumen": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
+        "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+        "publicado": "Fri, 05 Jun 2026 00:06:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "resumen": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "publicado": "Thu, 04 Jun 2026 22:43:26 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "resumen": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "publicado": "Thu, 04 Jun 2026 22:29:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+        "resumen": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+        "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+        "publicado": "Thu, 04 Jun 2026 21:44:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Why isn’t the Trump phone made in the USA?",
+        "resumen": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, I'm investigating where it might have been built - and why it definitely wasn't the US. Almost a year after its announcement, the Trump phone has \"launched.\" A [&#8230;]",
+        "url": "https://www.theverge.com/tech/943852/trump-phone-made-in-the-usa-ftc-assembled-china",
+        "publicado": "2026-06-05T09:33:12-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This chunky little tablet got my kid to clean up his toys",
+        "resumen": "Never underestimate the power that a cheap tablet holds over a kid under six. The Skylight Buddy is a device with one job: to be a cute little guy that helps your kid track routines and chores. It's $139.99, plus an optional subscription. And to my surprise, even though it offers a pretty limited set [&#8230;]",
+        "url": "https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review",
+        "publicado": "2026-06-05T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I customized a MacBook Neo with colorful spare parts",
+        "resumen": "The MacBook Neo is Apple's cheapest laptop, its most colorful, and its easiest to repair in years. That means owners can buy replacement parts in all four of its available colors and swap them in on their own. So that got us thinking: What if we bought a Neo just to see how funky we [&#8230;]",
+        "url": "https://www.theverge.com/tech/942839/macbook-neo-customization-color-mods-official-parts-frankenlaptop",
+        "publicado": "2026-06-05T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous",
+        "resumen": "Back in 2002, Porsche fans sputtered with rage as the Cayenne made its debut at the Paris Motor. More than 20 years later, Porsche now sells more SUVs than anything else in its lineup. Last year, the Macan and Cayenne accounted for 62 percent of all Porsche sales. Now, these SUVs are trolling traditionalists in [&#8230;]",
+        "url": "https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price",
+        "publicado": "2026-06-05T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+        "resumen": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they [&#8230;]",
+        "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+        "publicado": "2026-06-04T18:48:53-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
+        "resumen": "DIYer and TikTok user Annike Tan, who goes by @ubeboobey, can carry her cyberdeck around without anyone noticing because it doesn't look like a computer at all. Tan, who has been featured in The Cut and Wired, went viral earlier this year with a mermaid-themed cyberdeck she made inside an old purse. She has since [&#8230;]",
+        "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+        "publicado": "2026-06-04T16:07:31-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7509.53,
+      "cambio_pct": -0.99,
+      "cierre_anterior": 7584.31,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 9.94,
+      "historico_fechas": [
+        "2026-03-05",
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        6830.71,
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7509.53
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26403.5,
+      "cambio_pct": -1.59,
+      "cierre_anterior": 26830.96,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        27086.81,
+        27093.9,
+        26853.98,
+        26830.96,
+        26403.5
+      ]
+    },
+    "dow": {
+      "ultimo": 51418.78,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 51561.93,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        51078.88,
+        51307.79,
+        50687.07,
+        51561.93,
+        51418.78
+      ]
+    },
+    "vix": {
+      "ultimo": 16.07,
+      "cambio_pct": 4.35,
+      "cierre_anterior": 15.4,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        16.05,
+        15.77,
+        16.06,
+        15.4,
+        16.07
+      ]
+    },
+    "oro": {
+      "ultimo": 4417.4,
+      "cambio_pct": -1.3,
+      "cierre_anterior": 4475.8,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        4475.2,
+        4489.1,
+        4436.7,
+        4475.8,
+        4417.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.6,
+      "cambio_pct": -1.55,
+      "cierre_anterior": 93.04,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        92.16,
+        93.76,
+        96.02,
+        93.04,
+        91.6
+      ]
+    },
+    "btc": {
+      "ultimo": 61168.98,
+      "cambio_pct": -4.13,
+      "cierre_anterior": 63801.57,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        71319.77,
+        66703.66,
+        64014.37,
+        63801.57,
+        61168.98
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.67,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 99.41,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        99.2,
+        99.22,
+        99.53,
+        99.41,
+        99.67
+      ]
+    }
+  }
+}
