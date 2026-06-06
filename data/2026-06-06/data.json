@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-06-06",
+  "generado_en": "2026-06-06T12:05:30.141774Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "West Ham co-chair David Sullivan steps down after 'serious historic allegations'",
+        "resumen": "Sullivan is stepping down from his position as joint chairman and director of the club with immediate effect \"having been made aware of the impending publication of serious historic allegations\".",
+        "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 11:17:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "resumen": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 07:04:19 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The Nowak murder has lit a match under British politics. This is how we got here",
+        "resumen": "The police response to the murder of Henry Nowak has triggered a heated transatlantic debate.",
+        "url": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 11:08:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "resumen": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 11:37:19 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
+        "resumen": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
+        "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 07:33:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Giant banquets rile radical left in France",
+        "resumen": "The feasting phenomenon run by Le Canon Français has become a hot political issue.",
+        "url": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 06 Jun 2026 03:42:04 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "We need to stop AI developing without humans, says Anthropic co-founder",
+        "resumen": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 07:17:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump to meet AI leaders to discuss US investment in their companies",
+        "resumen": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 19:36:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US stocks slump as fears over Big Tech shake Wall Street",
+        "resumen": "The Nasdaq saw its biggest daily fall since early 2025.",
+        "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 21:38:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Who can buy shares in Elon Musk's SpaceX?",
+        "resumen": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
+        "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 09:51:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Hospitality jobs boom as US prepares for World Cup",
+        "resumen": "It is the third month in a row US jobs figures have beaten expectations.",
+        "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 05 Jun 2026 16:02:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The ancient trick making food waste useful and tasty",
+        "resumen": "Instead of throwing away byproducts of food processing, fermentation is making them valuable.",
+        "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 04 Jun 2026 23:10:26 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+        "resumen": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+        "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+        "publicado": "Fri, 05 Jun 2026 22:35:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Founders share VC horror stories, and some are naming names",
+        "resumen": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+        "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+        "publicado": "Fri, 05 Jun 2026 21:47:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+        "resumen": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+        "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+        "publicado": "Fri, 05 Jun 2026 20:31:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Startup Battlefield 200 applications officially close in 3 days",
+        "resumen": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+        "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+        "publicado": "Fri, 05 Jun 2026 20:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google will pay SpaceX $920M per month for compute",
+        "resumen": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "publicado": "Fri, 05 Jun 2026 18:57:20 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "GM’s electric future depends on a new battery — and this facility",
+        "resumen": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
+        "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
+        "publicado": "Fri, 05 Jun 2026 17:44:18 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Here comes new Siri again",
+        "resumen": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
+        "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+        "publicado": "2026-06-06T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The next YouTube phenomenon hitting the big screen",
+        "resumen": "Hi, friends! Welcome to Installer No. 131, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy last week of productivity before the World Cup starts, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about the World Cup [&#8230;]",
+        "url": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
+        "publicado": "2026-06-06T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
+        "resumen": "Back in 2015, the two-person studio Metanet released N++, a brutally hard 2D platformer that was a decade in the making, building off of previous releases dating back to the freeware Flash title N. At the time, cofounder Raigan Burns issued some famous last words: \"We hope it's not another 10 years before we come [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
+        "publicado": "2026-06-05T19:25:34-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Grand Theft Auto VI is warping the video game release calendar",
+        "resumen": "Who's afraid of the next GTA? Based on the last few days of Summer Game Fest, just about everyone. Grand Theft Auto VI hasn't been present at any of the keynote events, but its presence was felt every time a release date was announced. The month of November, when GTA VI launches, is virtually empty. [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
+        "publicado": "2026-06-05T19:05:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
+        "resumen": "Square Enix has officially announced the third and final game in its Final Fantasy VII remake trilogy: Final Fantasy VII Revelation. It will release on multiple platforms simultaneously - PC, PS5, Xbox Series X / S, and Nintendo Switch 2 - in spring 2027. In footage shown onstage at Summer Game Fest Live, there was [&#8230;]",
+        "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
+        "publicado": "2026-06-05T18:52:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Control Resonant is a sequel — and also a starting point",
+        "resumen": "Chronologically, Control Resonant is a sequel to 2019's Control. But in most other ways, the games aren't directly connected. To developer Remedy, they're more like two sides of the same coin. When Resonant was first revealed last year, creative director Mikael Kasurinen said you can play the games in any order. The world of Control [&#8230;]",
+        "url": "https://www.theverge.com/games/944151/control-resonant-hands-on",
+        "publicado": "2026-06-05T17:45:44-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7383.74,
+      "cambio_pct": -2.64,
+      "cierre_anterior": 7584.31,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 9.55,
+      "historico_fechas": [
+        "2026-03-06",
+        "2026-03-09",
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        6740.02,
+        6795.99,
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25709.43,
+      "cambio_pct": -4.18,
+      "cierre_anterior": 26830.96,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        27086.81,
+        27093.9,
+        26853.98,
+        26830.96,
+        25709.43
+      ]
+    },
+    "dow": {
+      "ultimo": 50866.78,
+      "cambio_pct": -1.35,
+      "cierre_anterior": 51561.93,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        51078.88,
+        51307.79,
+        50687.07,
+        51561.93,
+        50866.78
+      ]
+    },
+    "vix": {
+      "ultimo": 21.51,
+      "cambio_pct": 39.68,
+      "cierre_anterior": 15.4,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        16.05,
+        15.77,
+        16.06,
+        15.4,
+        21.51
+      ]
+    },
+    "oro": {
+      "ultimo": 4337.1,
+      "cambio_pct": -3.1,
+      "cierre_anterior": 4475.8,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        4475.2,
+        4489.1,
+        4436.7,
+        4475.8,
+        4337.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 90.54,
+      "cambio_pct": -2.69,
+      "cierre_anterior": 93.04,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        92.16,
+        93.76,
+        96.02,
+        93.04,
+        90.54
+      ]
+    },
+    "btc": {
+      "ultimo": 60878.52,
+      "cambio_pct": -0.07,
+      "cierre_anterior": 60922.67,
+      "historico_fechas": [
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-06"
+      ],
+      "historico_cierres": [
+        66703.66,
+        64014.37,
+        63801.57,
+        60922.67,
+        60878.52
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.07,
+      "cambio_pct": 0.66,
+      "cierre_anterior": 99.41,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05"
+      ],
+      "historico_cierres": [
+        99.2,
+        99.22,
+        99.53,
+        99.41,
+        100.07
+      ]
+    }
+  }
+}
