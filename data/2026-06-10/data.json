@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-10",
+  "generado_en": "2026-06-10T14:23:44.278290Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
+        "resumen": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city.",
+        "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 14:14:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
+        "resumen": "Police Scotland said members of the public were attacked \"because of the colour of their skin\" on Tuesday evening.",
+        "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 13:57:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukraine says missiles hit military plant deep inside Russia",
+        "resumen": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+        "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 11:43:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Stokes out of England squad, Root named captain",
+        "resumen": "Ben Stokes will miss England’s second Test against New Zealand at The Oval following an incident in a London nightclub, with Joe Root stepping up as interim captain.",
+        "url": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 14:20:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "BBC cancels Doctor Who Christmas special and Russell T Davies announces exit",
+        "resumen": "The BBC said the decision was made \"after careful consideration\" and had \"not been taken lightly\".",
+        "url": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 11:43:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two migrants jailed under new small boats law",
+        "resumen": "A Sudanese national and Afghan national were jailed for piloting small boats across the Channel.",
+        "url": "https://www.bbc.com/news/articles/cjrg4031nglo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 13:42:42 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Bill debt soars but many don't know help is available",
+        "resumen": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+        "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 09 Jun 2026 23:03:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US inflation surges to three-year high of 4.2%",
+        "resumen": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
+        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 14:08:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
+        "resumen": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales.",
+        "url": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 04:17:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "World's largest chipmaker does not rule out price rises as costs increase",
+        "resumen": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 09 Jun 2026 22:00:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How to enjoy the World Cup - and keep your boss on side",
+        "resumen": "Football fans and bosses share their strategies to balance late night kick offs with work the next day.",
+        "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 09 Jun 2026 23:03:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK pint prices up 36% since last World Cup – here's why",
+        "resumen": "UK pint prices are up 36% since the last World Cup. We look at why beer now costs so much more.",
+        "url": "https://www.bbc.com/news/articles/c982107drq8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 10 Jun 2026 05:23:36 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "ServiceNow tells customers a bug left some of their data exposed to the internet",
+        "resumen": "ServiceNow is used by thousands of enterprises to automate their internal processes, but says several customers had data accessed because of a security bug.",
+        "url": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+        "publicado": "Wed, 10 Jun 2026 14:13:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "resumen": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+        "publicado": "Wed, 10 Jun 2026 13:33:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+        "resumen": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+        "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+        "publicado": "Wed, 10 Jun 2026 13:07:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Snapchat limits users under 16 to sharing Spotlights with friends",
+        "resumen": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.",
+        "url": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+        "publicado": "Wed, 10 Jun 2026 12:46:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Why everyone’s an energy company now",
+        "resumen": "Electricity demand from AI data centers is pushing everyone — including automakers like GM and Ford — into the energy storage business.",
+        "url": "https://techcrunch.com/2026/06/10/why-everyones-an-energy-company-now/",
+        "publicado": "Wed, 10 Jun 2026 12:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma",
+        "resumen": "Fusion power startup Avalanche Energy said its reactor prototype heated a plasma to over 10 million degrees C.",
+        "url": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+        "publicado": "Wed, 10 Jun 2026 12:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Valve is phasing out physical Steam gift cards due to scammers",
+        "resumen": "After over a decade, Steam will no longer sell physical gift cards in stores. In a support page spotted earlier by Windows Central, Valve says it will no longer restock its gift cards once they run out, citing scammers who \"continue to have an impact on Steam customers and other unsuspecting individuals.\" In its post, [&#8230;]",
+        "url": "https://www.theverge.com/games/947741/valve-steam-physical-gift-cards-scammers",
+        "publicado": "2026-06-10T10:10:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Five questions for the duo behind The Pelley Minutes",
+        "resumen": "Websites are so back! Today's website worth visiting is The Pelley Minutes, a clever project that puts the career of longtime 60 Minutes correspondent Scott Pelley into perspective. The show may only be 60 minutes long, but Pelley racked up nearly 37,000 minutes in his 37-year long career, reporting on almost everything humanity has put [&#8230;]",
+        "url": "https://www.theverge.com/report/947472/five-questions-for-the-duo-behind-the-pelley-minutes",
+        "publicado": "2026-06-10T10:06:17-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Social Reckoning trailer gives us our first look at Jeremy Strong as Zuck",
+        "resumen": "Over 15 years after David Fincher and Aaron Sorkin's The Social Network premiered in theaters, Sony has released the first trailer for The Social Reckoning ahead of its theatrical release on October 9th. The follow-up takes place 17 years after the events portrayed in the original film and follows a young Facebook engineer who enlists [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/947682/social-reckoning-trailer-aaron-sorkin-jeremy-strong-allen-white-facebook",
+        "publicado": "2026-06-10T10:02:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
+        "resumen": "Ahead of Prime Day, Walmart is offering the best price we’ve seen yet on the Apple AirPods 3 wireless earbuds. Originally $249 (though commonly selling somewhere between $200 and $220), they’re $179 at Walmart, presumably for a limited time. If you have an iPhone, these are the best wireless earbuds you can get at this [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/947719/airpods-pro-3-walmart-deal-sale",
+        "publicado": "2026-06-10T10:00:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I’m relieved Siri AI isn’t trying to be a health coach",
+        "resumen": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's WWDC coverage. You can expect our next issue at its usual time next [&#8230;]",
+        "url": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
+        "publicado": "2026-06-10T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s Nest Cam with Floodlight is selling at its lowest price yet",
+        "resumen": "The Google Nest Cam with Floodlight is marked down to $179.99 ($100 off) at multiple retailers, including Amazon, Best Buy, Home Depot, and directly from Google. This weather-resistant outdoor camera captures 1080p video across a 130-degree diagonal field of view, with snappy notifications and great customization options. Even without a subscription, the camera can store [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/947264/google-nest-cam-floodlight-deal-sale",
+        "publicado": "2026-06-10T10:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7387.36,
+      "cambio_pct": 0.01,
+      "cierre_anterior": 7386.65,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 8.93,
+      "historico_fechas": [
+        "2026-03-10",
+        "2026-03-11",
+        "2026-03-12",
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        6781.48,
+        6775.8,
+        6672.62,
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7387.36
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25661.23,
+      "cambio_pct": -0.07,
+      "cierre_anterior": 25678.82,
+      "historico_fechas": [
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        26830.96,
+        25709.43,
+        25929.66,
+        25678.82,
+        25661.23
+      ]
+    },
+    "dow": {
+      "ultimo": 50685.84,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 50872.11,
+      "historico_fechas": [
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        51561.93,
+        50866.78,
+        50786.01,
+        50872.11,
+        50685.84
+      ]
+    },
+    "vix": {
+      "ultimo": 20.31,
+      "cambio_pct": 2.21,
+      "cierre_anterior": 19.87,
+      "historico_fechas": [
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        15.4,
+        21.51,
+        18.92,
+        19.87,
+        20.31
+      ]
+    },
+    "oro": {
+      "ultimo": 4199.3,
+      "cambio_pct": -1.42,
+      "cierre_anterior": 4260.0,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        4337.1,
+        4335.9,
+        4260.0,
+        4199.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 89.72,
+      "cambio_pct": 1.72,
+      "cierre_anterior": 88.2,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        90.54,
+        91.3,
+        88.2,
+        89.72
+      ]
+    },
+    "btc": {
+      "ultimo": 61941.05,
+      "cambio_pct": 0.48,
+      "cierre_anterior": 61643.78,
+      "historico_fechas": [
+        "2026-06-06",
+        "2026-06-07",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        60867.41,
+        63239.52,
+        63090.59,
+        61643.78,
+        61941.05
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.78,
+      "cambio_pct": -0.13,
+      "cierre_anterior": 99.91,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10"
+      ],
+      "historico_cierres": [
+        100.07,
+        100.05,
+        99.91,
+        99.78
+      ]
+    }
+  }
+}
