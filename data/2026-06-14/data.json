@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-06-14",
+  "generado_en": "2026-06-14T12:59:48.742514Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+        "resumen": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday.",
+        "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 12:56:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: MOD video shows Russian shadow fleet tanker interception",
+        "resumen": "British armed forces boarded a Russian shadow fleet oil tanker in the English Channel.",
+        "url": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 09:40:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why Haiti v Scotland was antidote to the ills of world football",
+        "resumen": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston.",
+        "url": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 04:54:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
+        "resumen": "The prime minister is expected to announce measures on protecting teenagers online on Monday.",
+        "url": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 09:51:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "resumen": "The US president's comments come as Iran says an exact date has not been decided.",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 11:23:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Swiss voters reject 10 million population cap, early projections say",
+        "resumen": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 11:31:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Why the US economy keeps defying the odds",
+        "resumen": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
+        "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 14 Jun 2026 05:14:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+        "resumen": "The BBC breaks down how the tech mogul's fortune has grown.",
+        "url": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 12 Jun 2026 23:05:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Anthropic suspends new AI tools over US government security concerns",
+        "resumen": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+        "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 13 Jun 2026 16:28:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "resumen": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 12 Jun 2026 22:00:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+        "resumen": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
+        "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 12 Jun 2026 19:57:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+        "resumen": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
+        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 12 Jun 2026 06:25:10 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "As Anthropic suspends access to new models, India debates its AI future",
+        "resumen": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "publicado": "Sun, 14 Jun 2026 03:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "resumen": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "publicado": "Sun, 14 Jun 2026 00:03:49 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "resumen": "Once again, AI proves to be an unreliable source of information about AI.",
+        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "publicado": "Sat, 13 Jun 2026 20:42:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "resumen": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "publicado": "Sat, 13 Jun 2026 19:11:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI faces investigation from state attorneys general",
+        "resumen": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "publicado": "Sat, 13 Jun 2026 16:47:18 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This thin under-pillow speaker helped me fall asleep without earbuds",
+        "resumen": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at [&#8230;]",
+        "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+        "publicado": "Sat, 13 Jun 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Solid-state batteries still aren’t ready, but gels are",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Lithium-ion batteries are everywhere as we [&#8230;]",
+        "url": "https://www.theverge.com/column/948594/solid-state-batteries-semi-solid-state",
+        "publicado": "2026-06-14T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+        "resumen": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "publicado": "2026-06-13T17:39:26-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "X-Men ’97 has what Master of the Universe is missing",
+        "resumen": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutants into an apocalyptic future. [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+        "publicado": "2026-06-13T16:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sealed Super Mario Bros. sells for a record $3 million",
+        "resumen": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction [&#8230;]",
+        "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+        "publicado": "2026-06-13T14:37:21-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft hasn’t ruled out spinning off Xbox",
+        "resumen": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company. A new report from The Information suggests that Microsoft has [&#8230;]",
+        "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+        "publicado": "2026-06-13T12:29:47-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+        "resumen": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to pack in a carry-on. They’re even easier to recommend today, now [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+        "publicado": "2026-06-13T12:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7431.46,
+      "cambio_pct": 0.5,
+      "cierre_anterior": 7394.3,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 12.05,
+      "historico_fechas": [
+        "2026-03-13",
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        6632.19,
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25888.84,
+      "cambio_pct": 0.31,
+      "cierre_anterior": 25809.66,
+      "historico_fechas": [
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        25929.66,
+        25678.82,
+        25169.5,
+        25809.66,
+        25888.84
+      ]
+    },
+    "dow": {
+      "ultimo": 51202.26,
+      "cambio_pct": 0.7,
+      "cierre_anterior": 50848.75,
+      "historico_fechas": [
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        50786.01,
+        50872.11,
+        49918.78,
+        50848.75,
+        51202.26
+      ]
+    },
+    "vix": {
+      "ultimo": 17.68,
+      "cambio_pct": -9.05,
+      "cierre_anterior": 19.44,
+      "historico_fechas": [
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        18.92,
+        19.87,
+        22.22,
+        19.44,
+        17.68
+      ]
+    },
+    "oro": {
+      "ultimo": 4238.8,
+      "cambio_pct": 3.63,
+      "cierre_anterior": 4090.3,
+      "historico_fechas": [
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        4260.0,
+        4108.2,
+        4090.3,
+        4238.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 84.88,
+      "cambio_pct": -3.23,
+      "cierre_anterior": 87.71,
+      "historico_fechas": [
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        88.2,
+        90.03,
+        87.71,
+        84.88
+      ]
+    },
+    "btc": {
+      "ultimo": 64295.67,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 64421.32,
+      "historico_fechas": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14"
+      ],
+      "historico_cierres": [
+        61449.29,
+        63561.05,
+        63543.2,
+        64421.32,
+        64295.67
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.75,
+      "cambio_pct": -0.11,
+      "cierre_anterior": 99.86,
+      "historico_fechas": [
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12"
+      ],
+      "historico_cierres": [
+        99.91,
+        99.95,
+        99.86,
+        99.75
+      ]
+    }
+  }
+}
