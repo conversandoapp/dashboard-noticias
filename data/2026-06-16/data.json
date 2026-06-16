@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-06-16",
+  "generado_en": "2026-06-16T15:55:43.448334Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "UK forces face operational cuts without more cash, defence chief warns",
+        "resumen": "It comes as ex-defence secretary John Healey says the UK's enemies \"do not follow timetables set by the Treasury\".",
+        "url": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 14:04:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Three reasons ships are not going through the Strait of Hormuz yet",
+        "resumen": "Experts say that there are significant obstacles preventing  traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
+        "url": "https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 14:11:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What UK social media ban means for gaming and YouTube",
+        "resumen": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+        "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 15:28:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Woman left traumatised by swinging says website 'facilitated abuse'",
+        "resumen": "She wants to warn others after her husband pressured her into sex she did not want, she says.",
+        "url": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 05:00:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Prince George to attend Eton College from September",
+        "resumen": "He will follow in the footsteps of his father, the Prince of Wales, who also attended the private school.",
+        "url": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 12:14:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Thames Water closer to nationalisation after government objects to rescue deal",
+        "resumen": "The environment secretary says the deal does not do enough for consumers or the environment.",
+        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 12:25:59 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Musk's SpaceX buys AI coding start-up for $60bn days after IPO",
+        "resumen": "Elon Musk's firm agrees to buy Cursor, while a surge SpaceX's shares sees it overtake Amazon to become the world's fifth most valuable company.",
+        "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 14:45:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+        "resumen": "The environment secretary says the deal does not do enough for consumers or the environment.",
+        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 12:25:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Japan raises interest rate to highest for 31 years",
+        "resumen": "The Bank of Japan has been raising rates from near-zero since 2024.",
+        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 08:26:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How the Iran war affects your money and bills",
+        "resumen": "The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.",
+        "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 11:22:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why is Thames Water in so much trouble?",
+        "resumen": "Thames Water's lenders have submitted a new rescue plan to save the firm, but how did it end up in this state?",
+        "url": "https://www.bbc.com/news/articles/cgleg70r7rno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 11:02:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is Helium-3 and could we get it from the moon?",
+        "resumen": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+        "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 00:11:13 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "SpaceX is public: Everything you need to know post-IPO",
+        "resumen": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+        "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "publicado": "Tue, 16 Jun 2026 15:53:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "India orders temporary ban on Telegram over exam fraud concerns",
+        "resumen": "The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message editing feature.",
+        "url": "https://techcrunch.com/2026/06/16/india-temporarily-blocks-access-to-telegram-over-exam-fraud-concerns/",
+        "publicado": "Tue, 16 Jun 2026 15:49:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+        "resumen": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.",
+        "url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+        "publicado": "Tue, 16 Jun 2026 15:35:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+        "resumen": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+        "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+        "publicado": "Tue, 16 Jun 2026 15:05:03 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+        "resumen": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "publicado": "Tue, 16 Jun 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+        "resumen": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+        "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+        "publicado": "Tue, 16 Jun 2026 14:50:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "We now know how DJI’s dual camera Osmo Pocket 4P compares to Insta360’s",
+        "resumen": "After a brief debut at the Cannes film festival last month, DJI announced all the details of its Osmo Pocket 4P stabilized camera today as part of its initial launch in China. While it doesn't match the 8K capabilities of the Insta360 Luna Ultra, the Pocket 4P features a new 1-inch sensor with improved dynamic [&#8230;]",
+        "url": "https://www.theverge.com/tech/950591/dji-osmo-pocket-4p-dual-gimbal-camera-baby-steadicam-4k-tracking",
+        "publicado": "2026-06-16T11:25:26-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Cybercab is the lightest, most efficient Tesla ever made",
+        "resumen": "Against all odds, the Tesla Cybercab is in production. And while Elon Musk's company may not have a very coherent plan for the tiny, autonomous two-seater, it's still taking the necessary steps to certify the EV's legitimacy. As such, Tesla recently filed paperwork with the Environmental Protection Agency that reveal many of the Cybercab's specs, [&#8230;]",
+        "url": "https://www.theverge.com/transportation/950596/tesla-cybercab-efficient-weight-range-epa",
+        "publicado": "2026-06-16T11:02:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Pour one out for Roku City",
+        "resumen": "By this time next year, Fox Corporation CEO Lachlan Murdoch intends to have added Roku to his already expansive media empire. Should the acquisition go through, Fox will gain control of Roku's modest library of original programming, and the newly combined company will become \"the third-largest player in U.S. television\" in terms of viewing share. [&#8230;]",
+        "url": "https://www.theverge.com/streaming/950644/fox-roku-acquisition-lachlan-murdoch-fox-news-consolidation",
+        "publicado": "2026-06-16T10:55:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Florida sues TikTok for allegedly violating its social media ban for kids",
+        "resumen": "The state of Florida is suing TikTok over claims the company isn't complying with the state's child safety law, which bans kids under 14 from creating social media accounts, as reported earlier by Reuters. The lawsuit, filed on Monday, alleges that TikTok still allows 13-year-olds in Florida to use the platform and is \"actively deceiving\" [&#8230;]",
+        "url": "https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban",
+        "publicado": "2026-06-16T10:06:56-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon’s capable sound system is over $100 off ahead of Prime Day",
+        "resumen": "Built-in television speakers are almost always underwhelming, so getting a soundbar is the best way to elevate any and all content. If you want to get the most for your money, Amazon’s Fire TV Soundbar Plus with a subwoofer and satellite speakers provide a bigger sound than a standalone soundbar like a Sonos Beam. Ahead [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/950210/amazon-fire-tv-plus-subwoofer-satellite-deal-sale",
+        "publicado": "2026-06-16T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The new PopSockets grip is so thin you&#8217;ll forget it&#8217;s even there",
+        "resumen": "If you had asked me a week ago to recommend a thinner alternative to PopSockets’ magnetic phone grips, I would have told you to buy the OhSnap Snap Grip 5. Ask me now and I’ll redirect you right back to the company that accidentally invented the phone grip in 2012 when trying to come up [&#8230;]",
+        "url": "https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on",
+        "publicado": "2026-06-16T09:30:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7540.1,
+      "cambio_pct": 1.46,
+      "cierre_anterior": 7431.46,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 12.55,
+      "historico_fechas": [
+        "2026-03-16",
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        6699.38,
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7540.1
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26545.6,
+      "cambio_pct": 2.54,
+      "cierre_anterior": 25888.84,
+      "historico_fechas": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        25169.5,
+        25809.66,
+        25888.84,
+        26545.6
+      ]
+    },
+    "dow": {
+      "ultimo": 52116.83,
+      "cambio_pct": 1.79,
+      "cierre_anterior": 51202.26,
+      "historico_fechas": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        49918.78,
+        50848.75,
+        51202.26,
+        52116.83
+      ]
+    },
+    "vix": {
+      "ultimo": 15.94,
+      "cambio_pct": -9.84,
+      "cierre_anterior": 17.68,
+      "historico_fechas": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        22.22,
+        19.44,
+        17.68,
+        15.94
+      ]
+    },
+    "oro": {
+      "ultimo": 4343.9,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 4328.0,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        4090.3,
+        4215.0,
+        4328.0,
+        4343.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 75.88,
+      "cambio_pct": -6.03,
+      "cierre_anterior": 80.75,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        87.71,
+        84.88,
+        80.75,
+        75.88
+      ]
+    },
+    "btc": {
+      "ultimo": 65894.79,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 66289.5,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-15",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        63543.2,
+        64421.32,
+        65710.4,
+        66289.5,
+        65894.79
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.58,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 99.75,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-16"
+      ],
+      "historico_cierres": [
+        99.86,
+        99.75,
+        99.58
+      ]
+    }
+  }
+}
