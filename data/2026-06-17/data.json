@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-17",
+  "generado_en": "2026-06-17T14:26:15.108803Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "PM warns Burnham against immediate leadership challenge if he wins by-election",
+        "resumen": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
+        "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 09:17:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tracksuits and no ties - what England's off-pitch looks say about the team",
+        "resumen": "What experts make of the men's team's official off-duty fashion as they prepare for their first World Cup match.",
+        "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 05:52:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+        "resumen": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+        "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 10:01:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jeremy Clarkson reveals prostate cancer diagnosis on farming show",
+        "resumen": "The former Top Gear presenter did not clarify what type of cancer he had been diagnosed with.",
+        "url": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 07:36:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Harry and Meghan to bring children to UK next month",
+        "resumen": "It will be the first time the Duke of Sussex has brought his children to the UK in four years.",
+        "url": "https://www.bbc.com/news/articles/ce3eqkzy2z4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 12:32:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "British couple describe having warning shots fired near them by Russian warship",
+        "resumen": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
+        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 13:41:21 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Inflation unexpectedly steady as food price rises slow",
+        "resumen": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
+        "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 09:52:43 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+        "resumen": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
+        "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 23:05:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Japan raids ice cream giants over price-fixing allegations",
+        "resumen": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
+        "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 07:33:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'It's a unique scenario' - Inside Lidl's first ever pub",
+        "resumen": "The supermarket chain Lidl owns and operates The Middle Ale, a 'world first' for the brand.",
+        "url": "https://www.bbc.com/news/articles/cj9gnljenpko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 05:24:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is Helium-3 and could we get it from the moon?",
+        "resumen": "Helium-3 is expensive and demand is forecast to soar, so some are planning to mine it on the moon.",
+        "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 00:11:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Struggling Pizza Hut chain to be sold for $2.7bn",
+        "resumen": "The decision comes after a prolonged period of difficulty for the chain, which has faced increasing competition from a range of rivals.",
+        "url": "https://www.bbc.com/news/articles/c75yd6dy2vlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 16 Jun 2026 21:00:30 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+        "resumen": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+        "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+        "publicado": "Wed, 17 Jun 2026 14:15:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+        "resumen": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
+        "url": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+        "publicado": "Wed, 17 Jun 2026 13:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+        "resumen": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+        "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+        "publicado": "Wed, 17 Jun 2026 12:38:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+        "resumen": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+        "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+        "publicado": "Wed, 17 Jun 2026 12:14:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber will bring its premium robotaxi service to Houston in 2027",
+        "resumen": "This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro.",
+        "url": "https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/",
+        "publicado": "Wed, 17 Jun 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+        "resumen": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+        "publicado": "Wed, 17 Jun 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The best early Amazon Prime Day deals so far",
+        "resumen": "Amazon’s earlier-than-usual Prime Day doesn’t begin until June 23rd, but there are several even earlier deals on must-have products that you can check out right now. To name some examples, Apple’s AirPods Pro 3 are selling at their cheapest-ever price. Also, you can grab Ring’s latest battery-powered doorbell for $60 off and it includes a [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/944084/best-early-prime-day-deals",
+        "publicado": "2026-06-17T10:12:57-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How to find the best deals during Amazon’s Prime Day sale",
+        "resumen": "Amazon’s Prime Day is one of the biggest shopping events of the year, and the four-day sale for 2026 begins June 23rd at 3:01AM ET and ends at the same time on June 27th. It will grant Prime members access to some of the best prices of the year on Amazon devices, as well as [&#8230;]",
+        "url": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+        "publicado": "2026-06-17T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+        "resumen": "The Toy Story franchise began with a story about a vintage doll feeling threatened by the arrival of an electronic action figure. Woody and Buzz's rivalry embodied a shift that was happening in the '90s as children's toys were becoming more technologically sophisticated, and while toys have gotten even more tech-focused in the years since, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+        "publicado": "2026-06-17T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "AI search grounded in Facebook posts? What could go wrong?",
+        "resumen": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+        "publicado": "2026-06-17T09:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The best Apple deals you can already get ahead of Prime Day",
+        "resumen": "Amazon&#8217;s Prime Day sale kicks off on June 23rd, but already we’re seeing some notable Apple deals trickle in. Whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, many retailers are offering notable discounts ahead of the shopping event. Walmart and Amazon recently surprised us with a new all-time low on [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+        "publicado": "2026-06-17T09:21:15-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Got Thread problems? There’s an app for that",
+        "resumen": "The new Thread Networks Diagnostics Tools app from Thread Group, the standards body behind the wireless IoT protocol, officially launches in beta today. The app, which arrives on iOS today and has been available on Android in alpha for a few weeks, is the first dedicated tool to provide visibility into your Thread-based smart home [&#8230;]",
+        "url": "https://www.theverge.com/tech/949001/thread-network-diagnostic-tools-app-troubleshooting-matter-smart-home",
+        "publicado": "2026-06-17T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7529.96,
+      "cambio_pct": 0.25,
+      "cierre_anterior": 7511.35,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 12.12,
+      "historico_fechas": [
+        "2026-03-17",
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        6716.09,
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7529.96
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26474.68,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 26376.34,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        25809.66,
+        25888.84,
+        26683.94,
+        26376.34,
+        26474.68
+      ]
+    },
+    "dow": {
+      "ultimo": 52279.85,
+      "cambio_pct": 0.54,
+      "cierre_anterior": 51999.67,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        50848.75,
+        51202.26,
+        51671.03,
+        51999.67,
+        52279.85
+      ]
+    },
+    "vix": {
+      "ultimo": 16.6,
+      "cambio_pct": 1.16,
+      "cierre_anterior": 16.41,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        19.44,
+        17.68,
+        16.2,
+        16.41,
+        16.6
+      ]
+    },
+    "oro": {
+      "ultimo": 4362.3,
+      "cambio_pct": 0.73,
+      "cierre_anterior": 4330.9,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        4215.0,
+        4328.0,
+        4330.9,
+        4362.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.91,
+      "cambio_pct": 1.13,
+      "cierre_anterior": 76.05,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        84.88,
+        80.75,
+        76.05,
+        76.91
+      ]
+    },
+    "btc": {
+      "ultimo": 65114.56,
+      "cambio_pct": -0.74,
+      "cierre_anterior": 65600.64,
+      "historico_fechas": [
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        64421.32,
+        65710.4,
+        66289.5,
+        65600.64,
+        65114.56
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.65,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 99.54,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        99.75,
+        99.63,
+        99.54,
+        99.65
+      ]
+    }
+  }
+}
