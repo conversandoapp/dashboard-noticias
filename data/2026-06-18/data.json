@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-18",
+  "generado_en": "2026-06-18T14:11:18.770920Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
+        "resumen": "Preston Davey died after months of sexual and physical abuse at the hands of Jamie Varley.",
+        "url": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 13:45:19 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+        "resumen": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 09:47:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+        "resumen": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+        "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 14:02:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
+        "resumen": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
+        "url": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 08:14:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'My brother hid in a rice sack': The refugee stars playing at the World Cup",
+        "resumen": "Germany's Antonio Rudiger, whose family fled Sierra Leone's civil war, is among those campaigning for a change in global attitudes.",
+        "url": "https://www.bbc.com/news/articles/c1eygyg2zeno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 13:41:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Interest rates held as Bank warns of impact of high energy prices",
+        "resumen": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 12:50:33 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Interest rates held as Bank warns of impact of high energy prices",
+        "resumen": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 12:50:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Number of job vacancies hits five year-low",
+        "resumen": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
+        "url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 11:25:44 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Apple to raise prices as AI boom pushes up chip costs",
+        "resumen": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
+        "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 14:03:27 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why has Texas set its sights on London?",
+        "resumen": "Texas, which once had an embassy in London, strengthens its ties with the capital by opening a new trade office.",
+        "url": "https://www.bbc.com/news/articles/ckgpgvklkgko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 05:03:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "CrossCountry ranked Britain's worst train operator",
+        "resumen": "Transport Focus asks it to reduce delays and provide better information during disruption.",
+        "url": "https://www.bbc.com/news/articles/c36y5ezr0k7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 13:14:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'We had to get out of the way': The backlash over delivery robots",
+        "resumen": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
+        "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 17 Jun 2026 23:02:05 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Spotify’s reserved ticket sales to music superfans are now going live",
+        "resumen": "Spotify is launching \"Reserved,\" a new system that will hold two concert tickets for an artist's superfans before they're on sale to the public.",
+        "url": "https://techcrunch.com/2026/06/18/spotifys-reserved-ticket-sales-to-musics-superfans-are-now-going-live/",
+        "publicado": "Thu, 18 Jun 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+        "resumen": "Adobe is updating its Firefly AI assistant with new chops, and adding it to Premiere, Illustrator, InDesign and Frame.io.",
+        "url": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+        "publicado": "Thu, 18 Jun 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+        "resumen": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+        "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+        "publicado": "Thu, 18 Jun 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo recalls nearly 4,000 robotaxis to stop them driving into highway construction zones",
+        "resumen": "The company has identified at least 13 instances where its robotaxis drove into highway sections closed for construction.",
+        "url": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+        "publicado": "Thu, 18 Jun 2026 11:59:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
+        "resumen": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
+        "url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+        "publicado": "Thu, 18 Jun 2026 06:26:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How to turn off AI in your Google Docs",
+        "resumen": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "publicado": "Thu, 18 Jun 2026 01:23:51 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The best robot vacuum deals available ahead of Prime Day",
+        "resumen": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day is next week, but many retailers are offering early deals on several models we&#8217;ve tested from brands like Roborock, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+        "publicado": "2026-06-18T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Who decides when AI is too dangerous?",
+        "resumen": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
+        "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+        "publicado": "2026-06-18T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon’s Kindle Colorsoft bundle is almost half off for Prime Day",
+        "resumen": "Amazon’s Kindle Colorsoft Essentials Bundle is on sale for $182.97 (originally $334.97) as an early Prime Day deal, the lowest price we’ve seen for the combo. Unlike other Kindles, the Colorsoft’s color E Ink screen is great for comic books and graphics novels, illustrated books, or just perusing book covers while deciding what to read [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/951234/amazon-kindle-colorsoft-bundle-prime-day-deal-sale",
+        "publicado": "2026-06-18T09:09:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Photoshop and Premiere now have AI assistants",
+        "resumen": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
+        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+        "publicado": "2026-06-18T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Adobe’s redesigned AI studio remembers what your creations look like",
+        "resumen": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
+        "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+        "publicado": "2026-06-18T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers",
+        "resumen": "Anime collaborations are everywhere, from Gundam watches and Naruto nights at Major League ballparks to just about anything Evangelion. But these Ghost in the Shell keyboards from Iqunix are some of the coolest examples I've seen of anime-inspired everyday tech. They look sick and they type and play great. At $249 they're a hefty upcharge [&#8230;]",
+        "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
+        "publicado": "2026-06-18T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7483.09,
+      "cambio_pct": 0.85,
+      "cierre_anterior": 7420.1,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 12.96,
+      "historico_fechas": [
+        "2026-03-18",
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        6624.7,
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7483.09
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26323.44,
+      "cambio_pct": 1.16,
+      "cierre_anterior": 26021.66,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        25888.84,
+        26683.94,
+        26376.34,
+        26021.66,
+        26323.44
+      ]
+    },
+    "dow": {
+      "ultimo": 51652.83,
+      "cambio_pct": 0.31,
+      "cierre_anterior": 51492.55,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        51202.26,
+        51671.03,
+        51999.67,
+        51492.55,
+        51652.83
+      ]
+    },
+    "vix": {
+      "ultimo": 17.17,
+      "cambio_pct": -6.89,
+      "cierre_anterior": 18.44,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        17.68,
+        16.2,
+        16.41,
+        18.44,
+        17.17
+      ]
+    },
+    "oro": {
+      "ultimo": 4267.8,
+      "cambio_pct": -2.09,
+      "cierre_anterior": 4358.9,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        4328.0,
+        4330.9,
+        4358.9,
+        4267.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 73.4,
+      "cambio_pct": -4.41,
+      "cierre_anterior": 76.79,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        80.75,
+        76.05,
+        76.79,
+        73.4
+      ]
+    },
+    "btc": {
+      "ultimo": 63764.43,
+      "cambio_pct": -1.02,
+      "cierre_anterior": 64418.45,
+      "historico_fechas": [
+        "2026-06-14",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        65710.4,
+        66289.5,
+        65600.64,
+        64418.45,
+        63764.43
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.65,
+      "cambio_pct": 0.56,
+      "cierre_anterior": 100.09,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        99.63,
+        99.54,
+        100.09,
+        100.65
+      ]
+    }
+  }
+}
