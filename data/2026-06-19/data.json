@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-06-19",
+  "generado_en": "2026-06-19T14:13:34.236920Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "The key figures in Andy Burnham's inner circle",
+        "resumen": "The MPs and advisers likely to be influential if Burnham succeeds in gaining the keys to Number 10.",
+        "url": "https://www.bbc.com/news/articles/c8621d1egw1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 14:06:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
+        "resumen": "Police say a man arrested on suspicion of attempted murder has been bailed.",
+        "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 13:42:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Neither I nor Italy ever beg': Meloni says Trump made up story about photo",
+        "resumen": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 13:42:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Amber extreme heat warning issued as 35C heatwave approaches",
+        "resumen": "Temperatures are expected to peak in the mid-30s Celsius on Monday and Tuesday with impacts on health and a risk of disruption to travel.",
+        "url": "https://www.bbc.com/weather/articles/cz0jde5xkjvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 11:14:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What is Burnham's path to becoming Labour leader and PM?",
+        "resumen": "How could MPs who want Sir Keir Starmer to be replaced force a leadership contest and who could stand?",
+        "url": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 08:38:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farage blames Makerfield defeat on anti-Starmer votes",
+        "resumen": "The Reform UK leader says he is \"disappointed\" with his party's performance in the key by-election.",
+        "url": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 12:48:13 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Plans to end gazumping with binding agreements in house sales shake-up",
+        "resumen": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 11:41:14 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Warning over 'fragile' public finances as borrowing rises",
+        "resumen": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+        "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 08:37:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I'd be put off if he asked to split it': Who should pay on a first date?",
+        "resumen": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 06:52:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+        "resumen": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:05:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Five ways the Iran peace deal could affect you and your money",
+        "resumen": "With fuel and gas prices having fallen in recent days, we look at how the end of hostilities might affect you - in five charts.",
+        "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 09:31:04 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The artificial ice pyramids saving India's mountain villages",
+        "resumen": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+        "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:11:07 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+        "resumen": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "publicado": "Fri, 19 Jun 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+        "resumen": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "publicado": "Fri, 19 Jun 2026 07:59:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Telegram ban in India sparks a rush to VPNs, rival apps",
+        "resumen": "Telegram argues India should block specific content, not an entire platform used by millions.",
+        "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
+        "publicado": "Fri, 19 Jun 2026 01:01:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+        "resumen": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "publicado": "Fri, 19 Jun 2026 00:51:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "resumen": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+        "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "publicado": "Thu, 18 Jun 2026 21:20:13 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Snap spins off AI video team into new company, Dotmo, due to costs",
+        "resumen": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+        "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "publicado": "Thu, 18 Jun 2026 20:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Our long national sunscreen nightmare is almost over",
+        "resumen": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining why they no longer wear sunscreen. In one video, a young man films [&#8230;]",
+        "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
+        "publicado": "2026-06-19T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
+        "resumen": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations manager. If you've been following my reporting on the Trump phone, you'll know that Trump Mobile doesn't exactly keep open lines of [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
+        "publicado": "2026-06-19T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
+        "resumen": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of science fiction, something that doesn't become clear until halfway through the season. \"I knew [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
+        "publicado": "2026-06-19T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+        "resumen": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's entertainment, or wait for a DVD rental to arrive in the [&#8230;]",
+        "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+        "publicado": "2026-06-19T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Barret Zoph is out at OpenAI again after just five months",
+        "resumen": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "publicado": "2026-06-19T00:49:33-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
+        "resumen": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The bad [&#8230;]",
+        "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
+        "publicado": "2026-06-18T16:26:06-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 7420.1,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": NaN,
+      "historico_fechas": [
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        NaN
+      ]
+    },
+    "nasdaq": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 26021.66,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        25888.84,
+        26683.94,
+        26376.34,
+        26021.66,
+        NaN
+      ]
+    },
+    "dow": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 51492.55,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        51202.26,
+        51671.03,
+        51999.67,
+        51492.55,
+        NaN
+      ]
+    },
+    "vix": {
+      "ultimo": 16.83,
+      "cambio_pct": -8.73,
+      "cierre_anterior": 18.44,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        16.2,
+        16.41,
+        18.44,
+        16.83
+      ]
+    },
+    "oro": {
+      "ultimo": 4168.8,
+      "cambio_pct": -1.31,
+      "cierre_anterior": 4224.1,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        4328.0,
+        4330.9,
+        4358.9,
+        4224.1,
+        4168.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.12,
+      "cambio_pct": -0.63,
+      "cierre_anterior": 76.6,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        80.75,
+        76.05,
+        76.79,
+        76.6,
+        76.12
+      ]
+    },
+    "btc": {
+      "ultimo": 63010.39,
+      "cambio_pct": -2.19,
+      "cierre_anterior": 64418.45,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        66289.5,
+        65600.64,
+        64418.45,
+        63010.39
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.82,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 100.09,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        99.63,
+        99.54,
+        100.09,
+        100.82
+      ]
+    }
+  }
+}
