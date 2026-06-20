@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-06-20",
+  "generado_en": "2026-06-20T12:27:06.855040Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "'People flew from their seats': Passengers describe how collision unfolded",
+        "resumen": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.",
+        "url": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 08:36:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Talk of Starmer staying on to fight is fading - fast",
+        "resumen": "After Andy Burnham’s by-election victory, support for the prime minister is evaporating, writes Laura Kuenssberg.",
+        "url": "https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 11:33:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+        "resumen": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+        "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 10:19:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Popping a cocktail of supplements every day might be doing you more harm than good",
+        "resumen": "While many of us take supplements regularly, there are some risks people may not be aware of.",
+        "url": "https://www.bbc.com/news/articles/cd6e25lpwxzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 00:46:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Harry and Meghan offered royal accommodation during UK visit",
+        "resumen": "The Duke and Duchess of Sussex are set to visit the UK with their children next month, for the first time since 2022.",
+        "url": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 03:47:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What we know so far about train collision and emergency response",
+        "resumen": "Two passenger trains collided, leaving a driver dead and dozens of passengers and crew hurt.",
+        "url": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 20 Jun 2026 12:15:27 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Plans to end gazumping with binding agreements in house sales shake-up",
+        "resumen": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 11:41:14 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "O'Leary extends Ryanair contract in deal that could net him over £130m",
+        "resumen": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
+        "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 15:27:27 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Warning over 'fragile' public finances as borrowing rises",
+        "resumen": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+        "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 08:37:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I'd be put off if he asked to split it': Who should pay on a first date?",
+        "resumen": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 06:52:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+        "resumen": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:05:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The artificial ice pyramids saving India's mountain villages",
+        "resumen": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+        "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:11:07 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "He made your free video player run smoothly. Now he’s doing that for robots.",
+        "resumen": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+        "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+        "publicado": "Sat, 20 Jun 2026 00:47:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+        "resumen": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "publicado": "Fri, 19 Jun 2026 22:40:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+        "resumen": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion [&#8230;]",
+        "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+        "publicado": "Fri, 19 Jun 2026 21:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+        "resumen": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]",
+        "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+        "publicado": "Fri, 19 Jun 2026 21:00:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Every fusion startup that has raised over $100M",
+        "resumen": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+        "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+        "publicado": "Fri, 19 Jun 2026 16:50:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "resumen": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jail",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "publicado": "Fri, 19 Jun 2026 16:08:17 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Toy Story has the right take on tech",
+        "resumen": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admin nights (which we [&#8230;]",
+        "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+        "publicado": "2026-06-20T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+        "resumen": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of saying [&#8230;]",
+        "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+        "publicado": "2026-06-20T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
+        "resumen": "Nothing's next budget phone is the latest victim of RAMageddon. As 9to5Google reports, Nothing co-founder Akis Evangelidis announced in a post on X that a follow-up to the CMF Phone 2 Pro won't be coming this year: We were working on a successor but with memory prices where they are right now, we can't build [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
+        "publicado": "2026-06-19T17:28:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
+        "resumen": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fly Aeolus to Mars, where the payload will \"provide the first [&#8230;]",
+        "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
+        "publicado": "2026-06-19T14:41:48-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
+        "resumen": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe series, along with upgrades to its E14 [&#8230;]",
+        "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
+        "publicado": "2026-06-19T13:24:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The NTS Radio Player brings the best of internet radio to your hi-fi",
+        "resumen": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPlay 2, Google Cast, Spotify Connect, or Tidal Connect. [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
+        "publicado": "2026-06-19T10:53:53-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 7420.1,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": NaN,
+      "historico_fechas": [
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        NaN
+      ]
+    },
+    "nasdaq": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 26021.66,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        25888.84,
+        26683.94,
+        26376.34,
+        26021.66,
+        NaN
+      ]
+    },
+    "dow": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 51492.55,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        51202.26,
+        51671.03,
+        51999.67,
+        51492.55,
+        NaN
+      ]
+    },
+    "vix": {
+      "ultimo": 18.44,
+      "cambio_pct": 12.37,
+      "cierre_anterior": 16.41,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17"
+      ],
+      "historico_cierres": [
+        16.2,
+        16.41,
+        18.44
+      ]
+    },
+    "oro": {
+      "ultimo": 4172.9,
+      "cambio_pct": -1.21,
+      "cierre_anterior": 4224.1,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        4328.0,
+        4330.9,
+        4358.9,
+        4224.1,
+        4172.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.54,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 76.6,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        80.75,
+        76.05,
+        76.79,
+        76.6,
+        76.54
+      ]
+    },
+    "btc": {
+      "ultimo": 63684.0,
+      "cambio_pct": 0.23,
+      "cierre_anterior": 63540.84,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-19",
+        "2026-06-20"
+      ],
+      "historico_cierres": [
+        65600.64,
+        64418.45,
+        63540.84,
+        63684.0
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.85,
+      "cambio_pct": 0.76,
+      "cierre_anterior": 100.09,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        99.63,
+        99.54,
+        100.09,
+        100.85
+      ]
+    }
+  }
+}
