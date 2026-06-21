@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-06-21",
+  "generado_en": "2026-06-21T13:07:48.969490Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Signs grow that Starmer will resign as government mood shifts",
+        "resumen": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+        "url": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 10:57:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Extreme heat warning extended to four days as 38C forecast in UK",
+        "resumen": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
+        "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 12:48:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "William marks 44th birthday as royals celebrate Father's Day",
+        "resumen": "The Princess of Wales and the couple's children share message for \"the best papa in the world\".",
+        "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 12:13:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US and Iran begin talks on initial peace deal in Switzerland",
+        "resumen": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 12:52:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Disruption to last a week after fatal Bedford train crash",
+        "resumen": "Police say 28 people remain in hospital after two trains collided on Friday.",
+        "url": "https://www.bbc.com/news/articles/cewq0eggg4lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 12:48:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Stokes to return as captain for third Test, coach McCullum says",
+        "resumen": "England head coach Brendon McCullum says he is ready to work with returning captain Ben Stokes for the deciding Test against New Zealand.",
+        "url": "https://www.bbc.com/sport/cricket/articles/ce8j350k5vro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 12:50:59 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Plans to end gazumping with binding agreements in house sales shake-up",
+        "resumen": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 11:41:14 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "O'Leary extends Ryanair contract in deal that could net him over £130m",
+        "resumen": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
+        "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 15:27:27 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Warning over 'fragile' public finances as borrowing rises",
+        "resumen": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+        "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 08:37:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I'd be put off if he asked to split it': Who should pay on a first date?",
+        "resumen": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+        "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 19 Jun 2026 06:52:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+        "resumen": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:05:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The artificial ice pyramids saving India's mountain villages",
+        "resumen": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+        "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 18 Jun 2026 23:11:07 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "resumen": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "publicado": "Sat, 20 Jun 2026 20:32:29 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "In the Weights is your new AI-centric vanity search",
+        "resumen": "So ... what's your In the Weights score?",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "publicado": "Sat, 20 Jun 2026 19:41:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Founders Fund’s outlier bet on humanely killed fish",
+        "resumen": "Shinkei makes a refrigerator-sized robot called Poseidon to kill fish quickly and humanely.",
+        "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+        "publicado": "Sat, 20 Jun 2026 18:26:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "resumen": "Jumper isn't the only big name leaving Google DeepMind.",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "publicado": "Sat, 20 Jun 2026 16:39:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Every new iOS 27 feature that’s worth knowing about",
+        "resumen": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+        "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+        "publicado": "Sat, 20 Jun 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "He made your free video player run smoothly. Now he’s doing that for robots.",
+        "resumen": "French serial entrepreneur and open-source legend Jean-Baptiste Kempf has been building Kyber, an infrastructure layer to control remote devices in real time.",
+        "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+        "publicado": "Sat, 20 Jun 2026 00:47:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How Roomba started a robot revolution",
+        "resumen": "If you had a Roomba, especially in the early days of the robot vacuum, it was in many ways a fairly unsophisticated machine. It would just bump around your house, looking for something to suck up, until its battery died or its (way too small) tank filled up. Not that it mattered, though. You probably [&#8230;]",
+        "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+        "publicado": "2026-06-21T08:29:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Electric air taxis are stuck in the courtroom",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Last year, [&#8230;]",
+        "url": "https://www.theverge.com/column/950975/electric-air-taxis-lawsuits",
+        "publicado": "2026-06-21T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony’s Xperia 1 VIII is still a phone for the fans",
+        "resumen": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different. Sony staples like a [&#8230;]",
+        "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+        "publicado": "2026-06-21T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Atlantic created a searchable database of the music used to train AI",
+        "resumen": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "publicado": "2026-06-20T14:46:48-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+        "resumen": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production techniques that often rely on telephone line testing equipment and [&#8230;]",
+        "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+        "publicado": "2026-06-20T11:20:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+        "resumen": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even [&#8230;]",
+        "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+        "publicado": "2026-06-20T10:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7500.58,
+      "cambio_pct": 1.08,
+      "cierre_anterior": 7420.1,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 13.53,
+      "historico_fechas": [
+        "2026-03-19",
+        "2026-03-20",
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        6606.49,
+        6506.48,
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26517.93,
+      "cambio_pct": 1.91,
+      "cierre_anterior": 26021.66,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        25888.84,
+        26683.94,
+        26376.34,
+        26021.66,
+        26517.93
+      ]
+    },
+    "dow": {
+      "ultimo": 51564.7,
+      "cambio_pct": 0.14,
+      "cierre_anterior": 51492.55,
+      "historico_fechas": [
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        51202.26,
+        51671.03,
+        51999.67,
+        51492.55,
+        51564.7
+      ]
+    },
+    "vix": {
+      "ultimo": 16.4,
+      "cambio_pct": -11.06,
+      "cierre_anterior": 18.44,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        16.2,
+        16.41,
+        18.44,
+        16.4
+      ]
+    },
+    "oro": {
+      "ultimo": 4172.9,
+      "cambio_pct": -1.21,
+      "cierre_anterior": 4224.1,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        4328.0,
+        4330.9,
+        4358.9,
+        4224.1,
+        4172.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.54,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 76.6,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19"
+      ],
+      "historico_cierres": [
+        80.75,
+        76.05,
+        76.79,
+        76.6,
+        76.54
+      ]
+    },
+    "btc": {
+      "ultimo": 64074.44,
+      "cambio_pct": -0.26,
+      "cierre_anterior": 64239.68,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21"
+      ],
+      "historico_cierres": [
+        64418.45,
+        62896.47,
+        63540.84,
+        64239.68,
+        64074.44
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.85,
+      "cambio_pct": 0.76,
+      "cierre_anterior": 100.09,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18"
+      ],
+      "historico_cierres": [
+        99.63,
+        99.54,
+        100.09,
+        100.85
+      ]
+    }
+  }
+}
