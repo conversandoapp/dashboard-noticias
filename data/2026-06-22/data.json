@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-06-22",
+  "generado_en": "2026-06-22T15:53:18.854521Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Why did Starmer resign and what could happen next?",
+        "resumen": "The Labour leader says he will remain prime minister until his successor is chosen.",
+        "url": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 14:09:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Starmer's premiership in six charts",
+        "resumen": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024.",
+        "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 13:15:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
+        "resumen": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster.",
+        "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 13:54:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch and read Starmer's resignation speech in full",
+        "resumen": "Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address.",
+        "url": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 09:14:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
+        "resumen": "Less than two years after he won a huge majority in the 2024 general election, Sir Keir Starmer has been forced out.",
+        "url": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 10:34:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How four weeks in court unravelled 'sinful and deceitful' Jeffrey Donaldson",
+        "resumen": "The former DUP leader entered calm court on day one calm and relaxed, but by the end he was alone as the jury found him guilty on 18 child sex abuse charges.",
+        "url": "https://www.bbc.com/news/articles/c8x2e0pp1exo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 14:21:56 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
+        "resumen": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
+        "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 10:29:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+        "resumen": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
+        "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 11:55:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fake romance to missed deliveries: How to protect yourself from three common scams",
+        "resumen": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
+        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 23:10:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "South East Water announces new chief executive",
+        "resumen": "John Halsall has previously worked for Thames Water, South West Water and Network Rail.",
+        "url": "https://www.bbc.com/news/articles/cr5jrr1n7ddo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 11:25:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Toy Story 5 scores record opening weekend for franchise",
+        "resumen": "The film's opening is a return to form for Disney and Pixar after facing notable challenges in recent years.",
+        "url": "https://www.bbc.com/news/articles/cx2kqg958v1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 03:13:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is Germany looking again at coal-powered electricity?",
+        "resumen": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
+        "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 21 Jun 2026 23:27:11 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah, and invests $900M in startup",
+        "resumen": "WhatsApp gets a new boss, as Will Cathcart moves to a new role at Meta, while Shah steps down as CEO of Indian fintech giant CRED to replace Cathcart.",
+        "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+        "publicado": "Mon, 22 Jun 2026 15:21:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app",
+        "resumen": "Instagram is coming for streaming services like Netflix and Amazon Prime Video as it sets its ambitions for living room viewing.",
+        "url": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
+        "publicado": "Mon, 22 Jun 2026 14:14:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+        "resumen": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register here.",
+        "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+        "publicado": "Mon, 22 Jun 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Lucid Motors’ new CEO cuts 18% of staff to ‘simplify the company’",
+        "resumen": "The company is also eliminating a production shift at its Arizona factory to align \"production plans with anticipated demand.\"",
+        "url": "https://techcrunch.com/2026/06/22/lucid-motors-new-ceo-cuts-18-of-staff-to-simplify-the-company/",
+        "publicado": "Mon, 22 Jun 2026 13:42:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Seedcamp raises $320M for its new fund to expand its US footprint",
+        "resumen": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.",
+        "url": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+        "publicado": "Mon, 22 Jun 2026 13:37:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Klue hack results in data breach at several cybersecurity firms",
+        "resumen": "Huntress, HackerOne, Jamf, Recorded Future, and Tanium are among the cybersecurity companies that had data stolen following an earlier breach at market research firm Klue.",
+        "url": "https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/",
+        "publicado": "Mon, 22 Jun 2026 13:36:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple’s latest AirTags are cheaper than ever for Prime Day",
+        "resumen": "Prime Day has brought a number of Apple deals, but one of the most useful if you&#8217;re planning to travel over the July 4th weekend or later this summer is on the new AirTags. The four-pack has dropped to a new low of $90 ($9 off) at Amazon and Best Buy, bringing the price of [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
+        "publicado": "2026-06-22T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "WhatsApp head Will Cathcart is stepping down after seven years",
+        "resumen": "Will Cathcart, who led WhatsApp for the past seven years, is stepping down from his role as Meta appoints a new leader. On Monday, Meta CEO Mark Zuckerberg announced on Facebook that Kunal Shah, the founder of an Indian fintech startup called Cred, is taking over as the head of WhatsApp. Cred is an app [&#8230;]",
+        "url": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
+        "publicado": "2026-06-22T10:14:23-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Patreon CEO Jack Conte on supporting artists in the AI slop era",
+        "resumen": "Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially since his [&#8230;]",
+        "url": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
+        "publicado": "2026-06-22T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple’s AirPods Max 2 are $150 off for the first time",
+        "resumen": "Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight color selling at this price. In our review, we praised Apple’s latest over-ear headset for its excellent sound quality, impressive noise cancellation, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale",
+        "publicado": "2026-06-22T09:47:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Wyze’s new smart scale can break down your body composition for less than $80",
+        "resumen": "Seven months after introducing its $119.98 Ultra BodyScan smart scale, Wyze announced a cheaper $79.98 alternative available today that makes a few compromises to shave $40 off the price. There's no Wi-Fi, but you can sync the BodyScan's measurements to Apple Health and Google Fit by connecting to the Wyze mobile app over Bluetooth. And [&#8230;]",
+        "url": "https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition",
+        "publicado": "2026-06-22T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Read this before you vibe-code another app",
+        "resumen": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+        "publicado": "2026-06-22T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7475.98,
+      "cambio_pct": -0.33,
+      "cierre_anterior": 7500.58,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 13.6,
+      "historico_fechas": [
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7475.98
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26231.97,
+      "cambio_pct": -1.08,
+      "cierre_anterior": 26517.93,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        26683.94,
+        26376.34,
+        26021.66,
+        26517.93,
+        26231.97
+      ]
+    },
+    "dow": {
+      "ultimo": 51725.95,
+      "cambio_pct": 0.31,
+      "cierre_anterior": 51564.7,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        51671.03,
+        51999.67,
+        51492.55,
+        51564.7,
+        51725.95
+      ]
+    },
+    "vix": {
+      "ultimo": 17.45,
+      "cambio_pct": 6.4,
+      "cierre_anterior": 16.4,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        16.41,
+        18.44,
+        16.4,
+        17.45
+      ]
+    },
+    "oro": {
+      "ultimo": 4198.7,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 4224.1,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        4330.9,
+        4358.9,
+        4224.1,
+        4198.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 73.31,
+      "cambio_pct": -4.3,
+      "cierre_anterior": 76.6,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        76.05,
+        76.79,
+        76.6,
+        73.31
+      ]
+    },
+    "btc": {
+      "ultimo": 64784.63,
+      "cambio_pct": 2.45,
+      "cierre_anterior": 63237.54,
+      "historico_fechas": [
+        "2026-06-18",
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        62896.47,
+        63540.84,
+        64239.68,
+        63237.54,
+        64784.63
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.92,
+      "cambio_pct": 0.07,
+      "cierre_anterior": 100.85,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22"
+      ],
+      "historico_cierres": [
+        99.54,
+        100.09,
+        100.85,
+        100.92
+      ]
+    }
+  }
+}
