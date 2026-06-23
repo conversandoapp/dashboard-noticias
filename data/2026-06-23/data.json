@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-06-23",
+  "generado_en": "2026-06-23T13:43:30.908829Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Can you keep your kids off school or refuse to work during a heatwave?",
+        "resumen": "As temperatures increase significantly over the next few days, these are your rights.",
+        "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 09:58:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Peter Murrell jailed for more than five years for embezzling SNP funds",
+        "resumen": "The former party chief executive had admitted embezzling more than £400,000 over a 12-year period.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 12:29:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "resumen": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 11:10:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+        "resumen": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 12:14:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farage says £5m gift spending details 'not public's business'",
+        "resumen": "Rival parties have raised concerns over the gift received by the Reform UK leader before he became an MP.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vx2edk0vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 13:09:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Major incident declared after bus crash near roundabout in Wales",
+        "resumen": "Police said the crash happened on the A484 near the Kidwelly roundabout in Carmarthenshire.",
+        "url": "https://www.bbc.co.uk/news/articles/c20ye768v6lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 13:39:56 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Who could be the UK's next chancellor?",
+        "resumen": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 12:05:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Stop pretending EU's new border system is working, says airports chief",
+        "resumen": "The head of Europe's airports lobby says concerns over EES are keeping him awake at night and he doesn't know how airports will cope over the summer.",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 13:39:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+        "resumen": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+        "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 09:53:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Can you keep your kids off school or refuse to work during a heatwave?",
+        "resumen": "As temperatures increase significantly over the next few days, these are your rights.",
+        "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 09:58:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Do you know your 'sweat score'? The rise of hydration tech",
+        "resumen": "Hydration tracking gadgets are flooding the market but is it too much information?",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 22 Jun 2026 23:01:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+        "resumen": "The cuts are part of a wider trend among tech firms as they spend hundreds of billions of dollars on AI.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 23 Jun 2026 10:18:11 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "resumen": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+        "publicado": "Tue, 23 Jun 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "resumen": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "publicado": "Tue, 23 Jun 2026 01:27:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI launches new initiative to help find and patch open source bugs",
+        "resumen": "OpenAI is using AI to help the open source community better protect itself.",
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "publicado": "Tue, 23 Jun 2026 00:11:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+        "resumen": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+        "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+        "publicado": "Mon, 22 Jun 2026 22:59:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+        "resumen": "The lawsuit, led by a Detroit pension fund, alleges Uber's board and management has cut too many compliance corners, resulting in thousands of lawsuits.",
+        "url": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+        "publicado": "Mon, 22 Jun 2026 22:43:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The AI world is getting ‘loopy’",
+        "resumen": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "publicado": "Mon, 22 Jun 2026 20:53:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Oura Ring 4 is as low as $226 for Prime Day",
+        "resumen": "Yes, the Oura Ring 5 just launched. But if you’re looking for a bargain and don’t mind a slightly thicker smart ring, then copping the last-gen Oura Ring 4 is still a smart and savvy move. Especially since the price is as low as $226 in most sizes and color schemes at Amazon for Prime [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
+        "publicado": "2026-06-23T09:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+        "resumen": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]",
+        "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+        "publicado": "2026-06-23T09:25:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "My go-to Kindle is back at its best price yet for Prime Day",
+        "resumen": "If you’ve been thinking about picking up a Kindle, Amazon’s Prime Day sale is a great time to do it. The retailer is currently offering steep discounts on several of its e-readers, including the latest Kindle Paperwhite with 16GB of storage and ads, which is down to $124.99 ($35 off) at Amazon. If you&#8217;d prefer [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale",
+        "publicado": "2026-06-23T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Valve confirms it&#8217;s working with Intel and Nvidia on SteamOS for more GPUs",
+        "resumen": "MSI's Intel-powered Claw gaming handhelds have so far mostly been Windows machines, meaning that anyone who picks one up has to deal with the crusty experience that is Windows on a handheld gaming PC. But now, both Valve and Intel tell The Verge that they're working with each other, and people like YouTuber ETA Prime [&#8230;]",
+        "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
+        "publicado": "2026-06-23T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I’m not giving up my Steam Deck for MSI’s new Claw",
+        "resumen": "This is not a review of the MSI Claw 8 EX AI Plus, the first gaming handheld available with Intel's new Arc G3 Extreme handheld gaming chip. Now that my colleague Sean Hollister is done reviewing the Steam Machine, I'll let him go deep on the new Claw at some point in the future. This [&#8230;]",
+        "url": "https://www.theverge.com/games/952637/msi-claw-8-ex-ai-plus-intel-g3-extreme-steam-deck-hands-on",
+        "publicado": "2026-06-23T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta launches cheaper smart glasses without Ray-Ban",
+        "resumen": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite [&#8230;]",
+        "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+        "publicado": "2026-06-23T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7379.53,
+      "cambio_pct": -1.25,
+      "cierre_anterior": 7472.79,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 12.13,
+      "historico_fechas": [
+        "2026-03-23",
+        "2026-03-24",
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        6581.0,
+        6556.37,
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7379.53
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25686.27,
+      "cambio_pct": -1.84,
+      "cierre_anterior": 26166.6,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        26376.34,
+        26021.66,
+        26517.93,
+        26166.6,
+        25686.27
+      ]
+    },
+    "dow": {
+      "ultimo": 51532.12,
+      "cambio_pct": -0.35,
+      "cierre_anterior": 51712.71,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        51999.67,
+        51492.55,
+        51564.7,
+        51712.71,
+        51532.12
+      ]
+    },
+    "vix": {
+      "ultimo": 20.21,
+      "cambio_pct": 16.96,
+      "cierre_anterior": 17.28,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        18.44,
+        16.4,
+        17.28,
+        20.21
+      ]
+    },
+    "oro": {
+      "ultimo": 4136.7,
+      "cambio_pct": -1.08,
+      "cierre_anterior": 4181.9,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        4358.9,
+        4224.1,
+        4181.9,
+        4136.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 73.12,
+      "cambio_pct": -2.27,
+      "cierre_anterior": 74.82,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        76.79,
+        76.6,
+        74.82,
+        73.12
+      ]
+    },
+    "btc": {
+      "ultimo": 62299.15,
+      "cambio_pct": -2.58,
+      "cierre_anterior": 63952.11,
+      "historico_fechas": [
+        "2026-06-19",
+        "2026-06-20",
+        "2026-06-21",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        63540.84,
+        64239.68,
+        63237.54,
+        63952.11,
+        62299.15
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.26,
+      "cambio_pct": 0.24,
+      "cierre_anterior": 101.02,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "historico_cierres": [
+        100.09,
+        100.85,
+        101.02,
+        101.26
+      ]
+    }
+  }
+}
