@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-06-25",
+  "generado_en": "2026-06-25T13:20:39.717530Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Chaos after building collapses on Caracas outskirts",
+        "resumen": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 12:08:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Europe's heatwave shifts east as France raises health alert to highest level",
+        "resumen": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 13:16:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "TikTok influencer charged with Dubai murder",
+        "resumen": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 11:58:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ryanair says it will reluctantly not charge parents to sit next to children",
+        "resumen": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 12:08:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How brands banned from the World Cup became the story",
+        "resumen": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 10:53:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jail time and unlimited fines planned under conversion practices ban",
+        "resumen": "The government says a new Bill will protect LGBT people from \"abusive acts\" to change who they are.",
+        "url": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 08:33:22 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Ryanair says it will reluctantly not charge parents to sit next to children",
+        "resumen": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 12:08:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Oil price falls back to pre-Iran war levels",
+        "resumen": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 12:37:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How you can save money on your energy bill as debts rise",
+        "resumen": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 11:04:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
+        "resumen": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 13:20:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I've spent 30 years in recruitment - this is how to get a job",
+        "resumen": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 07:24:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The legal fight to get equal pay for Germany's disabled workers",
+        "resumen": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 24 Jun 2026 23:10:28 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+        "resumen": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+        "publicado": "Thu, 25 Jun 2026 12:00:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+        "resumen": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.",
+        "url": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+        "publicado": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Europe is pushing back on Washington’s chip war",
+        "resumen": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+        "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+        "publicado": "Thu, 25 Jun 2026 00:08:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "resumen": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "publicado": "Wed, 24 Jun 2026 23:26:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Elon suffers another day short of trillionaire status",
+        "resumen": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+        "url": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+        "publicado": "Wed, 24 Jun 2026 23:09:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "resumen": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+        "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "publicado": "Wed, 24 Jun 2026 22:41:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
+        "resumen": "Following the launch of the SL3 in 2024 and last year's SL3-S that was optimized for speed and capturing fast moving subjects, Leica announced the new SL3-P today delivering some of the best features from both of its predecessors. Like Leica's previous \"P\" variants, the new SL3-P lacks the brand's iconic and recognizable red dot [&#8230;]",
+        "url": "https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price",
+        "publicado": "2026-06-25T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Our 29 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
+        "resumen": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better or equivalent price on digital versions, as well [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+        "publicado": "2026-06-25T08:53:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple reveals price hikes for MacBooks and iPads",
+        "resumen": "Apple is hiking prices in response to the ongoing memory shortage. On Thursday, the company adjusted the price of its new MacBook Neo, which will now start at $699 instead of $599, while the base MacBook Air will jump to $1,299 from $1,099, as reported earlier by Bloomberg. The 14-inch MacBook Pro is getting an [&#8230;]",
+        "url": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage",
+        "publicado": "2026-06-25T08:53:23-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+        "resumen": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+        "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+        "publicado": "2026-06-25T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
+        "resumen": "YouTube TV and DirecTV Stream customers may be eligible for a cash payout, after Disney agreed to pay $50 million to settle claims that it forced the services to increase their subscription prices. Anyone who was subscribed to YouTube TV or DirecTV Stream between April 1st, 2019, and March 31st, 2026 is eligible to claim [&#8230;]",
+        "url": "https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement",
+        "publicado": "2026-06-25T06:54:21-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The 124 best tech deals for day three of Prime Day",
+        "resumen": "It&#8217;s day three of Prime Day, folks. We&#8217;re nearly 75 percent of the way through Amazon&#8217;s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, headphones, and more. Prime Day typically isn&#8217;t as big of a deal as [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
+        "publicado": "2026-06-25T06:40:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7358.22,
+      "cambio_pct": -0.1,
+      "cierre_anterior": 7365.46,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 11.63,
+      "historico_fechas": [
+        "2026-03-25",
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24"
+      ],
+      "historico_cierres": [
+        6591.9,
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25476.64,
+      "cambio_pct": -0.43,
+      "cierre_anterior": 25587.04,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24"
+      ],
+      "historico_cierres": [
+        26021.66,
+        26517.93,
+        26166.6,
+        25587.04,
+        25476.64
+      ]
+    },
+    "dow": {
+      "ultimo": 51848.9,
+      "cambio_pct": 0.35,
+      "cierre_anterior": 51666.84,
+      "historico_fechas": [
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24"
+      ],
+      "historico_cierres": [
+        51492.55,
+        51564.7,
+        51712.71,
+        51666.84,
+        51848.9
+      ]
+    },
+    "vix": {
+      "ultimo": 17.9,
+      "cambio_pct": -3.92,
+      "cierre_anterior": 18.63,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        17.28,
+        19.49,
+        18.63,
+        17.9
+      ]
+    },
+    "oro": {
+      "ultimo": 4043.0,
+      "cambio_pct": 1.32,
+      "cierre_anterior": 3990.3,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        4181.9,
+        4129.9,
+        3990.3,
+        4043.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 69.82,
+      "cambio_pct": -0.74,
+      "cierre_anterior": 70.34,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        74.82,
+        73.21,
+        70.34,
+        69.82
+      ]
+    },
+    "btc": {
+      "ultimo": 61158.64,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 60995.13,
+      "historico_fechas": [
+        "2026-06-21",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        63237.54,
+        63952.11,
+        62668.02,
+        60995.13,
+        61158.64
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.62,
+      "cambio_pct": 0.01,
+      "cierre_anterior": 101.61,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        101.02,
+        101.41,
+        101.61,
+        101.62
+      ]
+    }
+  }
+}
