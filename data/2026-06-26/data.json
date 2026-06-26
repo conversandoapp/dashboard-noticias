@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-06-26",
+  "generado_en": "2026-06-26T13:12:54.152709Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
+        "resumen": "Henry Nowak's killer is seen lying to police in bodycam video released after a request from the BBC.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 05:03:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
+        "resumen": "13 men are accused of helping a man abuse his wife over a period of years.",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 12:51:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Moment woman pulled from rubble alive",
+        "resumen": "First responders and volunteers pulled a survivor from under the rubble of a collapsed building in La Guaira.",
+        "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 10:06:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
+        "resumen": "New figures show the monarch paid £12.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated.",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 09:21:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "King and Queen will not live in Buckingham Palace after renovations",
+        "resumen": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says.",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 11:01:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Driver gives lift to armed officer chasing suspect",
+        "resumen": "The chase was caught on camera as the motorist pulled over to help in Margate.",
+        "url": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 21:09:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Power banks and vapes now biggest fire risk on planes",
+        "resumen": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 23:28:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I'm back at home again after uni - here's how I'm making it work",
+        "resumen": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 23:03:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Asia stock markets slide as tech shares slump",
+        "resumen": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 07:33:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Who could be the UK's next chancellor?",
+        "resumen": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 10:37:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Teens who hacked TfL were known to police years before cyber-attack",
+        "resumen": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 23:19:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The abundant but expensive energy source that's under your feet",
+        "resumen": "Start-ups are taking fresh approaches to geothermal energy, but will the economics work?",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 10:12:42 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Robotaxis drives miles just to get cleaned and charged; this new startup wants to fix that",
+        "resumen": "Aseon Labs, which came out of Y Combinator's 2026 spring cohort, has raised $10 million from Crane Venture Partners and others.",
+        "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+        "publicado": "Fri, 26 Jun 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+        "resumen": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+        "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+        "publicado": "Fri, 26 Jun 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "resumen": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "publicado": "Thu, 25 Jun 2026 23:34:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+        "resumen": "YouTube Shorts is getting a makeover.",
+        "url": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+        "publicado": "Thu, 25 Jun 2026 22:02:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "resumen": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "publicado": "Thu, 25 Jun 2026 20:19:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Polymarket says hackers stole users’ funds",
+        "resumen": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
+        "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+        "publicado": "Thu, 25 Jun 2026 19:58:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Prime Day is offering rare discounts on Philips Hue smart lights",
+        "resumen": "Philips Hue products don&#8217;t often see major discounts, which makes this year&#8217;s Prime Day deals especially notable. Prices have dropped significantly across much of the company&#8217;s smart lighting lineup, with deals on everything from smart bulb starter kits and sleep lamps to smart buttons. In some cases, the lowest prices are available directly from Philips [&#8230;]",
+        "url": "https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale",
+        "publicado": "2026-06-26T08:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "With GTA looming, consoles are getting expensive at the worst possible time",
+        "resumen": "The release of Grand Theft Auto VI is a singular moment, the kind of massive cultural phenomenon that makes people want to go out and buy a console to play it. It is the preeminent modern example of what's known as a \"system seller.\" There's almost certainly a large audience of people who were waiting [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes",
+        "publicado": "2026-06-26T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung will soon start charging to access its smart home API",
+        "resumen": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though. Some more advanced smart home users are likely to fall afoul of the rule change if [&#8230;]",
+        "url": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+        "publicado": "2026-06-26T07:38:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
+        "resumen": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it originally planned to release later\" with the M7 launch next year. The Cupertino company will reportedly only [&#8230;]",
+        "url": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
+        "publicado": "2026-06-26T07:14:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
+        "resumen": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+        "publicado": "2026-06-26T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump Mobile will take your $499 right now",
+        "resumen": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small number [&#8230;]",
+        "url": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
+        "publicado": "2026-06-26T04:40:21-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7357.49,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 7358.22,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 13.59,
+      "historico_fechas": [
+        "2026-03-26",
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        6477.16,
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25358.6,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 25476.64,
+      "historico_fechas": [
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        26517.93,
+        26166.6,
+        25587.04,
+        25476.64,
+        25358.6
+      ]
+    },
+    "dow": {
+      "ultimo": 51920.62,
+      "cambio_pct": 0.14,
+      "cierre_anterior": 51848.9,
+      "historico_fechas": [
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        51564.7,
+        51712.71,
+        51666.84,
+        51848.9,
+        51920.62
+      ]
+    },
+    "vix": {
+      "ultimo": 20.13,
+      "cambio_pct": 6.56,
+      "cierre_anterior": 18.89,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        17.28,
+        19.49,
+        18.63,
+        18.89,
+        20.13
+      ]
+    },
+    "oro": {
+      "ultimo": 4068.3,
+      "cambio_pct": 0.94,
+      "cierre_anterior": 4030.5,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        4181.9,
+        4129.9,
+        3990.3,
+        4030.5,
+        4068.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 69.62,
+      "cambio_pct": -3.2,
+      "cierre_anterior": 71.92,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        74.82,
+        73.21,
+        70.34,
+        71.92,
+        69.62
+      ]
+    },
+    "btc": {
+      "ultimo": 59125.32,
+      "cambio_pct": -1.0,
+      "cierre_anterior": 59721.68,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        63952.11,
+        62668.02,
+        60995.13,
+        59721.68,
+        59125.32
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.11,
+      "cambio_pct": -0.32,
+      "cierre_anterior": 101.43,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        101.02,
+        101.41,
+        101.61,
+        101.43,
+        101.11
+      ]
+    }
+  }
+}
