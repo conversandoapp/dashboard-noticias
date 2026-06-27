@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-06-27",
+  "generado_en": "2026-06-27T12:09:34.451998Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Mahmood announces new refugee sponsorship route into UK",
+        "resumen": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 11:37:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
+        "resumen": "More than 600 flights have been delayed at Heathrow and Gatwick, many due to stormy weather south of the UK.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 11:33:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Are we in for a summer of serial heatwaves?",
+        "resumen": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
+        "url": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 03:16:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US strikes Iran after attack on cargo ship",
+        "resumen": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 10:40:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "resumen": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
+        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 23:01:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Is Andy Burnham Labour's saviour, or just its best bet?",
+        "resumen": "Labour insiders give Laura Kuenssberg their take on the man tipped to replace Keir Starmer as PM.",
+        "url": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 09:43:41 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Trump threatens 100% tariff on European nations over tech tax",
+        "resumen": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 27 Jun 2026 01:37:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Three unusual things about the King's tax bill",
+        "resumen": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 23:00:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I'm back at home again after uni - here's how I'm making it work",
+        "resumen": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 23:03:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Power banks and vapes now biggest fire risk on planes",
+        "resumen": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 25 Jun 2026 23:28:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Asia stock markets slide as tech shares slump",
+        "resumen": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 07:33:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+        "resumen": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 26 Jun 2026 13:51:15 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+        "resumen": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "publicado": "Sat, 27 Jun 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "resumen": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "publicado": "Sat, 27 Jun 2026 01:01:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "resumen": "Mesh came out of stealth in February with a $50 million Series A.",
+        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "publicado": "Sat, 27 Jun 2026 00:38:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+        "resumen": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+        "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+        "publicado": "Fri, 26 Jun 2026 22:00:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
+        "resumen": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
+        "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
+        "publicado": "Fri, 26 Jun 2026 19:13:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "resumen": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "publicado": "Fri, 26 Jun 2026 18:32:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This puzzle game&#8217;s simple premise hides surprising depth",
+        "resumen": "What's the Password? has a simple concept: To solve each of the game's more than 100 puzzles, you have to type in the right four-digit password on a number pad. That might sound like a limited constraint. But the simplicity gives solo developer Dan DiIorio, better known as TrampolineTales, lots of room to play with [&#8230;]",
+        "url": "https://www.theverge.com/games/957474/whats-the-password-review-pc-ios-android",
+        "publicado": "2026-06-27T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This might be the new best smart speaker",
+        "resumen": "Hi, friends! Welcome to Installer No. 134, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're okay in all this heat, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Polymarket lies and Jalen Brunson and [&#8230;]",
+        "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+        "publicado": "2026-06-27T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Prime Day is almost over, but these are still the best Apple deals I&#8217;ve seen",
+        "resumen": "Amazon&#8217;s Prime Day is now in its final hours, but whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for $179. [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+        "publicado": "2026-06-26T22:56:52-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+        "resumen": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve been craving a popular [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+        "publicado": "2026-06-26T22:54:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+        "resumen": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers actually buy. Below, we&#8217;ve rounded up [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+        "publicado": "2026-06-26T22:33:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The 17 best robot vacuum deals you can still get before Prime Day ends",
+        "resumen": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+        "publicado": "2026-06-26T20:42:42-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 7357.49,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": NaN,
+      "historico_fechas": [
+        "2026-03-27",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        6368.85,
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        NaN
+      ]
+    },
+    "nasdaq": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 25358.6,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        26166.6,
+        25587.04,
+        25476.64,
+        25358.6,
+        NaN
+      ]
+    },
+    "dow": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 51920.62,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        51712.71,
+        51666.84,
+        51848.9,
+        51920.62,
+        NaN
+      ]
+    },
+    "vix": {
+      "ultimo": 18.89,
+      "cambio_pct": 1.4,
+      "cierre_anterior": 18.63,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        17.28,
+        19.49,
+        18.63,
+        18.89
+      ]
+    },
+    "oro": {
+      "ultimo": 4078.7,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 4030.5,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        4181.9,
+        4129.9,
+        3990.3,
+        4030.5,
+        4078.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 69.23,
+      "cambio_pct": -3.74,
+      "cierre_anterior": 71.92,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26"
+      ],
+      "historico_cierres": [
+        74.82,
+        73.21,
+        70.34,
+        71.92,
+        69.23
+      ]
+    },
+    "btc": {
+      "ultimo": 60236.09,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 60016.43,
+      "historico_fechas": [
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-27"
+      ],
+      "historico_cierres": [
+        62668.02,
+        60995.13,
+        59721.68,
+        60016.43,
+        60236.09
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.43,
+      "cambio_pct": -0.18,
+      "cierre_anterior": 101.61,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25"
+      ],
+      "historico_cierres": [
+        101.02,
+        101.41,
+        101.61,
+        101.43
+      ]
+    }
+  }
+}
