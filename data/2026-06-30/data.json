@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-06-30",
+  "generado_en": "2026-06-30T13:09:46.454087Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Government promises to act after 'shocking' failings in maternity care in England",
+        "resumen": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
+        "url": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 12:09:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Refugees would be told to repay around £10,000 under new asylum bill",
+        "resumen": "The Home Office will be given powers to recover costs from adults who have received asylum support under new laws.",
+        "url": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 09:00:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+        "resumen": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 11:36:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Government 'cannot deport' grooming gang ringleader",
+        "resumen": "A 55-year-old law means the government has no legal powers to remove Shabir Ahmed from the UK.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wl6ynn2no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 11:36:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Another UK heatwave could be on the way",
+        "resumen": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains.",
+        "url": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 10:33:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+        "resumen": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 29 Jun 2026 20:34:52 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Homes harder to sell as high mortgage rates frustrate buyers",
+        "resumen": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla.",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 06:22:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "We had packed lunches every day for 10 years and retired at 40",
+        "resumen": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 29 Jun 2026 23:03:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Chinese tycoon sentenced to 30 years in US jail",
+        "resumen": "Guo Wengui branded himself as a China critic, gaining followers who backed his fraudulent schemes.",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 02:08:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Hollywood director gets two and a half years in prison for defrauding Netflix",
+        "resumen": "He was accused of using money for a Netflix show on lavish purchases like Rolls Royces and Ferraris.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 29 Jun 2026 20:41:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shetland backs plan to connect islands with £1.5bn undersea tunnels",
+        "resumen": "The undersea links between some of the UK's most northerly islands could be in place within eight years.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 12:18:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "India's biggest share sales tell the story of a country glued to its phones",
+        "resumen": "NSE and Jio Platforms embody the sweeping changes in how India has consumed, invested and transacted over the past decade.",
+        "url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 03:42:14 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Crypto exchange OKX wants AI agents to hire and pay each other",
+        "resumen": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+        "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+        "publicado": "Tue, 30 Jun 2026 09:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The AI jobs debate just got messier",
+        "resumen": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "publicado": "Tue, 30 Jun 2026 04:01:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "resumen": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "publicado": "Tue, 30 Jun 2026 02:28:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+        "resumen": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+        "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+        "publicado": "Mon, 29 Jun 2026 20:55:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Gemini’s personalized AI image generation is now free for US users",
+        "resumen": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "publicado": "Mon, 29 Jun 2026 20:12:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
+        "resumen": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads.",
+        "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+        "publicado": "Mon, 29 Jun 2026 19:06:21 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meet the lawyer who beat Elon Musk — twice",
+        "resumen": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
+        "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+        "publicado": "2026-06-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This motor could be the future of e-bikes",
+        "resumen": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control? No problem, you can have as [&#8230;]",
+        "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+        "publicado": "2026-06-30T06:30:04-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Our best look yet at Samsung’s new wide foldable",
+        "resumen": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and the Galaxy Z [&#8230;]",
+        "url": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+        "publicado": "2026-06-30T05:54:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "T-Mobile is booting customers from its oldest plans",
+        "resumen": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screenshots of the text on reddit and [&#8230;]",
+        "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+        "publicado": "2026-06-29T17:06:14-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "After a great start, DC’s new cinematic universe is already slowing down",
+        "resumen": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with films about another Kryptonian and one of [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+        "publicado": "2026-06-29T17:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+        "resumen": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo. [&#8230;]",
+        "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+        "publicado": "2026-06-29T16:18:26-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7440.43,
+      "cambio_pct": 1.18,
+      "cierre_anterior": 7354.02,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6343.72,
+      "rendimiento_periodo_pct": 17.29,
+      "historico_fechas": [
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29"
+      ],
+      "historico_cierres": [
+        6343.72,
+        6528.52,
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25820.14,
+      "cambio_pct": 2.07,
+      "cierre_anterior": 25297.62,
+      "historico_fechas": [
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29"
+      ],
+      "historico_cierres": [
+        25587.04,
+        25476.64,
+        25358.6,
+        25297.62,
+        25820.14
+      ]
+    },
+    "dow": {
+      "ultimo": 52182.74,
+      "cambio_pct": 0.59,
+      "cierre_anterior": 51876.11,
+      "historico_fechas": [
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29"
+      ],
+      "historico_cierres": [
+        51666.84,
+        51848.9,
+        51920.62,
+        51876.11,
+        52182.74
+      ]
+    },
+    "vix": {
+      "ultimo": 17.6,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 17.65,
+      "historico_fechas": [
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30"
+      ],
+      "historico_cierres": [
+        18.63,
+        18.89,
+        18.41,
+        17.65,
+        17.6
+      ]
+    },
+    "oro": {
+      "ultimo": 4024.9,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 4022.3,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30"
+      ],
+      "historico_cierres": [
+        4030.5,
+        4078.7,
+        4022.3,
+        4024.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 71.0,
+      "cambio_pct": 0.35,
+      "cierre_anterior": 70.75,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30"
+      ],
+      "historico_cierres": [
+        71.92,
+        69.23,
+        70.75,
+        71.0
+      ]
+    },
+    "btc": {
+      "ultimo": 58523.0,
+      "cambio_pct": -2.69,
+      "cierre_anterior": 60138.38,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-27",
+        "2026-06-28",
+        "2026-06-29",
+        "2026-06-30"
+      ],
+      "historico_cierres": [
+        60016.43,
+        59940.1,
+        59532.34,
+        60138.38,
+        58523.0
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.36,
+      "cambio_pct": 0.24,
+      "cierre_anterior": 101.11,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30"
+      ],
+      "historico_cierres": [
+        101.43,
+        101.36,
+        101.11,
+        101.36
+      ]
+    }
+  }
+}
