@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-07-01",
+  "generado_en": "2026-07-01T13:34:21.829144Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
+        "resumen": "She described feeling fear and dread as she returned to her job, working for James Holder, after the attack.",
+        "url": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 05:00:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Nowak case officers face gross misconduct investigation",
+        "resumen": "Henry Nowak, 18, was handcuffed as he lay dying after being stabbed by Vickrum Digwa in December 2025.",
+        "url": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 10:23:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Judge 'wrong' to spare rapists jail, court told",
+        "resumen": "Three teenage boys convicted of rape should have been jailed, the Court of Appeal has heard.",
+        "url": "https://www.bbc.co.uk/news/articles/clye2enp0lxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 13:17:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Family of boy attacked by crocodile thank zoo staff who rescued him",
+        "resumen": "The boy remains at Addenbrooke's Hospital in a stable condition, police say.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 11:24:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Village People frontman Victor Willis dies aged 74",
+        "resumen": "Victor Willis was the band's frontman and co-wrote most of their hit songs including YMCA.",
+        "url": "https://www.bbc.co.uk/news/articles/cddlnqy8zmqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 09:25:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump made more than $1bn from crypto in first year back in office",
+        "resumen": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 11:41:13 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Trump made more than $1bn from crypto in first year back in office",
+        "resumen": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 11:41:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Plea for households to read energy meter as prices rise",
+        "resumen": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 23:02:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
+        "resumen": "The sweeping restructuring, approved by a court, will see steep rent cuts on most remaining stores.",
+        "url": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 11:31:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brewery boss who banned phones and swearing from pubs dies aged 81",
+        "resumen": "Humphrey Smith had been at the helm of the Tadcaster brewer since the 1980s.",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 12:20:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why Gen Z are planning for life without a state pension",
+        "resumen": "Many younger people do not believe the state pension will exist when they are older",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 30 Jun 2026 23:05:19 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why is crucial tech vulnerable to the heat?",
+        "resumen": "Energy grids and train services are among the vital services that are vulnerable to very hot weather.",
+        "url": "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 01 Jul 2026 07:23:12 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "The ‘Father of the Internet’ is finally retiring",
+        "resumen": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "publicado": "Wed, 01 Jul 2026 03:15:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "resumen": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "publicado": "Wed, 01 Jul 2026 02:16:06 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "resumen": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "publicado": "Wed, 01 Jul 2026 02:04:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Startup Battlefield Australia application closes in days: Apply before July 6",
+        "resumen": "What if one pitch changed everything? The next company nobody has heard of yet is building something that will matter. It could be yours.",
+        "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+        "publicado": "Tue, 30 Jun 2026 23:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenClaw is finally available on Android and iOS",
+        "resumen": "The free open source agentic program is finally invading your phone.",
+        "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+        "publicado": "Tue, 30 Jun 2026 21:53:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "resumen": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+        "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+        "publicado": "Tue, 30 Jun 2026 20:33:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sony is closing the PS3 and Vita digital stores",
+        "resumen": "It's the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close in select markets later this year, including Mexico, Honduras, and Nicaragua starting in August, with \"additional Latin American and [&#8230;]",
+        "url": "https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down",
+        "publicado": "2026-07-01T08:37:52-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony is killing all physical PlayStation game discs",
+        "resumen": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will still be available on disc. \"This is a natural [&#8230;]",
+        "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending",
+        "publicado": "2026-07-01T08:15:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google built a great smart speaker, but Gemini isn’t ready for it",
+        "resumen": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
+        "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "publicado": "2026-07-01T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Rhythm Heaven never misses a beat",
+        "resumen": "Rhythm Heaven isn't Nintendo's best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it's out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even still, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch",
+        "publicado": "2026-07-01T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Range anxiety",
+        "resumen": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of which landed directly on Rivian’s electric vehicle factory on [&#8230;]",
+        "url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+        "publicado": "2026-07-01T07:00:02-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+        "resumen": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling its Portal-themed Companion Cube [&#8230;]",
+        "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+        "publicado": "2026-07-01T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7452.73,
+      "cambio_pct": -0.62,
+      "cierre_anterior": 7499.36,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6575.32,
+      "rendimiento_periodo_pct": 13.34,
+      "historico_fechas": [
+        "2026-04-01",
+        "2026-04-02",
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        6575.32,
+        6582.69,
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7452.73
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25980.55,
+      "cambio_pct": -0.89,
+      "cierre_anterior": 26213.72,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        25358.6,
+        25297.62,
+        25820.14,
+        26213.72,
+        25980.55
+      ]
+    },
+    "dow": {
+      "ultimo": 52078.72,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 52319.2,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        51920.62,
+        51876.11,
+        52182.74,
+        52319.2,
+        52078.72
+      ]
+    },
+    "vix": {
+      "ultimo": 16.8,
+      "cambio_pct": 2.13,
+      "cierre_anterior": 16.45,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        18.89,
+        18.41,
+        17.65,
+        16.45,
+        16.8
+      ]
+    },
+    "oro": {
+      "ultimo": 4057.6,
+      "cambio_pct": 0.86,
+      "cierre_anterior": 4022.9,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        4078.7,
+        4022.3,
+        4022.9,
+        4057.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 68.95,
+      "cambio_pct": -0.79,
+      "cierre_anterior": 69.5,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        69.23,
+        70.75,
+        69.5,
+        68.95
+      ]
+    },
+    "btc": {
+      "ultimo": 58644.98,
+      "cambio_pct": 0.15,
+      "cierre_anterior": 58558.86,
+      "historico_fechas": [
+        "2026-06-27",
+        "2026-06-28",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        59940.1,
+        59532.34,
+        60138.38,
+        58558.86,
+        58644.98
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.45,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 101.19,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01"
+      ],
+      "historico_cierres": [
+        101.36,
+        101.11,
+        101.19,
+        101.45
+      ]
+    }
+  }
+}
