@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-03",
+  "generado_en": "2026-07-03T12:56:44.935957Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Police criticise timing of decision on pubs staying open for England match",
+        "resumen": "The \"late announcement\" extending opening hours to 05:00 on Monday means taking officers away from other duties, the National Police Chiefs' Council says.",
+        "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 12:53:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+        "resumen": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 02 Jul 2026 23:15:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+        "resumen": "Monaco's prosecutor's office says the suspect is no longer in Monaco.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 11:59:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "NHS to reward people who walk 30 minutes a day",
+        "resumen": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year.",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 02 Jul 2026 23:13:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+        "resumen": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 10:23:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Nasa launches mission to save falling space telescope",
+        "resumen": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 10:28:17 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+        "resumen": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+        "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 12:14:01 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+        "resumen": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+        "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 10:46:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+        "resumen": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+        "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 09:50:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Burnham says there is some room for movement on tax",
+        "resumen": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 03 Jul 2026 12:44:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
+        "resumen": "The government had initially said it would not relax licensing laws further for the World Cup.",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 02 Jul 2026 20:49:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI is 'not smart' so what's next in artificial intelligence?",
+        "resumen": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+        "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 02 Jul 2026 23:02:09 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+        "resumen": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+        "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+        "publicado": "Fri, 03 Jul 2026 05:05:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+        "resumen": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
+        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+        "publicado": "Fri, 03 Jul 2026 00:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "resumen": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "publicado": "Thu, 02 Jul 2026 23:38:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Private space pilots are flying orbital missions for the US Space Force",
+        "resumen": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
+        "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+        "publicado": "Thu, 02 Jul 2026 23:01:06 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+        "resumen": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
+        "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+        "publicado": "Thu, 02 Jul 2026 21:57:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+        "resumen": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+        "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+        "publicado": "Thu, 02 Jul 2026 20:42:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple TV is hitting its stride",
+        "resumen": "Since its inception, Apple TV, n&#233;e Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the HBO of [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+        "publicado": "2026-07-03T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "resumen": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "publicado": "2026-07-03T07:49:10-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony’s PlayStation disc factory is already being repurposed",
+        "resumen": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which are for PlayStation. But [&#8230;]",
+        "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+        "publicado": "2026-07-02T21:05:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+        "resumen": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla's Full-Self Driving (FSD) [&#8230;]",
+        "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+        "publicado": "2026-07-02T18:09:33-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+        "resumen": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI [&#8230;]",
+        "url": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+        "publicado": "2026-07-02T17:09:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The best July 4th sales we found so far",
+        "resumen": "July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation&#8217;s birthday. Best Buy is [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+        "publicado": "2026-07-02T16:15:45-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7483.24,
+      "cambio_pct": 0.0,
+      "cierre_anterior": 7483.23,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6611.83,
+      "rendimiento_periodo_pct": 13.18,
+      "historico_fechas": [
+        "2026-04-06",
+        "2026-04-07",
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02"
+      ],
+      "historico_cierres": [
+        6611.83,
+        6616.85,
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25832.67,
+      "cambio_pct": -0.8,
+      "cierre_anterior": 26040.03,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02"
+      ],
+      "historico_cierres": [
+        25297.62,
+        25820.14,
+        26213.72,
+        26040.03,
+        25832.67
+      ]
+    },
+    "dow": {
+      "ultimo": 52900.07,
+      "cambio_pct": 1.14,
+      "cierre_anterior": 52305.24,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02"
+      ],
+      "historico_cierres": [
+        51876.11,
+        52182.74,
+        52319.2,
+        52305.24,
+        52900.07
+      ]
+    },
+    "vix": {
+      "ultimo": 15.94,
+      "cambio_pct": -1.3,
+      "cierre_anterior": 16.15,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03"
+      ],
+      "historico_cierres": [
+        17.65,
+        16.45,
+        16.59,
+        16.15,
+        15.94
+      ]
+    },
+    "oro": {
+      "ultimo": 4187.7,
+      "cambio_pct": 1.82,
+      "cierre_anterior": 4112.7,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03"
+      ],
+      "historico_cierres": [
+        4022.3,
+        4022.9,
+        4068.3,
+        4112.7,
+        4187.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 68.2,
+      "cambio_pct": -0.71,
+      "cierre_anterior": 68.69,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03"
+      ],
+      "historico_cierres": [
+        70.75,
+        69.5,
+        68.58,
+        68.69,
+        68.2
+      ]
+    },
+    "btc": {
+      "ultimo": 61877.66,
+      "cambio_pct": 0.64,
+      "cierre_anterior": 61485.3,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03"
+      ],
+      "historico_cierres": [
+        60138.38,
+        58558.86,
+        60003.76,
+        61485.3,
+        61877.66
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.78,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 100.86,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-03"
+      ],
+      "historico_cierres": [
+        101.11,
+        101.19,
+        101.39,
+        100.86,
+        100.78
+      ]
+    }
+  }
+}
