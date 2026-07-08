@@ -1,0 +1,443 @@
+{
+  "fecha": "2026-07-08",
+  "generado_en": "2026-07-08T12:21:26.467221Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Chris Mason: It's far from certain whether by-election will strengthen Farage",
+        "resumen": "The Reform UK leader faces a challenge from Count Binface as the main parties rule out standing in Clacton.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 11:33:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police name man wanted over murders of wife and children",
+        "resumen": "An international manhunt is under way for Ndodana Mkhanyisi Tshuma, who left the country via Heathrow Airport.",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 12:16:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
+        "resumen": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
+        "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 07 Jul 2026 23:10:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Multiple cakes and stolen keepsakes: Greg James spills the tea on Taylor Swift's wedding",
+        "resumen": "The DJ shared details on his Wednesday morning show after flying to New York City for the wedding.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kd1de8l5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 09:48:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The tactics British wildcard Fery needs to use to become Wimbledon semi-finalist",
+        "resumen": "Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli.",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 05:41:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Has Harry's war with the press finally run out of road?",
+        "resumen": "The Duke of Sussex and six others have lost their High Court privacy case against the publisher of the Daily Mail and Mail on Sunday.",
+        "url": "https://www.bbc.co.uk/news/articles/clyrq1kr6q5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 07:49:57 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+        "resumen": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+        "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 11:24:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+        "resumen": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
+        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 01:04:44 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+        "resumen": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+        "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 09:31:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+        "resumen": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown.",
+        "url": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 07:53:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Victims of 23andMe data breach to get $47m payout, judge rules",
+        "resumen": "23andMe compiles genetic profiles of people through DNA testing kits, but it was heavily criticised after a 2023 hack.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 07 Jul 2026 23:47:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Airbnb data identifies illegal social home sublets",
+        "resumen": "Nearly 6,000 social homes are thought to be illegally listed on short-term rental platforms.",
+        "url": "https://www.bbc.co.uk/news/articles/c6211ng49zwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 05:03:28 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+        "resumen": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+        "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+        "publicado": "Wed, 08 Jul 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+        "resumen": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+        "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+        "publicado": "Wed, 08 Jul 2026 08:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "resumen": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+        "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+        "publicado": "Wed, 08 Jul 2026 07:16:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Final extension: Startup Battlefield Australia applications now close July 20",
+        "resumen": "If you're building something ambitious, this is a fast track to the people who can move your startup forward.",
+        "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+        "publicado": "Tue, 07 Jul 2026 22:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "resumen": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "publicado": "Tue, 07 Jul 2026 22:18:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "resumen": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "publicado": "Tue, 07 Jul 2026 20:04:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Steam Machine fits my TV, my desk, and my life",
+        "resumen": "For the last couple weeks, I've been in an extremely lucky position: I've been spending a lot of time playing games on Valve's Steam Machine. We gave the Steam Machine a 6, and I don't disagree with my colleague Sean Hollister's review. But even though I already own a PS5 and an Xbox Series X, [&#8230;]",
+        "url": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
+        "publicado": "2026-07-08T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The robotaxi law that could ban Tesla",
+        "resumen": "For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world reliably? Tesla has bet billions of dollars that artificial intelligence and cameras are [&#8230;]",
+        "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+        "publicado": "2026-07-08T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung will launch its new wide foldable on July 22nd",
+        "resumen": "Samsung has announced that its next Galaxy Unpacked launch event will be held on July 22nd, with the tagline: \"A new shape unfolds.\" It's long been rumored that Samsung is about to expand its foldable phone line to a third format, with a shorter and wider version of its big book-style foldables, to match Huawei's [&#8230;]",
+        "url": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
+        "publicado": "2026-07-08T04:13:52-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+        "resumen": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions such as physically drilling [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+        "publicado": "2026-07-07T19:55:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Of course viewers are giving up on Netflix shows",
+        "resumen": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it returned earlier this year. There seems to be some confusion [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+        "publicado": "2026-07-07T17:58:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers",
+        "resumen": "Starting on August 3rd, Netflix's streaming library will include video content from dozens of digital media brands including BuzzFeed, Cond&#233; Nast, Hearst Magazines, People Inc, and Tastemade. As reported earlier by TechCrunch, the deal includes a mix of licensed past videos and new ongoing series that would have typically been published on YouTube or other [&#8230;]",
+        "url": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
+        "publicado": "2026-07-07T17:37:19-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7503.85,
+      "cambio_pct": -0.45,
+      "cierre_anterior": 7537.43,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6782.81,
+      "rendimiento_periodo_pct": 10.63,
+      "historico_fechas": [
+        "2026-04-08",
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07"
+      ],
+      "historico_cierres": [
+        6782.81,
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25818.69,
+      "cambio_pct": -1.16,
+      "cierre_anterior": 26121.16,
+      "historico_fechas": [
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07"
+      ],
+      "historico_cierres": [
+        26213.72,
+        26040.03,
+        25832.67,
+        26121.16,
+        25818.69
+      ]
+    },
+    "dow": {
+      "ultimo": 52925.15,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 53055.91,
+      "historico_fechas": [
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07"
+      ],
+      "historico_cierres": [
+        52319.2,
+        52305.24,
+        52900.07,
+        53055.91,
+        52925.15
+      ]
+    },
+    "vix": {
+      "ultimo": 17.6,
+      "cambio_pct": 9.11,
+      "cierre_anterior": 16.13,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08"
+      ],
+      "historico_cierres": [
+        16.15,
+        15.57,
+        16.13,
+        17.6
+      ]
+    },
+    "oro": {
+      "ultimo": 4083.0,
+      "cambio_pct": -1.5,
+      "cierre_anterior": 4145.3,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08"
+      ],
+      "historico_cierres": [
+        4112.7,
+        4155.1,
+        4145.3,
+        4083.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 73.94,
+      "cambio_pct": 4.97,
+      "cierre_anterior": 70.44,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08"
+      ],
+      "historico_cierres": [
+        68.69,
+        68.55,
+        70.44,
+        73.94
+      ]
+    },
+    "btc": {
+      "ultimo": 62269.98,
+      "cambio_pct": -1.62,
+      "cierre_anterior": 63297.39,
+      "historico_fechas": [
+        "2026-07-04",
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08"
+      ],
+      "historico_cierres": [
+        63088.3,
+        63547.88,
+        63995.02,
+        63297.39,
+        62269.98
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.17,
+      "cambio_pct": 0.03,
+      "cierre_anterior": 101.14,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08"
+      ],
+      "historico_cierres": [
+        100.86,
+        100.85,
+        101.14,
+        101.17
+      ]
+    }
+  }
+}
