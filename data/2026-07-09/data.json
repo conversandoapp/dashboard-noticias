@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-09",
+  "generado_en": "2026-07-09T13:50:31.209934Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Family's 'unimaginable loss' as mum and daughters found dead",
+        "resumen": "Bedfordshire Police is seeking Ndodana Mkhanyisi Tshuma, 45, also known as Mark.",
+        "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 10:27:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Disability benefit not fit for purpose, minister leading review says",
+        "resumen": "Sir Stephen Timms says personal independence payments (Pip) in England and Wales need changing.",
+        "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 08:23:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man denies attempted murder of 10 people on train near Huntingdon",
+        "resumen": "Anthony Williams pleads not guilty to various charges after passengers were stabbed onboard.",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 11:12:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Most popular baby names for boys and girls in 2025 revealed",
+        "resumen": "The Office for National Statistics releases its annual data on baby names, with Olivia remaining most popular for girls and Muhammad for boys.",
+        "url": "https://www.bbc.co.uk/news/articles/cevlw4wnlmxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 10:03:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham on course for No 10 as Labour nominations open",
+        "resumen": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
+        "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 10:23:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Prince Harry gets UK trip back on track with hospital visit",
+        "resumen": "The Duke of Sussex visits a children's hospital in Birmingham in a trip to the UK that has had a bumpy start.",
+        "url": "https://www.bbc.co.uk/news/articles/czdezv3j7zeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 12:58:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Why electric cars cost more to insure - and what's being done about it",
+        "resumen": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
+        "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 23:09:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I run the UK's biggest bank, here are five ways to manage your money",
+        "resumen": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 23:10:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How can I get air conditioning in my home and how much does it cost?",
+        "resumen": "As summers in the UK get hotter, is it time for air conditioning to become a permanent feature in most homes?",
+        "url": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 10:00:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Jackdaw boss warns of winter fuel shortage risk if gas field not approved",
+        "resumen": "Adura says the UK government must approve North Sea production urgently to avoid domestic supply shortages.",
+        "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 10:20:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Life of Sizewell B extended by another 20 years",
+        "resumen": "The power plant was due to reach the end of its life in 2035 but will now continue until 2055.",
+        "url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 05:27:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Wealthy AI workers send San Francisco house prices soaring",
+        "resumen": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 08 Jul 2026 23:11:35 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+        "resumen": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+        "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+        "publicado": "Thu, 09 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+        "resumen": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+        "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+        "publicado": "Thu, 09 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+        "resumen": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+        "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+        "publicado": "Thu, 09 Jul 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+        "resumen": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
+        "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+        "publicado": "Thu, 09 Jul 2026 02:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+        "resumen": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
+        "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+        "publicado": "Wed, 08 Jul 2026 23:11:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Lovable reportedly in talks to double its valuation to $13.2B",
+        "resumen": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+        "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+        "publicado": "Wed, 08 Jul 2026 22:41:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ICE agents are making house calls for online critics",
+        "resumen": "A few hours after checking into a hotel in New York City, David Streever woke up to a call from the front desk saying someone was looking for him. Streever had just landed on a return trip from Finland, where he'd vacationed with his daughter. Though Streever didn't know it yet, while he'd been away, [&#8230;]",
+        "url": "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech",
+        "publicado": "2026-07-09T09:45:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Say hello to Claude Wrapped",
+        "resumen": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+        "publicado": "2026-07-09T09:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Character.AI wants a piece of the microdrama pie",
+        "resumen": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+        "publicado": "2026-07-09T09:11:53-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+        "resumen": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can [&#8230;]",
+        "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+        "publicado": "2026-07-09T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SpaceX is on track for record-setting Starlink deployments",
+        "resumen": "SpaceX is currently ahead of last year's record-setting pace for Starlink satellite deployments. SpaceX launched 1,589 Starlink satellites into low-Earth orbit in the first half of 2026, according to launch data compiled by Jonathan McDowell's satellite tracker, compared to 1,489 satellites deployed at the same point in 2025. 2025 was already a record year for [&#8230;]",
+        "url": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
+        "publicado": "2026-07-09T07:51:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta is reportedly working on smart glasses that would be recording all the time",
+        "resumen": "Meta might be the next company to make an always-on AI wearable. The company is working on prototype \"super sensing\" always-aware smart glasses that could continuously record audio and snap photos \"every few seconds,\" according to the Financial Times. The wearer could then ask Meta AI about the captured audio and images. However, the images [&#8230;]",
+        "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+        "publicado": "2026-07-08T18:37:25-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7507.5,
+      "cambio_pct": 0.33,
+      "cierre_anterior": 7482.71,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6816.89,
+      "rendimiento_periodo_pct": 10.01,
+      "historico_fechas": [
+        "2026-04-09",
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        6824.66,
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7507.5
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25996.37,
+      "cambio_pct": 0.49,
+      "cierre_anterior": 25870.65,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        25832.67,
+        26121.16,
+        25818.69,
+        25870.65,
+        25996.37
+      ]
+    },
+    "dow": {
+      "ultimo": 52366.11,
+      "cambio_pct": 0.03,
+      "cierre_anterior": 52348.39,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        52900.07,
+        53055.91,
+        52925.15,
+        52348.39,
+        52366.11
+      ]
+    },
+    "vix": {
+      "ultimo": 16.76,
+      "cambio_pct": -0.83,
+      "cierre_anterior": 16.9,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        15.57,
+        16.13,
+        16.9,
+        16.76
+      ]
+    },
+    "oro": {
+      "ultimo": 4132.2,
+      "cambio_pct": 1.51,
+      "cierre_anterior": 4070.9,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        4155.1,
+        4145.3,
+        4070.9,
+        4132.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 72.99,
+      "cambio_pct": -0.72,
+      "cierre_anterior": 73.52,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        68.55,
+        70.44,
+        73.52,
+        72.99
+      ]
+    },
+    "btc": {
+      "ultimo": 62846.33,
+      "cambio_pct": 0.95,
+      "cierre_anterior": 62257.57,
+      "historico_fechas": [
+        "2026-07-05",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        63547.88,
+        63995.02,
+        63297.39,
+        62257.57,
+        62846.33
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.95,
+      "cambio_pct": -0.1,
+      "cierre_anterior": 101.05,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        100.85,
+        101.14,
+        101.05,
+        100.95
+      ]
+    }
+  }
+}
