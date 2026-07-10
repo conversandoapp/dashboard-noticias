@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-10",
+  "generado_en": "2026-07-10T13:12:30.576596Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+        "resumen": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
+        "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 05:00:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Met police investigating Reform over election donations - reports",
+        "resumen": "The investigation is looking into donations made to Reform UK by the mother of the convicted fraudster George Cottrell, according to the Times.",
+        "url": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 11:46:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ann Widdecombe: Brexit-backing former minister turned Strictly star",
+        "resumen": "A leading figure on the right of British politics who reinvented herself as a reality TV star.",
+        "url": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 11:53:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man 'nearly sucked out of window mid-air' on Ryanair plane, passengers say",
+        "resumen": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 12:31:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Pioneering treatment saves identical twins from rare pregnancy condition",
+        "resumen": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial.",
+        "url": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 01:37:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Vapes to have less enticing names and flavours to protect children",
+        "resumen": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
+        "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 09:54:49 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "resumen": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 09:38:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+        "resumen": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 01:33:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Man 'nearly sucked out of window mid-air' on Ryanair plane, passengers say",
+        "resumen": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 12:31:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Vapes to have less enticing names and flavours to protect children",
+        "resumen": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
+        "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 09:54:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "We've saved £6,000 on holidays by swapping homes with strangers",
+        "resumen": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 08:26:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Pressure builds on Europe's biggest port to be greener",
+        "resumen": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
+        "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 09 Jul 2026 23:00:51 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
+        "resumen": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
+        "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
+        "publicado": "Fri, 10 Jul 2026 04:36:20 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "resumen": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "publicado": "Fri, 10 Jul 2026 00:16:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+        "resumen": "The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+        "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+        "publicado": "Fri, 10 Jul 2026 00:13:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fidji Simo steps down from OpenAI’s No. 2 role",
+        "resumen": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+        "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+        "publicado": "Thu, 09 Jul 2026 23:38:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI launches its new family of models with GPT-5.6",
+        "resumen": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "publicado": "Thu, 09 Jul 2026 22:24:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "An AI agent startup just let its agent run its $100M fundraise",
+        "resumen": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "publicado": "Thu, 09 Jul 2026 22:08:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Doom&#8217;s new expansion shows just what makes id Software special",
+        "resumen": "This week should have been a celebration for Doom developer id Software. The studio just launched Revelations, a meaty expansion for Doom: The Dark Ages that adds a powerful new weapon and more demonic levels to blast through. Even though I hadn't picked up The Dark Ages for more than a year, it only took [&#8230;]",
+        "url": "https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review",
+        "publicado": "2026-07-10T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Polestar owners left ‘holding the bag’ after EV brand pulls out of the US",
+        "resumen": "Last month, Polestar shocked the auto industry when it announced that it was pulling out of the US. The EV company's decision came after the federal government denied its authorization to continue selling its cars despite a rule banning vehicles with Chinese-made connected vehicle software. Polestar, which is headquartered in Sweden but majority owned by [&#8230;]",
+        "url": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
+        "publicado": "2026-07-10T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Instagram and Facebook will likely require a redesign after EU rules they&#8217;re &#8216;addictive&#8217;",
+        "resumen": "Meta is in breach of the EU's Digital Services Act (DSA), a preliminary investigation has found, over the \"addictive\" design of Instagram and Facebook. It's likely to be forced to redesign both apps and could face a fine of up to $12 billion. The European Commission said Meta \"did not adequately assess the risks of [&#8230;]",
+        "url": "https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa",
+        "publicado": "2026-07-10T06:52:53-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft’s carbon emissions went up 25 percent last year",
+        "resumen": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+        "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+        "publicado": "2026-07-09T20:04:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+        "resumen": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "publicado": "2026-07-09T19:24:04-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Netflix reportedly considers adding always-on channels",
+        "resumen": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that they're free - because of the ads you have to watch. Netflix [&#8230;]",
+        "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+        "publicado": "2026-07-09T19:00:31-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7543.64,
+      "cambio_pct": 0.81,
+      "cierre_anterior": 7482.71,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6816.89,
+      "rendimiento_periodo_pct": 10.66,
+      "historico_fechas": [
+        "2026-04-10",
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        6816.89,
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26206.89,
+      "cambio_pct": 1.3,
+      "cierre_anterior": 25870.65,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        25832.67,
+        26121.16,
+        25818.69,
+        25870.65,
+        26206.89
+      ]
+    },
+    "dow": {
+      "ultimo": 52487.41,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 52348.39,
+      "historico_fechas": [
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09"
+      ],
+      "historico_cierres": [
+        52900.07,
+        53055.91,
+        52925.15,
+        52348.39,
+        52487.41
+      ]
+    },
+    "vix": {
+      "ultimo": 15.8,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 15.84,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        15.57,
+        16.13,
+        16.9,
+        15.84,
+        15.8
+      ]
+    },
+    "oro": {
+      "ultimo": 4112.6,
+      "cambio_pct": -0.44,
+      "cierre_anterior": 4130.6,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        4155.1,
+        4145.3,
+        4070.9,
+        4130.6,
+        4112.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 72.13,
+      "cambio_pct": 0.07,
+      "cierre_anterior": 72.08,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        68.55,
+        70.44,
+        73.52,
+        72.08,
+        72.13
+      ]
+    },
+    "btc": {
+      "ultimo": 64205.03,
+      "cambio_pct": 1.6,
+      "cierre_anterior": 63193.15,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        63995.02,
+        63297.39,
+        62257.57,
+        63193.15,
+        64205.03
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.87,
+      "cambio_pct": -0.07,
+      "cierre_anterior": 100.94,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        100.85,
+        101.14,
+        101.05,
+        100.94,
+        100.87
+      ]
+    }
+  }
+}
