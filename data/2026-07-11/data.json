@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-11",
+  "generado_en": "2026-07-11T11:53:06.392924Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "TV presenter Dermot Murnaghan dies aged 68",
+        "resumen": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer.",
+        "url": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 11 Jul 2026 11:32:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "resumen": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 11 Jul 2026 11:42:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+        "resumen": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+        "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 11 Jul 2026 09:01:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Chaos and confusion reign as Harry loses media battle",
+        "resumen": "Team Sussex has had a bumpy last seven days in the UK, which was meant to focus on the Invictus Games.",
+        "url": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 23:36:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meet the crypto billionaires building a world where money buys you a vote",
+        "resumen": "They think democracy has run its course - so they're setting up their own nations instead.",
+        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 23:03:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Is it time to give record-breaker Pickford the credit he deserves?",
+        "resumen": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 11 Jul 2026 05:55:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Will Trump Accounts deliver for American children?",
+        "resumen": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 11 Jul 2026 07:41:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Major car firms found not to have installed emissions-cheating devices",
+        "resumen": "A High Court judge said some major car manufacturers did not install a device to cheat emissions testing.",
+        "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 16:18:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "resumen": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 15:02:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+        "resumen": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 01:33:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+        "resumen": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+        "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 16:42:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Vapes to have less enticing names and flavours to protect children",
+        "resumen": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
+        "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 10 Jul 2026 09:54:49 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+        "resumen": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+        "publicado": "Sat, 11 Jul 2026 01:01:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+        "resumen": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
+        "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+        "publicado": "Sat, 11 Jul 2026 00:29:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta removes controversial AI feature on Instagram after backlash",
+        "resumen": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "publicado": "Fri, 10 Jul 2026 23:55:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+        "resumen": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+        "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+        "publicado": "Fri, 10 Jul 2026 21:51:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple sues OpenAI over alleged trade secret theft",
+        "resumen": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+        "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "publicado": "Fri, 10 Jul 2026 21:00:29 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+        "resumen": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+        "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+        "publicado": "Fri, 10 Jul 2026 17:42:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Are you filthy enough for a $700 portable shower?",
+        "resumen": "Hot showers, like electricity, are a luxury that's easy to take for granted. That all changes after a few nights camping at a music festival, a week toiling at a backcountry job site, or overlanding all summer in the great unknown. An itchy scalp and the vague smell of warm clams suddenly make the idea [&#8230;]",
+        "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+        "publicado": "2026-07-11T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "No, Flock isn&#8217;t threatening people for debating surveillance",
+        "resumen": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
+        "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
+        "publicado": "2026-07-10T20:10:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "resumen": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "publicado": "2026-07-10T19:49:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
+        "resumen": "Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They're just two of the many firms DJI is suspected of starting to skirt the United States' foreign drone ban. But it appears the FCC is [&#8230;]",
+        "url": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+        "publicado": "2026-07-10T18:35:18-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "resumen": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+        "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "publicado": "2026-07-10T17:36:51-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A decade later, Pokémon Go finally made good on its original promise",
+        "resumen": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 players (many of [&#8230;]",
+        "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+        "publicado": "2026-07-10T15:51:10-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7575.39,
+      "cambio_pct": 0.42,
+      "cierre_anterior": 7543.64,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 6886.24,
+      "rendimiento_periodo_pct": 10.01,
+      "historico_fechas": [
+        "2026-04-13",
+        "2026-04-14",
+        "2026-04-15",
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        6886.24,
+        6967.38,
+        7022.95,
+        7041.28,
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26281.61,
+      "cambio_pct": 0.29,
+      "cierre_anterior": 26206.89,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        26121.16,
+        25818.69,
+        25870.65,
+        26206.89,
+        26281.61
+      ]
+    },
+    "dow": {
+      "ultimo": 52637.01,
+      "cambio_pct": 0.29,
+      "cierre_anterior": 52487.41,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        53055.91,
+        52925.15,
+        52348.39,
+        52487.41,
+        52637.01
+      ]
+    },
+    "vix": {
+      "ultimo": 15.03,
+      "cambio_pct": -5.11,
+      "cierre_anterior": 15.84,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        15.57,
+        16.13,
+        16.9,
+        15.84,
+        15.03
+      ]
+    },
+    "oro": {
+      "ultimo": 4104.1,
+      "cambio_pct": -0.64,
+      "cierre_anterior": 4130.6,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        4155.1,
+        4145.3,
+        4070.9,
+        4130.6,
+        4104.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 71.41,
+      "cambio_pct": -0.93,
+      "cierre_anterior": 72.08,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        68.55,
+        70.44,
+        73.52,
+        72.08,
+        71.41
+      ]
+    },
+    "btc": {
+      "ultimo": 64129.44,
+      "cambio_pct": 0.0,
+      "cierre_anterior": 64127.14,
+      "historico_fechas": [
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-11"
+      ],
+      "historico_cierres": [
+        63297.39,
+        62257.57,
+        63193.15,
+        64127.14,
+        64129.44
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.97,
+      "cambio_pct": 0.03,
+      "cierre_anterior": 100.94,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10"
+      ],
+      "historico_cierres": [
+        100.85,
+        101.14,
+        101.05,
+        100.94,
+        100.97
+      ]
+    }
+  }
+}
