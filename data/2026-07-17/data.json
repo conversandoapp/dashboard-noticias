@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-17",
+  "generado_en": "2026-07-17T12:09:57.268266Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Five headaches Andy Burnham will have to deal with as PM",
+        "resumen": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+        "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 05:59:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "China hits out at British Steel nationalisation",
+        "resumen": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:07:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The financial winners and losers from the World Cup",
+        "resumen": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
+        "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:36:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Iran accuses US of hitting civilian infrastructure",
+        "resumen": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+        "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 10:57:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Longest dry spell in 30 years for parts of England as heatwave hits two-week mark",
+        "resumen": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 14 days",
+        "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:58:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "resumen": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:37:00 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+        "resumen": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+        "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 05:00:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "China hits out at British Steel nationalisation",
+        "resumen": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+        "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:07:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why has British Steel been nationalised?",
+        "resumen": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 09:57:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The financial winners and losers from the World Cup",
+        "resumen": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
+        "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 11:36:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
+        "resumen": "Sarah and her husband have shared one account for 25 years, but she says managing it falls to her.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz4wnz6jdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 16 Jul 2026 23:14:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Who is the frontrunner to be the UK's next chancellor?",
+        "resumen": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 09:42:25 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+        "resumen": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "publicado": "Fri, 17 Jul 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "resumen": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
+        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "publicado": "Thu, 16 Jul 2026 23:25:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "resumen": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+        "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "publicado": "Thu, 16 Jul 2026 23:01:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+        "resumen": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+        "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+        "publicado": "Thu, 16 Jul 2026 21:22:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+        "resumen": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+        "publicado": "Thu, 16 Jul 2026 20:07:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google Vids now lets you star in your own AI videos",
+        "resumen": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "publicado": "Thu, 16 Jul 2026 18:32:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The war on ‘woke science’ comes for space research",
+        "resumen": "The Trump administration is waging a culture war on science, and the latest salvo is in the form of a dry, bureaucratic proposal from the Office of Management and Budget (OMB) that could threaten the future of US science as we know it. The proposal would give political appointees unprecedented control over grant funding, the [&#8230;]",
+        "url": "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society",
+        "publicado": "2026-07-17T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "God Of War TV series is recasting Kratos",
+        "resumen": "Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in January, with Deadline reporting that four episodes of the [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
+        "publicado": "2026-07-17T06:14:04-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Fortnite is getting a bunch of AI-powered ‘personas’",
+        "resumen": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use as NPCs. The characters include Fortnite staples like Agent [&#8230;]",
+        "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+        "publicado": "2026-07-16T17:30:35-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
+        "resumen": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its matte finish can [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
+        "publicado": "2026-07-16T16:47:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Netflix says around 300 titles used generative AI",
+        "resumen": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more quickly and at a lower cost.\" It also provided some examples of [&#8230;]",
+        "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+        "publicado": "2026-07-16T16:29:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Why are people buying so many CDs?",
+        "resumen": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth in CD sales was driven [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
+        "publicado": "2026-07-16T15:55:29-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7533.77,
+      "cambio_pct": -0.51,
+      "cierre_anterior": 7572.4,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7064.01,
+      "rendimiento_periodo_pct": 5.72,
+      "historico_fechas": [
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "historico_cierres": [
+        7126.06,
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25881.95,
+      "cambio_pct": -1.47,
+      "cierre_anterior": 26269.23,
+      "historico_fechas": [
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "historico_cierres": [
+        26281.61,
+        25873.18,
+        26107.01,
+        26269.23,
+        25881.95
+      ]
+    },
+    "dow": {
+      "ultimo": 52552.97,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 52658.64,
+      "historico_fechas": [
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16"
+      ],
+      "historico_cierres": [
+        52637.01,
+        52498.64,
+        52508.27,
+        52658.64,
+        52552.97
+      ]
+    },
+    "vix": {
+      "ultimo": 18.02,
+      "cambio_pct": 7.71,
+      "cierre_anterior": 16.73,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        17.16,
+        16.5,
+        15.67,
+        16.73,
+        18.02
+      ]
+    },
+    "oro": {
+      "ultimo": 3998.1,
+      "cambio_pct": 0.31,
+      "cierre_anterior": 3985.6,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        3997.0,
+        4061.1,
+        4044.0,
+        3985.6,
+        3998.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 80.19,
+      "cambio_pct": 1.57,
+      "cierre_anterior": 78.95,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        78.14,
+        79.34,
+        79.6,
+        78.95,
+        80.19
+      ]
+    },
+    "btc": {
+      "ultimo": 63213.99,
+      "cambio_pct": -0.9,
+      "cierre_anterior": 63789.28,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        62239.12,
+        64956.11,
+        64712.38,
+        63789.28,
+        63213.99
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.81,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 100.73,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        101.28,
+        100.94,
+        100.5,
+        100.73,
+        100.81
+      ]
+    }
+  }
+}
