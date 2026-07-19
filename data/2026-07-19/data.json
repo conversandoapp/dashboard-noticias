@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-19",
+  "generado_en": "2026-07-19T11:59:29.050580Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+        "resumen": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 11:57:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
+        "resumen": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 08:55:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Messi on the brink of history - will it be his last World Cup game?",
+        "resumen": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 09:55:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tate brothers arrested in US as further UK charges take total to 59",
+        "resumen": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 11:04:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "resumen": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 11:28:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "New EU border system tripling time at passport control, airport boss says",
+        "resumen": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 01:47:59 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Chinese firm seeks compensation over British Steel nationalisation",
+        "resumen": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 10:59:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "New EU border system tripling time at passport control, airport boss says",
+        "resumen": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 01:47:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+        "resumen": "It's a small but growing problem in the property market - here's how to protect yourself.",
+        "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 18 Jul 2026 01:14:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is Burnham promising a new dawn for North Sea oil and gas?",
+        "resumen": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 09:52:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The hidden cost of the night shift and how to sleep it off",
+        "resumen": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+        "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 00:01:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brewdog founder faces data complaints over efforts to buy back firm",
+        "resumen": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 17 Jul 2026 16:44:15 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Waymo says San Francisco service has resumed after one-hour pause",
+        "resumen": "This isn’t the first time power outages have caused issues for Waymo.",
+        "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+        "publicado": "Sat, 18 Jul 2026 19:30:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Kimi: Threat or menace?",
+        "resumen": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+        "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+        "publicado": "Sat, 18 Jul 2026 18:51:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "All the EVs that were discontinued or killed off in the U.S. this year",
+        "resumen": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+        "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+        "publicado": "Sat, 18 Jul 2026 16:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Federal employees can download TikTok on their work phones again",
+        "resumen": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+        "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+        "publicado": "Sat, 18 Jul 2026 15:54:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+        "resumen": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+        "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+        "publicado": "Sat, 18 Jul 2026 14:32:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Neil Rimer thinks the AI money is coming back out",
+        "resumen": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "publicado": "Sat, 18 Jul 2026 04:47:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The grueling, 630-mile road race where the only fuel is sunlight",
+        "resumen": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials. The winner is the team that accumulates the [&#8230;]",
+        "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas",
+        "publicado": "2026-07-19T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+        "resumen": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "publicado": "2026-07-18T16:54:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google might not kneecap the Pixel 11a with an old processor",
+        "resumen": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a lineup kept the modern [&#8230;]",
+        "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+        "publicado": "2026-07-18T14:25:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google is open-sourcing its 3D emoji",
+        "resumen": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very important when [&#8230;]",
+        "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+        "publicado": "2026-07-18T12:40:55-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+        "resumen": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+        "publicado": "2026-07-18T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+        "resumen": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Press Club Journalism Award, and [&#8230;]",
+        "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+        "publicado": "2026-07-18T10:30:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7457.69,
+      "cambio_pct": -1.01,
+      "cierre_anterior": 7533.77,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7064.01,
+      "rendimiento_periodo_pct": 4.9,
+      "historico_fechas": [
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25520.24,
+      "cambio_pct": -1.4,
+      "cierre_anterior": 25881.95,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        25873.18,
+        26107.01,
+        26269.23,
+        25881.95,
+        25520.24
+      ]
+    },
+    "dow": {
+      "ultimo": 52146.42,
+      "cambio_pct": -0.77,
+      "cierre_anterior": 52552.97,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        52498.64,
+        52508.27,
+        52658.64,
+        52552.97,
+        52146.42
+      ]
+    },
+    "vix": {
+      "ultimo": 18.77,
+      "cambio_pct": 12.19,
+      "cierre_anterior": 16.73,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        17.16,
+        16.5,
+        15.67,
+        16.73,
+        18.77
+      ]
+    },
+    "oro": {
+      "ultimo": 4018.8,
+      "cambio_pct": 0.83,
+      "cierre_anterior": 3985.6,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        4061.1,
+        4044.0,
+        3985.6,
+        4018.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 81.78,
+      "cambio_pct": 3.58,
+      "cierre_anterior": 78.95,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        79.34,
+        79.6,
+        78.95,
+        81.78
+      ]
+    },
+    "btc": {
+      "ultimo": 64423.55,
+      "cambio_pct": -0.58,
+      "cierre_anterior": 64796.6,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19"
+      ],
+      "historico_cierres": [
+        64712.38,
+        63789.28,
+        63899.46,
+        64796.6,
+        64423.55
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.75,
+      "cambio_pct": 0.02,
+      "cierre_anterior": 100.73,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        100.94,
+        100.5,
+        100.73,
+        100.75
+      ]
+    }
+  }
+}
