@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-20",
+  "generado_en": "2026-07-20T13:06:51.807248Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham promises help with your money. How could it affect you?",
+        "resumen": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+        "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 13:03:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Starmer resigns, Burnham becomes PM... the day in 98 seconds",
+        "resumen": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace.",
+        "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 12:49:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Who is Andy Burnham's wife, Marie-France van Heel?",
+        "resumen": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days.",
+        "url": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 12:43:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'A circuit-breaker moment': Watch Andy Burnham's first speech as PM in full",
+        "resumen": "Andy Burnham spoke outside Downing Street after he replaced Keir Starmer as prime minister and leader of the Labour party.",
+        "url": "https://www.bbc.co.uk/news/videos/c934q2kkkvxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 12:21:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'I go with a smile': Watch Keir Starmer's last speech as prime minister in full",
+        "resumen": "Starmer spoke in front of an applauding crowd on Downing Street.",
+        "url": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 10:37:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Broadcaster and journalist Edward Stourton dies aged 68",
+        "resumen": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
+        "url": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 07:30:13 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Burnham promises help with your money. How could it affect you?",
+        "resumen": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?",
+        "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 13:03:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+        "resumen": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 10:12:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Jobs, benefits and taxes: What Andy Burnham means for your finances",
+        "resumen": "The person in charge of the country will change but the financial challenges remain the same.",
+        "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 09:03:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Are you a parent missing out on £27 a week? Here's how to check",
+        "resumen": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
+        "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 23:16:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+        "resumen": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+        "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 18:35:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "This farmer wanted to quit the cocaine industry - he couldn't",
+        "resumen": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+        "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 19 Jul 2026 23:18:03 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+        "resumen": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+        "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+        "publicado": "Mon, 20 Jul 2026 12:39:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+        "resumen": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+        "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+        "publicado": "Mon, 20 Jul 2026 12:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "resumen": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "publicado": "Sun, 19 Jul 2026 21:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "What to watch for after Jensen Huang’s Japan visit",
+        "resumen": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "publicado": "Sun, 19 Jul 2026 21:16:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "resumen": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "publicado": "Sun, 19 Jul 2026 19:24:45 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: The battle over robotaxi rules",
+        "resumen": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+        "publicado": "Sun, 19 Jul 2026 16:05:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AliExpress fined almost $630 million over illegal product sales",
+        "resumen": "AliExpress has been hit with a &#8364;550 million (about $629 million) fine for violating Europe's Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn't take effective measures to reduce the dissemination of illegal products, noting the [&#8230;]",
+        "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+        "publicado": "2026-07-20T07:16:32-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "China delivers a one-two punch to America’s AI dominance",
+        "resumen": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+        "publicado": "2026-07-20T06:16:33-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+        "resumen": "Just why? &#645;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;&#865;(&#824;&#802;&#795;&#828;&#798;&#813;&#843;&#837;)&#824;&#858;&#816;&#859;&#788;&#830;&#768;&#831;&#850;&#834;:&#820;&#851;&#798;&#785;&#780;&#770;&#774;&#778;&#843;&#768;:&#824;&#846;&#799;&#815;&#770;&#787;&#780;&#12288;&#1161;&#12288;&#12288;&#12288;&#12288;&#12288;&#865;&#12288;&#862;&#12288;&#862;&#12288;&#862;&",
+        "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+        "publicado": "2026-07-19T17:02:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+        "resumen": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put it on par with a drugstore disposable. The fact [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+        "publicado": "2026-07-19T15:26:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I hate that I don’t hate this song made with Suno",
+        "resumen": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "publicado": "2026-07-19T13:35:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The FBI reportedly won’t investigate ICE anymore",
+        "resumen": "According to the The New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE agents who have killed two people in [&#8230;]",
+        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+        "publicado": "2026-07-19T12:42:10-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7457.69,
+      "cambio_pct": -1.01,
+      "cierre_anterior": 7533.77,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7064.01,
+      "rendimiento_periodo_pct": 4.9,
+      "historico_fechas": [
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        7109.14,
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25520.24,
+      "cambio_pct": -1.4,
+      "cierre_anterior": 25881.95,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        25873.18,
+        26107.01,
+        26269.23,
+        25881.95,
+        25520.24
+      ]
+    },
+    "dow": {
+      "ultimo": 52146.42,
+      "cambio_pct": -0.77,
+      "cierre_anterior": 52552.97,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17"
+      ],
+      "historico_cierres": [
+        52498.64,
+        52508.27,
+        52658.64,
+        52552.97,
+        52146.42
+      ]
+    },
+    "vix": {
+      "ultimo": 18.12,
+      "cambio_pct": -3.46,
+      "cierre_anterior": 18.77,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        16.5,
+        15.67,
+        16.73,
+        18.77,
+        18.12
+      ]
+    },
+    "oro": {
+      "ultimo": 4012.5,
+      "cambio_pct": -0.0,
+      "cierre_anterior": 4012.7,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        4044.0,
+        3985.6,
+        4012.7,
+        4012.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.04,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 82.49,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        79.6,
+        78.95,
+        82.49,
+        82.04
+      ]
+    },
+    "btc": {
+      "ultimo": 64589.35,
+      "cambio_pct": -0.16,
+      "cierre_anterior": 64690.8,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        63789.28,
+        63899.46,
+        64796.6,
+        64690.8,
+        64589.35
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.85,
+      "cambio_pct": 0.1,
+      "cierre_anterior": 100.75,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        100.5,
+        100.73,
+        100.75,
+        100.85
+      ]
+    }
+  }
+}
