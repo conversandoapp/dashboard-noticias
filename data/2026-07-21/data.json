@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-21",
+  "generado_en": "2026-07-21T12:23:53.289445Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
+        "resumen": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
+        "url": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 09:00:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Whitehall officials offered move to No 10 North in Manchester",
+        "resumen": "London-based civil servants willing to move north have been told they will be offered relocation packages, the BBC understands.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 11:54:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Cause of Ann Widdecombe's death not yet established, inquest hears",
+        "resumen": "The 78-year-old was found with \"visible injuries\" at her home in Devon on 9 July.",
+        "url": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 09:56:49 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "resumen": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 11:42:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "resumen": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 09:48:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Parts of the UK move closer to drought",
+        "resumen": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
+        "url": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 12:10:08 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "VAT to be cut from household electricity bills in October",
+        "resumen": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 10:07:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Thames Water lenders offer 'golden share' to head off nationalisation",
+        "resumen": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+        "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 10:30:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK borrows less than expected in June but public finances remain a challenge",
+        "resumen": "Public finances for last month were better than expected but the UK is carrying major debt.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 10:31:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+        "resumen": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 23:06:04 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "resumen": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 11:42:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The 20-somethings betting big on tech stocks",
+        "resumen": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+        "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 20 Jul 2026 22:00:41 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+        "resumen": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+        "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+        "publicado": "Tue, 21 Jul 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "resumen": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "publicado": "Tue, 21 Jul 2026 00:12:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+        "resumen": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+        "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+        "publicado": "Mon, 20 Jul 2026 23:39:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump’s latest AI czar has already resigned",
+        "resumen": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "publicado": "Mon, 20 Jul 2026 22:21:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "resumen": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "publicado": "Mon, 20 Jul 2026 21:21:15 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI’s most important protocol is getting a little bit easier to use",
+        "resumen": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "publicado": "Mon, 20 Jul 2026 20:50:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "America needs to stop getting shocked by Chinese AI",
+        "resumen": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+        "publicado": "2026-07-21T07:08:56-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Who’s afraid of the big, bad GPU?",
+        "resumen": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’ll start to question the actual value of the GPUs that underpin all the leaps and promises of generative [&#8230;]",
+        "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+        "publicado": "2026-07-21T06:00:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+        "resumen": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "publicado": "2026-07-20T18:19:12-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The FCC is planning to retroactively ban disguised DJI gadgets",
+        "resumen": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of [&#8230;]",
+        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+        "publicado": "2026-07-20T18:16:14-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Odyssey turned me into an IMAX believer",
+        "resumen": "After seeing Christopher Nolan's The Odyssey for the first time early last week, I came away impressed, but somewhat conflicted about two of the film's more fantastical set pieces. While those scenes were beautifully crafted and tremendously acted, there was something a little bit off about the way they hit my eye. I spent days [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan",
+        "publicado": "2026-07-20T17:47:37-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SpaceX in your index fund, explained",
+        "resumen": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "publicado": "2026-07-20T17:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7443.28,
+      "cambio_pct": -0.19,
+      "cierre_anterior": 7457.69,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7064.01,
+      "rendimiento_periodo_pct": 5.37,
+      "historico_fechas": [
+        "2026-04-21",
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        7064.01,
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25508.07,
+      "cambio_pct": -0.05,
+      "cierre_anterior": 25520.24,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        26107.01,
+        26269.23,
+        25881.95,
+        25520.24,
+        25508.07
+      ]
+    },
+    "dow": {
+      "ultimo": 51839.26,
+      "cambio_pct": -0.59,
+      "cierre_anterior": 52146.42,
+      "historico_fechas": [
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20"
+      ],
+      "historico_cierres": [
+        52508.27,
+        52658.64,
+        52552.97,
+        52146.42,
+        51839.26
+      ]
+    },
+    "vix": {
+      "ultimo": 17.72,
+      "cambio_pct": -4.99,
+      "cierre_anterior": 18.65,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        15.67,
+        16.73,
+        18.77,
+        18.65,
+        17.72
+      ]
+    },
+    "oro": {
+      "ultimo": 4063.8,
+      "cambio_pct": 1.33,
+      "cierre_anterior": 4010.3,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        3985.6,
+        4012.7,
+        4010.3,
+        4063.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.55,
+      "cambio_pct": 0.38,
+      "cierre_anterior": 83.23,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        78.95,
+        82.49,
+        83.23,
+        83.55
+      ]
+    },
+    "btc": {
+      "ultimo": 66412.59,
+      "cambio_pct": 1.81,
+      "cierre_anterior": 65230.03,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        63899.46,
+        64796.6,
+        64690.8,
+        65230.03,
+        66412.59
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.01,
+      "cambio_pct": 0.02,
+      "cierre_anterior": 100.99,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        100.73,
+        100.75,
+        100.99,
+        101.01
+      ]
+    }
+  }
+}
