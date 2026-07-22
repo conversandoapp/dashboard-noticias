@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-22",
+  "generado_en": "2026-07-22T12:25:24.058956Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham says he will review early prisoner release scheme",
+        "resumen": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
+        "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 12:22:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+        "resumen": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 10:00:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Some food prices have fallen – but inflation expected to rise from here",
+        "resumen": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 10:10:01 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Southampton boss Eckert charged by FA over Spygate",
+        "resumen": "Southampton head coach Tonda Eckert is charged by the Football Association for his role in the Spygate scandal.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 10:30:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "resumen": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 11:40:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Prince George poses in suit for new photo as he becomes a teenager",
+        "resumen": "It's a big year for the young prince, who will start secondary school at the elite Eton College in September.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 11:32:55 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Some food prices have fallen – but inflation expected to rise from here",
+        "resumen": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 10:10:01 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Most bus fares in England to be capped at £2 from January",
+        "resumen": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+        "url": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 11:39:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will your job be replaced by AI? Here are the roles most affected",
+        "resumen": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+        "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 07:40:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What does an Andy Burnham-led government mean for your money?",
+        "resumen": "The new PM says he will look at how much people can earn before paying tax but there will be no change yet.",
+        "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 11:41:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
+        "resumen": "As Andy Burnham promises “breathing space” for households, millions are unable to buy items such as clothing, heating and food.",
+        "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 23:57:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Can airport really go carbon neutral amid plans to expand flights?",
+        "resumen": "Campaigners say people just need to fly less amid unbearable heat and wildfires.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gljynx3xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 21 Jul 2026 15:54:36 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "resumen": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+        "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+        "publicado": "Wed, 22 Jul 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "resumen": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "publicado": "Wed, 22 Jul 2026 08:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "resumen": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "publicado": "Wed, 22 Jul 2026 03:20:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "resumen": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
+        "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "publicado": "Wed, 22 Jul 2026 01:27:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta is testing an AI bedtime story app for people with no imagination",
+        "resumen": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+        "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+        "publicado": "Tue, 21 Jul 2026 23:55:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "These are the countries moving to ban social media for children",
+        "resumen": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+        "publicado": "Tue, 21 Jul 2026 20:57:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta made its own AI detection system. It should have just used Google’s",
+        "resumen": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But [&#8230;]",
+        "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+        "publicado": "2026-07-22T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The 2026 Honda Prelude is a marvel of hybrid technology",
+        "resumen": "When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form of variable valve timing) engines and playful chassis dynamics. The Prelude, on the other hand, less so. Instead, the Prelude is a technological study - still aimed at [&#8230;]",
+        "url": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+        "publicado": "2026-07-22T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Utility companies promise to spare us from AI’s energy bill",
+        "resumen": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+        "publicado": "2026-07-22T06:12:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung Galaxy Unpacked July 2026: How to watch",
+        "resumen": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's next generation of foldables will likely be the stars of the show. Samsung is expected to show off a [&#8230;]",
+        "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+        "publicado": "2026-07-21T21:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "resumen": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "publicado": "2026-07-21T18:06:43-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+        "resumen": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "publicado": "2026-07-21T17:48:54-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7509.2,
+      "cambio_pct": 0.89,
+      "cierre_anterior": 7443.28,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7108.4,
+      "rendimiento_periodo_pct": 5.2,
+      "historico_fechas": [
+        "2026-04-22",
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        7137.9,
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25837.21,
+      "cambio_pct": 1.29,
+      "cierre_anterior": 25508.07,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        26269.23,
+        25881.95,
+        25520.24,
+        25508.07,
+        25837.21
+      ]
+    },
+    "dow": {
+      "ultimo": 52224.64,
+      "cambio_pct": 0.74,
+      "cierre_anterior": 51839.26,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21"
+      ],
+      "historico_cierres": [
+        52658.64,
+        52552.97,
+        52146.42,
+        51839.26,
+        52224.64
+      ]
+    },
+    "vix": {
+      "ultimo": 17.66,
+      "cambio_pct": 3.58,
+      "cierre_anterior": 17.05,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        16.73,
+        18.77,
+        18.65,
+        17.05,
+        17.66
+      ]
+    },
+    "oro": {
+      "ultimo": 4130.6,
+      "cambio_pct": 1.46,
+      "cierre_anterior": 4071.1,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        4012.7,
+        4010.3,
+        4071.1,
+        4130.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.06,
+      "cambio_pct": 2.53,
+      "cierre_anterior": 84.91,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        82.49,
+        83.23,
+        84.91,
+        87.06
+      ]
+    },
+    "btc": {
+      "ultimo": 65813.75,
+      "cambio_pct": -1.04,
+      "cierre_anterior": 66505.12,
+      "historico_fechas": [
+        "2026-07-18",
+        "2026-07-19",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        64796.6,
+        64690.8,
+        65230.03,
+        66505.12,
+        65813.75
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.11,
+      "cambio_pct": -0.07,
+      "cierre_anterior": 101.18,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        100.75,
+        100.99,
+        101.18,
+        101.11
+      ]
+    }
+  }
+}
