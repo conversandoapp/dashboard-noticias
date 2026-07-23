@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-23",
+  "generado_en": "2026-07-23T12:24:17.762567Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Police missed chance to examine Manchester synagogue attacker's phone before attack",
+        "resumen": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
+        "url": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 12:09:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+        "resumen": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 05:12:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+        "resumen": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+        "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 04:49:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+        "resumen": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 12:18:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Airport drop-off fees up by a third - here are the priciest",
+        "resumen": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 11:25:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Every victim will feel the same,' says mother of PC Harper over early prison release",
+        "resumen": "As the deadline for releases approaches, Andy Burnham has reignited a row over the legislation after he said he would review the plans.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rkl1778zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 10:56:38 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+        "resumen": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 12:18:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Airport drop-off fees up by a third - here are the priciest",
+        "resumen": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 11:25:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Big bosses reveal the secret to getting hired",
+        "resumen": "Business leaders share their best career advice and the qualities they look for when recruiting new staff.",
+        "url": "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 05:22:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+        "resumen": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 06:18:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Google burning through cash with spiralling AI costs",
+        "resumen": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 07:15:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why the UK is dithering over what to do about e-scooters",
+        "resumen": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
+        "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 22 Jul 2026 23:51:24 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "resumen": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+        "publicado": "Thu, 23 Jul 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "resumen": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "publicado": "Thu, 23 Jul 2026 06:09:13 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "resumen": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "publicado": "Wed, 22 Jul 2026 23:47:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google justifies its massive AI spending with a booming cloud business",
+        "resumen": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "publicado": "Wed, 22 Jul 2026 22:01:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "resumen": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "publicado": "Wed, 22 Jul 2026 20:49:03 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
+        "resumen": "Tesla's 26% boost in revenue wasn't enough to offset rising operating expenses and capital expenditures as it pushes to launch a new generation of products.",
+        "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
+        "publicado": "Wed, 22 Jul 2026 20:43:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The right-wing boomers protesting data centers have a lot in common with the left",
+        "resumen": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June [&#8230;]",
+        "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+        "publicado": "2026-07-23T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google hit with $1 billion fine for breaking EU antitrust rules",
+        "resumen": "The European Union has fined Google's parent company Alphabet &#8364;890 million (about $1 billion) for two separate violations of the bloc's Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to alternate payment options. A &#8364;460 [&#8230;]",
+        "url": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
+        "publicado": "2026-07-23T06:33:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google now lets you sign in to your account using a selfie video",
+        "resumen": "Google announced yet another way to gain access to your account if you get locked out, forget your password, or don't have access to the phone, computer, or two-factor authentication apps you typically use. As the name implies, selfie video lets you capture a short video of your face on a mobile device or PC, [&#8230;]",
+        "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
+        "publicado": "2026-07-23T06:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Framework’s premium laptop is shipping with less RAM",
+        "resumen": "RAMageddon has claimed yet another victim, with Framework now announcing a \"major and unfortunate\" pricing update for its upcoming premium laptop - which also impacts folks who preordered it. Memory configurations for the Laptop 13 Pro have been adjusted after Framework says it received cost updates from its memory supplier that \"are more than double [&#8230;]",
+        "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates",
+        "publicado": "2026-07-23T05:28:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+        "resumen": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200 Donkey Kong arcade machine set that managed to win even Mario creator [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+        "publicado": "2026-07-22T20:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta won’t have to face the next planned social media addiction trial",
+        "resumen": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to test legal arguments [&#8230;]",
+        "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
+        "publicado": "2026-07-22T18:03:53-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7498.96,
+      "cambio_pct": -0.14,
+      "cierre_anterior": 7509.2,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7108.4,
+      "rendimiento_periodo_pct": 5.49,
+      "historico_fechas": [
+        "2026-04-23",
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        7108.4,
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25690.9,
+      "cambio_pct": -0.57,
+      "cierre_anterior": 25837.21,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        25881.95,
+        25520.24,
+        25508.07,
+        25837.21,
+        25690.9
+      ]
+    },
+    "dow": {
+      "ultimo": 52218.58,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 52224.64,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22"
+      ],
+      "historico_cierres": [
+        52552.97,
+        52146.42,
+        51839.26,
+        52224.64,
+        52218.58
+      ]
+    },
+    "vix": {
+      "ultimo": 18.24,
+      "cambio_pct": 9.62,
+      "cierre_anterior": 16.64,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        18.77,
+        18.65,
+        17.05,
+        16.64,
+        18.24
+      ]
+    },
+    "oro": {
+      "ultimo": 4084.1,
+      "cambio_pct": -1.51,
+      "cierre_anterior": 4146.9,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        4010.3,
+        4071.1,
+        4146.9,
+        4084.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 90.98,
+      "cambio_pct": 4.78,
+      "cierre_anterior": 86.83,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        83.23,
+        84.91,
+        86.83,
+        90.98
+      ]
+    },
+    "btc": {
+      "ultimo": 65424.5,
+      "cambio_pct": -1.02,
+      "cierre_anterior": 66100.8,
+      "historico_fechas": [
+        "2026-07-19",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        64690.8,
+        65230.03,
+        66505.12,
+        66100.8,
+        65424.5
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.27,
+      "cambio_pct": 0.12,
+      "cierre_anterior": 101.14,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        100.99,
+        101.18,
+        101.14,
+        101.27
+      ]
+    }
+  }
+}
