@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-24",
+  "generado_en": "2026-07-24T12:19:31.742037Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
+        "resumen": "On Thursday, Axel Rudakubana was moved from prison to a secure psychiatric hospital in Berkshire.",
+        "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 11:43:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "resumen": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 11:50:17 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
+        "resumen": "Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.",
+        "url": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 11:57:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Angela Rayner rules out rent controls in England",
+        "resumen": "The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 10:01:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Fifty women tell BBC they were pressured into having sex with strangers",
+        "resumen": "Women said their partners had pushed or coerced them into taking part in swinging.",
+        "url": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 05:01:19 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Chris Brown pleads guilty to affray over nightclub incident in London",
+        "resumen": "Assault and grievous bodily harm (GBH) charges against the US singer and a co-defendant are dropped.",
+        "url": "https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 11:56:44 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "US hits dozens of countries with new wave of tariffs",
+        "resumen": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 08:59:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Watch: Another day, more Trump tariffs - but are they working?",
+        "resumen": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+        "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 10:21:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK complacent about war threat, warns BAE boss",
+        "resumen": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 23:04:19 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK mortgage rates rise to highest level for a month",
+        "resumen": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 09:44:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "We split bills equally even when one of us earned a lot more",
+        "resumen": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+        "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 23 Jul 2026 23:01:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why are UK fuel prices rising again?",
+        "resumen": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 10:45:41 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "resumen": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "publicado": "Fri, 24 Jul 2026 01:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meet the judges who will crown Australia’s next breakout startup",
+        "resumen": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+        "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+        "publicado": "Fri, 24 Jul 2026 00:05:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "resumen": "Shashua has been invited to take the chairman of the board seat.",
+        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "publicado": "Thu, 23 Jul 2026 22:40:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "resumen": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "publicado": "Thu, 23 Jul 2026 20:33:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Patreon lays off 20% of its workforce",
+        "resumen": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
+        "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+        "publicado": "Thu, 23 Jul 2026 20:30:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+        "resumen": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
+        "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+        "publicado": "Thu, 23 Jul 2026 20:13:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Whack-a-drone",
+        "resumen": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll see a typical coworking space: open tables, healthy snacks, a collection of meeting rooms with [&#8230;]",
+        "url": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+        "publicado": "2026-07-24T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "TikTok&#8217;s protection of minors should not be opt-in, warns EU",
+        "resumen": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The Commission suggests that TikTok should adjust the default settings of minors' \"public\" accounts so the [&#8230;]",
+        "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+        "publicado": "2026-07-24T07:40:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Facebook considers giving up and becoming TikTok",
+        "resumen": "Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head Tom Alison announced today that the platform will begin testing a \"reimagined experience\" later this year that will put a subset of [&#8230;]",
+        "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+        "publicado": "2026-07-24T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft pressures LG into killing unwanted McAfee ads",
+        "resumen": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monitor App Installer, and pledged that Microsoft will \"keep [&#8230;]",
+        "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+        "publicado": "2026-07-24T05:20:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "resumen": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "publicado": "2026-07-23T17:15:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Echo Show 21 is a great smart home hub that’s $80 off",
+        "resumen": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+        "publicado": "2026-07-23T16:36:40-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7408.3,
+      "cambio_pct": -1.21,
+      "cierre_anterior": 7498.96,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7135.95,
+      "rendimiento_periodo_pct": 3.39,
+      "historico_fechas": [
+        "2026-04-24",
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        7165.08,
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25137.69,
+      "cambio_pct": -2.15,
+      "cierre_anterior": 25690.9,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        25520.24,
+        25508.07,
+        25837.21,
+        25690.9,
+        25137.69
+      ]
+    },
+    "dow": {
+      "ultimo": 51711.65,
+      "cambio_pct": -0.97,
+      "cierre_anterior": 52218.58,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23"
+      ],
+      "historico_cierres": [
+        52146.42,
+        51839.26,
+        52224.64,
+        52218.58,
+        51711.65
+      ]
+    },
+    "vix": {
+      "ultimo": 18.72,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 18.7,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        18.65,
+        17.05,
+        16.64,
+        18.7,
+        18.72
+      ]
+    },
+    "oro": {
+      "ultimo": 4060.7,
+      "cambio_pct": 0.35,
+      "cierre_anterior": 4046.6,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        4010.3,
+        4071.1,
+        4146.9,
+        4046.6,
+        4060.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 89.9,
+      "cambio_pct": -2.48,
+      "cierre_anterior": 92.19,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        83.23,
+        84.91,
+        86.83,
+        92.19,
+        89.9
+      ]
+    },
+    "btc": {
+      "ultimo": 64994.74,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 65044.81,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        65230.03,
+        66505.12,
+        66100.8,
+        65044.81,
+        64994.74
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.42,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 101.43,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        100.99,
+        101.18,
+        101.14,
+        101.43,
+        101.42
+      ]
+    }
+  }
+}
