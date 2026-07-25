@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-07-25",
+  "generado_en": "2026-07-25T12:03:02.779613Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+        "resumen": "Families visiting France from the UK and elsewhere have told the BBC how their holidays have become evacuation missions.",
+        "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 25 Jul 2026 11:39:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+        "resumen": "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 25 Jul 2026 05:00:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "resumen": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 25 Jul 2026 06:41:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police declare 'major incident' over Cairngorms wildfire",
+        "resumen": "Some residents in the village of Nethy Bridge have left their homes over the threat the wildfire spreading.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 25 Jul 2026 11:22:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
+        "resumen": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 23:31:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "resumen": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 23:23:53 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "resumen": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 23:23:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+        "resumen": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 23:31:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump vows to investigate EU over fining of US tech companies",
+        "resumen": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 20:23:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+        "resumen": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+        "url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 14:02:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Watch: Another day, more Trump tariffs - but are they working?",
+        "resumen": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+        "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 10:21:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK mortgage rates rise to highest level for a month",
+        "resumen": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 24 Jul 2026 09:44:53 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "resumen": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "publicado": "Sat, 25 Jul 2026 00:23:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+        "resumen": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+        "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+        "publicado": "Fri, 24 Jul 2026 23:25:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "resumen": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "publicado": "Fri, 24 Jul 2026 22:25:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+        "resumen": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+        "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+        "publicado": "Fri, 24 Jul 2026 22:10:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+        "resumen": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+        "publicado": "Fri, 24 Jul 2026 21:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo reportedly mulling a breakup with Uber",
+        "resumen": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+        "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+        "publicado": "Fri, 24 Jul 2026 20:43:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "What Surrounds Us will make you think a lot about circles",
+        "resumen": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map that's composed entirely of, you guessed it, a [&#8230;]",
+        "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+        "publicado": "2026-07-25T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Forget expensive sleepbuds. Buy this pillow instead",
+        "resumen": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers to doze off listening to podcasts, audiobooks, music, or white noise without annoying their [&#8230;]",
+        "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+        "publicado": "2026-07-25T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+        "resumen": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to The Verge. The company is [&#8230;]",
+        "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+        "publicado": "2026-07-24T18:27:46-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta just created a moderation nightmare for its smart glasses",
+        "resumen": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random strangers. Women have become unsuspecting social media content for men filming themselves [&#8230;]",
+        "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+        "publicado": "2026-07-24T15:23:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
+        "resumen": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exhausted its ability to absorb higher costs from suppliers,\" as ongoing component shortages [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+        "publicado": "2026-07-24T15:14:23-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Midjourney bought the astrology app Co-Star",
+        "resumen": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "publicado": "2026-07-24T15:06:58-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7411.98,
+      "cambio_pct": 0.05,
+      "cierre_anterior": 7408.3,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7135.95,
+      "rendimiento_periodo_pct": 3.32,
+      "historico_fechas": [
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24975.82,
+      "cambio_pct": -0.64,
+      "cierre_anterior": 25137.69,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        25508.07,
+        25837.21,
+        25690.9,
+        25137.69,
+        24975.82
+      ]
+    },
+    "dow": {
+      "ultimo": 51947.25,
+      "cambio_pct": 0.46,
+      "cierre_anterior": 51711.65,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        51839.26,
+        52224.64,
+        52218.58,
+        51711.65,
+        51947.25
+      ]
+    },
+    "vix": {
+      "ultimo": 18.58,
+      "cambio_pct": -0.64,
+      "cierre_anterior": 18.7,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        18.65,
+        17.05,
+        16.64,
+        18.7,
+        18.58
+      ]
+    },
+    "oro": {
+      "ultimo": 4067.6,
+      "cambio_pct": 0.52,
+      "cierre_anterior": 4046.6,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        4010.3,
+        4071.1,
+        4146.9,
+        4046.6,
+        4067.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 89.31,
+      "cambio_pct": -3.12,
+      "cierre_anterior": 92.19,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        83.23,
+        84.91,
+        86.83,
+        92.19,
+        89.31
+      ]
+    },
+    "btc": {
+      "ultimo": 64005.38,
+      "cambio_pct": -0.15,
+      "cierre_anterior": 64098.5,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-25"
+      ],
+      "historico_cierres": [
+        66505.12,
+        66100.8,
+        65044.81,
+        64098.5,
+        64005.38
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.47,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 101.43,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24"
+      ],
+      "historico_cierres": [
+        100.99,
+        101.18,
+        101.14,
+        101.43,
+        101.47
+      ]
+    }
+  }
+}
