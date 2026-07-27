@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-07-27",
+  "generado_en": "2026-07-27T13:39:28.257202Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "How wildfires in France and Spain might affect your travel plans",
+        "resumen": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 13:21:49 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "NHS 'will collapse' without social care reform, PM tells BBC",
+        "resumen": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 13:16:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+        "resumen": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 11:50:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "TV presenter and comedian Bill Oddie dies at 85",
+        "resumen": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+        "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 12:47:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Millions see leaked copy of The Odyssey movie on X",
+        "resumen": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+        "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 09:21:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Very strong tide led to West Mersea drownings, relative says",
+        "resumen": "Shahin Ahmed's seven-year-old son remains in a critical condition after being pulled from the water.",
+        "url": "https://www.bbc.co.uk/news/articles/c3d3kj318vyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 12:50:38 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "How wildfires in France and Spain might affect your travel plans",
+        "resumen": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 13:21:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Oil price dives as US and Iran pause attacks",
+        "resumen": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 11:50:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Would you choose £50,000 over the chance of £1m?",
+        "resumen": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 26 Jul 2026 23:11:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shein swings to $99m loss as Trump tariffs hit sales",
+        "resumen": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 02:08:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+        "resumen": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 10:33:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+        "resumen": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 10:19:36 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Snapchat now lets you share what you’re listening to in real time",
+        "resumen": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
+        "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
+        "publicado": "Mon, 27 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+        "resumen": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+        "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "publicado": "Mon, 27 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+        "resumen": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+        "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+        "publicado": "Mon, 27 Jul 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Are brain waves the next unlock for physical AI?",
+        "resumen": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "publicado": "Mon, 27 Jul 2026 00:19:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+        "resumen": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+        "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+        "publicado": "Sun, 26 Jul 2026 21:06:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Making sense of the panic over Chinese AI",
+        "resumen": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "publicado": "Sun, 26 Jul 2026 19:40:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+        "resumen": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "publicado": "2026-07-27T08:06:22-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta is royally screwing up its smart glasses roll out",
+        "resumen": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance predator glasses\" over influencer Kylie Jenner's face, calling her out for partnering [&#8230;]",
+        "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+        "publicado": "2026-07-27T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+        "resumen": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than the sum of their parts. Champagne and Bullets (also released as GetEven and [&#8230;]",
+        "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+        "publicado": "2026-07-26T17:24:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple is banking on privacy to set its smart glasses apart",
+        "resumen": "According to Mark Gurman, Apple is planning to reveal its first smart glasses at WWDC next June, with an expectation that they'll launch by the end of 2027. Part of the hold-up may be around the company's efforts to get its privacy features and messaging in order. Smart glasses in general, and Meta's in particular, [&#8230;]",
+        "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+        "publicado": "2026-07-26T15:36:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The US is charging an American citizen for wiping his phone at the border",
+        "resumen": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him about child exploitation images. However, a motion filed by Tunick's lawyers [&#8230;]",
+        "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+        "publicado": "2026-07-26T14:45:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Carrie is just trying to make a friend in the new trailer",
+        "resumen": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes, though it's clearly been updated for [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+        "publicado": "2026-07-26T11:33:27-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7474.5,
+      "cambio_pct": 0.84,
+      "cierre_anterior": 7411.98,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7135.95,
+      "rendimiento_periodo_pct": 4.19,
+      "historico_fechas": [
+        "2026-04-27",
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        7173.91,
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7474.5
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25217.8,
+      "cambio_pct": 0.97,
+      "cierre_anterior": 24975.82,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        25837.21,
+        25690.9,
+        25137.69,
+        24975.82,
+        25217.8
+      ]
+    },
+    "dow": {
+      "ultimo": 52554.9,
+      "cambio_pct": 1.17,
+      "cierre_anterior": 51947.25,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        52224.64,
+        52218.58,
+        51711.65,
+        51947.25,
+        52554.9
+      ]
+    },
+    "vix": {
+      "ultimo": 17.74,
+      "cambio_pct": -4.52,
+      "cierre_anterior": 18.58,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        17.05,
+        16.64,
+        18.7,
+        18.58,
+        17.74
+      ]
+    },
+    "oro": {
+      "ultimo": 4078.8,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 4067.6,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        4146.9,
+        4046.6,
+        4067.6,
+        4078.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 84.41,
+      "cambio_pct": -5.49,
+      "cierre_anterior": 89.31,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        86.83,
+        92.19,
+        89.31,
+        84.41
+      ]
+    },
+    "btc": {
+      "ultimo": 65413.99,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 65340.3,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        65044.81,
+        64098.5,
+        64311.81,
+        65340.3,
+        65413.99
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.44,
+      "cambio_pct": -0.03,
+      "cierre_anterior": 101.47,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        101.14,
+        101.43,
+        101.47,
+        101.44
+      ]
+    }
+  }
+}
