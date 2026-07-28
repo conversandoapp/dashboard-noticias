@@ -1,0 +1,439 @@
+{
+  "fecha": "2026-07-28",
+  "generado_en": "2026-07-28T12:54:26.481423Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "French patrol boat appears to fire gunshots in the Channel during MP's BBC interview",
+        "resumen": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 12:28:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Schools to offer technical subjects from age 14 in England, Burnham says",
+        "resumen": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 10:25:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Naga Munchetty to leave BBC Breakfast after 17 years",
+        "resumen": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 11:38:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Odyssey translator writes scathing review of Nolan film adaptation",
+        "resumen": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+        "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 09:45:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US walks out of UN Security Council meeting during France's remarks",
+        "resumen": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 09:32:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mother and boyfriend guilty of girl's murder",
+        "resumen": "Prosecutors say Isabelle Welsh was subjected to a \"wicked\" campaign of abuse before her death.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9lv27v69o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 12:49:20 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+        "resumen": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 10:25:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What you wear can help you get a job - here's how",
+        "resumen": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+        "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 11:07:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is it safe to travel to France and Spain right now?",
+        "resumen": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 08:50:39 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+        "resumen": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 01:53:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "resumen": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
+        "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 10:15:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is it time to stop using glue and labels on paper?",
+        "resumen": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
+        "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 27 Jul 2026 23:00:06 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+        "resumen": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
+        "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+        "publicado": "Tue, 28 Jul 2026 08:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "resumen": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "publicado": "Tue, 28 Jul 2026 04:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "resumen": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "publicado": "Tue, 28 Jul 2026 00:13:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "resumen": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "publicado": "Mon, 27 Jul 2026 21:17:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+        "resumen": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+        "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+        "publicado": "Mon, 27 Jul 2026 20:40:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
+        "resumen": "The deal means content will be integrated into the YouTube experience, allowing viewers to discover and watch Peacock content without leaving the platform.",
+        "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
+        "publicado": "Mon, 27 Jul 2026 20:40:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
+        "resumen": "Logitech's new gaming boss, Robin Piispanen, tells me he likes the idea of gaming handhelds. \"It's such a charming value proposition,\" he says, as we sip iced vanilla lattes at my local cafe. But he's not building one right now. He's not sure when or if Logitech should try again, after its underwhelming experiment with [&#8230;]",
+        "url": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
+        "publicado": "2026-07-28T08:31:51-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "resumen": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "publicado": "2026-07-28T08:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple launches ‘Upgrade’ program to lease new devices",
+        "resumen": "Apple has officially introduced \"Apple Upgrade,\" a new leasing program that aims to make it easier to get your hands on the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the US, and works like a car lease - allowing users to keep a device at the end of [&#8230;]",
+        "url": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
+        "publicado": "2026-07-28T08:23:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Smart rings are looking like my kind of AI gadget",
+        "resumen": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+        "publicado": "2026-07-28T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Hugging Face is being used to easily undress women and children",
+        "resumen": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+        "publicado": "2026-07-28T05:07:14-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "X Money is launching in the US starting today",
+        "resumen": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks include Apple Wallet support [&#8230;]",
+        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+        "publicado": "2026-07-27T18:10:18-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7413.18,
+      "cambio_pct": 0.07,
+      "cierre_anterior": 7408.3,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7135.95,
+      "rendimiento_periodo_pct": 3.84,
+      "historico_fechas": [
+        "2026-04-28",
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        7138.8,
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7413.18
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24932.08,
+      "cambio_pct": -0.82,
+      "cierre_anterior": 25137.69,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        25837.21,
+        25690.9,
+        25137.69,
+        24932.08
+      ]
+    },
+    "dow": {
+      "ultimo": 52210.08,
+      "cambio_pct": 0.51,
+      "cierre_anterior": 51947.25,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27"
+      ],
+      "historico_cierres": [
+        52224.64,
+        52218.58,
+        51711.65,
+        51947.25,
+        52210.08
+      ]
+    },
+    "vix": {
+      "ultimo": 18.69,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 18.67,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        16.64,
+        18.7,
+        18.58,
+        18.67,
+        18.69
+      ]
+    },
+    "oro": {
+      "ultimo": 4033.0,
+      "cambio_pct": -1.02,
+      "cierre_anterior": 4074.5,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        4046.6,
+        4067.6,
+        4074.5,
+        4033.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 81.25,
+      "cambio_pct": -1.65,
+      "cierre_anterior": 82.61,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        92.19,
+        89.31,
+        82.61,
+        81.25
+      ]
+    },
+    "btc": {
+      "ultimo": 63453.43,
+      "cambio_pct": -0.43,
+      "cierre_anterior": 63724.9,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        64098.5,
+        64311.81,
+        65340.3,
+        63724.9,
+        63453.43
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.55,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 101.47,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        101.43,
+        101.47,
+        101.55
+      ]
+    }
+  }
+}
