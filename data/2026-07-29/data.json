@@ -1,0 +1,443 @@
+{
+  "fecha": "2026-07-29",
+  "generado_en": "2026-07-29T13:01:33.943546Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "More than half of England officially in drought, Environment Agency says",
+        "resumen": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 12:55:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+        "resumen": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 05:00:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Boy, 7, dies in hospital after beach tragedy",
+        "resumen": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 12:42:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Teenage Norwegian 'hitman' guilty of UK murder plot",
+        "resumen": "Johannes Natland travelled to Huddersfield to carry out a 'hit' in March last year.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 12:57:49 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "OpenAI says its rogue AI tried to hack other companies",
+        "resumen": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+        "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 08:49:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
+        "resumen": "The blaze has destroyed about 25 sq km of moorland and forestry near Aviemore since Wednesday 15 July.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 11:01:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+        "resumen": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 12:16:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Matcha and protein pivot pays off for Greggs as profits rise",
+        "resumen": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\".",
+        "url": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 10:37:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Andy Burnham wants to fix social care - what are the options?",
+        "resumen": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 10:47:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Data centres could pay hundreds of millions in deposits for power demands",
+        "resumen": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 11:35:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Don't wait until you want revenge' - why prenups are on the rise",
+        "resumen": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 23:00:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+        "resumen": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+        "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 28 Jul 2026 23:00:15 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "DoorDash is building its own drone delivery business",
+        "resumen": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+        "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+        "publicado": "Wed, 29 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Spotify adds a running mode to its app",
+        "resumen": "Running Mode will be available to Premium users on iOS in select countries",
+        "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
+        "publicado": "Wed, 29 Jul 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fast Metals is treating waste with more waste to extract critical minerals",
+        "resumen": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+        "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+        "publicado": "Wed, 29 Jul 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "As AI content floods the internet, Pangram raises $9M to detect it",
+        "resumen": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+        "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "publicado": "Wed, 29 Jul 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "resumen": "The deal is Cyera's third acquisition this year.",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "publicado": "Wed, 29 Jul 2026 00:09:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Bot-detection startup Spur nabs $200M from Insight",
+        "resumen": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "publicado": "Tue, 28 Jul 2026 21:29:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "DoorDash is going airborne with new drone delivery division",
+        "resumen": "DoorDash is launching a new drone delivery program called DoorDash Air. The largest food delivery app in the US said that it has approval from the Federal Aviation Administration that clears the way for drone delivery in the near future. DoorDash said it has received a Part 135 air carrier certification from the FAA that [&#8230;]",
+        "url": "https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa",
+        "publicado": "2026-07-29T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Nothing Ear 3A deliver great, but sometimes buggy, performance for the price",
+        "resumen": "Nothing has had a strong visual identity since the Ear 1 were released in 2021 for $99 and challenged the notion that a highly featured headset requires a high price. The Ear 3A have the same transparent look as Nothing's previous earbuds, with a clear case and stem design accented by a solid-colored body - [&#8230;]",
+        "url": "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review",
+        "publicado": "2026-07-29T08:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung’s Galaxy Z Fold 8 feels like the future",
+        "resumen": "Is this the future of foldable phones? Samsung clearly thinks so. The company has given its new wide foldable the \"Z Fold 8\" name, positioning the phone not as a widescreen oddity, but as the new normal, the default design for foldables going forward. Rumor has it that Apple feels the same way, with a [&#8230;]",
+        "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
+        "publicado": "2026-07-29T08:22:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Artists are lawyering up against AI slop, and some are even winning",
+        "resumen": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the Dragon - nonfiction tomes that he [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+        "publicado": "2026-07-29T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+        "resumen": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+        "publicado": "2026-07-29T07:54:29-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "We’re running out of reasons to ignore AI safety",
+        "resumen": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+        "publicado": "2026-07-29T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7428.78,
+      "cambio_pct": 0.21,
+      "cierre_anterior": 7413.18,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7135.95,
+      "rendimiento_periodo_pct": 4.1,
+      "historico_fechas": [
+        "2026-04-29",
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        7135.95,
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24876.91,
+      "cambio_pct": -0.22,
+      "cierre_anterior": 24932.08,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        25690.9,
+        25137.69,
+        24975.82,
+        24932.08,
+        24876.91
+      ]
+    },
+    "dow": {
+      "ultimo": 52747.32,
+      "cambio_pct": 1.03,
+      "cierre_anterior": 52210.08,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28"
+      ],
+      "historico_cierres": [
+        52218.58,
+        51711.65,
+        51947.25,
+        52210.08,
+        52747.32
+      ]
+    },
+    "vix": {
+      "ultimo": 18.66,
+      "cambio_pct": 2.47,
+      "cierre_anterior": 18.21,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        18.7,
+        18.58,
+        18.67,
+        18.21,
+        18.66
+      ]
+    },
+    "oro": {
+      "ultimo": 4078.9,
+      "cambio_pct": 1.06,
+      "cierre_anterior": 4036.3,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        4067.6,
+        4074.5,
+        4036.3,
+        4078.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 84.43,
+      "cambio_pct": 6.52,
+      "cierre_anterior": 79.26,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        89.31,
+        82.61,
+        79.26,
+        84.43
+      ]
+    },
+    "btc": {
+      "ultimo": 64169.23,
+      "cambio_pct": 0.47,
+      "cierre_anterior": 63871.36,
+      "historico_fechas": [
+        "2026-07-25",
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        64311.81,
+        65340.3,
+        63724.9,
+        63871.36,
+        64169.23
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.46,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 101.38,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        101.47,
+        101.38,
+        101.46
+      ]
+    }
+  }
+}
