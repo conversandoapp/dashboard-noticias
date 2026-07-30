@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-07-30",
+  "generado_en": "2026-07-30T12:45:10.708981Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "resumen": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 10:49:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "resumen": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+        "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 09:10:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Large rise in offenders sent back to prison, figures reveal",
+        "resumen": "There has been a large rise in the number of offenders being recalled to prisons in England and Wales.",
+        "url": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 12:13:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
+        "resumen": "This year's best album shortlist includes several returning nominees - but Lily Allen misses out.",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 09:45:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Giant iceberg turns over near  Greenland's coast",
+        "resumen": "Video captured by a passerby showed the moment the iceberg collapsed, creating a big wave.",
+        "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 10:54:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mum and boyfriend jailed for girl's  murder",
+        "resumen": "Isabelle Welsh was subjected to \"sadistic\" violence and abuse before her murder, a court hears.",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nyz12xe8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 12:44:31 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Virtual interviews don't show bosses your personality, says Burnham",
+        "resumen": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 12:18:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shell profits double as oil prices rise due to Iran war",
+        "resumen": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+        "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 09:16:29 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What happens here has a big impact on your money",
+        "resumen": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+        "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 16:00:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
+        "resumen": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 23:02:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The Chinese robot army transforming the UK's retail industry",
+        "resumen": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+        "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 29 Jul 2026 22:08:29 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Interest rates held as Bank of England says inflation set to rise",
+        "resumen": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 12:21:49 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "resumen": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "publicado": "Thu, 30 Jul 2026 00:21:06 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "resumen": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "publicado": "Wed, 29 Jul 2026 23:00:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "resumen": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "publicado": "Wed, 29 Jul 2026 22:46:03 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "resumen": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "publicado": "Wed, 29 Jul 2026 22:23:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "resumen": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "publicado": "Wed, 29 Jul 2026 21:16:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "resumen": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "publicado": "Wed, 29 Jul 2026 21:07:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon’s short story collections are one of the best reasons to own a Kindle",
+        "resumen": "Over the last few years, I've gradually shifted away from ebooks. It's been part of a general return to physical media, an attempt to create a deeper sense of ownership over the art I love and collect. A Kindle is obviously more convenient than a paperback: It's tiny, holds a huge library, and you can [&#8230;]",
+        "url": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
+        "publicado": "2026-07-30T08:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera",
+        "resumen": "DJI's Osmo Pocket 4P is a pretty simple proposition: an Osmo Pocket 4 with a second camera lens slapped inside. But is that extra lens worth the added size, weight, and cost relative to the regular Pocket 4? And how does it compare to the only rival on the market, Insta360's dual-lens Luna Ultra? It [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
+        "publicado": "2026-07-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SwitchBot makes a better fan",
+        "resumen": "I was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now we're getting the SwitchBot Battery Circulator Fan 2 Pro. Priced at $119.99, it ditches the height-adjustable stand but increases battery life, throw distance, and wind speed while adding native Matter-over-Wi-Fi, allowing it to join your smart home without needing [&#8230;]",
+        "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+        "publicado": "2026-07-30T06:30:55-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "resumen": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "publicado": "2026-07-29T18:17:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "resumen": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "publicado": "2026-07-29T17:48:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Qualcomm is raising phone chip prices starting September 1st",
+        "resumen": "RAMageddon won't be the only reason your next phone costs more - Qualcomm is about to raise prices on all its processors, as well. Qualcomm CEO Cristiano Amon said on Wednesday that \"prices are going to go up\" on the company's products starting on September 1st, CNBC reports. The price hikes were rumored last week [&#8230;]",
+        "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+        "publicado": "2026-07-29T17:41:56-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7316.15,
+      "cambio_pct": -1.52,
+      "cierre_anterior": 7428.78,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7200.75,
+      "rendimiento_periodo_pct": 1.49,
+      "historico_fechas": [
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24442.94,
+      "cambio_pct": -1.74,
+      "cierre_anterior": 24876.91,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        25137.69,
+        24975.82,
+        24932.08,
+        24876.91,
+        24442.94
+      ]
+    },
+    "dow": {
+      "ultimo": 51594.14,
+      "cambio_pct": -2.19,
+      "cierre_anterior": 52747.32,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29"
+      ],
+      "historico_cierres": [
+        51711.65,
+        51947.25,
+        52210.08,
+        52747.32,
+        51594.14
+      ]
+    },
+    "vix": {
+      "ultimo": 19.03,
+      "cambio_pct": -7.89,
+      "cierre_anterior": 20.66,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        18.58,
+        18.67,
+        18.21,
+        20.66,
+        19.03
+      ]
+    },
+    "oro": {
+      "ultimo": 4132.3,
+      "cambio_pct": 2.42,
+      "cierre_anterior": 4034.7,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        4074.5,
+        4036.3,
+        4034.7,
+        4132.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.95,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 84.46,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        82.61,
+        79.26,
+        84.46,
+        83.95
+      ]
+    },
+    "btc": {
+      "ultimo": 64764.23,
+      "cambio_pct": 1.34,
+      "cierre_anterior": 63908.17,
+      "historico_fechas": [
+        "2026-07-26",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        65340.3,
+        63724.9,
+        63871.36,
+        63908.17,
+        64764.23
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.68,
+      "cambio_pct": -0.12,
+      "cierre_anterior": 100.8,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        101.51,
+        101.38,
+        100.8,
+        100.68
+      ]
+    }
+  }
+}
