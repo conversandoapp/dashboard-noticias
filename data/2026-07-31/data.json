@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-07-31",
+  "generado_en": "2026-07-31T12:56:58.555219Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+        "resumen": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:39:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
+        "resumen": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:14:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Southport killer charged with prison attacks and possessing weapon",
+        "resumen": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 11:03:17 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Sainsbury's agrees to sell Argos for £120m",
+        "resumen": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:42:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+        "resumen": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing or killed in Pakistan.",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:37:49 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
+        "resumen": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 10:18:54 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+        "resumen": "Edward Killiwick was on the flight that issued a distress call, before it landed safely at Heathrow earlier this month.",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:19:20 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Sainsbury's agrees to sell Argos for £120m",
+        "resumen": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 12:42:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK petrol prices hit highest level since Iran war began",
+        "resumen": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 11:19:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "BP puts North Sea business up for sale",
+        "resumen": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
+        "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 31 Jul 2026 09:43:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+        "resumen": "Could you live communally in a disused building in exchange for a heavily discounted rent? Property guardians show us around.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 23:05:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "India wants to join the strawberry superpowers",
+        "resumen": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+        "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 30 Jul 2026 22:04:09 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+        "resumen": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+        "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+        "publicado": "Fri, 31 Jul 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic says its own AI models breached three companies during security tests",
+        "resumen": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "publicado": "Fri, 31 Jul 2026 01:06:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+        "resumen": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+        "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+        "publicado": "Thu, 30 Jul 2026 23:28:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "resumen": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+        "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+        "publicado": "Thu, 30 Jul 2026 23:25:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "resumen": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+        "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "publicado": "Thu, 30 Jul 2026 23:08:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Investors love AI, as long as you’re a cloud host",
+        "resumen": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+        "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+        "publicado": "Thu, 30 Jul 2026 22:41:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
+        "resumen": "Dungeons &#38; Dragons is no stranger to franchise crossovers, and now it's kicking off its biggest multiverse initiative to date, starting with a World of Warcraft expansion. Wizards of the Coast (WotC) has announced that D&#38;D: World of Warcraft - a new sourcebook that brings Blizzard's Azeroth setting to the popular tabletop roleplaying game - [&#8230;]",
+        "url": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+        "publicado": "2026-07-31T08:31:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This tattoo is permanent, pain-free, and might soon come in the mail",
+        "resumen": "The refurbished railway station in London I entered last week had none of the usual signs of being a tattoo studio. The walls were devoid of any art, and there were no reclining chairs or massage tables in the room. The only tattoo gun on the premises sat in a display case instead of buzzing [&#8230;]",
+        "url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+        "publicado": "2026-07-31T08:01:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
+        "resumen": "Cape Fear has always been a thriller about paranoia. And in 2026 there are few things less trustworthy than technology. Apple TV's recent remake of Cape Fear is \"inspired\" by the 1991 film of the same name (Martin Scorsese and Steven Spielberg even returned as executive producers on the project), which itself is a remake [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
+        "publicado": "2026-07-31T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony pushes forward with ditching discs, despite backlash",
+        "resumen": "Sony has received a lot of backlash from PlayStation fans since announcing that it's killing physical game disc production, but that hasn't swayed its decision. During Sony's latest earnings call, chief financial officer Lin Tao said that while the company \"put in a lot of thought and time\" when considering the opposition put forward by [&#8230;]",
+        "url": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
+        "publicado": "2026-07-31T06:40:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Tim Cook hints at iCloud Plus tier for AI power users",
+        "resumen": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+        "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+        "publicado": "2026-07-30T18:29:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+        "resumen": "After a massive Xbox \"reset\" that laid off thousands of employees and spun off four studios, Xbox CEO Asha Sharma wants to get Xbox back to growth. In a memo obtained by The Verge, Sharma told staff by the end of fiscal year 2027 (which runs through next June), \"we will return XBOX to player [&#8230;]",
+        "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+        "publicado": "2026-07-30T18:10:13-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7437.63,
+      "cambio_pct": 1.66,
+      "cierre_anterior": 7316.15,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7200.75,
+      "rendimiento_periodo_pct": 3.17,
+      "historico_fechas": [
+        "2026-04-30",
+        "2026-05-01",
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        7209.01,
+        7230.12,
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25122.18,
+      "cambio_pct": 2.78,
+      "cierre_anterior": 24442.94,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        24975.82,
+        24932.08,
+        24876.91,
+        24442.94,
+        25122.18
+      ]
+    },
+    "dow": {
+      "ultimo": 52208.06,
+      "cambio_pct": 1.19,
+      "cierre_anterior": 51594.14,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30"
+      ],
+      "historico_cierres": [
+        51947.25,
+        52210.08,
+        52747.32,
+        51594.14,
+        52208.06
+      ]
+    },
+    "vix": {
+      "ultimo": 17.22,
+      "cambio_pct": 0.76,
+      "cierre_anterior": 17.09,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31"
+      ],
+      "historico_cierres": [
+        18.67,
+        18.21,
+        20.66,
+        17.09,
+        17.22
+      ]
+    },
+    "oro": {
+      "ultimo": 4100.6,
+      "cambio_pct": 0.01,
+      "cierre_anterior": 4100.1,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31"
+      ],
+      "historico_cierres": [
+        4074.5,
+        4036.3,
+        4034.7,
+        4100.1,
+        4100.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 85.37,
+      "cambio_pct": 2.13,
+      "cierre_anterior": 83.59,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31"
+      ],
+      "historico_cierres": [
+        82.61,
+        79.26,
+        84.46,
+        83.59,
+        85.37
+      ]
+    },
+    "btc": {
+      "ultimo": 63676.84,
+      "cambio_pct": -1.62,
+      "cierre_anterior": 64725.31,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31"
+      ],
+      "historico_cierres": [
+        63724.9,
+        63871.36,
+        63908.17,
+        64725.31,
+        63676.84
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.38,
+      "cambio_pct": 0.37,
+      "cierre_anterior": 100.01,
+      "historico_fechas": [
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31"
+      ],
+      "historico_cierres": [
+        101.51,
+        101.38,
+        100.8,
+        100.01,
+        100.38
+      ]
+    }
+  }
+}
