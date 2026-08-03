@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-03",
+  "generado_en": "2026-08-03T13:41:07.865032Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "English FA set to withdraw support for Fifa president Infantino",
+        "resumen": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 07:49:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mother has ground-breaking surgery while pregnant to treat baby",
+        "resumen": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+        "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 05:02:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Iran denies Trump's claim that new talks will begin on Monday",
+        "resumen": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 12:44:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "resumen": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 03:32:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Reform says it would use Navy to stop small boats",
+        "resumen": "The party's home affairs spokesman Zia Yusuf says it would be the \"largest military operation in the English Channel since World War Two”.",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 12:20:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
+        "resumen": "The columnist died in hospital in Middlsbrough on Sunday.",
+        "url": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 13:35:45 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+        "resumen": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 11:49:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "It may be easier to get your first mortgage than you think - here's why",
+        "resumen": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 09:55:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+        "resumen": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 11:18:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "New Spider-Man film sees second-biggest ever global opening weekend",
+        "resumen": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+        "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 04:10:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US and Japan take action to prop up yen in rare joint move",
+        "resumen": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+        "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 07:30:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+        "resumen": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+        "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 01 Aug 2026 12:41:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+        "resumen": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+        "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+        "publicado": "Mon, 03 Aug 2026 12:50:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Samsung bans smart TV apps that share users’ internet connections with strangers",
+        "resumen": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
+        "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+        "publicado": "Mon, 03 Aug 2026 12:10:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "resumen": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "publicado": "Mon, 03 Aug 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The global memory shortage hits the MacBook Air",
+        "resumen": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+        "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+        "publicado": "Sun, 02 Aug 2026 21:33:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sam Altman and AI’s decel debate",
+        "resumen": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "publicado": "Sun, 02 Aug 2026 20:54:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+        "resumen": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+        "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+        "publicado": "Sun, 02 Aug 2026 17:05:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Big Walk is like co-op Breath of the Wild",
+        "resumen": "Untitled Goose Game is a tough act to follow. It was a silly experience that captured what I imagine it would feel like to be a sentient goose: a lot of waddling, a lot of honking, and a lot of shenanigans. That's why Big Walk, the next game from Goose Game developer House House, feels [&#8230;]",
+        "url": "https://www.theverge.com/games/973166/big-walk-review",
+        "publicado": "2026-08-03T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "resumen": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "publicado": "2026-08-03T07:01:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+        "resumen": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost entirely [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+        "publicado": "2026-08-02T17:53:15-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "resumen": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "publicado": "2026-08-02T15:36:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xbox prices are increasing by up to €200 or £170",
+        "resumen": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [&#8230;]",
+        "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+        "publicado": "2026-08-02T12:14:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+        "resumen": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on track, and from August 2nd through August 9th they&#8217;re [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+        "publicado": "2026-08-02T11:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7542.12,
+      "cambio_pct": 0.7,
+      "cierre_anterior": 7489.72,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7200.75,
+      "rendimiento_periodo_pct": 4.74,
+      "historico_fechas": [
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7542.12
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25584.17,
+      "cambio_pct": 0.83,
+      "cierre_anterior": 25373.85,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        24876.91,
+        24442.94,
+        25122.18,
+        25373.85,
+        25584.17
+      ]
+    },
+    "dow": {
+      "ultimo": 53086.8,
+      "cambio_pct": 1.15,
+      "cierre_anterior": 52485.03,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        52747.32,
+        51594.14,
+        52208.06,
+        52485.03,
+        53086.8
+      ]
+    },
+    "vix": {
+      "ultimo": 16.02,
+      "cambio_pct": 0.19,
+      "cierre_anterior": 15.99,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        18.21,
+        20.66,
+        17.09,
+        15.99,
+        16.02
+      ]
+    },
+    "oro": {
+      "ultimo": 4087.0,
+      "cambio_pct": 0.94,
+      "cierre_anterior": 4049.1,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        4034.7,
+        4100.1,
+        4049.1,
+        4087.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 78.96,
+      "cambio_pct": -6.74,
+      "cierre_anterior": 84.67,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        84.46,
+        83.59,
+        84.67,
+        78.96
+      ]
+    },
+    "btc": {
+      "ultimo": 62822.62,
+      "cambio_pct": -1.04,
+      "cierre_anterior": 63482.0,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        64725.31,
+        62813.75,
+        62763.32,
+        63482.0,
+        62822.62
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.74,
+      "cambio_pct": -0.06,
+      "cierre_anterior": 99.8,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        100.8,
+        100.01,
+        99.8,
+        99.74
+      ]
+    }
+  }
+}
