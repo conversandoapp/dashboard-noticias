@@ -1,0 +1,445 @@
+{
+  "fecha": "2026-08-04",
+  "generado_en": "2026-08-04T13:02:36.871550Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "More than 150 migrants rescued after boat catches fire in Channel",
+        "resumen": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 11:19:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Prison overcrowding crisis limits ability to cut early releases, minister says",
+        "resumen": "Some offenders will be barred from the scheme, but those guilty of manslaughter may be eligible, leaving PC Harper's family \"devastated\".",
+        "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 12:51:49 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "resumen": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+        "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 12:19:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+        "resumen": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 10:45:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Analysis: Trump challenged by cold reality from top allies",
+        "resumen": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+        "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 09:11:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+        "resumen": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 10:07:05 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+        "resumen": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 10:07:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Apple issues new challenge against UK order for access to private user data",
+        "resumen": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 10:22:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+        "resumen": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 10:34:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Half-price rail travel extended to 18-year-olds",
+        "resumen": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 23:34:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US states sue to block Trump tariffs impacting dozens of countries",
+        "resumen": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 09:08:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Zinc dresses and ice creams - how to survive a heatwave wedding",
+        "resumen": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
+        "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 03 Aug 2026 23:20:15 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Is the future of data centers portable? Runware builds a pod to find out",
+        "resumen": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "publicado": "Tue, 04 Aug 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "resumen": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+        "publicado": "Tue, 04 Aug 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Bending Spoons to buy Airtable for $1.28B",
+        "resumen": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
+        "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+        "publicado": "Tue, 04 Aug 2026 11:30:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "resumen": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "publicado": "Mon, 03 Aug 2026 23:19:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+        "resumen": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+        "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+        "publicado": "Mon, 03 Aug 2026 22:10:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "resumen": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "publicado": "Mon, 03 Aug 2026 20:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Peak Design’s latest bags have clever integrated hooks",
+        "resumen": "Peak Design's new City Line collection includes six lightweight bags designed for everyday carry. There's a 15-liter and 22L City Backpack, 15L City Tote, 6L and 12L City Crescent crossbody bags, and 2L City Sling. All are available starting today and feature a new BagLev hook that can suspend the bags from a table ledge [&#8230;]",
+        "url": "https://www.theverge.com/tech/973624/peak-design-city-line-details-price",
+        "publicado": "2026-08-04T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nothing CMF is launching its first open earbuds",
+        "resumen": "Open earbuds are having a bit of a moment right now, and Nothing is the latest company jumping on the trend. Its budget sub-brand has introduced the CMF Clip Pro, CMF's first open-ear buds that are designed to provide comfort and sound quality for people who don't want to sacrifice their situational awareness. The $99 [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
+        "publicado": "2026-08-04T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple briefly yanked Telegram from the App Store over CSAM violations",
+        "resumen": "Telegram is back on the App Store after Apple briefly removed it on Monday night over concerns about child sexual abuse material (CSAM). In a statement to Bloomberg's Mark Gurman, Apple says a review found that Telegram \"violates our strict guidelines prohibiting child sexual abuse material,\" adding that it restored the app \"after the developer [&#8230;]",
+        "url": "https://www.theverge.com/tech/974951/telegram-apple-app-store-removed",
+        "publicado": "2026-08-04T08:57:43-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+        "resumen": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is getting this wrong,\" OpenAI said that Apple's lawsuit accusing it of stealing trade secrets is \"careless, aggressive, and oddly personal,\" sharing iMessage and email [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+        "publicado": "2026-08-04T07:27:55-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The next Xbox could play every Xbox game ever made",
+        "resumen": "The next Xbox, Project Helix, could theoretically have the largest library of any home console. Not only will it play PC games, but we now know, courtesy of a leaked memo obtained by The Verge's Tom Warren, that it will run games from every generation of Xbox: the original 2001 Xbox, the 2005 Xbox 360, [&#8230;]",
+        "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
+        "publicado": "2026-08-04T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Can Reddit fend off a new wave of AI SEO spam?",
+        "resumen": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+        "publicado": "2026-08-04T06:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7600.5,
+      "cambio_pct": 1.48,
+      "cierre_anterior": 7489.72,
+      "maximo_periodo": 7609.78,
+      "minimo_periodo": 7200.75,
+      "rendimiento_periodo_pct": 5.55,
+      "historico_fechas": [
+        "2026-05-04",
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        7200.75,
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25913.9,
+      "cambio_pct": 2.13,
+      "cierre_anterior": 25373.85,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        24876.91,
+        24442.94,
+        25122.18,
+        25373.85,
+        25913.9
+      ]
+    },
+    "dow": {
+      "ultimo": 53178.41,
+      "cambio_pct": 1.32,
+      "cierre_anterior": 52485.03,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03"
+      ],
+      "historico_cierres": [
+        52747.32,
+        51594.14,
+        52208.06,
+        52485.03,
+        53178.41
+      ]
+    },
+    "vix": {
+      "ultimo": 15.61,
+      "cambio_pct": -1.58,
+      "cierre_anterior": 15.86,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        20.66,
+        17.09,
+        15.99,
+        15.86,
+        15.61
+      ]
+    },
+    "oro": {
+      "ultimo": 4133.3,
+      "cambio_pct": 2.47,
+      "cierre_anterior": 4033.7,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        4100.1,
+        4049.1,
+        4033.7,
+        4133.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 77.54,
+      "cambio_pct": -3.49,
+      "cierre_anterior": 80.34,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        83.59,
+        84.67,
+        80.34,
+        77.54
+      ]
+    },
+    "btc": {
+      "ultimo": 63820.36,
+      "cambio_pct": 0.53,
+      "cierre_anterior": 63482.0,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        62813.75,
+        62763.32,
+        63482.0,
+        63820.36
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.92,
+      "cambio_pct": -0.04,
+      "cierre_anterior": 99.96,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        100.01,
+        99.8,
+        99.96,
+        99.92
+      ]
+    }
+  }
+}
