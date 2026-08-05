@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-05",
+  "generado_en": "2026-08-05T12:53:15.674345Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Police chief considers joining legal action over PC Harper killers' early release",
+        "resumen": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 09:02:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+        "resumen": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 11:07:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+        "resumen": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 09:24:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+        "resumen": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 12:26:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Family 'devastated' by death of girl, 9, injured on Scottish industrial estate",
+        "resumen": "A 35-year old man is due in court in connection of Minnie Merriman, who was found injured in Arbroath on Monday morning.",
+        "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 12:05:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
+        "resumen": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
+        "url": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 12:14:41 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Prioritise new jobs over green targets to win public contracts, firms told",
+        "resumen": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 10:10:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
+        "resumen": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 08:53:01 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The cost of being single – and how friends are teaming up to beat it",
+        "resumen": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+        "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 23:21:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+        "resumen": "Elon Musk told investors that people were \"underestimating\" his company.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 08:53:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I feel like I dug my own grave': The workers caught in the AI transition",
+        "resumen": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+        "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 22:10:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How tech is helping in the battle against wildfires",
+        "resumen": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+        "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 04 Aug 2026 23:21:47 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+        "resumen": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+        "publicado": "Wed, 05 Aug 2026 12:28:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Robinhood to list a fund that lets anyone back Y Combinator startups",
+        "resumen": "Robinhood's latest financial instrument intends to let any retail investor feel like they, too, can make money by backing Y Combinator startups.",
+        "url": "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/",
+        "publicado": "Wed, 05 Aug 2026 12:23:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+        "resumen": "River plans to build a new factory, launch additional models from 2027, and target profitability as it scales production.",
+        "url": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+        "publicado": "Wed, 05 Aug 2026 11:26:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+        "resumen": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business.",
+        "url": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+        "publicado": "Wed, 05 Aug 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "resumen": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "publicado": "Wed, 05 Aug 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Wispr Flow launches a Granola-styled meeting notetaker",
+        "resumen": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+        "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+        "publicado": "Wed, 05 Aug 2026 07:15:49 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters",
+        "resumen": "Disney is introducing fan-created TikTok content to its Disney Plus app in its latest attempt to break into short-form creator videos. The Walt Disney Company announced today that it's partnering with TikTok to bring \"an expansive collection of thoughtfully curated Disney-centric fan-created content\" to the Verts video feed it launched on Disney Plus earlier this [&#8230;]",
+        "url": "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming",
+        "publicado": "2026-08-05T07:38:49-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google Assistant will disappear from your phone next month",
+        "resumen": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in an email apparently sent to [&#8230;]",
+        "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+        "publicado": "2026-08-05T07:12:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump’s AI testing plan is limited and vague",
+        "resumen": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+        "publicado": "2026-08-05T06:29:47-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Ted Lasso returns at an important time for Apple TV",
+        "resumen": "2026 is shaping up to be an excellent year for Apple TV. Apple's streaming service has built out an impressive slate that spans returning favorites like Silo and Sugar to all-new hits including OnlyFans-inspired dramedies, terrifying comedies, and paranoid tech thrillers. But the most important release might be a feel-good sports sitcom. After what seemed [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv",
+        "publicado": "2026-08-05T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SpaceX is coming for T-Mobile, AT&#038;T and Verizon",
+        "resumen": "SpaceX is preparing to build a terrestrial mobile network to \"acquire quite a few\" of the customers now subscribed to T-Mobile, AT&#38;T, and Verizon. The message to compete head-to-head with the US carriers was delivered by SpaceX president Gwynne Shotwell and CEO Elon Musk during the Q&#38;A section of the company's first earnings call. \"The [&#8230;]",
+        "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+        "publicado": "2026-08-05T02:50:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Don’t screw this up, Marvel",
+        "resumen": "In less than a week, Spider-Man: Brand New Day raked in $1 billion worldwide and had the biggest box office opening weekend in Hollywood history. The feature has been a reminder of why Sony is probably never going to give up the Spider-Man film rights, and highlighted how Marvel Studios was smart to strike a [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday",
+        "publicado": "2026-08-04T19:20:56-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7736.52,
+      "cambio_pct": 1.79,
+      "cierre_anterior": 7600.5,
+      "maximo_periodo": 7736.52,
+      "minimo_periodo": 7259.22,
+      "rendimiento_periodo_pct": 6.58,
+      "historico_fechas": [
+        "2026-05-05",
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        7259.22,
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26584.99,
+      "cambio_pct": 2.59,
+      "cierre_anterior": 25913.9,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        24442.94,
+        25122.18,
+        25373.85,
+        25913.9,
+        26584.99
+      ]
+    },
+    "dow": {
+      "ultimo": 54085.88,
+      "cambio_pct": 1.71,
+      "cierre_anterior": 53178.41,
+      "historico_fechas": [
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04"
+      ],
+      "historico_cierres": [
+        51594.14,
+        52208.06,
+        52485.03,
+        53178.41,
+        54085.88
+      ]
+    },
+    "vix": {
+      "ultimo": 16.82,
+      "cambio_pct": 1.94,
+      "cierre_anterior": 16.5,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        17.09,
+        15.99,
+        15.86,
+        16.5,
+        16.82
+      ]
+    },
+    "oro": {
+      "ultimo": 4255.0,
+      "cambio_pct": 3.9,
+      "cierre_anterior": 4095.4,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        4049.1,
+        4033.7,
+        4095.4,
+        4255.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.26,
+      "cambio_pct": 0.65,
+      "cierre_anterior": 75.77,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        84.67,
+        80.34,
+        75.77,
+        76.26
+      ]
+    },
+    "btc": {
+      "ultimo": 64309.52,
+      "cambio_pct": 0.4,
+      "cierre_anterior": 64055.95,
+      "historico_fechas": [
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        62763.32,
+        63482.0,
+        63460.9,
+        64055.95,
+        64309.52
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.72,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 99.89,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        99.8,
+        99.96,
+        99.89,
+        99.72
+      ]
+    }
+  }
+}
