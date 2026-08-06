@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-06",
+  "generado_en": "2026-08-06T12:57:03.948518Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+        "resumen": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+        "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 05:00:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Majority of England's rivers and lakes fail new environmental review",
+        "resumen": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+        "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 10:00:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Cambridge professor at centre of plagiarism row resigns",
+        "resumen": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+        "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 06:28:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farmer jailed for lodger's 'body in barrel' murder",
+        "resumen": "Richard Dyson's body was not found until nearly six years after he disappeared in rural Barnsley.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 12:30:45 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
+        "resumen": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.",
+        "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 10:19:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+        "resumen": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.",
+        "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 11:06:26 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+        "resumen": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 09:40:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "resumen": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 01:19:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shorts, strappy tops and sandals: What is acceptable to wear to work?",
+        "resumen": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.",
+        "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 12:45:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Meta becomes latest firm to say its AI hacked another company",
+        "resumen": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 05:53:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Owner of bike maker Raleigh files for insolvency",
+        "resumen": "Accell, based in the Netherlands, has owned the famous bike brand since 2012.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv45w4j8eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 12:34:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US beef prices have soared but farmers aren't making more money",
+        "resumen": "The meat has never been more expensive, due to supply shortages, but there's a big squeeze on profits.",
+        "url": "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 05 Aug 2026 23:23:05 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "resumen": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+        "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+        "publicado": "Thu, 06 Aug 2026 12:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Omilia raises $67M to scale its customer support platform",
+        "resumen": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+        "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+        "publicado": "Thu, 06 Aug 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+        "resumen": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+        "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+        "publicado": "Wed, 05 Aug 2026 22:55:43 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nikita Bier steps down as X’s head of product",
+        "resumen": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+        "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+        "publicado": "Wed, 05 Aug 2026 21:30:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+        "resumen": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber.",
+        "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+        "publicado": "Wed, 05 Aug 2026 21:26:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta launches Muse Code, an AI agent for large code bases",
+        "resumen": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "publicado": "Wed, 05 Aug 2026 21:21:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "You can now ask Google Maps’ AI to order food for you",
+        "resumen": "The AI-powered \"Ask Maps\" tool in Google Maps can now perform a broader range of personalized and conversational requests, including ordering food, finding hotels, and providing suggestions that factor in your existing plans. These are among several new features announced for Ask Maps today, which aim to \"make it easier than ever to get more [&#8230;]",
+        "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+        "publicado": "2026-08-06T08:30:37-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GTA VI is getting an ‘extended look’ at the end of August",
+        "resumen": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th. The preview will stream on YouTube at 9PM ET, as per usual, but will also be shown earlier for Netflix subscribers, premiering at 3PM [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
+        "publicado": "2026-08-06T08:16:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nintendo beats earnings thanks to US tariff refunds it won&#8217;t share with gamers",
+        "resumen": "Nintendo has smashed its first-quarter earnings estimates for the fiscal year, bolstered by strong games sales and US tariff refunds, though its customers likely won't receive anything from the latter. In its latest financial results, Nintendo reports that operating profits soared to 142.5 billion yen (about $902 million) between April 1st and June 30th, compared [&#8230;]",
+        "url": "https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund",
+        "publicado": "2026-08-06T06:58:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+        "resumen": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [&#8230;]",
+        "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+        "publicado": "2026-08-06T05:33:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+        "resumen": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+        "publicado": "2026-08-05T20:25:10-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "X product chief Nikita Bier is leaving after one year",
+        "resumen": "X head of product Nikita Bier is stepping down and says he will move into a role as an advisor, writing that \"it's time to pass the torch and demote myself to my natural state: a poster.\" He shared the update just over a month after celebrating his one-year anniversary on the job, and just [&#8230;]",
+        "url": "https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving",
+        "publicado": "2026-08-05T18:19:55-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7723.55,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 7736.52,
+      "maximo_periodo": 7736.52,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.87,
+      "historico_fechas": [
+        "2026-05-06",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        7365.12,
+        7337.11,
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26363.44,
+      "cambio_pct": -0.83,
+      "cierre_anterior": 26584.99,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        25122.18,
+        25373.85,
+        25913.9,
+        26584.99,
+        26363.44
+      ]
+    },
+    "dow": {
+      "ultimo": 54349.12,
+      "cambio_pct": 0.49,
+      "cierre_anterior": 54085.88,
+      "historico_fechas": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05"
+      ],
+      "historico_cierres": [
+        52208.06,
+        52485.03,
+        53178.41,
+        54085.88,
+        54349.12
+      ]
+    },
+    "vix": {
+      "ultimo": 15.96,
+      "cambio_pct": 0.95,
+      "cierre_anterior": 15.81,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "historico_cierres": [
+        15.99,
+        15.86,
+        16.5,
+        15.81,
+        15.96
+      ]
+    },
+    "oro": {
+      "ultimo": 4323.5,
+      "cambio_pct": 1.83,
+      "cierre_anterior": 4245.8,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "historico_cierres": [
+        4033.7,
+        4095.4,
+        4245.8,
+        4323.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 76.34,
+      "cambio_pct": 1.49,
+      "cierre_anterior": 75.22,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "historico_cierres": [
+        80.34,
+        75.77,
+        75.22,
+        76.34
+      ]
+    },
+    "btc": {
+      "ultimo": 64361.7,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 64597.5,
+      "historico_fechas": [
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "historico_cierres": [
+        63482.0,
+        63460.9,
+        64055.95,
+        64597.5,
+        64361.7
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.76,
+      "cambio_pct": 0.07,
+      "cierre_anterior": 99.69,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06"
+      ],
+      "historico_cierres": [
+        99.96,
+        99.89,
+        99.69,
+        99.76
+      ]
+    }
+  }
+}
