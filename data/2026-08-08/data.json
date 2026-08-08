@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-08-08",
+  "generado_en": "2026-08-08T11:29:02.644760Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+        "resumen": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+        "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 06:16:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+        "resumen": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 22:50:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+        "resumen": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 23:23:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "resumen": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 22:13:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+        "resumen": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 22:07:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police officers investigated over handling of sex offender who murdered two women",
+        "resumen": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+        "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 08:50:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "How a 90-second power outage sparked chaos for rail commuters",
+        "resumen": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 16:11:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Goodwin considers selling part of defence business",
+        "resumen": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+        "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 15:22:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Surprise fall in US jobs last month as slow summer continues",
+        "resumen": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+        "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 14:03:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Meta fined $567m in largest child safety ruling against social media giant",
+        "resumen": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 09:22:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Argos is getting a makeover - but can it attract new shoppers?",
+        "resumen": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 23:03:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why airlines are warning over lithium-ion batteries",
+        "resumen": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 23:04:40 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "OpenAI says it slowed Astra model development over security concerns",
+        "resumen": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "publicado": "Fri, 07 Aug 2026 22:48:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "resumen": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "publicado": "Fri, 07 Aug 2026 21:30:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+        "resumen": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+        "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+        "publicado": "Fri, 07 Aug 2026 21:20:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+        "resumen": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+        "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+        "publicado": "Fri, 07 Aug 2026 21:00:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "resumen": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "publicado": "Fri, 07 Aug 2026 16:16:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Computer maker Framework notifies ‘all customers’ of a data breach",
+        "resumen": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+        "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+        "publicado": "Fri, 07 Aug 2026 16:09:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nitecore’s latest power bank is the lightest and most compact yet",
+        "resumen": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]",
+        "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+        "publicado": "2026-08-08T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The gaming site sponsored by Walmart lays off its editorial staff",
+        "resumen": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission [&#8230;]",
+        "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+        "publicado": "2026-08-07T18:05:08-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+        "resumen": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+        "publicado": "2026-08-07T16:01:51-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Watching Roku’s AI channel is like eating from a trough",
+        "resumen": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+        "publicado": "2026-08-07T14:59:46-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+        "resumen": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+        "publicado": "2026-08-07T14:40:34-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The only instant cameras worth your money",
+        "resumen": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed [&#8230;]",
+        "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+        "publicado": "2026-08-07T14:04:08-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7757.64,
+      "cambio_pct": 0.62,
+      "cierre_anterior": 7709.96,
+      "maximo_periodo": 7757.64,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.85,
+      "historico_fechas": [
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26690.62,
+      "cambio_pct": 1.3,
+      "cierre_anterior": 26348.35,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        25913.9,
+        26584.99,
+        26363.44,
+        26348.35,
+        26690.62
+      ]
+    },
+    "dow": {
+      "ultimo": 54036.93,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 53885.1,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        53178.41,
+        54085.88,
+        54349.12,
+        53885.1,
+        54036.93
+      ]
+    },
+    "vix": {
+      "ultimo": 14.9,
+      "cambio_pct": -1.65,
+      "cierre_anterior": 15.15,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        15.86,
+        16.5,
+        15.81,
+        15.15,
+        14.9
+      ]
+    },
+    "oro": {
+      "ultimo": 4340.7,
+      "cambio_pct": 2.33,
+      "cierre_anterior": 4242.0,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        4033.7,
+        4095.4,
+        4245.8,
+        4242.0,
+        4340.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 78.18,
+      "cambio_pct": 1.15,
+      "cierre_anterior": 77.29,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        80.34,
+        75.77,
+        75.22,
+        77.29,
+        78.18
+      ]
+    },
+    "btc": {
+      "ultimo": 64932.69,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 64880.19,
+      "historico_fechas": [
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08"
+      ],
+      "historico_cierres": [
+        64055.95,
+        64597.5,
+        64262.11,
+        64880.19,
+        64932.69
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.6,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 99.97,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        99.96,
+        99.89,
+        99.69,
+        99.97,
+        99.6
+      ]
+    }
+  }
+}
