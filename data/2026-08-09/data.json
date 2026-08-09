@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-09",
+  "generado_en": "2026-08-09T11:29:38.679694Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+        "resumen": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 09 Aug 2026 10:02:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Andy Burnham to embark on cost of living tour through the UK",
+        "resumen": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+        "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 23:10:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
+        "resumen": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 23:13:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "resumen": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 19:00:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Fifa criticises campaign to oust president Infantino",
+        "resumen": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 22:06:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+        "resumen": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+        "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 09 Aug 2026 04:32:06 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+        "resumen": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 13:41:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How a 90-second power outage sparked chaos for rail commuters",
+        "resumen": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 16:11:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Goodwin considers selling part of defence business",
+        "resumen": "The firm is a key supplier of components to UK and US frigate and submarine programmes.",
+        "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 15:22:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Surprise fall in US jobs last month as slow summer continues",
+        "resumen": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.",
+        "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 14:03:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Meta fined $567m in largest child safety ruling against social media giant",
+        "resumen": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 07 Aug 2026 09:22:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Argos is getting a makeover - but can it attract new shoppers?",
+        "resumen": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 06 Aug 2026 23:03:48 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "resumen": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "publicado": "Sat, 08 Aug 2026 21:24:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI acquires presentation startup NextSlide",
+        "resumen": "NextSlide says its team members are now working on ChatGPT.",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "publicado": "Sat, 08 Aug 2026 19:41:13 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+        "resumen": "X is winding down its existing Revenue Sharing program.",
+        "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+        "publicado": "Sat, 08 Aug 2026 16:34:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+        "resumen": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
+        "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+        "publicado": "Sat, 08 Aug 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google’s top hacker hunter explains why hacking groups get codenames",
+        "resumen": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+        "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+        "publicado": "Sat, 08 Aug 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI says it slowed Astra model development over security concerns",
+        "resumen": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "publicado": "Fri, 07 Aug 2026 22:48:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+        "resumen": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]",
+        "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+        "publicado": "2026-08-08T17:15:12-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "An Amazon data center could have the worst polluting power plant in the country",
+        "resumen": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "publicado": "2026-08-08T13:53:34-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Buc-ee’s dodges John Oliver to sue another small business",
+        "resumen": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads [&#8230;]",
+        "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
+        "publicado": "2026-08-08T11:47:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+        "resumen": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, [&#8230;]",
+        "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+        "publicado": "2026-08-08T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Is this $450 laptop from an unknown brand too good to be true?",
+        "resumen": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]",
+        "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+        "publicado": "2026-08-08T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "My favorite feel-good show is back",
+        "resumen": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]",
+        "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+        "publicado": "2026-08-08T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7757.64,
+      "cambio_pct": 0.62,
+      "cierre_anterior": 7709.96,
+      "maximo_periodo": 7757.64,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.85,
+      "historico_fechas": [
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26690.62,
+      "cambio_pct": 1.3,
+      "cierre_anterior": 26348.35,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        25913.9,
+        26584.99,
+        26363.44,
+        26348.35,
+        26690.62
+      ]
+    },
+    "dow": {
+      "ultimo": 54036.93,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 53885.1,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        53178.41,
+        54085.88,
+        54349.12,
+        53885.1,
+        54036.93
+      ]
+    },
+    "vix": {
+      "ultimo": 14.9,
+      "cambio_pct": -1.65,
+      "cierre_anterior": 15.15,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        15.86,
+        16.5,
+        15.81,
+        15.15,
+        14.9
+      ]
+    },
+    "oro": {
+      "ultimo": 4399.7,
+      "cambio_pct": 3.72,
+      "cierre_anterior": 4242.0,
+      "historico_fechas": [
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        4095.4,
+        4245.8,
+        4242.0,
+        4399.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 78.18,
+      "cambio_pct": 1.15,
+      "cierre_anterior": 77.29,
+      "historico_fechas": [
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        75.77,
+        75.22,
+        77.29,
+        78.18
+      ]
+    },
+    "btc": {
+      "ultimo": 64928.9,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 64904.69,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09"
+      ],
+      "historico_cierres": [
+        64597.5,
+        64262.11,
+        64880.19,
+        64904.69,
+        64928.9
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.6,
+      "cambio_pct": -0.37,
+      "cierre_anterior": 99.97,
+      "historico_fechas": [
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        99.89,
+        99.69,
+        99.97,
+        99.6
+      ]
+    }
+  }
+}
