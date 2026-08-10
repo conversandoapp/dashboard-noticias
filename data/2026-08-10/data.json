@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-10",
+  "generado_en": "2026-08-10T11:47:36.615318Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Record 230 people cross Channel in one small boat",
+        "resumen": "A photograph taken near the French coast shows migrants packed into the inflatable small boat.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 11:01:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Dust devil' spins through London park",
+        "resumen": "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.",
+        "url": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 11:14:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Travelodge staff gave domestic abuser key to his victim's room",
+        "resumen": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 05:00:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Evidence that South African special forces murdered top detective shared with BBC",
+        "resumen": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 09 Aug 2026 23:05:29 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Thames Water gave finance boss a £1m signing-on fee",
+        "resumen": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 10:35:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ban on 'subscription traps' brought forward by three months",
+        "resumen": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 09:57:54 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Thames Water gave finance boss a £1m signing-on fee",
+        "resumen": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 10:35:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ban on 'subscription traps' brought forward by three months",
+        "resumen": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 09:57:54 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+        "resumen": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 05:00:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "You could be missing out on £150 off your energy bill - here's how to check",
+        "resumen": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help.",
+        "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 09 Aug 2026 23:47:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+        "resumen": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 08 Aug 2026 13:41:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'You could smell someone' who worked at Raleigh",
+        "resumen": "The company was more than just a employer. For years, it was part of the fabric of Nottingham.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 10 Aug 2026 05:10:15 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "resumen": "The AI-focused hedge fund is still making some big bets.",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "publicado": "Sun, 09 Aug 2026 20:35:17 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic is turning Claude Code’s auto mode on by default",
+        "resumen": "Programming with Claude Code will soon require even less human oversight.",
+        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "publicado": "Sun, 09 Aug 2026 19:20:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+        "resumen": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+        "publicado": "Sun, 09 Aug 2026 16:05:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "resumen": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "publicado": "Sun, 09 Aug 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The AI safety test is becoming a safety risk",
+        "resumen": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "publicado": "Sun, 09 Aug 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+        "resumen": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+        "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+        "publicado": "Sun, 09 Aug 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The first rival Android app store just arrived in the US Play Store",
+        "resumen": "Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile games, is the first to become available. Third-party app stores have always been available on Android, [&#8230;]",
+        "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
+        "publicado": "2026-08-10T07:30:32-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+        "resumen": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it [&#8230;]",
+        "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+        "publicado": "2026-08-10T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Space mirrors could ruin astronomy — and your eyes",
+        "resumen": "Solar energy, at any time of day or night - that's the dream of space mirror projects. Futurists have been imagining satellite mirrors that could reflect the sun's light onto the Earth's surface for over a century. Russian scientists experimented with the concept in the '90s with the Znamya project. The idea is to put [&#8230;]",
+        "url": "https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage",
+        "publicado": "2026-08-10T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "No Dogs in Space is a music history podcast for true obsessives",
+        "resumen": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season 3, which focused on experimental rock. Don't get me wrong, I loved seasons 1 and 2, but the show seemed to be gearing up for a [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+        "publicado": "2026-08-09T16:28:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat",
+        "resumen": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping News, the closest vessel was actually Mark Zuckerberg's super yacht, Launchpad. Michael Love, a passenger on the Wilderness Legacy, posted [&#8230;]",
+        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+        "publicado": "2026-08-09T13:20:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "49ers coach says his Tesla was on Autopilot when he crashed",
+        "resumen": "Four weeks ago, San Francisco 49ers coach Kyle Shanahan was involved in an accident near downtown Palo Alto. At the time, Shanahan said only that the accident was his fault. But during a recent press conference, he shared more details about the incident, including the fact that he had his Tesla's Autopilot engaged at the [&#8230;]",
+        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+        "publicado": "2026-08-09T11:56:49-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7757.64,
+      "cambio_pct": 0.62,
+      "cierre_anterior": 7709.96,
+      "maximo_periodo": 7757.64,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.85,
+      "historico_fechas": [
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        7398.93,
+        7412.84,
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26690.62,
+      "cambio_pct": 1.3,
+      "cierre_anterior": 26348.35,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        25913.9,
+        26584.99,
+        26363.44,
+        26348.35,
+        26690.62
+      ]
+    },
+    "dow": {
+      "ultimo": 54036.93,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 53885.1,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07"
+      ],
+      "historico_cierres": [
+        53178.41,
+        54085.88,
+        54349.12,
+        53885.1,
+        54036.93
+      ]
+    },
+    "vix": {
+      "ultimo": 15.44,
+      "cambio_pct": 3.62,
+      "cierre_anterior": 14.9,
+      "historico_fechas": [
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10"
+      ],
+      "historico_cierres": [
+        16.5,
+        15.81,
+        15.15,
+        14.9,
+        15.44
+      ]
+    },
+    "oro": {
+      "ultimo": 4395.5,
+      "cambio_pct": 1.26,
+      "cierre_anterior": 4340.7,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10"
+      ],
+      "historico_cierres": [
+        4245.8,
+        4242.0,
+        4340.7,
+        4395.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 79.26,
+      "cambio_pct": 1.38,
+      "cierre_anterior": 78.18,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10"
+      ],
+      "historico_cierres": [
+        75.22,
+        77.29,
+        78.18,
+        79.26
+      ]
+    },
+    "btc": {
+      "ultimo": 65021.17,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 64844.89,
+      "historico_fechas": [
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10"
+      ],
+      "historico_cierres": [
+        64262.11,
+        64880.19,
+        64904.69,
+        64844.89,
+        65021.17
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.72,
+      "cambio_pct": 0.12,
+      "cierre_anterior": 99.6,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10"
+      ],
+      "historico_cierres": [
+        99.69,
+        99.97,
+        99.6,
+        99.72
+      ]
+    }
+  }
+}
