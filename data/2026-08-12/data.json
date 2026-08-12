@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-12",
+  "generado_en": "2026-08-12T11:46:25.229797Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Three ways to watch the solar eclipse safely without glasses",
+        "resumen": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 11 Aug 2026 16:29:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham says disposable BBQ ban under consideration",
+        "resumen": "The PM said the public should not be using single-use grills \"at this moment in time\" amid wildfire risks.",
+        "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 11:18:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump confirms he switched planes after Nato summit because of possible threat",
+        "resumen": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 03:44:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Early release scheme risks more serious crimes, probation chief warns",
+        "resumen": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+        "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 08:57:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Serious failings found in new military crimes unit, leaked report finds",
+        "resumen": "A leaked internal review warns of concerns about a new unit investigating the most serious crimes.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 06:32:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+        "resumen": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+        "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 07:30:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "PM admits cost of living help is not enough and hints at further support",
+        "resumen": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 04:13:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Spotify to add label for AI-generated artists and remove them from recommendations",
+        "resumen": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 10:53:54 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+        "resumen": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 11 Aug 2026 23:00:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Jaguar Land Rover owner Tata Group's chairman to step down",
+        "resumen": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
+        "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 08:50:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+        "resumen": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+        "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 12 Aug 2026 07:30:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Tokenomics: Why making AI pay is tricky",
+        "resumen": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 11 Aug 2026 23:03:52 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+        "resumen": "Blacksmith says revenue has grown more than tenfold over the past year.",
+        "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+        "publicado": "Wed, 12 Aug 2026 11:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+        "resumen": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+        "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+        "publicado": "Wed, 12 Aug 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+        "resumen": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+        "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+        "publicado": "Wed, 12 Aug 2026 04:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+        "resumen": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+        "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+        "publicado": "Tue, 11 Aug 2026 21:39:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "resumen": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+        "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+        "publicado": "Tue, 11 Aug 2026 21:39:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber surprised robotics company Serve by selling its entire stake",
+        "resumen": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+        "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+        "publicado": "Tue, 11 Aug 2026 20:02:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+        "resumen": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+        "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "publicado": "2026-08-11T20:39:26-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+        "resumen": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked images revealed that Xbox [&#8230;]",
+        "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+        "publicado": "2026-08-11T18:36:35-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "An FCC filing points to new Sonos headphones coming soon",
+        "resumen": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to [&#8230;]",
+        "url": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
+        "publicado": "2026-08-11T17:23:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "ChatGPT and Gemini both just passed 1 billion users",
+        "resumen": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "publicado": "2026-08-11T15:41:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Threads has a VR app now",
+        "resumen": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that [&#8230;]",
+        "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+        "publicado": "2026-08-11T15:10:14-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s free streaming service now lets you pick shows and movies to watch",
+        "resumen": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want. The update introduces titles like Lady Bird, Seventeen Again, and Hell's Kitchen, according to Google's [&#8230;]",
+        "url": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
+        "publicado": "2026-08-11T14:35:16-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7728.2,
+      "cambio_pct": -0.32,
+      "cierre_anterior": 7753.11,
+      "maximo_periodo": 7757.64,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.42,
+      "historico_fechas": [
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11"
+      ],
+      "historico_cierres": [
+        7400.96,
+        7444.25,
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26445.45,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 26605.36,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11"
+      ],
+      "historico_cierres": [
+        26363.44,
+        26348.35,
+        26690.62,
+        26605.36,
+        26445.45
+      ]
+    },
+    "dow": {
+      "ultimo": 53791.85,
+      "cambio_pct": -0.34,
+      "cierre_anterior": 53975.98,
+      "historico_fechas": [
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11"
+      ],
+      "historico_cierres": [
+        54349.12,
+        53885.1,
+        54036.93,
+        53975.98,
+        53791.85
+      ]
+    },
+    "vix": {
+      "ultimo": 15.39,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 15.28,
+      "historico_fechas": [
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12"
+      ],
+      "historico_cierres": [
+        15.15,
+        14.9,
+        15.46,
+        15.28,
+        15.39
+      ]
+    },
+    "oro": {
+      "ultimo": 4473.3,
+      "cambio_pct": 2.06,
+      "cierre_anterior": 4383.0,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12"
+      ],
+      "historico_cierres": [
+        4340.7,
+        4361.8,
+        4383.0,
+        4473.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.27,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 83.2,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12"
+      ],
+      "historico_cierres": [
+        78.18,
+        82.13,
+        83.2,
+        83.27
+      ]
+    },
+    "btc": {
+      "ultimo": 64136.09,
+      "cambio_pct": 0.92,
+      "cierre_anterior": 63551.88,
+      "historico_fechas": [
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12"
+      ],
+      "historico_cierres": [
+        64904.69,
+        64844.89,
+        63910.59,
+        63551.88,
+        64136.09
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.82,
+      "cambio_pct": -0.0,
+      "cierre_anterior": 99.82,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12"
+      ],
+      "historico_cierres": [
+        99.6,
+        99.81,
+        99.82,
+        99.82
+      ]
+    }
+  }
+}
