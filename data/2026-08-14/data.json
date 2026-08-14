@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-14",
+  "generado_en": "2026-08-14T11:43:27.665737Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Video shows scale of devastation in Stourbridge",
+        "resumen": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+        "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 07:26:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farage's by-election victory won't stop questions about finances",
+        "resumen": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 08:18:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Eurovision proposes new rules to reduce political voting",
+        "resumen": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+        "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 10:23:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+        "resumen": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 09:15:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mother jailed for killing baby by burning her with a hairdryer",
+        "resumen": "Courtney Gartshore, 28, used the appliance to subject three-month-old Dahlia-Rose to \"significant and sustained heat\" on her head and body.",
+        "url": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 10:56:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Stolen Matisse artworks recovered by police in Brazil",
+        "resumen": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 10:55:39 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Selena Gomez sued for alleged fraud over mental health company",
+        "resumen": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 11:32:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+        "resumen": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 07:45:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
+        "resumen": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 08:39:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+        "resumen": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+        "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 13 Aug 2026 21:43:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+        "resumen": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 13 Aug 2026 22:00:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Water bills set to rise for many after firms permitted extra funding",
+        "resumen": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 13 Aug 2026 13:38:30 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+        "resumen": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+        "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+        "publicado": "Fri, 14 Aug 2026 10:44:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+        "resumen": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+        "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+        "publicado": "Thu, 13 Aug 2026 22:12:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+        "resumen": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+        "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+        "publicado": "Thu, 13 Aug 2026 22:02:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+        "resumen": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+        "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+        "publicado": "Thu, 13 Aug 2026 21:50:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "resumen": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "publicado": "Thu, 13 Aug 2026 21:13:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "resumen": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "publicado": "Thu, 13 Aug 2026 20:14:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+        "resumen": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels [&#8230;]",
+        "url": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+        "publicado": "2026-08-14T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Hoto’s new cordless soldering iron heats up in three seconds",
+        "resumen": "Hoto is introducing its first soldering iron through its modular Snapbloq collection that lets you assemble your own custom toolbox by stacking magnetic cases and tools together. The new I-A06 Cordless Soldering Iron can heat to just over 200 degrees Celsius in about three seconds and offers an adjustable temperature range from 100 to up [&#8230;]",
+        "url": "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable",
+        "publicado": "2026-08-14T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple trained its own AI model for China with help from Alibaba",
+        "resumen": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "publicado": "2026-08-14T05:21:17-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+        "resumen": "Cards Against Humanity is gearing up to build \"something that will annoy Elon Musk,\" and it's crowdfunding the project with its usual flavor of vulgarity. The company behind the card game announced plans to build \"a grand monument\" to Musk on the parcel of land it owns near Starbase, Texas, with the aim to \"make [&#8230;]",
+        "url": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+        "publicado": "2026-08-14T04:40:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+        "resumen": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action, [&#8230;]",
+        "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+        "publicado": "2026-08-13T21:06:15-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+        "resumen": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the [&#8230;]",
+        "url": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+        "publicado": "2026-08-13T19:13:24-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7798.99,
+      "cambio_pct": 0.65,
+      "cierre_anterior": 7748.5,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 3.97,
+      "historico_fechas": [
+        "2026-05-14",
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13"
+      ],
+      "historico_cierres": [
+        7501.24,
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26803.03,
+      "cambio_pct": 0.81,
+      "cierre_anterior": 26588.49,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13"
+      ],
+      "historico_cierres": [
+        26690.62,
+        26605.36,
+        26445.45,
+        26588.49,
+        26803.03
+      ]
+    },
+    "dow": {
+      "ultimo": 53839.99,
+      "cambio_pct": 0.13,
+      "cierre_anterior": 53770.27,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13"
+      ],
+      "historico_cierres": [
+        54036.93,
+        53975.98,
+        53791.85,
+        53770.27,
+        53839.99
+      ]
+    },
+    "vix": {
+      "ultimo": 14.53,
+      "cambio_pct": -0.68,
+      "cierre_anterior": 14.63,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        15.46,
+        15.28,
+        14.55,
+        14.63,
+        14.53
+      ]
+    },
+    "oro": {
+      "ultimo": 4414.8,
+      "cambio_pct": 1.17,
+      "cierre_anterior": 4363.6,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        4361.8,
+        4383.0,
+        4408.9,
+        4363.6,
+        4414.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 81.67,
+      "cambio_pct": 0.52,
+      "cierre_anterior": 81.25,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        82.13,
+        83.2,
+        83.27,
+        81.25,
+        81.67
+      ]
+    },
+    "btc": {
+      "ultimo": 62783.35,
+      "cambio_pct": -0.98,
+      "cierre_anterior": 63402.17,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        63910.59,
+        63551.88,
+        63402.43,
+        63402.17,
+        62783.35
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.66,
+      "cambio_pct": -0.3,
+      "cierre_anterior": 99.96,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        99.81,
+        99.82,
+        100.01,
+        99.96,
+        99.66
+      ]
+    }
+  }
+}
