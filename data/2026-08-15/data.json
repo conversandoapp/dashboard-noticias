@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-08-15",
+  "generado_en": "2026-08-15T11:20:29.218098Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Jason Arday death 'tragedy on so many levels' says PM",
+        "resumen": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
+        "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 11:06:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Analysis: Arday's death will send shockwaves through a divided academia",
+        "resumen": "The academic's Cambridge appointment in 2023 drew worldwide attention",
+        "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 10:37:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "resumen": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 08:52:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "resumen": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 00:01:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Heathrow Airport burst main causes travel disruption",
+        "resumen": "A burst main underneath a ring road in the central terminal area has caused travel difficulties.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 11:17:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Five years after the Taliban swept to power, does the West have any influence?",
+        "resumen": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 17:00:14 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Electric vehicle sales targets could be cut after pressure from car makers",
+        "resumen": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 15:58:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+        "resumen": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+        "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 03:58:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Selena Gomez sued for alleged fraud over mental health company",
+        "resumen": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 11:32:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+        "resumen": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 07:45:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
+        "resumen": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 08:39:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Protein or pickled garlic? What's new in ice cream",
+        "resumen": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+        "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 21:20:19 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "resumen": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+        "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "publicado": "Fri, 14 Aug 2026 22:43:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Self-driving trucks are officially testing on California highways",
+        "resumen": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+        "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+        "publicado": "Fri, 14 Aug 2026 20:37:49 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+        "resumen": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+        "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+        "publicado": "Fri, 14 Aug 2026 19:33:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "What we know about the alleged Iranian hacks on US water utilities",
+        "resumen": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+        "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+        "publicado": "Fri, 14 Aug 2026 19:04:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Read-it-later app Pocket shut down — here are the best alternatives",
+        "resumen": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+        "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+        "publicado": "Fri, 14 Aug 2026 18:58:15 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+        "resumen": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+        "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+        "publicado": "Fri, 14 Aug 2026 16:21:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "When housing is unaffordable, this artist’s device makes pedaling harder",
+        "resumen": "Justin Blinder had just been laid off when he first came up with the idea for Ground Truth. It was 2020, two weeks before covid lockdown went into effect, and the Brooklyn-based artist and technologist had no idea what the future would hold. He started working for the food delivery apps, and as he was [&#8230;]",
+        "url": "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal",
+        "publicado": "2026-08-15T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung has new Galaxy headphones in the works",
+        "resumen": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the \"Galaxy H1,\" and SamMobile says they could launch sometime in 2027. That would make these the company's first pair of over-ear headphones [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+        "publicado": "2026-08-14T15:18:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A RAMageddon guide to back-to-school laptop shopping",
+        "resumen": "If you’re a student looking for an affordable laptop, I have bad news and I have good news. The bad news is that computer prices are out of whack due to the ongoing RAM and storage crunch, making some a little pricier than they used to be and others wildly more expensive. The good news? [&#8230;]",
+        "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+        "publicado": "2026-08-14T14:32:47-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Lamborghini’s flagship Revuelto levels up with SV trim",
+        "resumen": "A lot of automakers talk about wanting to minimize or eliminate driver distractions so as to make the experience of driving more rewarding and safer overall. Lamborghini has a different strategy; it wants the driver to become one with their vehicle. This helps explain the storied super car maker's tagline for the new Revuelto SV: [&#8230;]",
+        "url": "https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance",
+        "publicado": "2026-08-14T14:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+        "resumen": "The version of The X-Files: I Want to Believe that premiered in 2008 was not exactly the movie co-writer / director Chris Carter intended to make. Carter wanted to bring agents Mulder and Scully back to the big screen with a grisly story about faith and the supernatural. But executives at 20th Century Fox felt [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+        "publicado": "2026-08-14T14:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google&#8217;s best new camera feature is only for the Pixel 11 series",
+        "resumen": "Arguably the coolest new photo feature for the Pixel 11 lineup is Google's new Camera Looks, which process image data differently at the sensor level to produce photos that don't have that \"smartphone\" look. The result is new styles like \"Digi,\" which mimics the style of photos taken by older digital cameras. But to use [&#8230;]",
+        "url": "https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones",
+        "publicado": "2026-08-14T13:34:14-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7785.76,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 7798.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 5.09,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26729.16,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 26803.03,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        26605.36,
+        26445.45,
+        26588.49,
+        26803.03,
+        26729.16
+      ]
+    },
+    "dow": {
+      "ultimo": 53732.41,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 53839.99,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        53975.98,
+        53791.85,
+        53770.27,
+        53839.99,
+        53732.41
+      ]
+    },
+    "vix": {
+      "ultimo": 14.25,
+      "cambio_pct": -2.6,
+      "cierre_anterior": 14.63,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        15.46,
+        15.28,
+        14.55,
+        14.63,
+        14.25
+      ]
+    },
+    "oro": {
+      "ultimo": 4380.4,
+      "cambio_pct": 0.38,
+      "cierre_anterior": 4363.6,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        4361.8,
+        4383.0,
+        4408.9,
+        4363.6,
+        4380.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.4,
+      "cambio_pct": 1.42,
+      "cierre_anterior": 81.25,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        82.13,
+        83.2,
+        83.27,
+        81.25,
+        82.4
+      ]
+    },
+    "btc": {
+      "ultimo": 62960.42,
+      "cambio_pct": -0.02,
+      "cierre_anterior": 62975.59,
+      "historico_fechas": [
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15"
+      ],
+      "historico_cierres": [
+        63551.88,
+        63402.43,
+        63402.17,
+        62975.59,
+        62960.42
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.67,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 99.96,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        99.81,
+        99.82,
+        100.01,
+        99.96,
+        99.67
+      ]
+    }
+  }
+}
