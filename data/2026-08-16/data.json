@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-16",
+  "generado_en": "2026-08-16T11:20:19.301582Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "People who fled Stourbridge fires start to return home",
+        "resumen": "Many families are only just discovering the extent of damage to their homes for the first time.",
+        "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 10:40:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+        "resumen": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+        "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 00:39:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+        "resumen": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 08:23:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ariana Grande leaves problems at home as her tour hits the UK",
+        "resumen": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 02:01:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+        "resumen": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 08:49:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Amy Hunt praises 'superwomen' team after winning third European gold",
+        "resumen": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+        "url": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 21:13:17 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Electric vehicle sales targets could be cut after pressure from car makers",
+        "resumen": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 15:58:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+        "resumen": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+        "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 23:45:44 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+        "resumen": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+        "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 15 Aug 2026 03:58:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Selena Gomez sued for alleged fraud over mental health company",
+        "resumen": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 11:32:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+        "resumen": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 07:45:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US says dozens of countries helped China dodge Trump's tariffs",
+        "resumen": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 08:39:46 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "resumen": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "publicado": "Sat, 15 Aug 2026 21:29:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "resumen": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "publicado": "Sat, 15 Aug 2026 18:58:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX officially closes its Cursor acquisition",
+        "resumen": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "publicado": "Sat, 15 Aug 2026 16:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How to tell if your AI platforms’ accounts have been hacked",
+        "resumen": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+        "publicado": "Sat, 15 Aug 2026 16:10:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Every fusion startup that has raised over $100M",
+        "resumen": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+        "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+        "publicado": "Sat, 15 Aug 2026 13:15:20 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "resumen": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+        "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "publicado": "Fri, 14 Aug 2026 22:43:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
+        "resumen": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
+        "publicado": "2026-08-15T23:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Matt Groening lets slip that Simpsons: Hit &#038; Run might be making a comeback",
+        "resumen": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit &#38; Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+        "publicado": "2026-08-15T17:56:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "resumen": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "publicado": "2026-08-15T16:45:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments",
+        "resumen": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
+        "publicado": "2026-08-15T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
+        "resumen": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices [&#8230;]",
+        "url": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
+        "publicado": "2026-08-15T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+        "resumen": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
+        "publicado": "2026-08-15T10:58:27-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7785.76,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 7798.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 5.09,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26729.16,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 26803.03,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        26605.36,
+        26445.45,
+        26588.49,
+        26803.03,
+        26729.16
+      ]
+    },
+    "dow": {
+      "ultimo": 53732.41,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 53839.99,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        53975.98,
+        53791.85,
+        53770.27,
+        53839.99,
+        53732.41
+      ]
+    },
+    "vix": {
+      "ultimo": 14.25,
+      "cambio_pct": -2.6,
+      "cierre_anterior": 14.63,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        15.46,
+        15.28,
+        14.55,
+        14.63,
+        14.25
+      ]
+    },
+    "oro": {
+      "ultimo": 4437.3,
+      "cambio_pct": 1.69,
+      "cierre_anterior": 4363.6,
+      "historico_fechas": [
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        4383.0,
+        4408.9,
+        4363.6,
+        4437.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.4,
+      "cambio_pct": 1.42,
+      "cierre_anterior": 81.25,
+      "historico_fechas": [
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        83.2,
+        83.27,
+        81.25,
+        82.4
+      ]
+    },
+    "btc": {
+      "ultimo": 62935.71,
+      "cambio_pct": -0.14,
+      "cierre_anterior": 63024.32,
+      "historico_fechas": [
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ],
+      "historico_cierres": [
+        63402.43,
+        63402.17,
+        62975.59,
+        63024.32,
+        62935.71
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.67,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 99.96,
+      "historico_fechas": [
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        99.82,
+        100.01,
+        99.96,
+        99.67
+      ]
+    }
+  }
+}
