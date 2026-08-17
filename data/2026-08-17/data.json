@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-17",
+  "generado_en": "2026-08-17T11:26:32.930766Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+        "resumen": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 05:03:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham exchanged messages with person posing as Trump's chief of staff",
+        "resumen": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+        "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 11:20:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+        "resumen": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+        "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 02:08:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+        "resumen": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 06:48:29 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
+        "resumen": "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the competition.",
+        "url": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 19:58:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+        "resumen": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 11:16:31 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "How switching your bank account could earn you up to £220",
+        "resumen": "New research suggests staying put is costing British savers billions in missed interest every year.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 16 Aug 2026 23:14:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Virgin takes step towards running Channel Tunnel rail services",
+        "resumen": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+        "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 10:39:19 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ferrari's first ever electric car sold for record $40m",
+        "resumen": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+        "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 02:22:04 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+        "resumen": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+        "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 05:00:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Changing pubs into homes to be made harder under new rules",
+        "resumen": "The rules will come into force on Monday along with other changes to planning policy.",
+        "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 17 Aug 2026 07:04:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Protein or pickled garlic? What's new in ice cream",
+        "resumen": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
+        "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 14 Aug 2026 21:20:19 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "resumen": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "publicado": "Sun, 16 Aug 2026 20:57:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "resumen": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "publicado": "Sun, 16 Aug 2026 20:32:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "resumen": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "publicado": "Sun, 16 Aug 2026 16:53:51 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+        "resumen": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+        "publicado": "Sun, 16 Aug 2026 16:04:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "resumen": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "publicado": "Sat, 15 Aug 2026 21:29:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "resumen": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "publicado": "Sat, 15 Aug 2026 18:58:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How to take better photos of your pets",
+        "resumen": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram account, my regular need to test smartphone cameras, and the fact that they are two adorable [&#8230;]",
+        "url": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
+        "publicado": "2026-08-17T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+        "resumen": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
+        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "publicado": "2026-08-17T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "resumen": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "publicado": "2026-08-17T06:57:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I’m hooked on Peak Design’s new City bags",
+        "resumen": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground. How many of [&#8230;]",
+        "url": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+        "publicado": "2026-08-17T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI reportedly disbanded its preparedness team",
+        "resumen": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "publicado": "2026-08-16T17:32:56-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Open Mike Eagle and Kenny Segal crafted a hip-hop breakup masterpiece",
+        "resumen": "\"Breakups are… tough.\" It's the opening lines of an interlude toward the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+        "publicado": "2026-08-16T16:31:37-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7785.76,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 7798.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 5.09,
+      "historico_fechas": [
+        "2026-05-15",
+        "2026-05-18",
+        "2026-05-19",
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        7408.5,
+        7403.05,
+        7353.61,
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26729.16,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 26803.03,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        26605.36,
+        26445.45,
+        26588.49,
+        26803.03,
+        26729.16
+      ]
+    },
+    "dow": {
+      "ultimo": 53732.41,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 53839.99,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "historico_cierres": [
+        53975.98,
+        53791.85,
+        53770.27,
+        53839.99,
+        53732.41
+      ]
+    },
+    "vix": {
+      "ultimo": 14.9,
+      "cambio_pct": 4.56,
+      "cierre_anterior": 14.25,
+      "historico_fechas": [
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17"
+      ],
+      "historico_cierres": [
+        15.28,
+        14.55,
+        14.63,
+        14.25,
+        14.9
+      ]
+    },
+    "oro": {
+      "ultimo": 4455.0,
+      "cambio_pct": 1.7,
+      "cierre_anterior": 4380.4,
+      "historico_fechas": [
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17"
+      ],
+      "historico_cierres": [
+        4408.9,
+        4363.6,
+        4380.4,
+        4455.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.61,
+      "cambio_pct": 0.25,
+      "cierre_anterior": 82.4,
+      "historico_fechas": [
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17"
+      ],
+      "historico_cierres": [
+        83.27,
+        81.25,
+        82.4,
+        82.61
+      ]
+    },
+    "btc": {
+      "ultimo": 63588.14,
+      "cambio_pct": 1.22,
+      "cierre_anterior": 62818.65,
+      "historico_fechas": [
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-17"
+      ],
+      "historico_cierres": [
+        63402.17,
+        62975.59,
+        63024.32,
+        62818.65,
+        63588.14
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.47,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 99.67,
+      "historico_fechas": [
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17"
+      ],
+      "historico_cierres": [
+        100.01,
+        99.96,
+        99.67,
+        99.47
+      ]
+    }
+  }
+}
