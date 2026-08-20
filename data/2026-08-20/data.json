@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-08-20",
+  "generado_en": "2026-08-20T11:26:38.270893Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Prince Harry and Meghan moving back to UK later this month",
+        "resumen": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+        "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 11:24:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+        "resumen": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+        "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 02:00:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+        "resumen": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 10:05:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "School 'deeply saddened' by death of family in sea off Shoreham",
+        "resumen": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 09:53:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+        "resumen": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+        "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 11:06:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Giant whales move into Greenland waters as ice disappears",
+        "resumen": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 02:05:20 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+        "resumen": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 10:05:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump vows tougher economic measures on Iran and supporting countries",
+        "resumen": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 09:13:18 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US national debt passes $40tn after doubling in a decade",
+        "resumen": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 06:23:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I quit my £80,000 job to make ice cream - here's how",
+        "resumen": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
+        "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 19 Aug 2026 23:08:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+        "resumen": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 06:08:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
+        "resumen": "An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US whiskey.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 11:10:25 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+        "resumen": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "publicado": "Thu, 20 Aug 2026 09:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "resumen": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "publicado": "Wed, 19 Aug 2026 23:32:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+        "resumen": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+        "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+        "publicado": "Wed, 19 Aug 2026 22:25:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "resumen": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "publicado": "Wed, 19 Aug 2026 22:10:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "resumen": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "publicado": "Wed, 19 Aug 2026 21:51:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+        "resumen": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+        "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+        "publicado": "Wed, 19 Aug 2026 21:48:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The piano that taught my cat to play for her supper",
+        "resumen": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+        "publicado": "2026-08-20T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Audi S6 Sportback E-tron proves that sedans still matter",
+        "resumen": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's [&#8230;]",
+        "url": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+        "publicado": "2026-08-20T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries",
+        "resumen": "Sennheiser announced the next version of its flagship wireless earbuds with a major redesign focusing on sustainability. The company claims the new design improves the Momentum True Wireless 5's \"comfort, stability, and portability,\" but a more compelling reason to upgrade is that you won't have to replace them in a few years when they stop [&#8230;]",
+        "url": "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries",
+        "publicado": "2026-08-20T06:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "LG’s new OLED breakthrough can boost display lifespans",
+        "resumen": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \"dream next-generation OLED\" patterning method that aims to eliminate some of the [&#8230;]",
+        "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+        "publicado": "2026-08-20T05:11:26-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Does giving a camera wings dodge the FCC’s drone ban?",
+        "resumen": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&#8230;]",
+        "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+        "publicado": "2026-08-19T18:35:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nielsen is leaning more on wearables to hear what people are watching",
+        "resumen": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+        "publicado": "2026-08-19T15:53:09-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7707.98,
+      "cambio_pct": 0.21,
+      "cierre_anterior": 7691.76,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 3.7,
+      "historico_fechas": [
+        "2026-05-20",
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19"
+      ],
+      "historico_cierres": [
+        7432.97,
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26331.09,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 26289.71,
+      "historico_fechas": [
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19"
+      ],
+      "historico_cierres": [
+        26803.03,
+        26729.16,
+        26644.91,
+        26289.71,
+        26331.09
+      ]
+    },
+    "dow": {
+      "ultimo": 53463.05,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 53343.4,
+      "historico_fechas": [
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19"
+      ],
+      "historico_cierres": [
+        53839.99,
+        53732.41,
+        53459.78,
+        53343.4,
+        53463.05
+      ]
+    },
+    "vix": {
+      "ultimo": 15.19,
+      "cambio_pct": 2.01,
+      "cierre_anterior": 14.89,
+      "historico_fechas": [
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        14.25,
+        15.19,
+        15.84,
+        14.89,
+        15.19
+      ]
+    },
+    "oro": {
+      "ultimo": 4542.4,
+      "cambio_pct": 1.18,
+      "cierre_anterior": 4489.4,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        4417.8,
+        4366.0,
+        4489.4,
+        4542.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 86.92,
+      "cambio_pct": 1.27,
+      "cierre_anterior": 85.83,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        84.5,
+        84.94,
+        85.83,
+        86.92
+      ]
+    },
+    "btc": {
+      "ultimo": 71878.52,
+      "cambio_pct": 3.77,
+      "cierre_anterior": 69266.19,
+      "historico_fechas": [
+        "2026-08-16",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        62818.65,
+        64506.25,
+        64680.71,
+        69266.19,
+        71878.52
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.73,
+      "cambio_pct": -0.1,
+      "cierre_anterior": 98.83,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        99.64,
+        99.65,
+        98.83,
+        98.73
+      ]
+    }
+  }
+}
