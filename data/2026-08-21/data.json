@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-08-21",
+  "generado_en": "2026-08-21T11:26:12.992826Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+        "resumen": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 10:37:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meghan could return to acting once back in UK",
+        "resumen": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+        "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 10:17:01 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+        "resumen": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
+        "url": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 00:11:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "resumen": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 05:00:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+        "resumen": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+        "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 22:59:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The town whose council wants migrants to move in",
+        "resumen": "Greenock wants to attract immigrants to settle in the town and reverse its declining population.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 05:00:02 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+        "resumen": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 11:20:57 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK borrows more than expected in July as Healey prepares for first Budget",
+        "resumen": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+        "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 09:45:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+        "resumen": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+        "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 22:59:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Millennials have found it hard to buy homes – but things may be turning a corner",
+        "resumen": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
+        "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 10:02:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Panama Canal to cut number of ships passing through due to El Niño",
+        "resumen": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 21 Aug 2026 06:46:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How landscape gardening is being electrified",
+        "resumen": "The switch to quieter electric equipment is not going as fast as some would like.",
+        "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 23:12:38 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "resumen": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+        "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "publicado": "Fri, 21 Aug 2026 00:23:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "resumen": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "publicado": "Fri, 21 Aug 2026 00:13:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Learn what VCs actually want, from a founder who’s raised $1B",
+        "resumen": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
+        "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+        "publicado": "Thu, 20 Aug 2026 23:32:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "resumen": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "publicado": "Thu, 20 Aug 2026 22:36:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "resumen": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "publicado": "Thu, 20 Aug 2026 22:09:51 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+        "resumen": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+        "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+        "publicado": "Thu, 20 Aug 2026 21:08:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Patreon is changing its algorithm to help smaller creators get discovered",
+        "resumen": "Patreon has announced a number of new and overhauled features that are designed to \"build a better network - and a better internet,\" according to CEO Jack Conte. The Patreon roadmap includes discovery algorithm updates, platform and security improvements, and new features for both creators and fans. In a lengthy blog post, Conte outlines each [&#8230;]",
+        "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
+        "publicado": "2026-08-21T07:08:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "My big, fat, technophobic cat",
+        "resumen": "My cat Pablo is a voluptuous boy. His primordial pouch, originally thought to protect cats' squishy insides, hangs low and wobbles to and fro. Once, when he was five or six, a vet sternly sat my spouse and me down, gravely stating, \"He's simply too young to be this fat.\" Pablo didn't care, but we [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat",
+        "publicado": "2026-08-21T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Genki’s new customizable controller has a big screen and adjustable buttons",
+        "resumen": "After collaborating with 8BitDo on a gamepad two years ago, Genki launched the first controller the company designed from the ground up today. With an unorthodox design that positions its thumbsticks and buttons above a large 2.9-inch LCD screen, the Manta looks a lot chunkier than competing controllers. But what really sets it apart is [&#8230;]",
+        "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+        "publicado": "2026-08-20T22:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google Discover is getting an AI chatbot-tuned feed",
+        "resumen": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+        "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+        "publicado": "2026-08-20T17:50:22-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Riot is ending development on its League of Legends fighting game",
+        "resumen": "Riot Games is already winding down work on 2XKO, the free-to-play League of Legends fighting game, less than a year after its initial launch. Riot says \"active development\" will conclude at the end of 2026 because the company hasn't \"seen enough players stick with the game to get to a path toward sustainability.\" Servers will [&#8230;]",
+        "url": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+        "publicado": "2026-08-20T15:59:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+        "resumen": "Genesis, Hyundai's luxury brand, just revealed its first full-size, three-row electric SUV for the US market, the GV90. And arguably it has some of the wildest designs and features in the auto market today. Right off the bat, the coach-style doors signal that things aren't what they seem with the GV90. When the front and [&#8230;]",
+        "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+        "publicado": "2026-08-20T15:52:57-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7641.16,
+      "cambio_pct": -0.87,
+      "cierre_anterior": 7707.98,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 2.62,
+      "historico_fechas": [
+        "2026-05-21",
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        7445.72,
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26067.17,
+      "cambio_pct": -1.0,
+      "cierre_anterior": 26331.09,
+      "historico_fechas": [
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        26729.16,
+        26644.91,
+        26289.71,
+        26331.09,
+        26067.17
+      ]
+    },
+    "dow": {
+      "ultimo": 52759.21,
+      "cambio_pct": -1.32,
+      "cierre_anterior": 53463.05,
+      "historico_fechas": [
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20"
+      ],
+      "historico_cierres": [
+        53732.41,
+        53459.78,
+        53343.4,
+        53463.05,
+        52759.21
+      ]
+    },
+    "vix": {
+      "ultimo": 15.66,
+      "cambio_pct": -2.19,
+      "cierre_anterior": 16.01,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        15.19,
+        15.84,
+        14.89,
+        16.01,
+        15.66
+      ]
+    },
+    "oro": {
+      "ultimo": 4649.6,
+      "cambio_pct": 2.95,
+      "cierre_anterior": 4516.3,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        4417.8,
+        4366.0,
+        4489.4,
+        4516.3,
+        4649.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.23,
+      "cambio_pct": -0.68,
+      "cierre_anterior": 87.83,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        84.5,
+        84.94,
+        85.83,
+        87.83,
+        87.23
+      ]
+    },
+    "btc": {
+      "ultimo": 77446.48,
+      "cambio_pct": 6.04,
+      "cierre_anterior": 73032.76,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        64506.25,
+        64680.71,
+        69266.19,
+        73032.76,
+        77446.48
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.64,
+      "cambio_pct": -0.26,
+      "cierre_anterior": 98.9,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        99.64,
+        99.65,
+        98.83,
+        98.9,
+        98.64
+      ]
+    }
+  }
+}
