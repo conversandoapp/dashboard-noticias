@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-08-23",
+  "generado_en": "2026-08-23T11:21:04.850531Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "resumen": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 05:46:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mayors to get powers to overrule local councils on planning decisions",
+        "resumen": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+        "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 10:02:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "resumen": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 09:37:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Plan to restrict serious offenders to certain areas to start in October",
+        "resumen": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 02:37:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How a new era of heatwaves could shake up the school calendar",
+        "resumen": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+        "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 22 Aug 2026 23:16:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+        "resumen": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+        "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 09:42:05 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Struggling households need more help with bills, energy industry says",
+        "resumen": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 10:11:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "CrossCountry cancels UK services after power cut",
+        "resumen": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+        "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 10:57:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "resumen": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 05:46:43 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "resumen": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+        "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 02:48:41 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Mayors to get powers to overrule local councils on planning decisions",
+        "resumen": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+        "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 10:02:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How landscape gardening is being electrified",
+        "resumen": "The switch to quieter electric equipment is not going as fast as some would like.",
+        "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 20 Aug 2026 23:12:38 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+        "resumen": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
+        "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+        "publicado": "Sun, 23 Aug 2026 03:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "resumen": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "publicado": "Sat, 22 Aug 2026 21:46:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "resumen": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+        "publicado": "Sat, 22 Aug 2026 20:24:20 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "resumen": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "publicado": "Sat, 22 Aug 2026 19:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI says California should strengthen its AI safety bill",
+        "resumen": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "publicado": "Sat, 22 Aug 2026 16:30:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "resumen": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "publicado": "Sat, 22 Aug 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Doodle generative compositions in your browser with Musical Spirograph",
+        "resumen": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+        "publicado": "2026-08-22T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+        "resumen": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been [&#8230;]",
+        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+        "publicado": "2026-08-22T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+        "resumen": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K [&#8230;]",
+        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+        "publicado": "2026-08-22T09:41:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+        "resumen": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. [&#8230;]",
+        "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+        "publicado": "2026-08-22T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Two great new repairable gadgets",
+        "resumen": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch [&#8230;]",
+        "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+        "publicado": "2026-08-22T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "HoverAir’s transforming modular drone has already been halted in the US",
+        "resumen": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&#8230;]",
+        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+        "publicado": "2026-08-21T18:14:11-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7674.37,
+      "cambio_pct": 0.43,
+      "cierre_anterior": 7641.16,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 2.69,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26180.46,
+      "cambio_pct": 0.43,
+      "cierre_anterior": 26067.17,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        26644.91,
+        26289.71,
+        26331.09,
+        26067.17,
+        26180.46
+      ]
+    },
+    "dow": {
+      "ultimo": 53277.01,
+      "cambio_pct": 0.98,
+      "cierre_anterior": 52759.21,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        53459.78,
+        53343.4,
+        53463.05,
+        52759.21,
+        53277.01
+      ]
+    },
+    "vix": {
+      "ultimo": 15.13,
+      "cambio_pct": -5.5,
+      "cierre_anterior": 16.01,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        15.19,
+        15.84,
+        14.89,
+        16.01,
+        15.13
+      ]
+    },
+    "oro": {
+      "ultimo": 4680.6,
+      "cambio_pct": 3.64,
+      "cierre_anterior": 4516.3,
+      "historico_fechas": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        4366.0,
+        4489.4,
+        4516.3,
+        4680.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.06,
+      "cambio_pct": 0.0,
+      "cierre_anterior": 87.06,
+      "historico_fechas": [
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        87.06
+      ]
+    },
+    "btc": {
+      "ultimo": 77157.12,
+      "cambio_pct": 0.1,
+      "cierre_anterior": 77083.41,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23"
+      ],
+      "historico_cierres": [
+        69266.19,
+        73032.76,
+        78335.19,
+        77083.41,
+        77157.12
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.8,
+      "cambio_pct": -0.1,
+      "cierre_anterior": 98.9,
+      "historico_fechas": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        99.65,
+        98.83,
+        98.9,
+        98.8
+      ]
+    }
+  }
+}
