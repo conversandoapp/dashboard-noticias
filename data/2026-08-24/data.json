@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-24",
+  "generado_en": "2026-08-24T11:29:13.843795Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Social media firms should remove dangerous driving videos, minister says",
+        "resumen": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+        "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 10:36:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+        "resumen": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 05:00:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Graduate job vacancies drop by almost 50% in a year",
+        "resumen": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+        "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 10:55:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+        "resumen": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
+        "url": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 05:15:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+        "resumen": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 11:25:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
+        "resumen": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+        "url": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 11:15:23 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+        "resumen": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 10:39:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Graduate job vacancies drop by almost 50% in a year",
+        "resumen": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+        "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 10:55:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shein aims for almost $27bn valuation in stock market debut",
+        "resumen": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 07:00:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Pubs and hotels could see business rates reformed after review",
+        "resumen": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+        "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 09:41:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How to get £2,000 to play computer games at university",
+        "resumen": "Roehampton University offers students a year;y scholarship to play esports alongside their studies.",
+        "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 23:23:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I didn't speak the Queen's English': Why people worry about their accents",
+        "resumen": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+        "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 23 Aug 2026 23:25:44 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "resumen": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "publicado": "Sun, 23 Aug 2026 20:01:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber faces fine of nearly $1B over automated driver suspensions",
+        "resumen": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "publicado": "Sun, 23 Aug 2026 19:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "resumen": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "publicado": "Sun, 23 Aug 2026 19:14:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+        "resumen": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+        "publicado": "Sun, 23 Aug 2026 16:03:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "resumen": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "publicado": "Sun, 23 Aug 2026 15:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "resumen": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "publicado": "Sun, 23 Aug 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record",
+        "resumen": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation &#8203;Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 [&#8230;]",
+        "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+        "publicado": "2026-08-24T05:10:40-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+        "resumen": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after [&#8230;]",
+        "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "publicado": "2026-08-23T15:14:37-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+        "resumen": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+        "publicado": "2026-08-23T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Grand Theft Auto VI exists in its own universe",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Four years ago, fans [&#8230;]",
+        "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+        "publicado": "2026-08-23T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Doodle generative compositions in your browser with Musical Spirograph",
+        "resumen": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical Spirograph is a relatively simple concept. A set of points dash around the screen according to [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+        "publicado": "2026-08-22T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+        "resumen": "W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to Talk About Cosby, his blend of comedy, social commentary, and political activism has helped him stand out. He's won a Peabody and four Emmys, been [&#8230;]",
+        "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+        "publicado": "2026-08-22T11:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7674.37,
+      "cambio_pct": 0.43,
+      "cierre_anterior": 7641.16,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 2.69,
+      "historico_fechas": [
+        "2026-05-22",
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        7473.47,
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26180.46,
+      "cambio_pct": 0.43,
+      "cierre_anterior": 26067.17,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        26644.91,
+        26289.71,
+        26331.09,
+        26067.17,
+        26180.46
+      ]
+    },
+    "dow": {
+      "ultimo": 53277.01,
+      "cambio_pct": 0.98,
+      "cierre_anterior": 52759.21,
+      "historico_fechas": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "historico_cierres": [
+        53459.78,
+        53343.4,
+        53463.05,
+        52759.21,
+        53277.01
+      ]
+    },
+    "vix": {
+      "ultimo": 16.0,
+      "cambio_pct": 5.75,
+      "cierre_anterior": 15.13,
+      "historico_fechas": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        15.84,
+        14.89,
+        16.01,
+        15.13,
+        16.0
+      ]
+    },
+    "oro": {
+      "ultimo": 4700.8,
+      "cambio_pct": 1.66,
+      "cierre_anterior": 4624.1,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        4489.4,
+        4516.3,
+        4624.1,
+        4700.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 85.3,
+      "cambio_pct": -2.02,
+      "cierre_anterior": 87.06,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        85.83,
+        87.83,
+        87.06,
+        85.3
+      ]
+    },
+    "btc": {
+      "ultimo": 77845.63,
+      "cambio_pct": 0.12,
+      "cierre_anterior": 77755.27,
+      "historico_fechas": [
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        73032.76,
+        78335.19,
+        77083.41,
+        77755.27,
+        77845.63
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.01,
+      "cambio_pct": 0.21,
+      "cierre_anterior": 98.8,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        98.83,
+        98.9,
+        98.8,
+        99.01
+      ]
+    }
+  }
+}
