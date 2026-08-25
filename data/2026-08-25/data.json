@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-25",
+  "generado_en": "2026-08-25T11:27:52.207282Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "China warns it will safeguard its interests after US widens sanctions against Iran",
+        "resumen": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 10:56:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man dies in crash after police pursuit",
+        "resumen": "A woman is also seriously injured and remains in hospital in critical condition.",
+        "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 11:25:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+        "resumen": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
+        "url": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 10:06:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Young care leavers dying early a 'national tragedy'",
+        "resumen": "Those leaving care have a death rate around four times higher than the general population, a new review reveals.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 11:05:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Moment tornado tears through southern France",
+        "resumen": "The tornado has injured more than 40 people and destroyed homes in villages.",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 00:16:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Boy, 3, injured in crocodile attack returns home",
+        "resumen": "The boy's family say he is \"happy to be home\" after undergoing seven operations in hospital.",
+        "url": "https://www.bbc.co.uk/news/articles/c8d3pn5g764o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 10:48:09 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+        "resumen": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 08:08:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Burnham refuses to rule out tax rises in autumn Budget",
+        "resumen": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 06:40:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "New 10p coin enters circulation - will you spot one?",
+        "resumen": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+        "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 23:03:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "OnlyFans owner was paid over $700m before his death",
+        "resumen": "The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.",
+        "url": "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 10:09:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How Canada could hit back to hurt the US economy - and Trump",
+        "resumen": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
+        "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 25 Aug 2026 02:49:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'What you see is what you pay' - why some US restaurants are banning tips",
+        "resumen": "Tips are central to US dining culture but some eateries think that they are unfair.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 24 Aug 2026 23:04:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+        "resumen": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
+        "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+        "publicado": "Tue, 25 Aug 2026 03:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "resumen": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "publicado": "Tue, 25 Aug 2026 00:23:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+        "resumen": "We all knew it was coming. The expected valuation may surprise, though.",
+        "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+        "publicado": "Mon, 24 Aug 2026 23:05:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "resumen": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "publicado": "Mon, 24 Aug 2026 21:24:17 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Zillow and Redfin settle FTC antitrust case",
+        "resumen": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+        "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+        "publicado": "Mon, 24 Aug 2026 20:45:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+        "resumen": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+        "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+        "publicado": "Mon, 24 Aug 2026 20:16:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+        "resumen": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera. But this is the first time I've ever driven a five-motor EV, one with the agility and speed to [&#8230;]",
+        "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+        "publicado": "2026-08-25T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "resumen": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "publicado": "2026-08-25T05:15:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Android is getting its own weird dots to cure car sickness",
+        "resumen": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appears to be rolling out in phases, with some [&#8230;]",
+        "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+        "publicado": "2026-08-25T04:36:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "resumen": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other [&#8230;]",
+        "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+        "publicado": "2026-08-24T19:38:10-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The cat-and-mouse game over 3D-printed guns has begun",
+        "resumen": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody [&#8230;]",
+        "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+        "publicado": "2026-08-24T15:50:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+        "resumen": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. [&#8230;]",
+        "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+        "publicado": "2026-08-24T13:01:05-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7652.86,
+      "cambio_pct": -0.28,
+      "cierre_anterior": 7674.37,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 1.78,
+      "historico_fechas": [
+        "2026-05-26",
+        "2026-05-27",
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        7519.12,
+        7520.36,
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25980.19,
+      "cambio_pct": -0.76,
+      "cierre_anterior": 26180.46,
+      "historico_fechas": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        26289.71,
+        26331.09,
+        26067.17,
+        26180.46,
+        25980.19
+      ]
+    },
+    "dow": {
+      "ultimo": 53417.16,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 53277.01,
+      "historico_fechas": [
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24"
+      ],
+      "historico_cierres": [
+        53343.4,
+        53463.05,
+        52759.21,
+        53277.01,
+        53417.16
+      ]
+    },
+    "vix": {
+      "ultimo": 15.82,
+      "cambio_pct": -0.19,
+      "cierre_anterior": 15.85,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25"
+      ],
+      "historico_cierres": [
+        14.89,
+        16.01,
+        15.13,
+        15.85,
+        15.82
+      ]
+    },
+    "oro": {
+      "ultimo": 4696.3,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 4640.8,
+      "historico_fechas": [
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25"
+      ],
+      "historico_cierres": [
+        4516.3,
+        4624.1,
+        4640.8,
+        4696.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.53,
+      "cambio_pct": -2.92,
+      "cierre_anterior": 85.01,
+      "historico_fechas": [
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25"
+      ],
+      "historico_cierres": [
+        87.83,
+        87.06,
+        85.01,
+        82.53
+      ]
+    },
+    "btc": {
+      "ultimo": 79180.62,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 78964.48,
+      "historico_fechas": [
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25"
+      ],
+      "historico_cierres": [
+        78335.19,
+        77083.41,
+        77755.27,
+        78964.48,
+        79180.62
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.04,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 99.0,
+      "historico_fechas": [
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25"
+      ],
+      "historico_cierres": [
+        98.9,
+        98.8,
+        99.0,
+        99.04
+      ]
+    }
+  }
+}
