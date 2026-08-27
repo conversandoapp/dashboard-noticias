@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-08-27",
+  "generado_en": "2026-08-27T20:55:12.028039Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+        "resumen": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+        "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 16:13:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Uefa preparing criminal legal action against Infantino",
+        "resumen": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 14:42:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+        "resumen": "The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 13:48:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Dame Jenni Murray died days after car crash, inquest hears",
+        "resumen": "The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision.",
+        "url": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 11:52:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
+        "resumen": "Cleveland Police confirms it has support from six local forces and the National Crime Agency.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 20:14:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump signs order to rename Lake Ontario to Lake America",
+        "resumen": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 20:11:40 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+        "resumen": "In a letter, the entrepreneur accuses the prime minister of \"jumping on 'everyday fixes' or bandwagons\" with his latest cost of living and retail policies.",
+        "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 20:03:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Hackers steal data from millions of airport customers",
+        "resumen": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 16:07:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What the Meta settlement means for the UK, and other questions after the deal",
+        "resumen": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+        "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 13:24:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Plug-in solar panels are coming to a shop near you - here's what to know",
+        "resumen": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 09:41:14 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "One in eight young people still out of work or education ahead of major review",
+        "resumen": "Just under one million young people in the UK are not in education, employment or training (Neet).",
+        "url": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 15:33:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+        "resumen": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+        "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 26 Aug 2026 23:03:46 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Rivian’s CFO is leaving the company",
+        "resumen": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
+        "url": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+        "publicado": "Thu, 27 Aug 2026 20:23:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Bluesky adds an ‘algorithmic opt-out’ feature for those who don’t want to go viral",
+        "resumen": "Sometimes people just want to post to their followers, Bluesky says.",
+        "url": "https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/",
+        "publicado": "Thu, 27 Aug 2026 20:15:26 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+        "resumen": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
+        "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+        "publicado": "Thu, 27 Aug 2026 20:04:26 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+        "resumen": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
+        "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+        "publicado": "Thu, 27 Aug 2026 19:54:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+        "resumen": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+        "publicado": "Thu, 27 Aug 2026 19:52:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ATF declares ‘major incident’ as ransomware gang claims hack",
+        "resumen": "The ATF is the latest federal government agency in recent years to notify Congress of a \"major incident\" involving its cybersecurity.",
+        "url": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+        "publicado": "Thu, 27 Aug 2026 17:54:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+        "resumen": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its originally planned fall 2025 [&#8230;]",
+        "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "publicado": "2026-08-27T16:01:56-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GTA VI looks just as great as we could hope for",
+        "resumen": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much better than previous entries, with impressive graphics, densely-packed rooms, and detailed environments. [&#8230;]",
+        "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
+        "publicado": "2026-08-27T15:49:57-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s AI note-taking app now allows you to interact with books",
+        "resumen": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their [&#8230;]",
+        "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+        "publicado": "2026-08-27T15:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google tells Android app developers to cool it on memory use, or else",
+        "resumen": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage limits for apps, in order \"to help developers navigate industry-wide hardware [&#8230;]",
+        "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+        "publicado": "2026-08-27T14:33:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Speedo’s new smart goggles module can track all four swim strokes",
+        "resumen": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, and track distance per stroke. Unlike other smart goggles, such as [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+        "publicado": "2026-08-27T12:18:51-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+        "resumen": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the supposed finish line of the AI race, there is no consensus [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+        "publicado": "2026-08-27T12:15:52-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7730.99,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 7675.7,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 2.21,
+      "historico_fechas": [
+        "2026-05-28",
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        7563.63,
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26541.35,
+      "cambio_pct": 1.57,
+      "cierre_anterior": 26130.2,
+      "historico_fechas": [
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        26180.46,
+        25980.19,
+        26151.3,
+        26130.2,
+        26541.35
+      ]
+    },
+    "dow": {
+      "ultimo": 53569.44,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 53463.88,
+      "historico_fechas": [
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        53277.01,
+        53417.16,
+        53577.4,
+        53463.88,
+        53569.44
+      ]
+    },
+    "vix": {
+      "ultimo": 14.51,
+      "cambio_pct": -4.6,
+      "cierre_anterior": 15.21,
+      "historico_fechas": [
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        15.13,
+        15.85,
+        15.45,
+        15.21,
+        14.51
+      ]
+    },
+    "oro": {
+      "ultimo": 4657.5,
+      "cambio_pct": 1.29,
+      "cierre_anterior": 4598.2,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        4640.8,
+        4638.1,
+        4598.2,
+        4657.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.52,
+      "cambio_pct": 1.57,
+      "cierre_anterior": 82.23,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        85.01,
+        82.36,
+        82.23,
+        83.52
+      ]
+    },
+    "btc": {
+      "ultimo": 79995.52,
+      "cambio_pct": 1.23,
+      "cierre_anterior": 79027.42,
+      "historico_fechas": [
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        77755.27,
+        78964.48,
+        78564.98,
+        79027.42,
+        79995.52
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.14,
+      "cambio_pct": -0.03,
+      "cierre_anterior": 99.17,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27"
+      ],
+      "historico_cierres": [
+        99.0,
+        98.92,
+        99.17,
+        99.14
+      ]
+    }
+  }
+}
