@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-08-28",
+  "generado_en": "2026-08-28T21:19:46.354339Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Videos show people survive floodwaters on balcony in Nepal",
+        "resumen": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 17:32:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What we know about the 33 British nationals missing in Nepal",
+        "resumen": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+        "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 19:21:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Six people injured after sign falls at Christian festival",
+        "resumen": "Emergency services were called to reports of people in need of medical attention at Wiston Park.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 20:57:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
+        "resumen": "Norwegians paid their respects to the late King Harld after his death on Friday morning.",
+        "url": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 18:11:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+        "resumen": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+        "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 14:06:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Wife of man who died after turbulence sues Singapore Airlines",
+        "resumen": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 17:47:00 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "I was spending £700 a month: How I beat my late-night shopping addiction",
+        "resumen": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:04:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 15:15:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "resumen": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 03:41:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Selena Gomez pushes back against 'frivolous' fraud claims",
+        "resumen": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+        "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 05:53:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Military veterans told they owe thousands of pounds over clerical error",
+        "resumen": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:06:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Overcooked? Why robotic pizza makers are failing",
+        "resumen": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:16:02 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "resumen": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "publicado": "Fri, 28 Aug 2026 20:24:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "resumen": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "publicado": "Fri, 28 Aug 2026 19:30:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Brave’s browser one-ups Chrome with its new support for email aliases",
+        "resumen": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+        "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+        "publicado": "Fri, 28 Aug 2026 18:50:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "resumen": "There's a lot of capital pouring into the business of giving models away.",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "publicado": "Fri, 28 Aug 2026 18:19:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "How Sweden built one of Europe’s hottest startup ecosystems",
+        "resumen": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+        "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+        "publicado": "Fri, 28 Aug 2026 17:09:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "More Americans oppose police license plate cameras than support them: survey",
+        "resumen": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
+        "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+        "publicado": "Fri, 28 Aug 2026 15:57:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+        "resumen": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+        "publicado": "2026-08-28T13:03:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump’s EPA wants to let data centers hide their air pollution",
+        "resumen": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+        "publicado": "2026-08-28T12:28:40-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+        "resumen": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS \"Neural [&#8230;]",
+        "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+        "publicado": "2026-08-28T12:22:16-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The iPhone Fold could make concerts even worse",
+        "resumen": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast, we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as [&#8230;]",
+        "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
+        "publicado": "2026-08-28T11:26:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+        "resumen": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's [&#8230;]",
+        "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+        "publicado": "2026-08-28T09:47:36-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+        "resumen": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+        "publicado": "2026-08-28T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7711.76,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 7730.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 1.74,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26402.42,
+      "cambio_pct": -0.52,
+      "cierre_anterior": 26541.35,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        25980.19,
+        26151.3,
+        26130.2,
+        26541.35,
+        26402.42
+      ]
+    },
+    "dow": {
+      "ultimo": 53559.99,
+      "cambio_pct": -0.02,
+      "cierre_anterior": 53569.44,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        53417.16,
+        53577.4,
+        53463.88,
+        53569.44,
+        53559.99
+      ]
+    },
+    "vix": {
+      "ultimo": 14.43,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 14.51,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        15.85,
+        15.45,
+        15.21,
+        14.51,
+        14.43
+      ]
+    },
+    "oro": {
+      "ultimo": 4504.1,
+      "cambio_pct": -2.29,
+      "cierre_anterior": 4609.7,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        4640.8,
+        4638.1,
+        4598.2,
+        4609.7,
+        4504.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.44,
+      "cambio_pct": -0.11,
+      "cierre_anterior": 83.53,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        85.01,
+        82.36,
+        82.23,
+        83.53,
+        83.44
+      ]
+    },
+    "btc": {
+      "ultimo": 77383.14,
+      "cambio_pct": -3.58,
+      "cierre_anterior": 80257.54,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        78964.48,
+        78564.98,
+        79027.42,
+        80257.54,
+        77383.14
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.68,
+      "cambio_pct": 0.52,
+      "cierre_anterior": 99.16,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        99.0,
+        98.92,
+        99.17,
+        99.16,
+        99.68
+      ]
+    }
+  }
+}
