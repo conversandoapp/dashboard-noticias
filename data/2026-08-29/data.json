@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-08-29",
+  "generado_en": "2026-08-29T15:31:09.707050Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "resumen": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 15:27:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Christian festival 'devastated' as man dies after sign falls",
+        "resumen": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+        "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 14:12:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Cleverly quits shadow cabinet to run for London mayor",
+        "resumen": "The capital is not set to vote on a new mayor until 2028.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 15:25:19 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Football fans pay tribute to crash death officers at Middlesbrough match",
+        "resumen": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 13:02:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Sarah Ferguson expected back in the UK 'shortly', source says",
+        "resumen": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 10:43:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+        "resumen": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+        "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 21:17:54 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "resumen": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 29 Aug 2026 15:13:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Wife of man who died after turbulence sues airline",
+        "resumen": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 17:47:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 15:15:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I was spending £700 a month: How I beat my late-night shopping addiction",
+        "resumen": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:04:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "resumen": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 03:41:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Overcooked? Why robotic pizza makers are failing",
+        "resumen": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:16:02 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "The Theragun Sense makes everyday recovery surprisingly easy",
+        "resumen": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+        "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+        "publicado": "Sat, 29 Aug 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nvidia’s AI advantage is moving beyond the GPU",
+        "resumen": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "publicado": "Sat, 29 Aug 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "resumen": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "publicado": "Fri, 28 Aug 2026 23:24:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Is the best way to watch a movie on a pair of sunglasses?",
+        "resumen": "Are XREAL's smart glasses the way of the future for home entertainment?",
+        "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+        "publicado": "Fri, 28 Aug 2026 22:42:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "resumen": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "publicado": "Fri, 28 Aug 2026 20:24:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "resumen": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "publicado": "Fri, 28 Aug 2026 19:30:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+        "resumen": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+        "publicado": "2026-08-29T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Galaxy Z Flip 8 is at its best when there’s friction",
+        "resumen": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola [&#8230;]",
+        "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
+        "publicado": "2026-08-29T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Musicians-turned-detectives are hunting for AI grifters",
+        "resumen": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+        "publicado": "2026-08-29T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google further buries search results under AI mode",
+        "resumen": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with [&#8230;]",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "publicado": "2026-08-28T18:48:11-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xbox CEO calls Project Helix a ‘family of devices’",
+        "resumen": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, [&#8230;]",
+        "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+        "publicado": "2026-08-28T18:03:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
+        "resumen": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
+        "publicado": "2026-08-28T13:03:07-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7711.76,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 7730.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 1.74,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26402.42,
+      "cambio_pct": -0.52,
+      "cierre_anterior": 26541.35,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        25980.19,
+        26151.3,
+        26130.2,
+        26541.35,
+        26402.42
+      ]
+    },
+    "dow": {
+      "ultimo": 53559.99,
+      "cambio_pct": -0.02,
+      "cierre_anterior": 53569.44,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        53417.16,
+        53577.4,
+        53463.88,
+        53569.44,
+        53559.99
+      ]
+    },
+    "vix": {
+      "ultimo": 14.43,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 14.51,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        15.85,
+        15.45,
+        15.21,
+        14.51,
+        14.43
+      ]
+    },
+    "oro": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 4609.7,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        4640.8,
+        4638.1,
+        4598.2,
+        4609.7,
+        NaN
+      ]
+    },
+    "petroleo": {
+      "ultimo": NaN,
+      "cambio_pct": NaN,
+      "cierre_anterior": 83.53,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        85.01,
+        82.36,
+        82.23,
+        83.53,
+        NaN
+      ]
+    },
+    "btc": {
+      "ultimo": 77850.82,
+      "cambio_pct": -3.0,
+      "cierre_anterior": 80257.54,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-29"
+      ],
+      "historico_cierres": [
+        78564.98,
+        79027.42,
+        80257.54,
+        77850.82
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.7,
+      "cambio_pct": 0.54,
+      "cierre_anterior": 99.16,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        99.0,
+        98.92,
+        99.17,
+        99.16,
+        99.7
+      ]
+    }
+  }
+}
