@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-08-30",
+  "generado_en": "2026-08-30T15:11:02.272665Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+        "resumen": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+        "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 08:59:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police release one of two men arrested over fatal house fire",
+        "resumen": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 14:34:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "British woman killed in stabbing at German railway station",
+        "resumen": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 15:00:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Church names pastor killed by falling sign at Christian festival",
+        "resumen": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex.",
+        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 11:46:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham gets the early prison release changes he wanted - but at what cost?",
+        "resumen": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+        "url": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 07:58:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
+        "resumen": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house.",
+        "url": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 06:04:28 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+        "resumen": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 30 Aug 2026 04:01:02 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+        "resumen": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 15:15:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Wife of man who died after turbulence sues airline",
+        "resumen": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 17:47:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I was spending £700 a month: How I beat my late-night shopping addiction",
+        "resumen": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:04:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "resumen": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 28 Aug 2026 03:41:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Overcooked? Why robotic pizza makers are failing",
+        "resumen": "A string of failures has sapped confidence that robots will take over production at pizza restaurants.",
+        "url": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 27 Aug 2026 23:16:02 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "resumen": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "publicado": "Sun, 30 Aug 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "resumen": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "publicado": "Sat, 29 Aug 2026 18:41:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "resumen": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+        "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+        "publicado": "Sat, 29 Aug 2026 17:51:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "resumen": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "publicado": "Sat, 29 Aug 2026 17:36:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hollywood celebs are getting into microdrama apps",
+        "resumen": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+        "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+        "publicado": "Sat, 29 Aug 2026 16:10:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Theragun Sense makes everyday recovery surprisingly easy",
+        "resumen": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+        "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+        "publicado": "Sat, 29 Aug 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Chess.com launched a poker site and is planning even more classic games",
+        "resumen": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May: Gambit, a free online poker website where players can learn the game without risking any real [&#8230;]",
+        "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+        "publicado": "2026-08-30T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "China’s robots race ahead",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on falling robots and the US-China AI race, follow Robert Hart. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started I've admitted my fondness for [&#8230;]",
+        "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+        "publicado": "2026-08-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Two new small, powerful Macs",
+        "resumen": "Hi, friends! Welcome to Installer No. 142, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, how is it almost September already, and also you can read all the old editions at the Installer homepage.) This week, I've been remembering Dolly Parton, Tim Curry, and Peter Cullen, absorbing [&#8230;]",
+        "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+        "publicado": "2026-08-30T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+        "resumen": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+        "publicado": "2026-08-29T16:59:26-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Alt-right troll Milo Yiannopoulos has been deported",
+        "resumen": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]",
+        "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+        "publicado": "2026-08-29T15:49:59-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+        "resumen": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "publicado": "2026-08-29T14:19:53-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7711.76,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 7730.99,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 1.74,
+      "historico_fechas": [
+        "2026-05-29",
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        7580.06,
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26402.42,
+      "cambio_pct": -0.52,
+      "cierre_anterior": 26541.35,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        25980.19,
+        26151.3,
+        26130.2,
+        26541.35,
+        26402.42
+      ]
+    },
+    "dow": {
+      "ultimo": 53559.99,
+      "cambio_pct": -0.02,
+      "cierre_anterior": 53569.44,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        53417.16,
+        53577.4,
+        53463.88,
+        53569.44,
+        53559.99
+      ]
+    },
+    "vix": {
+      "ultimo": 14.43,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 14.51,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        15.85,
+        15.45,
+        15.21,
+        14.51,
+        14.43
+      ]
+    },
+    "oro": {
+      "ultimo": 4529.9,
+      "cambio_pct": -1.73,
+      "cierre_anterior": 4609.7,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        4638.1,
+        4598.2,
+        4609.7,
+        4529.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.4,
+      "cambio_pct": -0.16,
+      "cierre_anterior": 83.53,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        82.36,
+        82.23,
+        83.53,
+        83.4
+      ]
+    },
+    "btc": {
+      "ultimo": 78793.73,
+      "cambio_pct": 1.24,
+      "cierre_anterior": 77830.29,
+      "historico_fechas": [
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-30"
+      ],
+      "historico_cierres": [
+        79027.42,
+        80257.54,
+        77830.29,
+        78793.73
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.7,
+      "cambio_pct": 0.54,
+      "cierre_anterior": 99.16,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28"
+      ],
+      "historico_cierres": [
+        98.92,
+        99.17,
+        99.16,
+        99.7
+      ]
+    }
+  }
+}
