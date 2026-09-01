@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-09-01",
+  "generado_en": "2026-09-01T15:23:58.902921Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Keir Starmer announces he is standing down as MP",
+        "resumen": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 15:23:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Summer 2026 was UK's hottest on record, Met Office says",
+        "resumen": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+        "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 12:18:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+        "resumen": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+        "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 05:00:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The final minutes before floodwater crashed through Nepal-China border",
+        "resumen": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 06:02:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+        "resumen": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 13:46:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Norway's new king takes oath as mourners pay respects to his late father",
+        "resumen": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
+        "url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 14:06:58 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "resumen": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 15:02:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shein valued at $26bn after long-awaited stock market debut",
+        "resumen": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 10:01:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI could cause global economic downturn, Andrew Bailey warns G20",
+        "resumen": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 10:18:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Feeling nostalgic for summer? How to beat the back-to-work blues",
+        "resumen": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 31 Aug 2026 23:37:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ikea cuts prices as customers struggle with rising cost of living",
+        "resumen": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
+        "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 12:21:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
+        "resumen": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 14:19:47 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Microsoft 365 outage drags on, but things are improving",
+        "resumen": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+        "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+        "publicado": "Tue, 01 Sep 2026 15:23:15 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fambot introduces an ‘AI chief of staff’ for families",
+        "resumen": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+        "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+        "publicado": "Tue, 01 Sep 2026 15:10:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Florida and Texas move to block Flock cameras over privacy concerns",
+        "resumen": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+        "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+        "publicado": "Tue, 01 Sep 2026 15:00:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+        "resumen": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+        "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+        "publicado": "Tue, 01 Sep 2026 14:52:12 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa",
+        "resumen": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
+        "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+        "publicado": "Tue, 01 Sep 2026 14:20:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+        "resumen": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+        "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+        "publicado": "Tue, 01 Sep 2026 14:03:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+        "resumen": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbed Sonos 27. It's the biggest single Sonos announcement [&#8230;]",
+        "url": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
+        "publicado": "2026-09-01T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Tim Cook’s legacy isn’t just phones, it’s politics",
+        "resumen": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese President Xi Jinping and US [&#8230;]",
+        "url": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
+        "publicado": "2026-09-01T09:51:02-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "John Ternus takes over as Apple&#8217;s new CEO",
+        "resumen": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook&#8217;s legacy, and what will Apple look like under the leadership of Ternus and [&#8230;]",
+        "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+        "publicado": "2026-09-01T09:28:43-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Florida blocks Flock cams on state highways",
+        "resumen": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days. [&#8230;]",
+        "url": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
+        "publicado": "2026-09-01T09:17:36-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Get ready for a really busy month of smartphones",
+        "resumen": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be [&#8230;]",
+        "url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+        "publicado": "2026-09-01T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "resumen": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now [&#8230;]",
+        "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+        "publicado": "2026-09-01T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7651.06,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 7686.14,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 0.67,
+      "historico_fechas": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        7599.96,
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7651.06
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26170.27,
+      "cambio_pct": -0.76,
+      "cierre_anterior": 26370.89,
+      "historico_fechas": [
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        26130.2,
+        26541.35,
+        26402.42,
+        26370.89,
+        26170.27
+      ]
+    },
+    "dow": {
+      "ultimo": 52971.5,
+      "cambio_pct": -0.4,
+      "cierre_anterior": 53185.9,
+      "historico_fechas": [
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        53463.88,
+        53569.44,
+        53185.9,
+        52971.5
+      ]
+    },
+    "vix": {
+      "ultimo": 15.52,
+      "cambio_pct": 4.02,
+      "cierre_anterior": 14.92,
+      "historico_fechas": [
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        15.21,
+        14.51,
+        14.92,
+        15.52
+      ]
+    },
+    "oro": {
+      "ultimo": 4406.6,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 4431.1,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        4609.7,
+        4478.1,
+        4431.1,
+        4406.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 87.84,
+      "cambio_pct": 2.43,
+      "cierre_anterior": 85.76,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        83.53,
+        83.4,
+        85.76,
+        87.84
+      ]
+    },
+    "btc": {
+      "ultimo": 77801.46,
+      "cambio_pct": -0.95,
+      "cierre_anterior": 78548.63,
+      "historico_fechas": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        77830.29,
+        78245.81,
+        77667.57,
+        78548.63,
+        77801.46
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.62,
+      "cambio_pct": 0.19,
+      "cierre_anterior": 99.43,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01"
+      ],
+      "historico_cierres": [
+        99.16,
+        99.7,
+        99.43,
+        99.62
+      ]
+    }
+  }
+}
