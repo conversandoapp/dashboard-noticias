@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-09-02",
+  "generado_en": "2026-09-02T14:59:28.779752Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+        "resumen": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+        "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 14:26:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+        "resumen": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+        "url": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 14:52:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Four in court over murder of baby stabbed to death",
+        "resumen": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+        "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 13:02:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Lucy Letby 'boyfriend' doctor named as court order lifted",
+        "resumen": "Dr Mark Deakin, a consultant at Alder Hey hospital, was described as Letby's \"boyfriend\" during her trial.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 13:49:17 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+        "resumen": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+        "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 11:47:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+        "resumen": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
+        "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 11:51:46 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+        "resumen": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+        "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 13:20:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why are UK borrowing costs rising and what does it mean for me?",
+        "resumen": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
+        "url": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 11:05:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+        "resumen": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+        "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 01:27:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
+        "resumen": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 23:26:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will self-flying planes transform the skies?",
+        "resumen": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 01 Sep 2026 23:27:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+        "resumen": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
+        "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 02 Sep 2026 01:32:24 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+        "resumen": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+        "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+        "publicado": "Wed, 02 Sep 2026 14:56:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Adobe acquires Indian market intelligence startup Rilo",
+        "resumen": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+        "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+        "publicado": "Wed, 02 Sep 2026 14:03:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+        "resumen": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+        "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+        "publicado": "Wed, 02 Sep 2026 13:11:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Adobe is making its tools available in Slack",
+        "resumen": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+        "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+        "publicado": "Wed, 02 Sep 2026 13:09:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber is laying off 10% of staff, or 3,300 people",
+        "resumen": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
+        "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+        "publicado": "Wed, 02 Sep 2026 12:14:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+        "resumen": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+        "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+        "publicado": "Wed, 02 Sep 2026 12:09:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Belkin’s kid-friendly wireless headphones are 25 percent off",
+        "resumen": "Verge readers can get a discount on Belkin’s SoundForm Mini 2 wireless headphones. The kid-focused on-ear headphones feature an 85-decibel volume limit and easy controls, and a mode that lets them beam audio (wired or wirelessly) to a second pair without extra hardware. Readers can use the code VERGE25OFF to save 25 percent on up [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale",
+        "publicado": "2026-09-02T10:58:15-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+        "resumen": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+        "publicado": "2026-09-02T10:35:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "NYC bans AI use for students until they reach high school",
+        "resumen": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [&#8230;]",
+        "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+        "publicado": "2026-09-02T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Tado’s new thermostat is designed as a Nest killer",
+        "resumen": "When Google ignominiously exited the European thermostat market last year, it pointed its customers to Tado. This week, the German-based smart home company is launching its Smart Thermostat X (2nd gen), and aiming to attract European Nest users who haven't already jumped ship. Google shutting down the servers for its 1st- and 2nd-gen thermostats drove [&#8230;]",
+        "url": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest",
+        "publicado": "2026-09-02T10:15:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
+        "resumen": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every Wednesday, each featuring \"a twist\" on games like Wordle, Strands, Connections, and Crossword that are designed to keep puzzleheads playing with fresh [&#8230;]",
+        "url": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
+        "publicado": "2026-09-02T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
+        "resumen": "Believe it or not, the Tesla Cybercab is coming. Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing-door sporting, steering-wheel-free, two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them into operation as part of its robotaxi service in Austin, Texas. Public rides are here, and as Musk fans [&#8230;]",
+        "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
+        "publicado": "2026-09-02T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7669.51,
+      "cambio_pct": 0.5,
+      "cierre_anterior": 7631.47,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 0.78,
+      "historico_fechas": [
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-04",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        7609.78,
+        7553.68,
+        7584.31,
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7669.51
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26170.14,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 26099.77,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        26541.35,
+        26402.42,
+        26370.89,
+        26099.77,
+        26170.14
+      ]
+    },
+    "dow": {
+      "ultimo": 53173.09,
+      "cambio_pct": 0.77,
+      "cierre_anterior": 52766.88,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        53569.44,
+        53559.99,
+        53185.9,
+        52766.88,
+        53173.09
+      ]
+    },
+    "vix": {
+      "ultimo": 15.34,
+      "cambio_pct": -6.12,
+      "cierre_anterior": 16.34,
+      "historico_fechas": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        14.51,
+        14.43,
+        14.92,
+        16.34,
+        15.34
+      ]
+    },
+    "oro": {
+      "ultimo": 4427.2,
+      "cambio_pct": 1.82,
+      "cierre_anterior": 4348.0,
+      "historico_fechas": [
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        4478.1,
+        4431.1,
+        4348.0,
+        4427.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 90.32,
+      "cambio_pct": 0.11,
+      "cierre_anterior": 90.22,
+      "historico_fechas": [
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        83.4,
+        85.76,
+        90.22,
+        90.32
+      ]
+    },
+    "btc": {
+      "ultimo": 77020.48,
+      "cambio_pct": -0.5,
+      "cierre_anterior": 77403.62,
+      "historico_fechas": [
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        78245.81,
+        77667.57,
+        78548.63,
+        77403.62,
+        77020.48
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.55,
+      "cambio_pct": -0.12,
+      "cierre_anterior": 99.67,
+      "historico_fechas": [
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02"
+      ],
+      "historico_cierres": [
+        99.7,
+        99.43,
+        99.67,
+        99.55
+      ]
+    }
+  }
+}
