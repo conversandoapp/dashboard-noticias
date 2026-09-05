@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-09-05",
+  "generado_en": "2026-09-05T13:42:03.728118Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Reform promises to increase tax-free personal allowance to £15,000",
+        "resumen": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+        "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 12:59:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+        "resumen": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
+        "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 12:32:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Cleveland police chief proud of force but being 'let down' by funding",
+        "resumen": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 05:40:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+        "resumen": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+        "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 19:50:01 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump's response is key as Argentina's Falklands demands get louder",
+        "resumen": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 06:20:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
+        "resumen": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.",
+        "url": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 00:19:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Stock up on food to prepare for extreme weather, minister says",
+        "resumen": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+        "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 10:40:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump calls for interest rate cut after jobs figures raise hike bets",
+        "resumen": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 17:23:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "resumen": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 05:59:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
+        "resumen": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 07:19:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK petrol prices hit highest level since Iran war began",
+        "resumen": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 13:05:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "From 'dog fruit' to darling: India's avocado boom",
+        "resumen": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 05:09:02 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "resumen": "The round is being raised just months after the robot data startup exited from stealth.",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "publicado": "Fri, 04 Sep 2026 23:36:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "resumen": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "publicado": "Fri, 04 Sep 2026 23:15:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "resumen": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "publicado": "Fri, 04 Sep 2026 21:12:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+        "resumen": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
+        "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+        "publicado": "Fri, 04 Sep 2026 17:52:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "What will Apple’s John Ternus era look like?",
+        "resumen": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#",
+        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "publicado": "Fri, 04 Sep 2026 17:18:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "No little kids allowed, and other new info about Tesla’s Cybercab",
+        "resumen": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+        "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "publicado": "Fri, 04 Sep 2026 16:51:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The weird and wonderful headphones of CanJam 2026",
+        "resumen": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good - great, even - but they lack a distinct character. Something to remind me why I fell in love [&#8230;]",
+        "url": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+        "publicado": "2026-09-05T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI admits to German wiki ‘incident’",
+        "resumen": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "publicado": "2026-09-05T07:15:55-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Robotaxis enter their villain era",
+        "resumen": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present moment. Autonomous cars have [&#8230;]",
+        "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+        "publicado": "2026-09-05T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+        "resumen": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to [&#8230;]",
+        "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+        "publicado": "2026-09-04T17:23:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The White House is making arcade games racist",
+        "resumen": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris Company has already responded to \"Build the Wall,\" which is obviously [&#8230;]",
+        "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+        "publicado": "2026-09-04T15:42:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+        "resumen": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+        "publicado": "2026-09-04T14:00:45-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7718.6,
+      "cambio_pct": -0.38,
+      "cierre_anterior": 7747.71,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.54,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26506.99,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 26584.06,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        26370.89,
+        26099.77,
+        26217.83,
+        26584.06,
+        26506.99
+      ]
+    },
+    "dow": {
+      "ultimo": 53414.25,
+      "cambio_pct": -0.51,
+      "cierre_anterior": 53686.11,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        53185.9,
+        52766.88,
+        53061.95,
+        53686.11,
+        53414.25
+      ]
+    },
+    "vix": {
+      "ultimo": 14.53,
+      "cambio_pct": 1.47,
+      "cierre_anterior": 14.32,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        14.92,
+        16.34,
+        15.2,
+        14.32,
+        14.53
+      ]
+    },
+    "oro": {
+      "ultimo": 4429.8,
+      "cambio_pct": -1.38,
+      "cierre_anterior": 4491.7,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        4431.1,
+        4348.0,
+        4366.3,
+        4491.7,
+        4429.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.48,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 91.3,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        85.76,
+        90.22,
+        91.01,
+        91.3,
+        91.48
+      ]
+    },
+    "btc": {
+      "ultimo": 79683.05,
+      "cambio_pct": 0.01,
+      "cierre_anterior": 79671.97,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05"
+      ],
+      "historico_cierres": [
+        77403.62,
+        77300.48,
+        81271.74,
+        79671.97,
+        79683.05
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.16,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 99.0,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        99.43,
+        99.67,
+        99.56,
+        99.0,
+        99.16
+      ]
+    }
+  }
+}
