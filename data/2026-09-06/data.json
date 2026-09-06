@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-06",
+  "generado_en": "2026-09-06T13:58:54.961082Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+        "resumen": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 13:16:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police slow to respond to Dover protest, says council boss",
+        "resumen": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 10:59:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "resumen": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 10:29:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "TV presenter among 12 sentenced to death in Egypt drugs case",
+        "resumen": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 08:05:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "The next James Bond: The (00)7 questions fans want answered",
+        "resumen": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 00:06:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "resumen": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 09:56:39 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "resumen": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 06 Sep 2026 10:29:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Stock up on food to prepare for extreme weather, minister says",
+        "resumen": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+        "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 10:40:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+        "resumen": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 23:20:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump calls for interest rate cut after jobs figures raise hike bets",
+        "resumen": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 17:23:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "resumen": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 05:59:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "From 'dog fruit' to darling: India's avocado boom",
+        "resumen": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+        "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 04 Sep 2026 05:09:02 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "resumen": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "publicado": "Sat, 05 Sep 2026 22:49:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hikers rescued after using Google Gemini for planning",
+        "resumen": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "publicado": "Sat, 05 Sep 2026 19:35:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "resumen": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "publicado": "Sat, 05 Sep 2026 18:05:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Clucky’s new alarm app wakes you up with a crowing rooster",
+        "resumen": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+        "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+        "publicado": "Sat, 05 Sep 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Oura is going public, but these smart ring companies are coming for its crown",
+        "resumen": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+        "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+        "publicado": "Sat, 05 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "resumen": "The round is being raised just months after the robot data startup exited from stealth.",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "publicado": "Fri, 04 Sep 2026 23:36:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+        "resumen": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devices. But the phones themselves required a lot of sacrifices, like putting up with underpowered processors [&#8230;]",
+        "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+        "publicado": "2026-09-06T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+        "resumen": "To get started with competitive Pok&#233;mon battles, all you need is your phone. But to compete at the highest level, like at the Pok&#233;mon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator Pok&#233;mon Champions originally launched on the Switch and Switch 2 in [&#8230;]",
+        "url": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+        "publicado": "2026-09-06T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "DIY plug-in solar gains momentum in the US",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started With a deep breath, I took [&#8230;]",
+        "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+        "publicado": "2026-09-06T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Explore the globe in field recordings",
+        "resumen": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real [&#8230;]",
+        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "publicado": "2026-09-05T17:31:34-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "iPhone Handoff will seamlessly share one number between two phones",
+        "resumen": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up [&#8230;]",
+        "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+        "publicado": "2026-09-05T16:53:58-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "CD sales are booming as physical media continues its resurgence",
+        "resumen": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the same period in 2025. That's a jump of 45.7 percent, [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
+        "publicado": "2026-09-05T12:49:33-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7718.6,
+      "cambio_pct": -0.38,
+      "cierre_anterior": 7747.71,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.54,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26506.99,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 26584.06,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        26370.89,
+        26099.77,
+        26217.83,
+        26584.06,
+        26506.99
+      ]
+    },
+    "dow": {
+      "ultimo": 53414.25,
+      "cambio_pct": -0.51,
+      "cierre_anterior": 53686.11,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        53185.9,
+        52766.88,
+        53061.95,
+        53686.11,
+        53414.25
+      ]
+    },
+    "vix": {
+      "ultimo": 14.53,
+      "cambio_pct": 1.47,
+      "cierre_anterior": 14.32,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        14.92,
+        16.34,
+        15.2,
+        14.32,
+        14.53
+      ]
+    },
+    "oro": {
+      "ultimo": 4476.6,
+      "cambio_pct": -0.34,
+      "cierre_anterior": 4491.7,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        4348.0,
+        4366.3,
+        4491.7,
+        4476.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.48,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 91.3,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        90.22,
+        91.01,
+        91.3,
+        91.48
+      ]
+    },
+    "btc": {
+      "ultimo": 79791.33,
+      "cambio_pct": -0.04,
+      "cierre_anterior": 79823.87,
+      "historico_fechas": [
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "historico_cierres": [
+        77300.48,
+        81271.74,
+        79671.97,
+        79823.87,
+        79791.33
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.16,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 99.0,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        99.67,
+        99.56,
+        99.0,
+        99.16
+      ]
+    }
+  }
+}
