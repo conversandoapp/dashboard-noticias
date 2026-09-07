@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-09-07",
+  "generado_en": "2026-09-07T16:18:26.978878Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "What we know about anti-migrant protests and organiser Danny Thomas",
+        "resumen": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 15:20:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "resumen": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 14:57:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "King makes clear Harry and Meghan remain non-working royals",
+        "resumen": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+        "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 16:01:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+        "resumen": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+        "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 15:41:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+        "resumen": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 15:27:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Self-described 'genocidal racist monster' jailed after BBC investigation",
+        "resumen": "A former tax worker admitted 12 counts of inciting hatred online.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 16:10:30 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+        "resumen": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+        "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 15:41:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why Jaguar Land Rover has decided change is needed",
+        "resumen": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 14:36:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+        "resumen": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 16:05:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The £70 refund letter that isn't a scam",
+        "resumen": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 08:50:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "resumen": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 07 Sep 2026 14:57:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why are European countries moving their gold out of North America?",
+        "resumen": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 05 Sep 2026 01:42:09 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "What we expect from the upcoming Apple launch",
+        "resumen": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+        "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+        "publicado": "Mon, 07 Sep 2026 15:58:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "resumen": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+        "publicado": "Sun, 06 Sep 2026 21:41:06 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "resumen": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "publicado": "Sun, 06 Sep 2026 20:47:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "resumen": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "publicado": "Sun, 06 Sep 2026 16:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+        "resumen": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "publicado": "Sun, 06 Sep 2026 16:08:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "resumen": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "publicado": "Sat, 05 Sep 2026 22:49:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Six years later, Sony revisits its legendary XM4 headphones",
+        "resumen": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, [&#8230;]",
+        "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+        "publicado": "2026-09-07T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "EcoFlow makes the miniature power station even smaller",
+        "resumen": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest [&#8230;]",
+        "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+        "publicado": "2026-09-07T10:59:41-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The real reason your phone is getting more expensive",
+        "resumen": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" [&#8230;]",
+        "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+        "publicado": "2026-09-07T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+        "resumen": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley [&#8230;]",
+        "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+        "publicado": "2026-09-07T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Huawei copies Samsung’s privacy display in its latest trifold",
+        "resumen": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [&#8230;]",
+        "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+        "publicado": "2026-09-07T06:09:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "resumen": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "publicado": "2026-09-06T19:36:04-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7718.6,
+      "cambio_pct": -0.38,
+      "cierre_anterior": 7747.71,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.54,
+      "historico_fechas": [
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        7383.74,
+        7405.73,
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26506.99,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 26584.06,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        26370.89,
+        26099.77,
+        26217.83,
+        26584.06,
+        26506.99
+      ]
+    },
+    "dow": {
+      "ultimo": 53414.25,
+      "cambio_pct": -0.51,
+      "cierre_anterior": 53686.11,
+      "historico_fechas": [
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04"
+      ],
+      "historico_cierres": [
+        53185.9,
+        52766.88,
+        53061.95,
+        53686.11,
+        53414.25
+      ]
+    },
+    "vix": {
+      "ultimo": 15.3,
+      "cambio_pct": 5.3,
+      "cierre_anterior": 14.53,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-07"
+      ],
+      "historico_cierres": [
+        16.34,
+        15.2,
+        14.32,
+        14.53,
+        15.3
+      ]
+    },
+    "oro": {
+      "ultimo": 4476.6,
+      "cambio_pct": 1.06,
+      "cierre_anterior": 4429.8,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-07"
+      ],
+      "historico_cierres": [
+        4348.0,
+        4366.3,
+        4491.7,
+        4429.8,
+        4476.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.48,
+      "cambio_pct": 0.0,
+      "cierre_anterior": 91.48,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-07"
+      ],
+      "historico_cierres": [
+        90.22,
+        91.01,
+        91.3,
+        91.48,
+        91.48
+      ]
+    },
+    "btc": {
+      "ultimo": 78881.68,
+      "cambio_pct": -1.83,
+      "cierre_anterior": 80350.05,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07"
+      ],
+      "historico_cierres": [
+        81271.74,
+        79671.97,
+        79823.87,
+        80350.05,
+        78881.68
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.89,
+      "cambio_pct": -0.27,
+      "cierre_anterior": 99.16,
+      "historico_fechas": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-07"
+      ],
+      "historico_cierres": [
+        99.67,
+        99.56,
+        99.0,
+        99.16,
+        98.89
+      ]
+    }
+  }
+}
