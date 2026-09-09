@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-09",
+  "generado_en": "2026-09-09T15:01:38.328116Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "National security can't come at expense of social security, Burnham says",
+        "resumen": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 14:53:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Police launch criminal investigation into Reform UK donations",
+        "resumen": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+        "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 14:40:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+        "resumen": "The foreign secretary disagrees that sanctions on Israeli settlements could put British Jews at greater risk.",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 13:28:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'We were raped and exploited by a drug gang as teenagers', women tell BBC of their ordeal",
+        "resumen": "Four women have chosen to waive their anonymity and speak publicly to the BBC documentary, Britain's Forgotten Girls, about how they were targeted by criminals when they were children.",
+        "url": "https://www.bbc.co.uk/news/videos/c05revv9nvro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 13:29:47 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hundreds mourn police officer killed in wrong-way A66 crash",
+        "resumen": "Officers give PC Matthew Blades a guard of honour as people line the streets for his funeral.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 14:00:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
+        "resumen": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities.",
+        "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 09:49:08 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Learner drivers still forced to wait months to book tests",
+        "resumen": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 11:57:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What are my rights if my flight is cancelled or delayed?",
+        "resumen": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 08:04:14 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+        "resumen": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 12:20:40 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+        "resumen": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 12:36:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Should promotion depend on how workers use AI?",
+        "resumen": "More companies are tying career progression to AI use: is that fair?",
+        "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 08 Sep 2026 23:05:23 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I'm 27 and I've already written my will - here's why",
+        "resumen": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 08 Sep 2026 23:04:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "resumen": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+        "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+        "publicado": "Wed, 09 Sep 2026 14:51:45 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+        "resumen": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+        "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+        "publicado": "Wed, 09 Sep 2026 14:38:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "resumen": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+        "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+        "publicado": "Wed, 09 Sep 2026 14:18:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+        "resumen": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
+        "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+        "publicado": "Wed, 09 Sep 2026 13:01:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Instacart launches an AI grocery shopping assistant called Clementine",
+        "resumen": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+        "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+        "publicado": "Wed, 09 Sep 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+        "resumen": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
+        "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+        "publicado": "Wed, 09 Sep 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Switch 2 is getting a 2D Metroid called Ravenous",
+        "resumen": "Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous. It's launching on January 28th, 2027. The new game looks like an evolution of Metroid Dread. While it's still a 2D game, it features 3D graphics, lots of cinematic action shots, parrying enemies, and Samus rolling around [&#8230;]",
+        "url": "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous",
+        "publicado": "2026-09-09T10:46:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I spent an hour riding inside Tesla’s steering-wheel-free Cybercab",
+        "resumen": "Getting out of a taxi shouldn't be a shameful experience. Yet I find myself feeling particularly embarrassed while exiting a Tesla Cybercab as it partially blocks a narrow road outside a popular Austin swimming hole. As a cadre of annoyed, sweaty Texan parking spot hunters pile up around it, the gold-painted two-seater just sits there [&#8230;]",
+        "url": "https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin",
+        "publicado": "2026-09-09T10:41:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "My favorite gaming earbuds got their first discount",
+        "resumen": "Asus’ Cetra Open wireless earbuds are some of the best that I’ve tested, despite being open-style earbuds. Their drivers sit outside of your ear, which allows outside sounds to mix with audio coming from your console. Some gamers may not want this, but it works well for me as someone who prefers to be aware [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/992003/asus-cetra-open-wireless-gaming-headset-earbuds-deal-sale",
+        "publicado": "2026-09-09T09:53:03-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nintendo Direct September 2026: The biggest news and trailers",
+        "resumen": "Nintendo just wrapped part two of its double feature this week. On Tuesday, the company hosted a showcase all about the Legend of Zelda franchise, including footage and a November 5th release date for the Switch 2 Ocarina of Time remake. On Wednesday, the company aired a new Nintendo Direct, which spotlighted Switch 2 games [&#8230;]",
+        "url": "https://www.theverge.com/games/991547/nintendo-direct-september-2026-news-trailers-announcements",
+        "publicado": "2026-09-09T09:50:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+        "resumen": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
+        "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+        "publicado": "2026-09-09T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How to watch Apple’s September 9th launch event",
+        "resumen": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineup. That could include the long-rumored foldable \"iPhone Duo,\" coming [&#8230;]",
+        "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+        "publicado": "2026-09-09T08:28:56-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7648.94,
+      "cambio_pct": -0.32,
+      "cierre_anterior": 7673.52,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 3.55,
+      "historico_fechas": [
+        "2026-06-09",
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        7386.65,
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7648.94
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26303.4,
+      "cambio_pct": -0.45,
+      "cierre_anterior": 26421.41,
+      "historico_fechas": [
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        26217.83,
+        26584.06,
+        26506.99,
+        26421.41,
+        26303.4
+      ]
+    },
+    "dow": {
+      "ultimo": 52472.86,
+      "cambio_pct": -0.59,
+      "cierre_anterior": 52786.07,
+      "historico_fechas": [
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        53061.95,
+        53686.11,
+        53414.25,
+        52786.07,
+        52472.86
+      ]
+    },
+    "vix": {
+      "ultimo": 16.07,
+      "cambio_pct": 2.23,
+      "cierre_anterior": 15.72,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        14.32,
+        14.53,
+        15.3,
+        15.72,
+        16.07
+      ]
+    },
+    "oro": {
+      "ultimo": 4465.7,
+      "cambio_pct": 1.63,
+      "cierre_anterior": 4393.9,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        4491.7,
+        4429.8,
+        4393.9,
+        4465.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.22,
+      "cambio_pct": 3.43,
+      "cierre_anterior": 93.03,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        91.3,
+        91.48,
+        93.03,
+        96.22
+      ]
+    },
+    "btc": {
+      "ultimo": 78798.35,
+      "cambio_pct": 0.46,
+      "cierre_anterior": 78438.58,
+      "historico_fechas": [
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        79823.87,
+        80350.05,
+        79115.85,
+        78438.58,
+        78798.35
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.67,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 98.84,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09"
+      ],
+      "historico_cierres": [
+        99.0,
+        99.16,
+        98.84,
+        98.67
+      ]
+    }
+  }
+}
