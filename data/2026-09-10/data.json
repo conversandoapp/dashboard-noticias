@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-10",
+  "generado_en": "2026-09-10T14:54:12.556687Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "England's mayors to get power to impose tourist tax",
+        "resumen": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 14:46:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+        "resumen": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 13:23:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two arrested in London on suspicion of assisting Iran's intelligence service",
+        "resumen": "Police say the arrests are not connected to incidents linked to Jewish and Iranian communities in London earlier this year.",
+        "url": "https://www.bbc.co.uk/news/articles/c62mqzj5vnpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 13:48:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Drone display recreates the Twin Towers over New York City",
+        "resumen": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+        "url": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 14:19:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why some experts increasingly fear AI will take over",
+        "resumen": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 23:17:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Catherine joins William at suicide prevention campaign",
+        "resumen": "The prince's new project aims to use the reach of sport to raise awareness about suicide and to show people the help available in a crisis.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r1x35rgro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 11:23:08 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+        "resumen": "Flight disruption has ruined holidays and left passengers sleeping on airport floors - so what are their rights?",
+        "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 13:34:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Primark finally set to launch home deliveries",
+        "resumen": "The retailer launches the service four years after making its first foray into internet shopping.",
+        "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 10:02:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The one thing you need to do to succeed - according to top bosses",
+        "resumen": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 23:02:20 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+        "resumen": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+        "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 09:32:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "England's mayors to get power to impose tourist tax",
+        "resumen": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 14:46:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why some experts increasingly fear AI will take over",
+        "resumen": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 09 Sep 2026 23:17:33 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "AI agents are flooding public services with new requests",
+        "resumen": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+        "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+        "publicado": "Thu, 10 Sep 2026 14:53:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+        "resumen": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+        "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+        "publicado": "Thu, 10 Sep 2026 14:34:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Maven Robotics wants to steal your robot deployment deal",
+        "resumen": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+        "publicado": "Thu, 10 Sep 2026 14:17:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+        "resumen": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
+        "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+        "publicado": "Thu, 10 Sep 2026 13:34:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "resumen": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
+        "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+        "publicado": "Thu, 10 Sep 2026 13:21:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Snapchat takes aim at Partiful with new event-planning features",
+        "resumen": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
+        "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+        "publicado": "Thu, 10 Sep 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Another big James Talarico interview is punted to YouTube due to FCC threats",
+        "resumen": "Jimmy Kimmel will be interviewing Democratic Texas Senate candidate James Talarico \"under unusual circumstances,\" posting the interview directly to YouTube, rather than airing it on TV during Jimmy Kimmel Live. In Wednesday night's episode, Kimmel said this was out of concern for retaliation from the Trump administration's FCC: [Trump's] FCC has threatened me, threatened our [&#8230;]",
+        "url": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
+        "publicado": "2026-09-10T10:34:36-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The iPhone Duo’s hardware doesn’t look special, but its software might be",
+        "resumen": "With the iPhone Duo, Apple has pulled off a familiar trick. It arrives into a mature Android foldable market with a handful of hardware features we've mostly already seen elsewhere, but paired with a level of software polish that makes a lot of them feel new again. It's those software flourishes that have me excited [&#8230;]",
+        "url": "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo",
+        "publicado": "2026-09-10T10:21:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How the iPhone Duo compares to other folding phones",
+        "resumen": "Apple's foldable phone is finally here - well, almost. The iPhone Duo, coming October 23rd, follows in the footsteps of past folding devices from Android phone makers like Samsung, OnePlus, and Google, with a $1,999 price tag that sits just above the Pixel 11 Pro Fold and Galaxy Z Fold 8. While its hardware bears [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+        "publicado": "2026-09-10T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Why the current tech backlash feels different",
+        "resumen": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+        "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+        "publicado": "2026-09-10T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "New standards for masculinity are stacked against men’s health",
+        "resumen": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Whenever the algorithm serves up a steaming pile of looksmaxxing, I flash back to an old sketch from That Mitchell [&#8230;]",
+        "url": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+        "publicado": "2026-09-10T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Snapchat makes it easier to plan events and meetups",
+        "resumen": "Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts - into real life get-togethers without ever leaving the app. Plans lets users set event details, invite up to 200 friends with invitations [&#8230;]",
+        "url": "https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups",
+        "publicado": "2026-09-10T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7603.58,
+      "cambio_pct": -0.43,
+      "cierre_anterior": 7636.36,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7266.99,
+      "rendimiento_periodo_pct": 4.63,
+      "historico_fechas": [
+        "2026-06-10",
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        7266.99,
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7603.58
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26144.78,
+      "cambio_pct": -0.41,
+      "cierre_anterior": 26253.34,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        26584.06,
+        26506.99,
+        26421.41,
+        26253.34,
+        26144.78
+      ]
+    },
+    "dow": {
+      "ultimo": 52150.83,
+      "cambio_pct": -0.44,
+      "cierre_anterior": 52380.66,
+      "historico_fechas": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        53686.11,
+        53414.25,
+        52786.07,
+        52380.66,
+        52150.83
+      ]
+    },
+    "vix": {
+      "ultimo": 17.28,
+      "cambio_pct": 4.98,
+      "cierre_anterior": 16.46,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        14.53,
+        15.3,
+        15.72,
+        16.46,
+        17.28
+      ]
+    },
+    "oro": {
+      "ultimo": 4400.5,
+      "cambio_pct": -0.35,
+      "cierre_anterior": 4416.0,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        4429.8,
+        4393.9,
+        4416.0,
+        4400.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 99.66,
+      "cambio_pct": 3.76,
+      "cierre_anterior": 96.05,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        91.48,
+        93.03,
+        96.05,
+        99.66
+      ]
+    },
+    "btc": {
+      "ultimo": 77361.23,
+      "cambio_pct": -1.15,
+      "cierre_anterior": 78259.52,
+      "historico_fechas": [
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        80350.05,
+        79115.85,
+        78438.58,
+        78259.52,
+        77361.23
+      ]
+    },
+    "dxy": {
+      "ultimo": 98.94,
+      "cambio_pct": 0.17,
+      "cierre_anterior": 98.77,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10"
+      ],
+      "historico_cierres": [
+        99.16,
+        98.84,
+        98.77,
+        98.94
+      ]
+    }
+  }
+}
