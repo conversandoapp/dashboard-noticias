@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-11",
+  "generado_en": "2026-09-11T14:51:31.359199Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "resumen": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 08:15:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "AI boom helps drive surprise UK growth in July",
+        "resumen": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 10:17:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "resumen": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 23:22:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Kate visits cancer patients in hospital she funded with climb",
+        "resumen": "The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 14:19:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Israel says it has destroyed major underground Hezbollah base",
+        "resumen": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 14:46:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Polanski selected as Green Party candidate for Starmer's former seat",
+        "resumen": "The Green Party leader said the party is the \"underdog\" in Holborn and St Pancras but \"can win\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 11:06:46 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "US inflation holds steady as diesel prices pass $6 a gallon",
+        "resumen": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 14:22:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI boom helps drive surprise UK growth in July",
+        "resumen": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 10:17:28 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I asked my husband to pay into my pension when we had a child - here's why",
+        "resumen": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 23:04:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Interest rates could rise again across the world – here's why",
+        "resumen": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+        "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 13:35:29 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Can Europe recharge its battery industry?",
+        "resumen": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 10 Sep 2026 23:05:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Alstom to build new battery-electric train fleet",
+        "resumen": "The government says the work will support thousands of jobs across the UK.",
+        "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 11 Sep 2026 14:43:33 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+        "resumen": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
+        "url": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+        "publicado": "Fri, 11 Sep 2026 13:32:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "resumen": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+        "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+        "publicado": "Thu, 10 Sep 2026 22:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "resumen": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "publicado": "Thu, 10 Sep 2026 21:51:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "resumen": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+        "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "publicado": "Thu, 10 Sep 2026 21:35:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "resumen": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "publicado": "Thu, 10 Sep 2026 20:59:51 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "resumen": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "publicado": "Thu, 10 Sep 2026 20:57:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "resumen": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "publicado": "2026-09-11T10:25:21-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "New York City’s last pickpocket doesn’t need a smartphone",
+        "resumen": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards contenders, indie surprises, and genre flicks destined [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+        "publicado": "2026-09-11T10:15:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Why Apple’s next computer should be for the smart home",
+        "resumen": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, and services. While Ternus was talking about the iPhone - not a new smart home device [&#8230;]",
+        "url": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
+        "publicado": "2026-09-11T10:01:55-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold",
+        "resumen": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch videos, with \"Tim Cook\" saying [&#8230;]",
+        "url": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
+        "publicado": "2026-09-11T09:59:16-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+        "resumen": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka isn't designed with portability in mind as it also lacks a rechargeable battery. [&#8230;]",
+        "url": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
+        "publicado": "2026-09-11T09:42:35-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Arizona’s lifeline for chip manufacturing is drying up",
+        "resumen": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region and other western states. A recent federal decision on how to manage its [&#8230;]",
+        "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+        "publicado": "2026-09-11T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7657.63,
+      "cambio_pct": 0.87,
+      "cierre_anterior": 7591.7,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.56,
+      "historico_fechas": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        7394.3,
+        7431.46,
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7657.63
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26344.93,
+      "cambio_pct": 1.01,
+      "cierre_anterior": 26081.72,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        26506.99,
+        26421.41,
+        26253.34,
+        26081.72,
+        26344.93
+      ]
+    },
+    "dow": {
+      "ultimo": 52488.21,
+      "cambio_pct": 0.81,
+      "cierre_anterior": 52064.1,
+      "historico_fechas": [
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        53414.25,
+        52786.07,
+        52380.66,
+        52064.1,
+        52488.21
+      ]
+    },
+    "vix": {
+      "ultimo": 16.01,
+      "cambio_pct": -10.26,
+      "cierre_anterior": 17.84,
+      "historico_fechas": [
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        15.3,
+        15.72,
+        16.46,
+        17.84,
+        16.01
+      ]
+    },
+    "oro": {
+      "ultimo": 4411.2,
+      "cambio_pct": 1.07,
+      "cierre_anterior": 4364.5,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        4393.9,
+        4416.0,
+        4364.5,
+        4411.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 99.62,
+      "cambio_pct": -2.79,
+      "cierre_anterior": 102.48,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        93.03,
+        96.05,
+        102.48,
+        99.62
+      ]
+    },
+    "btc": {
+      "ultimo": 78660.95,
+      "cambio_pct": 2.73,
+      "cierre_anterior": 76568.12,
+      "historico_fechas": [
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        79115.85,
+        78438.58,
+        78259.52,
+        76568.12,
+        78660.95
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.06,
+      "cambio_pct": -0.04,
+      "cierre_anterior": 99.09,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11"
+      ],
+      "historico_cierres": [
+        98.84,
+        98.77,
+        99.09,
+        99.06
+      ]
+    }
+  }
+}
