@@ -1,0 +1,447 @@
+{
+  "fecha": "2026-09-14",
+  "generado_en": "2026-09-14T16:48:24.379290Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Man admits drugging and raping wife for 20 years",
+        "resumen": "The victim watches from the public gallery as her husband pleads guilty to dozens of offences.",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 16:38:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham cancels engagements after death of his father",
+        "resumen": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+        "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 14:24:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Farage says £72m donations are compliant 'with the law today'",
+        "resumen": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+        "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 15:27:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What you need to know about the latest donations to Reform UK",
+        "resumen": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.",
+        "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 11:07:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Member of UK armed forces dies in road traffic incident in Ukraine",
+        "resumen": "The incident is not the result of hostile action, the BBC understands.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 15:03:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Staff slept while patient killed at NHS mental health unit",
+        "resumen": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
+        "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 15:19:26 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Petrol and diesel prices hit highest since 2022",
+        "resumen": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 11:42:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Rent rises set to speed up in gloomy forecast for tenants",
+        "resumen": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 13 Sep 2026 23:05:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Heading off to uni? Here's what to insure against theft",
+        "resumen": "What should new students consider to keep your belongings safe and covered by insurance?",
+        "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 08:13:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Culture shift' needed in how UK does business, PM urges",
+        "resumen": "Burnham says those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+        "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 14:22:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "MPs and Lords call for new law to address AI threat to human rights",
+        "resumen": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 08:07:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Carney gambles on the world's biggest investors betting on Canada",
+        "resumen": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
+        "url": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 13 Sep 2026 23:03:06 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "resumen": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "publicado": "Mon, 14 Sep 2026 16:27:53 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Waymo opens robotaxi service in Las Vegas",
+        "resumen": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
+        "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+        "publicado": "Mon, 14 Sep 2026 16:04:16 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+        "resumen": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+        "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+        "publicado": "Mon, 14 Sep 2026 15:34:31 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "resumen": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+        "publicado": "Mon, 14 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+        "resumen": "Fathom said that it has over 400,000 monthly active users.",
+        "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+        "publicado": "Mon, 14 Sep 2026 14:45:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "resumen": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+        "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+        "publicado": "Mon, 14 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+        "resumen": "No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating front-wheel drive components from the upcoming ID. Polo and ID. Cross models. True to its name, the mission of Mission Efficiency is to break records. With [&#8230;]",
+        "url": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+        "publicado": "2026-09-14T11:12:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s Pixel 11 is cheaper ahead of iPhone 18 Pro launch",
+        "resumen": "Apple’s iPhone 18 Pro will release this Friday, September 18th, and it’s tough to see it as just a coincidence that Google’s latest Pixel phones are discounted. The Pixel 11 Pro carries the biggest discount, with its fog, olive, and obsidian color schemes selling for around $1,007 at Amazon, almost negating this year’s $100 price [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/994737/google-pixel-11-pro-10a-amazon-fire-tv-cube-game-deal-sale",
+        "publicado": "2026-09-14T11:10:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Adam Conover explains how YouTube ruined everything",
+        "resumen": "Today, I’m joined by comedian, podcast host, and YouTuber Adam Conover. Adam is a familiar face to anyone who’s spent time on the internet. He got his start, like so many successful comedy writers, at CollegeHumor back in the day. That was before transitioning into cable TV with Adam Ruins Everything, then onto Netflix, and [&#8230;]",
+        "url": "https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai",
+        "publicado": "2026-09-14T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The four-hour-long Elon Musk documentary might be preaching to the choir",
+        "resumen": "It makes sense that Musk is a long film. The latest from Alex Gibney, who has previously directed documentaries about Theranos and Steve Jobs, is an impressively thorough retelling of the story of Elon Musk, from his early days as a dot-com millionaire to \"taking a wood chipper\" to vital US government departments. In order [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026",
+        "publicado": "2026-09-14T09:50:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "resumen": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+        "publicado": "2026-09-14T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "What happens after a town de-Flocks",
+        "resumen": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't necessarily mean the cameras will come down immediately - or that the information they've gathered will be deleted anytime soon. [&#8230;]",
+        "url": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+        "publicado": "2026-09-14T07:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7640.37,
+      "cambio_pct": -0.22,
+      "cierre_anterior": 7656.98,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 1.14,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7640.37
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26279.21,
+      "cambio_pct": -0.2,
+      "cierre_anterior": 26333.04,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        26421.41,
+        26253.34,
+        26081.72,
+        26333.04,
+        26279.21
+      ]
+    },
+    "dow": {
+      "ultimo": 52565.81,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 52573.29,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        52786.07,
+        52380.66,
+        52064.1,
+        52573.29,
+        52565.81
+      ]
+    },
+    "vix": {
+      "ultimo": 16.73,
+      "cambio_pct": 5.62,
+      "cierre_anterior": 15.84,
+      "historico_fechas": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        15.72,
+        16.46,
+        17.84,
+        15.84,
+        16.73
+      ]
+    },
+    "oro": {
+      "ultimo": 4343.7,
+      "cambio_pct": -0.52,
+      "cierre_anterior": 4366.2,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        4416.0,
+        4364.5,
+        4366.2,
+        4343.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 102.66,
+      "cambio_pct": 2.61,
+      "cierre_anterior": 100.05,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        96.05,
+        102.48,
+        100.05,
+        102.66
+      ]
+    },
+    "btc": {
+      "ultimo": 78767.12,
+      "cambio_pct": 2.51,
+      "cierre_anterior": 76838.16,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        76568.12,
+        77173.8,
+        77270.47,
+        76838.16,
+        78767.12
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.46,
+      "cambio_pct": 0.34,
+      "cierre_anterior": 99.12,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14"
+      ],
+      "historico_cierres": [
+        98.77,
+        99.09,
+        99.12,
+        99.46
+      ]
+    }
+  }
+}
