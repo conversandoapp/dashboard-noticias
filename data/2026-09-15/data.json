@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-15",
+  "generado_en": "2026-09-15T15:27:47.555490Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Key findings from Lucy Letby Thirlwall Inquiry",
+        "resumen": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+        "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 12:37:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "resumen": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 11:05:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Denmark says Russian warship fired flares at military helicopter",
+        "resumen": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 11:40:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+        "resumen": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 11:49:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Satellite image reveals major damage that shut crucial oil pipeline",
+        "resumen": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.",
+        "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 14:21:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Five things you may not know about Emmy history-maker Matthew Rhys",
+        "resumen": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+        "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 12:06:19 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "resumen": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 11:05:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "resumen": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 08:49:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I got paid $5,000 to move to a place I'd never heard of",
+        "resumen": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+        "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 23:08:28 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+        "resumen": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 00:32:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Pubs in England and Wales to allow digital ID apps to prove age",
+        "resumen": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 14 Sep 2026 23:07:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI regulation faces political deadlock as calls grow for Congress to act",
+        "resumen": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 02:50:36 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "resumen": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+        "publicado": "Tue, 15 Sep 2026 15:22:48 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+        "resumen": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+        "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+        "publicado": "Tue, 15 Sep 2026 15:21:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "resumen": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "publicado": "Tue, 15 Sep 2026 14:42:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "resumen": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "publicado": "Tue, 15 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+        "resumen": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+        "url": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+        "publicado": "Tue, 15 Sep 2026 14:22:49 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+        "resumen": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+        "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+        "publicado": "Tue, 15 Sep 2026 14:13:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+        "resumen": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Instax Pal 2 includes both in a design that looks like a miniaturized [&#8230;]",
+        "url": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+        "publicado": "2026-09-15T10:03:18-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This doorbell camera lets a human security guard watch your front door",
+        "resumen": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. [&#8230;]",
+        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+        "publicado": "2026-09-15T09:36:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
+        "resumen": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a smartphone as an interface between the company's mobile app and the Xbox, PlayStation, and [&#8230;]",
+        "url": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
+        "publicado": "2026-09-15T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
+        "resumen": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods 5 with Wireless Charging Case are $30 cheaper than the [&#8230;]",
+        "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
+        "publicado": "2026-09-15T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "GM updates its trucks’ native software to coexist with CarPlay",
+        "resumen": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is notable given GM's previously stated hostility to phone mirroring [&#8230;]",
+        "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+        "publicado": "2026-09-15T07:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "resumen": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based [&#8230;]",
+        "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+        "publicado": "2026-09-15T04:54:48-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7585.37,
+      "cambio_pct": -0.45,
+      "cierre_anterior": 7619.98,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 0.41,
+      "historico_fechas": [
+        "2026-06-15",
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        7554.29,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.37
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26009.21,
+      "cambio_pct": -0.68,
+      "cierre_anterior": 26186.41,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        26253.34,
+        26081.72,
+        26333.04,
+        26186.41,
+        26009.21
+      ]
+    },
+    "dow": {
+      "ultimo": 51958.01,
+      "cambio_pct": -0.88,
+      "cierre_anterior": 52421.2,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        52380.66,
+        52064.1,
+        52573.29,
+        52421.2,
+        51958.01
+      ]
+    },
+    "vix": {
+      "ultimo": 17.73,
+      "cambio_pct": 3.68,
+      "cierre_anterior": 17.1,
+      "historico_fechas": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        16.46,
+        17.84,
+        15.84,
+        17.1,
+        17.73
+      ]
+    },
+    "oro": {
+      "ultimo": 4327.2,
+      "cambio_pct": -0.57,
+      "cierre_anterior": 4351.9,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        4407.3,
+        4408.9,
+        4351.9,
+        4327.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 104.77,
+      "cambio_pct": 3.33,
+      "cierre_anterior": 101.39,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        102.48,
+        100.05,
+        101.39,
+        104.77
+      ]
+    },
+    "btc": {
+      "ultimo": 76403.42,
+      "cambio_pct": -2.25,
+      "cierre_anterior": 78163.38,
+      "historico_fechas": [
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        77173.8,
+        77270.47,
+        76838.16,
+        78163.38,
+        76403.42
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.62,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 99.46,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15"
+      ],
+      "historico_cierres": [
+        99.09,
+        99.12,
+        99.46,
+        99.62
+      ]
+    }
+  }
+}
