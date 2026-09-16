@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-16",
+  "generado_en": "2026-09-16T15:20:31.743858Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "CCTV shows last sighting of Noah Woods",
+        "resumen": "Suffolk Police released CCTV of the last confirmed sighting of Noah in the park in Brantham at 14:37 BST on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 13:53:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Putney pusher' suspect found dead at home",
+        "resumen": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
+        "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 15:07:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "EU chief backs plan for Canada to become 'associate member'",
+        "resumen": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 12:36:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+        "resumen": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+        "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 11:50:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Earl Spencer's unreleased book on sister Diana stolen in the Netherlands",
+        "resumen": "The theft of Earl Spencer's memoir about his late sister comes one week ahead of the book's release.",
+        "url": "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 13:22:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Schools in England get extra £500m in bid to avoid teachers' pay strike",
+        "resumen": "The offer of extra money by the government reduces the prospect of strike action by the largest teaching union.",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 14:32:22 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Petrol and diesel price rises push UK inflation higher",
+        "resumen": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 14:30:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands",
+        "resumen": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
+        "url": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 14:52:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "resumen": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 10:02:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "We managed to get jobs after uni - here's how we're keeping them",
+        "resumen": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 16 Sep 2026 08:36:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK in talks about joining global defence bank led by Canada",
+        "resumen": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 23:50:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The extreme engineering of aircraft windows",
+        "resumen": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+        "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 15 Sep 2026 23:19:38 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "resumen": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+        "publicado": "Wed, 16 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google says some Pixel phone owners were hacked in zero-day attacks",
+        "resumen": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+        "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+        "publicado": "Wed, 16 Sep 2026 14:47:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon gives its workers a raise of $1 per hour",
+        "resumen": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+        "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+        "publicado": "Wed, 16 Sep 2026 14:32:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Threads’ new features let podcasters promote shows and reach listeners",
+        "resumen": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+        "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+        "publicado": "Wed, 16 Sep 2026 14:24:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "resumen": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+        "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+        "publicado": "Wed, 16 Sep 2026 14:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "resumen": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "publicado": "Wed, 16 Sep 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The sexy AI-powered dating app scams are here",
+        "resumen": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+        "publicado": "2026-09-16T10:45:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
+        "resumen": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet, costing $399 at Amazon and via Xreal itself ($50 off). The [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
+        "publicado": "2026-09-16T10:44:48-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A brief history of AI executives calling for regulation",
+        "resumen": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&#8230;]",
+        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "publicado": "2026-09-16T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
+        "resumen": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of the Kingdom. On the Switch 2 this idea [&#8230;]",
+        "url": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
+        "publicado": "2026-09-16T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The iPhone 18 Pro’s big camera update is all about the small gains",
+        "resumen": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with the kind of \"I can't believe they did that\" software touches that Apple sometimes pulls off [&#8230;]",
+        "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+        "publicado": "2026-09-16T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta is reportedly ready to launch less pervy smart glasses",
+        "resumen": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as the Meta [&#8230;]",
+        "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+        "publicado": "2026-09-16T04:54:46-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7616.95,
+      "cambio_pct": 0.41,
+      "cierre_anterior": 7585.73,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 1.41,
+      "historico_fechas": [
+        "2026-06-16",
+        "2026-06-17",
+        "2026-06-18",
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7616.95
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26196.53,
+      "cambio_pct": 0.83,
+      "cierre_anterior": 25981.57,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        26081.72,
+        26333.04,
+        26186.41,
+        25981.57,
+        26196.53
+      ]
+    },
+    "dow": {
+      "ultimo": 52090.93,
+      "cambio_pct": -0.0,
+      "cierre_anterior": 52093.11,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        52064.1,
+        52573.29,
+        52421.2,
+        52093.11,
+        52090.93
+      ]
+    },
+    "vix": {
+      "ultimo": 16.69,
+      "cambio_pct": -2.97,
+      "cierre_anterior": 17.2,
+      "historico_fechas": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        17.84,
+        15.84,
+        17.1,
+        17.2,
+        16.69
+      ]
+    },
+    "oro": {
+      "ultimo": 4399.9,
+      "cambio_pct": 1.55,
+      "cierre_anterior": 4332.8,
+      "historico_fechas": [
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        4408.9,
+        4351.9,
+        4332.8,
+        4399.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 101.58,
+      "cambio_pct": -4.02,
+      "cierre_anterior": 105.83,
+      "historico_fechas": [
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        100.05,
+        101.39,
+        105.83,
+        101.58
+      ]
+    },
+    "btc": {
+      "ultimo": 75659.85,
+      "cambio_pct": 0.06,
+      "cierre_anterior": 75612.51,
+      "historico_fechas": [
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        77270.47,
+        76838.16,
+        78163.38,
+        75612.51,
+        75659.85
+      ]
+    },
+    "dxy": {
+      "ultimo": 99.64,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 99.65,
+      "historico_fechas": [
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16"
+      ],
+      "historico_cierres": [
+        99.12,
+        99.46,
+        99.65,
+        99.64
+      ]
+    }
+  }
+}
