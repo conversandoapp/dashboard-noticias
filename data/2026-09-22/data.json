@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-09-22",
+  "generado_en": "2026-09-22T15:26:29.181975Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "New EU industry rules would damage UK, warns Burnham",
+        "resumen": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+        "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 13:10:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tim Westwood charged with two more sexual offences",
+        "resumen": "The alleged sexual offences date back to 1991 and 2004.",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 14:29:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Father admits causing death of his son in hotel fall",
+        "resumen": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 14:31:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Martha's Rule rolled out at every A&E department in England",
+        "resumen": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 08:32:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Autopsy shows Hayden Panettiere died from a drug overdose",
+        "resumen": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident.",
+        "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 15:17:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Looksmaxxing' influencer 'Clavicular' charged with rape in Massachusetts",
+        "resumen": "Authorities allege Braden Peters drugged a woman before assaulting her in May. He denies the charges.",
+        "url": "https://www.bbc.co.uk/news/articles/c914dyx88233o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 15:03:41 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+        "resumen": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 11:34:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+        "resumen": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 08:52:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Vet prescription fees capped under rule changes",
+        "resumen": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 07:39:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+        "resumen": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+        "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 01:44:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+        "resumen": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+        "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 21 Sep 2026 23:01:26 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Spain battles climate change on several fronts",
+        "resumen": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 09:11:48 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+        "resumen": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+        "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+        "publicado": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "resumen": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+        "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+        "publicado": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AstroForge is putting AI in command of its next spacecraft",
+        "resumen": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+        "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+        "publicado": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "resumen": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+        "publicado": "Tue, 22 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "resumen": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+        "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+        "publicado": "Tue, 22 Sep 2026 14:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+        "resumen": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
+        "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+        "publicado": "Tue, 22 Sep 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Xbox is merging its Forza developers into a single studio",
+        "resumen": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on Forza Horizon and Fable. \"Playground and Turn 10 will come together as one studio focused [&#8230;]",
+        "url": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+        "publicado": "2026-09-22T10:01:17-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+        "resumen": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of the 3,200 roles that were previously [&#8230;]",
+        "url": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+        "publicado": "2026-09-22T10:01:16-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Activision is taking over Halo as part of a massive Xbox shake-up",
+        "resumen": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires. Microsoft is also laying off around 268 Xbox employees as part of [&#8230;]",
+        "url": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+        "publicado": "2026-09-22T10:00:33-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
+        "resumen": "Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable and built to withstand sweat, with water resistance and swappable knit ear cups. And there [&#8230;]",
+        "url": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
+        "publicado": "2026-09-22T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
+        "resumen": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the White House. Following several teasers propping up \"Trump [&#8230;]",
+        "url": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
+        "publicado": "2026-09-22T09:54:13-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Waymo is offering transit discounts again, this time with Visa",
+        "resumen": "Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a discount on robotaxi rides [&#8230;]",
+        "url": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
+        "publicado": "2026-09-22T09:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7766.31,
+      "cambio_pct": 0.02,
+      "cierre_anterior": 7764.7,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.93,
+      "historico_fechas": [
+        "2026-06-22",
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7766.31
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27230.08,
+      "cambio_pct": 0.4,
+      "cierre_anterior": 27122.09,
+      "historico_fechas": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        25978.43,
+        26418.3,
+        26522.54,
+        27122.09,
+        27230.08
+      ]
+    },
+    "dow": {
+      "ultimo": 51818.3,
+      "cambio_pct": -0.44,
+      "cierre_anterior": 52048.83,
+      "historico_fechas": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        51461.9,
+        51778.04,
+        51682.64,
+        52048.83,
+        51818.3
+      ]
+    },
+    "vix": {
+      "ultimo": 14.33,
+      "cambio_pct": -3.63,
+      "cierre_anterior": 14.87,
+      "historico_fechas": [
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        17.71,
+        15.44,
+        14.81,
+        14.87,
+        14.33
+      ]
+    },
+    "oro": {
+      "ultimo": 4376.1,
+      "cambio_pct": -0.18,
+      "cierre_anterior": 4383.9,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        4399.7,
+        4424.9,
+        4383.9,
+        4376.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.1,
+      "cambio_pct": -4.89,
+      "cierre_anterior": 95.78,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        101.91,
+        100.3,
+        95.78,
+        91.1
+      ]
+    },
+    "btc": {
+      "ultimo": 86298.99,
+      "cambio_pct": -0.35,
+      "cierre_anterior": 86602.91,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        80901.46,
+        81233.68,
+        81142.61,
+        86602.91,
+        86298.99
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.59,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 100.43,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "historico_cierres": [
+        100.22,
+        100.22,
+        100.43,
+        100.59
+      ]
+    }
+  }
+}
