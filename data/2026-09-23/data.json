@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-09-23",
+  "generado_en": "2026-09-23T15:20:13.764945Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Government orders urgent investigation after two migrant boats reach UK undetected",
+        "resumen": "Twenty-six people are detained after the landings, but it is not known if others are being sought.",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 14:56:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+        "resumen": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+        "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 12:52:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "resumen": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 13:50:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two pilots eject and parachute out of RAF plane before crash",
+        "resumen": "North Wales Police says the pilots of the RAF T2 Hawk aircraft are being treated for minor injuries.",
+        "url": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 15:18:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+        "resumen": "The BBC’s China correspondent and US editor explain everything you need to know ahead of the Trump-Xi meeting in Washington DC.",
+        "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 11:00:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
+        "resumen": "A concerning number of patients are reporting problems from treatment abroad, say doctors.",
+        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 05:00:25 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+        "resumen": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 14:35:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Off sick? You need to phone your boss, back-to-work adviser says",
+        "resumen": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 10:49:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "resumen": "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
+        "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 13:50:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+        "resumen": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 23:11:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump wants AI to be rebranded as super intelligence. Will it work?",
+        "resumen": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+        "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 03:20:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will a switch to light speed cut power use at data centres?",
+        "resumen": "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+        "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 22 Sep 2026 23:03:48 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "YouTube Music gets more conversational with new AI features",
+        "resumen": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized [&#8230;]",
+        "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+        "publicado": "Wed, 23 Sep 2026 15:19:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+        "resumen": "Eight Sleep said the new pod is now 20% faster than the previous generation",
+        "url": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+        "publicado": "Wed, 23 Sep 2026 14:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "YouTube releases new AI features for creators within its Studio app",
+        "resumen": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+        "publicado": "Wed, 23 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
+        "resumen": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announced “Shorts Series,” a new tool that lets creators organize their Shorts into TV-style seasons and episodes. The feature brings a more [&#8230;]",
+        "url": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
+        "publicado": "Wed, 23 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+        "resumen": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
+        "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+        "publicado": "Wed, 23 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "resumen": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+        "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+        "publicado": "Wed, 23 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "One of the best Metroid games for the Switch is 30 percent off",
+        "resumen": "Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is down to $27.99 in digital format for the Switch and Switch 2, and it’s among the best remasters I’ve played [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale",
+        "publicado": "2026-09-23T11:01:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This $199 GPS sports watch is repairable, modular, and open-source",
+        "resumen": "The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner 70 or [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular",
+        "publicado": "2026-09-23T11:01:16-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "YouTube is building AI creator tools that do almost everything for them",
+        "resumen": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube [&#8230;]",
+        "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+        "publicado": "2026-09-23T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Discord will now automatically estimate your age",
+        "resumen": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign users to an estimated age group based on \"multiple account signals,\" with account restrictions placed on users believed to [&#8230;]",
+        "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
+        "publicado": "2026-09-23T10:27:49-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "McDonald’s is testing ads on its drive-thru menus",
+        "resumen": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu boards after a customer places their order, which they'll see while they wait for their meal. In [&#8230;]",
+        "url": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
+        "publicado": "2026-09-23T09:52:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nobody does it like Remedy",
+        "resumen": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist, and fly through the air, while exploring settings that look ripped out of Inception. [&#8230;]",
+        "url": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
+        "publicado": "2026-09-23T09:45:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7726.12,
+      "cambio_pct": -0.5,
+      "cierre_anterior": 7764.7,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 4.9,
+      "historico_fechas": [
+        "2026-06-23",
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7726.12
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27004.22,
+      "cambio_pct": -0.43,
+      "cierre_anterior": 27122.09,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        26418.3,
+        26522.54,
+        27122.09,
+        27004.22
+      ]
+    },
+    "dow": {
+      "ultimo": 51680.11,
+      "cambio_pct": -0.71,
+      "cierre_anterior": 52048.83,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        51778.04,
+        51682.64,
+        52048.83,
+        51680.11
+      ]
+    },
+    "vix": {
+      "ultimo": 14.5,
+      "cambio_pct": -2.49,
+      "cierre_anterior": 14.87,
+      "historico_fechas": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        15.44,
+        14.81,
+        14.87,
+        14.5
+      ]
+    },
+    "oro": {
+      "ultimo": 4331.0,
+      "cambio_pct": -1.04,
+      "cierre_anterior": 4376.4,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        4424.9,
+        4383.9,
+        4376.4,
+        4331.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.3,
+      "cambio_pct": -3.48,
+      "cierre_anterior": 94.59,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        100.3,
+        95.78,
+        94.59,
+        91.3
+      ]
+    },
+    "btc": {
+      "ultimo": 84618.88,
+      "cambio_pct": -1.8,
+      "cierre_anterior": 86172.28,
+      "historico_fechas": [
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        81233.68,
+        81142.61,
+        86602.91,
+        86172.28,
+        84618.88
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.01,
+      "cambio_pct": 0.58,
+      "cierre_anterior": 100.43,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23"
+      ],
+      "historico_cierres": [
+        100.22,
+        100.43,
+        101.01
+      ]
+    }
+  }
+}
