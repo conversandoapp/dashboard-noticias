@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-09-24",
+  "generado_en": "2026-09-24T15:43:46.134024Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+        "resumen": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 15:31:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+        "resumen": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 12:29:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+        "resumen": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 11:59:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Anti-migrant activist arrested after dinghy slashed in Channel",
+        "resumen": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 08:42:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ex-England striker Andy Carroll reveals he was sexually assaulted in 2021",
+        "resumen": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 12:18:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "German prosecutors investigate 105-year-old for crimes at Nazi PoW camp",
+        "resumen": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 14:37:34 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Reported assaults on Britain's rail services rise by more than a third",
+        "resumen": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 15:38:50 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "£170 a bag? Protein users squeezed as prices soar",
+        "resumen": "Consumers are feeling the pinch from the rising cost of protein.",
+        "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 23:12:01 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+        "resumen": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+        "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 00:50:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "resumen": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 15:42:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How the oil capital of the US welcomed a solar power boom",
+        "resumen": "Texas is now the country's biggest producer of solar-farmed electricity.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 23:12:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+        "resumen": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 23 Sep 2026 22:01:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+        "resumen": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+        "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+        "publicado": "Thu, 24 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+        "resumen": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+        "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+        "publicado": "Thu, 24 Sep 2026 14:43:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+        "resumen": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+        "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+        "publicado": "Thu, 24 Sep 2026 14:31:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+        "resumen": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+        "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+        "publicado": "Thu, 24 Sep 2026 14:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+        "resumen": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
+        "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+        "publicado": "Thu, 24 Sep 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "resumen": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+        "publicado": "Thu, 24 Sep 2026 12:54:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
+        "resumen": "Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in order to make it more affordable for novice photographers. While the Nikon Z5 II starts at $1,849.95, the new Nikon Z5 IIC [&#8230;]",
+        "url": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter",
+        "publicado": "2026-09-24T10:53:06-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Why can’t we just keep rogue AIs off the internet?",
+        "resumen": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unpredictable, even dangerous, ways. So wouldn't it be safer to just keep the agents off the internet? \"A strict air [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+        "publicado": "2026-09-24T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google is sending an AI satellite into space next week",
+        "resumen": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [&#8230;]",
+        "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+        "publicado": "2026-09-24T10:15:17-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The vibes are bad for Flock in Washington",
+        "resumen": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the rest, and that is Flock,\" Senate Judiciary crime and counterterrorism subcommittee chair [&#8230;]",
+        "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+        "publicado": "2026-09-24T10:15:05-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I have some questions for Mark Zuckerberg",
+        "resumen": "It&#8217;s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I&#8217;ve been using it — it is surprisingly good.&#160; CEO Mark Zuckerberg has obviously been out there taking a victory lap and participating in a lot [&#8230;]",
+        "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+        "publicado": "2026-09-24T10:15:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Waymo’s driverless cars continue to crash less often than people",
+        "resumen": "Waymo's latest batch of self-reported data continues to affirm the company's message that its driverless cars are safer than human drivers. As policymakers continue to debate the safety and economic impact of autonomous vehicles, Waymo is hoping that its own data will help bring more supporters to its side - even as some experts say [&#8230;]",
+        "url": "https://www.theverge.com/transportation/999891/waymo-safety-data-injury-crash-human-driver",
+        "publicado": "2026-09-24T09:53:01-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7668.33,
+      "cambio_pct": -0.49,
+      "cierre_anterior": 7706.03,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 4.21,
+      "historico_fechas": [
+        "2026-06-24",
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7706.03,
+        7668.33
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26726.06,
+      "cambio_pct": -0.78,
+      "cierre_anterior": 26936.04,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        26522.54,
+        27122.09,
+        26936.04,
+        26726.06
+      ]
+    },
+    "dow": {
+      "ultimo": 51159.63,
+      "cambio_pct": -0.68,
+      "cierre_anterior": 51511.59,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        51682.64,
+        52048.83,
+        51511.59,
+        51159.63
+      ]
+    },
+    "vix": {
+      "ultimo": 16.11,
+      "cambio_pct": 6.13,
+      "cierre_anterior": 15.18,
+      "historico_fechas": [
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        14.81,
+        14.87,
+        15.18,
+        16.11
+      ]
+    },
+    "oro": {
+      "ultimo": 4284.3,
+      "cambio_pct": -0.79,
+      "cierre_anterior": 4318.4,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        4383.9,
+        4376.4,
+        4318.4,
+        4284.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.42,
+      "cambio_pct": 4.62,
+      "cierre_anterior": 92.16,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        95.78,
+        94.59,
+        92.16,
+        96.42
+      ]
+    },
+    "btc": {
+      "ultimo": 84316.89,
+      "cambio_pct": -0.08,
+      "cierre_anterior": 84383.01,
+      "historico_fechas": [
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        81142.61,
+        86602.91,
+        86172.28,
+        84383.01,
+        84316.89
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.35,
+      "cambio_pct": 0.25,
+      "cierre_anterior": 101.1,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-23",
+        "2026-09-24"
+      ],
+      "historico_cierres": [
+        100.43,
+        101.1,
+        101.35
+      ]
+    }
+  }
+}
