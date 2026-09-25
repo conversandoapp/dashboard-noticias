@@ -1,0 +1,457 @@
+{
+  "fecha": "2026-09-25",
+  "generado_en": "2026-09-25T15:44:44.475635Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Watch: What could the potential sanctions for Man City be?",
+        "resumen": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 14:55:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Special agents' blood and urine test results stolen in FBI hack",
+        "resumen": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 13:56:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Some BBC channels and radio stations may well have to close, director general says",
+        "resumen": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+        "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 12:00:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Noah Woods left playground through gap in fence, inquest hears",
+        "resumen": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 12:51:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Daniel Thomas pleads not guilty after dinghy slashed",
+        "resumen": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 15:01:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "NHS to suspend staff suspected of snooping on patient records",
+        "resumen": "There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 12:47:03 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+        "resumen": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 09:48:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK diesel price close to all-time high",
+        "resumen": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 10:50:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Special agents' blood and urine test results stolen in FBI hack",
+        "resumen": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 13:56:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'We're all broke': Would you chase a friend for £5?",
+        "resumen": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 23:00:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Farmers down 240 million litres of milk after heat",
+        "resumen": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
+        "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 05:30:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "X-planes: Are they needed in the new era of drones?",
+        "resumen": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 23:03:53 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic’s founders seek voting control ahead of IPO",
+        "resumen": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+        "publicado": "Fri, 25 Sep 2026 15:40:03 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Tesla finally moves to electrify trucking after a decade of work and delays",
+        "resumen": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
+        "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
+        "publicado": "Fri, 25 Sep 2026 15:24:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+        "resumen": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200 on your pass before today ends.",
+        "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+        "publicado": "Fri, 25 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "resumen": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "publicado": "Fri, 25 Sep 2026 14:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
+        "resumen": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
+        "url": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
+        "publicado": "Fri, 25 Sep 2026 14:05:04 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+        "resumen": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+        "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+        "publicado": "Fri, 25 Sep 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
+        "resumen": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations [&#8230;]",
+        "url": "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers",
+        "publicado": "2026-09-25T10:21:25-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Gaming’s biggest horror series are more vital than ever",
+        "resumen": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+        "publicado": "2026-09-25T10:10:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+        "resumen": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "publicado": "2026-09-25T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+        "resumen": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide marketshare. It's preparing to ship so many [&#8230;]",
+        "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+        "publicado": "2026-09-25T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "resumen": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "publicado": "2026-09-25T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Here’s the Tesla Semi… again",
+        "resumen": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+        "publicado": "2026-09-24T22:12:57-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7708.15,
+      "cambio_pct": 0.05,
+      "cierre_anterior": 7704.13,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 4.77,
+      "historico_fechas": [
+        "2026-06-25",
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7708.15
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26948.01,
+      "cambio_pct": 0.03,
+      "cierre_anterior": 26939.37,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        27122.09,
+        27244.28,
+        26936.04,
+        26939.37,
+        26948.01
+      ]
+    },
+    "dow": {
+      "ultimo": 51493.31,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 51349.98,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        52048.83,
+        51863.69,
+        51511.59,
+        51349.98,
+        51493.31
+      ]
+    },
+    "vix": {
+      "ultimo": 15.35,
+      "cambio_pct": -2.04,
+      "cierre_anterior": 15.67,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        14.87,
+        14.21,
+        15.18,
+        15.67,
+        15.35
+      ]
+    },
+    "oro": {
+      "ultimo": 4318.5,
+      "cambio_pct": 0.48,
+      "cierre_anterior": 4298.0,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        4383.9,
+        4376.4,
+        4318.4,
+        4298.0,
+        4318.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 94.0,
+      "cambio_pct": -0.64,
+      "cierre_anterior": 94.61,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        95.78,
+        94.59,
+        92.16,
+        94.61,
+        94.0
+      ]
+    },
+    "btc": {
+      "ultimo": 83472.51,
+      "cambio_pct": -1.07,
+      "cierre_anterior": 84379.06,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        86602.91,
+        86172.28,
+        84383.01,
+        84379.06,
+        83472.51
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.99,
+      "cambio_pct": -0.29,
+      "cierre_anterior": 101.29,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        100.43,
+        100.6,
+        101.1,
+        101.29,
+        100.99
+      ]
+    }
+  }
+}
