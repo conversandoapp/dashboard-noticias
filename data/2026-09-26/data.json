@@ -1,0 +1,455 @@
+{
+  "fecha": "2026-09-26",
+  "generado_en": "2026-09-26T14:54:11.436620Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Heathrow Airport's third runway may be delayed to 2039",
+        "resumen": "The UK's busiest airport says the original goal of 2035 will be difficult to meet without simplifying the planning process.",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 14:03:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "No Premier League appetite to strip Man City of titles - but threat remains",
+        "resumen": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 13:26:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How long can Labour's feel-good factor last?",
+        "resumen": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 11:22:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "British national among six dead in building explosion close to Acropolis in Athens",
+        "resumen": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 12:47:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Met to re-examine CCTV from Jill Dando murder case",
+        "resumen": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+        "url": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 13:21:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Republic of Ireland confirm Israel game will go ahead",
+        "resumen": "The Republic of Ireland have confirmed Sunday's Uefa Nations League B3 game against Israel in Debrecen, Hungary will go ahead.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 13:38:29 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "OpenAI bots meddled with multiple US government agency sites",
+        "resumen": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 02:50:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Could an iced coffee freeze you out of the job market?",
+        "resumen": "Employees and recruiters weigh into the online debate around interview etiquette.",
+        "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 26 Sep 2026 10:05:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Clubs seek legal advice over Man City charges compensation",
+        "resumen": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 20:13:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'We're all broke': Would you chase a friend for £5?",
+        "resumen": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 24 Sep 2026 23:00:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Sir David Beckham nets £38.5m after World Cup ad deals",
+        "resumen": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+        "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 16:00:44 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+        "resumen": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 25 Sep 2026 09:48:33 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "I created an interactive digital avatar of myself — and you can talk to it",
+        "resumen": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+        "publicado": "Sat, 26 Sep 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "At Meta Connect, the company’s smart glasses were everywhere",
+        "resumen": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+        "publicado": "Sat, 26 Sep 2026 01:08:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "resumen": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "publicado": "Fri, 25 Sep 2026 23:11:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Automattic has a new board after failed attempt to put CEO on leave",
+        "resumen": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+        "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "publicado": "Fri, 25 Sep 2026 23:04:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "resumen": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "publicado": "Fri, 25 Sep 2026 22:20:47 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta opens early access program for new Muse features",
+        "resumen": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "publicado": "Fri, 25 Sep 2026 20:34:53 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "resumen": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+        "publicado": "2026-09-26T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Control Resonant is a great game — it’s even better when you read everything",
+        "resumen": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant, but it's where some of the game's best details - [&#8230;]",
+        "url": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+        "publicado": "2026-09-26T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Pokémon card resellers have turned collecting into an online blood sport",
+        "resumen": "Earlier this month, Pok&#233;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were; other creators [&#8230;]",
+        "url": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+        "publicado": "2026-09-26T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+        "resumen": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what [&#8230;]",
+        "url": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "publicado": "2026-09-26T03:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+        "resumen": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
+        "publicado": "2026-09-25T14:18:57-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Phones don’t have lights",
+        "resumen": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+        "publicado": "2026-09-25T13:42:59-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7743.41,
+      "cambio_pct": 0.51,
+      "cierre_anterior": 7704.13,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 5.29,
+      "historico_fechas": [
+        "2026-06-26",
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27068.72,
+      "cambio_pct": 0.48,
+      "cierre_anterior": 26939.37,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        27122.09,
+        27244.28,
+        26936.04,
+        26939.37,
+        27068.72
+      ]
+    },
+    "dow": {
+      "ultimo": 51828.62,
+      "cambio_pct": 0.93,
+      "cierre_anterior": 51349.98,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        52048.83,
+        51863.69,
+        51511.59,
+        51349.98,
+        51828.62
+      ]
+    },
+    "vix": {
+      "ultimo": 14.87,
+      "cambio_pct": -5.11,
+      "cierre_anterior": 15.67,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        14.87,
+        14.21,
+        15.18,
+        15.67,
+        14.87
+      ]
+    },
+    "oro": {
+      "ultimo": 4321.2,
+      "cambio_pct": 0.54,
+      "cierre_anterior": 4298.0,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        4383.9,
+        4376.4,
+        4318.4,
+        4298.0,
+        4321.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 92.41,
+      "cambio_pct": -2.33,
+      "cierre_anterior": 94.61,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        95.78,
+        94.59,
+        92.16,
+        94.61,
+        92.41
+      ]
+    },
+    "btc": {
+      "ultimo": 84033.49,
+      "cambio_pct": -0.0,
+      "cierre_anterior": 84034.92,
+      "historico_fechas": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26"
+      ],
+      "historico_cierres": [
+        86172.28,
+        84383.01,
+        84379.06,
+        84034.92,
+        84033.49
+      ]
+    },
+    "dxy": {
+      "ultimo": 100.97,
+      "cambio_pct": -0.32,
+      "cierre_anterior": 101.29,
+      "historico_fechas": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25"
+      ],
+      "historico_cierres": [
+        100.43,
+        100.6,
+        101.1,
+        101.29,
+        100.97
+      ]
+    }
+  }
+}
