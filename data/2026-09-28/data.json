@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-09-28",
+  "generado_en": "2026-09-28T18:30:47.957930Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "What we know about RAF Fairford counter-terror probe",
+        "resumen": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+        "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 15:40:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK tries to stop Trump's diesel export ban",
+        "resumen": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:00:52 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Best thing we can offer young people is a job, not benefits, says chancellor",
+        "resumen": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 18:07:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+        "resumen": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+        "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 13:59:06 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Mahmood signals rethink on migrants' right to remain",
+        "resumen": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 18:04:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Slipknot fans threaten boycott after Marilyn Manson announced as support act for UK show",
+        "resumen": "The heavy metal band will be joined by the US rock musician during their London show.",
+        "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:00:29 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "UK tries to stop Trump's diesel export ban",
+        "resumen": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:00:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What a US diesel export ban could mean for you",
+        "resumen": "The proposal aims to protect US consumers from rising costs, but it could trigger major economic waves both at home and across the world.",
+        "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 18:18:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Aldi boss says some loyalty discounts 'dupe' customers",
+        "resumen": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+        "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:45:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK diesel price hits all-time high, the RAC says",
+        "resumen": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:19:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is the Budget and what could be in it?",
+        "resumen": "Chancellor John Healey will set out his plans for UK taxes in October.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:14:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why UK diesel prices have hit an all-time high",
+        "resumen": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 17:18:07 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "resumen": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+        "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+        "publicado": "Mon, 28 Sep 2026 18:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+        "resumen": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+        "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+        "publicado": "Mon, 28 Sep 2026 17:29:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "resumen": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+        "publicado": "Mon, 28 Sep 2026 17:09:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+        "resumen": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+        "publicado": "Mon, 28 Sep 2026 16:52:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+        "resumen": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
+        "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+        "publicado": "Mon, 28 Sep 2026 16:47:49 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+        "resumen": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+        "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+        "publicado": "Mon, 28 Sep 2026 15:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+        "resumen": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned cal",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+        "publicado": "2026-09-28T14:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Florida seeks a ban on ChatGPT acting like a person",
+        "resumen": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+        "publicado": "2026-09-28T13:00:23-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI keeps bulldozing mathematicians",
+        "resumen": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+        "publicado": "2026-09-28T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Walmart won’t hike prices based on your shopping history, CEO says",
+        "resumen": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices. [&#8230;]",
+        "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+        "publicado": "2026-09-28T12:44:57-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Volkswagen replaces ID.4 with all-electric Tiguan",
+        "resumen": "In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especially when it comes to EVs. When it lands in Europe [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
+        "publicado": "2026-09-28T11:43:09-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+        "resumen": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+        "publicado": "2026-09-28T10:55:12-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7696.63,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 7743.41,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.44,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7696.63
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26887.27,
+      "cambio_pct": -0.67,
+      "cierre_anterior": 27068.72,
+      "historico_fechas": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        27244.28,
+        26936.04,
+        26939.37,
+        27068.72,
+        26887.27
+      ]
+    },
+    "dow": {
+      "ultimo": 51553.16,
+      "cambio_pct": -0.53,
+      "cierre_anterior": 51828.62,
+      "historico_fechas": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        51863.69,
+        51511.59,
+        51349.98,
+        51828.62,
+        51553.16
+      ]
+    },
+    "vix": {
+      "ultimo": 15.83,
+      "cambio_pct": 6.46,
+      "cierre_anterior": 14.87,
+      "historico_fechas": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        14.21,
+        15.18,
+        15.67,
+        14.87,
+        15.83
+      ]
+    },
+    "oro": {
+      "ultimo": 4167.5,
+      "cambio_pct": -3.56,
+      "cierre_anterior": 4321.2,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        4318.4,
+        4298.0,
+        4321.2,
+        4167.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 92.41,
+      "cambio_pct": 0.0,
+      "cierre_anterior": 92.41,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        92.16,
+        94.61,
+        92.41,
+        92.41
+      ]
+    },
+    "btc": {
+      "ultimo": 83870.67,
+      "cambio_pct": -0.7,
+      "cierre_anterior": 84458.09,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        84379.06,
+        84034.92,
+        84406.45,
+        84458.09,
+        83870.67
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.15,
+      "cambio_pct": 0.18,
+      "cierre_anterior": 100.97,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28"
+      ],
+      "historico_cierres": [
+        101.1,
+        101.29,
+        100.97,
+        101.15
+      ]
+    }
+  }
+}
