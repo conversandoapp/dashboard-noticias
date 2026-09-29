@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-09-29",
+  "generado_en": "2026-09-29T16:48:30.967471Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Watch: How did Burnham's speech go down in the conference hall?",
+        "resumen": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.",
+        "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 15:31:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man City guilty of 'sham' contracts and misleading accounts",
+        "resumen": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 16:36:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Daniel Sandford on what's next in the RAF Fairford investigation",
+        "resumen": "BBC correspondent Daniel Sandford explains where the investigation goes from here.",
+        "url": "https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 11:20:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Body of newborn baby found on shoreline in Wales as police search for mother",
+        "resumen": "The body of the newborn was found near Siliwen Road near the Menai Strait on Sunday.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 12:51:37 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "No 'deliberate' contact to stop car in A66 crash",
+        "resumen": "No stinger was used by police before the fatal A66 crash, an initial investigation reveals.",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0zk9d31xdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 15:59:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: US journalist Evan Gershkovich describes being detained by Russian agents",
+        "resumen": "He was arrested in Russia in 2023 and later sentenced to 16 years on espionage charges.",
+        "url": "https://www.bbc.co.uk/news/videos/c862ep9w5g2vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 14:45:03 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Warning more homes will be uninsurable due to flood risk",
+        "resumen": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+        "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 09:42:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "OpenAI scraps rollout of new model over safety concerns",
+        "resumen": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 09:14:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+        "resumen": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 13:38:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I paid £30,000 for an 'influencer' degree. Here's why",
+        "resumen": "Content creation degrees aim to help people make money from social media, but are they worth the money?",
+        "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 07:02:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK tries to stop Trump's diesel export ban",
+        "resumen": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 07:19:04 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What a US diesel export ban could mean for you",
+        "resumen": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+        "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 28 Sep 2026 18:18:30 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+        "resumen": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+        "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+        "publicado": "Tue, 29 Sep 2026 15:12:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+        "resumen": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+        "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+        "publicado": "Tue, 29 Sep 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+        "resumen": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+        "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+        "publicado": "Tue, 29 Sep 2026 14:56:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "resumen": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+        "publicado": "Tue, 29 Sep 2026 13:53:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta is expanding its AI agent Muse to small businesses",
+        "resumen": "The tech giant says the agent can help owners run their business and find new customers.",
+        "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+        "publicado": "Tue, 29 Sep 2026 13:47:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+        "resumen": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+        "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+        "publicado": "Tue, 29 Sep 2026 13:25:21 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+        "resumen": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. \"Mythic Achievements have already been added to eligible games you completed in the past, [&#8230;]",
+        "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+        "publicado": "2026-09-29T12:17:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple&#8217;s new CEO could change when it launches phones and laptops",
+        "resumen": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and often announces products later in the year and in [&#8230;]",
+        "url": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+        "publicado": "2026-09-29T12:09:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI DevDay 2026: The biggest news and announcements",
+        "resumen": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing &#8220;20+ launches&#8221; with Altman saying that &#8220;we have found a new thing,&#8221;, and rumors suggest it could launch a consumer [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+        "publicado": "2026-09-29T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This might be our first look at Google’s Pixel 11A",
+        "resumen": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11A, which aside from having a slightly rounder oval-shaped rear camera module, looks almost indistinguishable from both the Pixel 10A [&#8230;]",
+        "url": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+        "publicado": "2026-09-29T11:57:10-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
+        "resumen": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle model were limited to a brighter backlight, a new dark mode, and [&#8230;]",
+        "url": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
+        "publicado": "2026-09-29T10:10:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+        "resumen": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+        "publicado": "2026-09-29T10:08:21-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7660.06,
+      "cambio_pct": -0.31,
+      "cierre_anterior": 7683.69,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.95,
+      "historico_fechas": [
+        "2026-06-29",
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7660.06
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26765.02,
+      "cambio_pct": -0.21,
+      "cierre_anterior": 26820.38,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        26936.04,
+        26939.37,
+        27068.72,
+        26820.38,
+        26765.02
+      ]
+    },
+    "dow": {
+      "ultimo": 51198.78,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 51481.51,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        51511.59,
+        51349.98,
+        51828.62,
+        51481.51,
+        51198.78
+      ]
+    },
+    "vix": {
+      "ultimo": 16.22,
+      "cambio_pct": 0.93,
+      "cierre_anterior": 16.07,
+      "historico_fechas": [
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        15.18,
+        15.67,
+        14.87,
+        16.07,
+        16.22
+      ]
+    },
+    "oro": {
+      "ultimo": 4185.8,
+      "cambio_pct": 0.42,
+      "cierre_anterior": 4168.4,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        4298.0,
+        4321.2,
+        4168.4,
+        4185.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 90.36,
+      "cambio_pct": -2.42,
+      "cierre_anterior": 92.6,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        94.61,
+        92.41,
+        92.6,
+        90.36
+      ]
+    },
+    "btc": {
+      "ultimo": 83010.25,
+      "cambio_pct": -0.59,
+      "cierre_anterior": 83502.61,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        84034.92,
+        84406.45,
+        84458.09,
+        83502.61,
+        83010.25
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.49,
+      "cambio_pct": 0.29,
+      "cierre_anterior": 101.2,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29"
+      ],
+      "historico_cierres": [
+        101.29,
+        100.97,
+        101.2,
+        101.49
+      ]
+    }
+  }
+}
