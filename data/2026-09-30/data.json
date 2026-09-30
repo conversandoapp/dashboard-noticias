@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-09-30",
+  "generado_en": "2026-09-30T16:41:56.949684Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "'We've just taken control': Passengers describe what happened on flight",
+        "resumen": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+        "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 15:07:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK believes Iran involved in RAF Fairford incident, PM says",
+        "resumen": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 15:59:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "China funding UK research and sending it to Beijing's spies, MI5 warns",
+        "resumen": "British universities are being urged to sever ties with China General Technology Research Institute which is linked to the Chinese Ministry of State Security (MSS).",
+        "url": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 13:49:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+        "resumen": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+        "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 15:29:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Brexit referendum 'possible' in Labour election manifesto, Burnham tells BBC",
+        "resumen": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future.",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 16:06:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "We fear for our lives after being told our abusive exes will be freed from jail early",
+        "resumen": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
+        "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 16:11:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Household energy bills forecast to see biggest rise in four years",
+        "resumen": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 14:36:45 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Regulating AI 'not the right place to start' says Bailey",
+        "resumen": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+        "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 14:00:33 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Greggs to shut four factories and cut 740 jobs",
+        "resumen": "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 15:03:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "resumen": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 04:01:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Doubters spur me on: why more women are taking up DIY",
+        "resumen": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+        "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 07:27:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The start-ups hoping to return battery making to the US",
+        "resumen": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 29 Sep 2026 23:06:50 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "resumen": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+        "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+        "publicado": "Wed, 30 Sep 2026 16:24:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "DoorDash launches an AI agent you can text to order food",
+        "resumen": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+        "publicado": "Wed, 30 Sep 2026 16:00:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "resumen": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+        "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+        "publicado": "Wed, 30 Sep 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Instinct’s new product recommendations are giving some users the ick",
+        "resumen": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+        "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+        "publicado": "Wed, 30 Sep 2026 15:56:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+        "resumen": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+        "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+        "publicado": "Wed, 30 Sep 2026 15:26:02 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Pledge signed by President Trump and top AI leaders misspells the United States",
+        "resumen": "Pledge signed by President Trump and top AI leaders misspells the United States.",
+        "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+        "publicado": "Wed, 30 Sep 2026 14:50:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
+        "resumen": "Xbox CEO Asha Sharma has denied reports that Microsoft is considering selling off its Xbox business. The Information reported in June that Microsoft CEO Satya Nadella and CFO Amy Hood had been considering spinning out Xbox entirely, and then reported earlier this month that both execs have \"more recently supported Sharma's plans to overhaul the [&#8230;]",
+        "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+        "publicado": "2026-09-30T12:24:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Halide camera app now offers full control of the iPhone 18 Pro’s aperture",
+        "resumen": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers [&#8230;]",
+        "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture",
+        "publicado": "2026-09-30T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "All the latest news on Meta’s cute, creepy Muse AI agent",
+        "resumen": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+        "publicado": "2026-09-30T11:18:49-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google reportedly tests paying publishers for AI search results",
+        "resumen": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, [&#8230;]",
+        "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+        "publicado": "2026-09-30T10:51:49-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+        "resumen": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
+        "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+        "publicado": "2026-09-30T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+        "resumen": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick [&#8230;]",
+        "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+        "publicado": "2026-09-30T09:00:16-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7711.54,
+      "cambio_pct": 0.53,
+      "cierre_anterior": 7670.84,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.83,
+      "historico_fechas": [
+        "2026-06-30",
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7711.54
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27066.92,
+      "cambio_pct": 1.01,
+      "cierre_anterior": 26797.54,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        26939.37,
+        27068.72,
+        26820.38,
+        26797.54,
+        27066.92
+      ]
+    },
+    "dow": {
+      "ultimo": 51313.71,
+      "cambio_pct": -0.07,
+      "cierre_anterior": 51349.92,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        51349.98,
+        51828.62,
+        51481.51,
+        51349.92,
+        51313.71
+      ]
+    },
+    "vix": {
+      "ultimo": 15.86,
+      "cambio_pct": -1.12,
+      "cierre_anterior": 16.04,
+      "historico_fechas": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        15.67,
+        14.87,
+        16.07,
+        16.04,
+        15.86
+      ]
+    },
+    "oro": {
+      "ultimo": 4191.5,
+      "cambio_pct": 0.28,
+      "cierre_anterior": 4179.7,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        4321.2,
+        4168.4,
+        4179.7,
+        4191.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.49,
+      "cambio_pct": 2.36,
+      "cierre_anterior": 89.38,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        92.41,
+        92.6,
+        89.38,
+        91.49
+      ]
+    },
+    "btc": {
+      "ultimo": 84222.12,
+      "cambio_pct": 0.72,
+      "cierre_anterior": 83622.43,
+      "historico_fechas": [
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        84406.45,
+        84458.09,
+        83502.61,
+        83622.43,
+        84222.12
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.41,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 101.37,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "historico_cierres": [
+        100.97,
+        101.2,
+        101.37,
+        101.41
+      ]
+    }
+  }
+}
