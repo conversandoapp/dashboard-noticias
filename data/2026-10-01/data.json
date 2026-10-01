@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-01",
+  "generado_en": "2026-10-01T17:17:11.935156Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+        "resumen": "The 27-year-old man was arrested in Westminster, London, counter-terror police say.",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 17:10:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Hundreds of criminals start leaving prison under new early release scheme",
+        "resumen": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full.",
+        "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 15:18:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
+        "resumen": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 15:38:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man City to argue sponsorship deals came from Abu Dhabi government",
+        "resumen": "Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 15:38:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham's Man City comments 'completely out of touch', Tories say",
+        "resumen": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
+        "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 16:26:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
+        "resumen": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 16:45:35 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "AI boom could trigger market shocks, Bank of England boss warns",
+        "resumen": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 10:05:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "resumen": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 11:37:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Travelodge failed sex assault victim 'at every stage'",
+        "resumen": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
+        "url": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 16:40:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Vape tax comes into effect - but prices won't rise yet",
+        "resumen": "Vaping is about to becoming more expensive due to a new tax on products.",
+        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 23:02:11 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Employers should teach primary-age children about work, says Milburn",
+        "resumen": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
+        "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 07:07:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The AI telling farmers when to harvest",
+        "resumen": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+        "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 30 Sep 2026 23:02:21 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "This startup wants to turn idle user car inventory into rental revenue",
+        "resumen": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform that lets dealers rent out their idle used cars month to month (with an option to buy), and it's now one of the startup",
+        "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
+        "publicado": "Thu, 01 Oct 2026 17:09:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon releases its own Jev clone as decision models flood the web",
+        "resumen": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+        "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+        "publicado": "Thu, 01 Oct 2026 16:49:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+        "resumen": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+        "publicado": "Thu, 01 Oct 2026 16:44:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+        "resumen": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+        "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+        "publicado": "Thu, 01 Oct 2026 16:35:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+        "resumen": "The CEO promised to get more specific about his vision. But the details are still absent.",
+        "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+        "publicado": "Thu, 01 Oct 2026 15:50:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Brian Chesky interview: AI agents need their own operating system",
+        "resumen": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+        "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+        "publicado": "Thu, 01 Oct 2026 15:12:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "resumen": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+        "publicado": "2026-10-01T13:12:21-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sony brings AI graphics upscaling to the regular PS5",
+        "resumen": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is [&#8230;]",
+        "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+        "publicado": "2026-10-01T12:53:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Can VR glasses save VR?",
+        "resumen": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this. The Meta VR Glasses are [&#8230;]",
+        "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+        "publicado": "2026-10-01T12:10:32-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft’s Office and Teams chief is leaving",
+        "resumen": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year. Roslansky's departure has triggered another leadership shuffle inside Microsoft. \"Ryan leaves the organization [&#8230;]",
+        "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+        "publicado": "2026-10-01T12:02:37-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Inside Microsoft’s big Copilot rethink",
+        "resumen": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is [&#8230;]",
+        "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+        "publicado": "2026-10-01T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "NYC is now the first city in America that bans sketchy subscriptions",
+        "resumen": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you [&#8230;]",
+        "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+        "publicado": "2026-10-01T10:49:25-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7650.48,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 7651.54,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.23,
+      "historico_fechas": [
+        "2026-07-01",
+        "2026-07-02",
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7650.48
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26835.59,
+      "cambio_pct": -0.09,
+      "cierre_anterior": 26861.06,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        27068.72,
+        26820.38,
+        26797.54,
+        26861.06,
+        26835.59
+      ]
+    },
+    "dow": {
+      "ultimo": 50844.25,
+      "cambio_pct": -0.12,
+      "cierre_anterior": 50906.05,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        51828.62,
+        51481.51,
+        51349.92,
+        50906.05,
+        50844.25
+      ]
+    },
+    "vix": {
+      "ultimo": 16.97,
+      "cambio_pct": 3.86,
+      "cierre_anterior": 16.34,
+      "historico_fechas": [
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        14.87,
+        16.07,
+        16.04,
+        16.34,
+        16.97
+      ]
+    },
+    "oro": {
+      "ultimo": 4201.8,
+      "cambio_pct": 0.36,
+      "cierre_anterior": 4186.7,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        4168.4,
+        4179.7,
+        4186.7,
+        4201.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 92.05,
+      "cambio_pct": 1.8,
+      "cierre_anterior": 90.42,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        92.6,
+        89.38,
+        90.42,
+        92.05
+      ]
+    },
+    "btc": {
+      "ultimo": 84553.99,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 83553.85,
+      "historico_fechas": [
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        84458.09,
+        83502.61,
+        83622.43,
+        83553.85,
+        84553.99
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.12,
+      "cambio_pct": 0.66,
+      "cierre_anterior": 101.45,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "historico_cierres": [
+        101.2,
+        101.37,
+        101.45,
+        102.12
+      ]
+    }
+  }
+}
