@@ -1,0 +1,449 @@
+{
+  "fecha": "2026-10-04",
+  "generado_en": "2026-10-04T15:41:50.920509Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Green Party members back 'Zionism is racism' motion",
+        "resumen": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 15:00:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "I'm a classic old school Conservative, says Kemi Badenoch",
+        "resumen": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+        "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 15:21:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "resumen": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 14:25:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+        "resumen": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 11:19:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "British Museum announces changes to ease Bayeux Tapestry queues",
+        "resumen": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 13:45:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
+        "resumen": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 11:59:35 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "G7 to release millions of barrels of oil and diesel after Trump threat",
+        "resumen": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 03 Oct 2026 04:38:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Suppliers pile pressure on government over energy bills",
+        "resumen": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 03 Oct 2026 08:58:44 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK diesel prices top £2 a litre for first time, RAC says",
+        "resumen": "The rise in global oil prices has been pushing up the pump prices of petrol and diesel in the UK.",
+        "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 02 Oct 2026 15:50:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US jobs market sees sharp slowdown ahead of midterm elections",
+        "resumen": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 02 Oct 2026 14:30:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+        "resumen": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+        "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 23:00:06 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+        "resumen": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+        "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 01 Oct 2026 23:00:05 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Trump unveils his new Super Intelligence Force",
+        "resumen": "This new task force is Trump's latest response to the debate over AI safety.",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "publicado": "Sun, 04 Oct 2026 15:15:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+        "resumen": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "publicado": "Sat, 03 Oct 2026 19:33:15 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "resumen": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "publicado": "Sat, 03 Oct 2026 18:43:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "resumen": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "publicado": "Sat, 03 Oct 2026 16:30:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+        "resumen": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+        "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+        "publicado": "Sat, 03 Oct 2026 15:02:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Vessev built an electric ferry that almost flies",
+        "resumen": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+        "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+        "publicado": "Sat, 03 Oct 2026 14:42:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "resumen": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "publicado": "2026-10-04T11:21:59-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+        "resumen": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+        "publicado": "2026-10-04T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The AirPods Pro 3 are a fantastic deal at $179",
+        "resumen": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+        "publicado": "2026-10-04T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The MacBook Air M5 is $200 off for the first time in months",
+        "resumen": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+        "publicado": "2026-10-04T08:34:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The iPad Mini is slightly cheaper again during Prime Day",
+        "resumen": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+        "publicado": "2026-10-04T08:31:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The forgotten Chromebook that started it all",
+        "resumen": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's episode of Version History, The Verge's Nilay Patel and [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+        "publicado": "2026-10-04T08:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7722.72,
+      "cambio_pct": 0.73,
+      "cierre_anterior": 7666.45,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.46,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27190.86,
+      "cambio_pct": 1.19,
+      "cierre_anterior": 26871.6,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        26820.38,
+        26797.54,
+        26861.06,
+        26871.6,
+        27190.86
+      ]
+    },
+    "dow": {
+      "ultimo": 51176.96,
+      "cambio_pct": 0.49,
+      "cierre_anterior": 50926.56,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        51481.51,
+        51349.92,
+        50906.05,
+        50926.56,
+        51176.96
+      ]
+    },
+    "vix": {
+      "ultimo": 15.31,
+      "cambio_pct": -6.59,
+      "cierre_anterior": 16.39,
+      "historico_fechas": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        16.07,
+        16.04,
+        16.34,
+        16.39,
+        15.31
+      ]
+    },
+    "oro": {
+      "ultimo": 4162.3,
+      "cambio_pct": -0.95,
+      "cierre_anterior": 4202.3,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        4179.7,
+        4186.7,
+        4202.3,
+        4162.3
+      ]
+    },
+    "petroleo": {
+      "ultimo": 91.11,
+      "cambio_pct": -1.9,
+      "cierre_anterior": 92.87,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        89.38,
+        90.42,
+        92.87,
+        91.11
+      ]
+    },
+    "btc": {
+      "ultimo": 85324.58,
+      "cambio_pct": 0.66,
+      "cierre_anterior": 84763.58,
+      "historico_fechas": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "historico_cierres": [
+        83553.85,
+        84853.1,
+        84497.21,
+        84763.58,
+        85324.58
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.93,
+      "cambio_pct": -0.17,
+      "cierre_anterior": 102.1,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02"
+      ],
+      "historico_cierres": [
+        101.37,
+        101.45,
+        102.1,
+        101.93
+      ]
+    }
+  }
+}
