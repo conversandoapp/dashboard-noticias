@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-05",
+  "generado_en": "2026-10-05T19:31:11.602556Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "King's funding for Andrew not to be used for legal action against police",
+        "resumen": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 18:48:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+        "resumen": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
+        "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 13:09:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What prompted the US bombers to leave RAF Fairford?",
+        "resumen": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 18:45:07 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Teenager's hand blown off during confrontation between France school protesters and police",
+        "resumen": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 16:32:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "resumen": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 16:13:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+        "resumen": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
+        "url": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 17:21:42 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Average five-year mortgage rate hits 6% for first time in three years",
+        "resumen": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 09:54:57 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "resumen": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 16:13:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "BT agrees rescue deal to buy broadband operator TalkTalk",
+        "resumen": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 10:25:36 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The job interview question you don't have to answer",
+        "resumen": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 04 Oct 2026 23:22:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+        "resumen": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 17:23:28 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump chooses top spy boss to run new AI taskforce",
+        "resumen": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 05 Oct 2026 10:03:38 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "resumen": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "publicado": "Mon, 05 Oct 2026 18:54:30 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "resumen": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+        "publicado": "Mon, 05 Oct 2026 18:29:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+        "resumen": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+        "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "publicado": "Mon, 05 Oct 2026 18:07:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+        "resumen": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+        "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+        "publicado": "Mon, 05 Oct 2026 17:29:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "5 startups that caught VCs’ attention at the latest PearX demo day",
+        "resumen": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+        "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+        "publicado": "Mon, 05 Oct 2026 17:26:44 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+        "resumen": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+        "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+        "publicado": "Mon, 05 Oct 2026 16:43:35 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "All the drama around AI&#8217;s takeover of mathematics",
+        "resumen": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+        "publicado": "2026-10-05T15:28:59-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+        "resumen": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundati",
+        "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+        "publicado": "2026-10-05T15:05:19-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
+        "resumen": "There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively spell the end of their businesses. Hyundai CEO Jos&#233; Mu&#241;oz is not as pessimistic as [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share",
+        "publicado": "2026-10-05T14:41:48-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI is adding text watermarking in ChatGPT and Codex",
+        "resumen": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+        "publicado": "2026-10-05T14:08:39-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+        "resumen": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic. The interruption came [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+        "publicado": "2026-10-05T12:55:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+        "resumen": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+        "publicado": "2026-10-05T12:44:21-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7789.73,
+      "cambio_pct": 0.87,
+      "cierre_anterior": 7722.72,
+      "maximo_periodo": 7798.99,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.35,
+      "historico_fechas": [
+        "2026-07-06",
+        "2026-07-07",
+        "2026-07-08",
+        "2026-07-09",
+        "2026-07-10",
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7789.73
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27532.31,
+      "cambio_pct": 1.26,
+      "cierre_anterior": 27190.86,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        26797.54,
+        26861.06,
+        26871.6,
+        27190.86,
+        27532.31
+      ]
+    },
+    "dow": {
+      "ultimo": 51360.73,
+      "cambio_pct": 0.36,
+      "cierre_anterior": 51176.96,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        51349.92,
+        50906.05,
+        50926.56,
+        51176.96,
+        51360.73
+      ]
+    },
+    "vix": {
+      "ultimo": 15.62,
+      "cambio_pct": 2.02,
+      "cierre_anterior": 15.31,
+      "historico_fechas": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        16.04,
+        16.34,
+        16.39,
+        15.31,
+        15.62
+      ]
+    },
+    "oro": {
+      "ultimo": 4168.5,
+      "cambio_pct": 0.15,
+      "cierre_anterior": 4162.3,
+      "historico_fechas": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        4186.7,
+        4202.3,
+        4162.3,
+        4168.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 88.98,
+      "cambio_pct": -2.34,
+      "cierre_anterior": 91.11,
+      "historico_fechas": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        90.42,
+        92.87,
+        91.11,
+        88.98
+      ]
+    },
+    "btc": {
+      "ultimo": 85723.05,
+      "cambio_pct": -0.88,
+      "cierre_anterior": 86480.3,
+      "historico_fechas": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        84853.1,
+        84497.21,
+        84763.58,
+        86480.3,
+        85723.05
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.15,
+      "cambio_pct": 0.22,
+      "cierre_anterior": 101.93,
+      "historico_fechas": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05"
+      ],
+      "historico_cierres": [
+        101.45,
+        102.1,
+        101.93,
+        102.15
+      ]
+    }
+  }
+}
