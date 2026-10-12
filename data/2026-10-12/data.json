@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-12",
+  "generado_en": "2026-10-12T20:09:18.353085Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham to push for new post-Brexit deals at EU summit",
+        "resumen": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 17:38:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Government expands police support to political figures who are not MPs",
+        "resumen": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+        "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 19:51:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "resumen": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 17:32:13 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+        "resumen": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
+        "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 15:51:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest",
+        "resumen": "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth.",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 18:36:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "resumen": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 14:00:03 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
+        "resumen": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 08:50:22 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How to avoid getting stung if you miss credit card payments",
+        "resumen": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+        "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 09:11:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Fridges in French supermarkets hit by cyber attack",
+        "resumen": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 18:31:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI minister warns 'likely' UK's cyber defences will be breached",
+        "resumen": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 15:03:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Roofing scammers con homeowners out of thousands of pounds",
+        "resumen": "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 11 Oct 2026 23:19:49 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI is less regulated than milk, says Microsoft president",
+        "resumen": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+        "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 07:47:37 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Meta releases its first frontier model, Muse Wonder",
+        "resumen": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "publicado": "Mon, 12 Oct 2026 17:56:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "resumen": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "publicado": "Mon, 12 Oct 2026 17:19:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "resumen": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "publicado": "Mon, 12 Oct 2026 15:45:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Microsoft president says UK is best placed to drive AI regulation",
+        "resumen": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "publicado": "Mon, 12 Oct 2026 15:31:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "resumen": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "publicado": "Mon, 12 Oct 2026 15:27:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+        "resumen": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+        "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+        "publicado": "Mon, 12 Oct 2026 15:11:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta has some Wonder Full new AI models",
+        "resumen": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "publicado": "2026-10-12T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Elon Musk has donated over $276 million to Republican midterm efforts",
+        "resumen": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate [&#8230;]",
+        "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+        "publicado": "2026-10-12T12:52:54-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Yandex outage probably didn’t blitz Russian bots",
+        "resumen": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [&#8230;]",
+        "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+        "publicado": "2026-10-12T11:43:07-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+        "resumen": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in numerous [&#8230;]",
+        "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+        "publicado": "2026-10-12T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Android is the best and worst thing about Googlebooks",
+        "resumen": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my [&#8230;]",
+        "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+        "publicado": "2026-10-12T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "No Man’s Sky is coming to the iPhone and iPad",
+        "resumen": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+        "publicado": "2026-10-12T10:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7807.24,
+      "cambio_pct": -0.06,
+      "cierre_anterior": 7811.54,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.88,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27245.9,
+      "cambio_pct": -0.44,
+      "cierre_anterior": 27366.17,
+      "historico_fechas": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        27599.79,
+        27538.69,
+        27193.34,
+        27366.17,
+        27245.9
+      ]
+    },
+    "dow": {
+      "ultimo": 51850.55,
+      "cambio_pct": 0.38,
+      "cierre_anterior": 51654.95,
+      "historico_fechas": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        51521.28,
+        51179.87,
+        51231.64,
+        51654.95,
+        51850.55
+      ]
+    },
+    "vix": {
+      "ultimo": 15.22,
+      "cambio_pct": 2.56,
+      "cierre_anterior": 14.84,
+      "historico_fechas": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        15.01,
+        15.08,
+        15.41,
+        14.84,
+        15.22
+      ]
+    },
+    "oro": {
+      "ultimo": 4193.5,
+      "cambio_pct": -0.54,
+      "cierre_anterior": 4216.3,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        4140.7,
+        4157.0,
+        4216.3,
+        4193.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 93.35,
+      "cambio_pct": 1.63,
+      "cierre_anterior": 91.85,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        88.28,
+        91.49,
+        91.85,
+        93.35
+      ]
+    },
+    "btc": {
+      "ultimo": 82975.49,
+      "cambio_pct": -0.84,
+      "cierre_anterior": 83679.47,
+      "historico_fechas": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        81676.34,
+        82546.32,
+        82912.23,
+        83679.47,
+        82975.49
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.6,
+      "cambio_pct": 0.38,
+      "cierre_anterior": 102.21,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12"
+      ],
+      "historico_cierres": [
+        102.24,
+        102.14,
+        102.21,
+        102.6
+      ]
+    }
+  }
+}
