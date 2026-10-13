@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-10-13",
+  "generado_en": "2026-10-13T17:59:05.661348Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "resumen": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 15:52:15 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Man killed in tiger attack identified as William Chapman",
+        "resumen": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 16:30:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Football regulator says he would quit over any political interference in Man City case",
+        "resumen": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 16:00:18 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Three things we've learnt about the UK economy from the IMF",
+        "resumen": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 11:58:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Breaking Bad actor RJ Mitte dies aged 34",
+        "resumen": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 08:03:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Emergency calls from botched Christa Pike execution released",
+        "resumen": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+        "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 12:03:51 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Three things we've learnt about the UK economy from the IMF",
+        "resumen": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 11:58:43 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+        "resumen": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 15:59:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Poundland in rescue talks as owners seek buyer",
+        "resumen": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 12:17:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "BA flight forced to turn back over cracked window",
+        "resumen": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+        "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 11:48:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Heating oil customers face tough winter despite shake-up promise",
+        "resumen": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 12 Oct 2026 23:02:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+        "resumen": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 13 Oct 2026 09:38:54 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "resumen": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+        "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+        "publicado": "Tue, 13 Oct 2026 17:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "resumen": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+        "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+        "publicado": "Tue, 13 Oct 2026 17:18:25 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+        "resumen": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+        "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+        "publicado": "Tue, 13 Oct 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+        "resumen": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+        "publicado": "Tue, 13 Oct 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "resumen": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+        "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "publicado": "Tue, 13 Oct 2026 16:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+        "resumen": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+        "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+        "publicado": "Tue, 13 Oct 2026 15:02:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+        "resumen": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.\" Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+        "publicado": "2026-10-13T13:40:15-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever",
+        "resumen": "If you&#8217;re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making it significantly smaller and thinner than Amazon&#8217;s smallest six-inch Kindle. It’s also quite a bit [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale",
+        "publicado": "2026-10-13T13:19:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Facebook will let you customize your feed algorithm using AI",
+        "resumen": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [&#8230;]",
+        "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+        "publicado": "2026-10-13T13:01:31-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google makes it easier to launch your vibe-coded apps",
+        "resumen": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code [&#8230;]",
+        "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+        "publicado": "2026-10-13T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A redesigned Play Store is coming to cars with Google built-in",
+        "resumen": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and download new apps. The update, which is rolling out in the [&#8230;]",
+        "url": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+        "publicado": "2026-10-13T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "I tried out Apple&#8217;s HomeView smart display",
+        "resumen": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and home hub for your household, so there was a lot to check out. The [&#8230;]",
+        "url": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
+        "publicado": "2026-10-13T12:55:02-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7795.73,
+      "cambio_pct": -0.15,
+      "cierre_anterior": 7807.24,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.73,
+      "historico_fechas": [
+        "2026-07-13",
+        "2026-07-14",
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7795.73
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 27172.17,
+      "cambio_pct": -0.27,
+      "cierre_anterior": 27245.9,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        27538.69,
+        27193.34,
+        27366.17,
+        27245.9,
+        27172.17
+      ]
+    },
+    "dow": {
+      "ultimo": 51601.92,
+      "cambio_pct": -0.48,
+      "cierre_anterior": 51850.55,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        51179.87,
+        51231.64,
+        51654.95,
+        51850.55,
+        51601.92
+      ]
+    },
+    "vix": {
+      "ultimo": 15.47,
+      "cambio_pct": 1.71,
+      "cierre_anterior": 15.21,
+      "historico_fechas": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        15.08,
+        15.41,
+        14.84,
+        15.21,
+        15.47
+      ]
+    },
+    "oro": {
+      "ultimo": 4175.7,
+      "cambio_pct": -0.36,
+      "cierre_anterior": 4190.6,
+      "historico_fechas": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        4157.0,
+        4216.3,
+        4190.6,
+        4175.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 94.08,
+      "cambio_pct": 0.36,
+      "cierre_anterior": 93.74,
+      "historico_fechas": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        91.49,
+        91.85,
+        93.74,
+        94.08
+      ]
+    },
+    "btc": {
+      "ultimo": 82971.13,
+      "cambio_pct": 1.48,
+      "cierre_anterior": 81762.56,
+      "historico_fechas": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        82546.32,
+        82912.23,
+        83679.47,
+        81762.56,
+        82971.13
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.25,
+      "cambio_pct": -0.32,
+      "cierre_anterior": 102.58,
+      "historico_fechas": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13"
+      ],
+      "historico_cierres": [
+        102.14,
+        102.21,
+        102.58,
+        102.25
+      ]
+    }
+  }
+}
