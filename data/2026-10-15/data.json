@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-10-15",
+  "generado_en": "2026-10-15T15:30:34.563051Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "resumen": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 13:13:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+        "resumen": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+        "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 15:17:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Trans people should use hospital spaces according to biological sex, NHS England says",
+        "resumen": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+        "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 14:55:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+        "resumen": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 13:32:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Severe drought declared in parts of southern England",
+        "resumen": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+        "url": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 14:37:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meghan makes first official public appearance since moving back to UK",
+        "resumen": "The Duke and Duchess of Sussex are taking part in a series of events linked to their charitable work in Nottingham.",
+        "url": "https://www.bbc.co.uk/news/articles/c6gelgd1lxv2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 12:06:51 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+        "resumen": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 14:55:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+        "resumen": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 13:25:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "AI giant Anthropic woos potential investors ahead of stock market debut",
+        "resumen": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 11:34:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How backlash against data centres could shape the US midterm elections",
+        "resumen": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 14 Oct 2026 23:02:57 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I paid thousands to a company for jobs that never came'",
+        "resumen": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 05:02:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "As Christmas rush looms, how do China-made toys find their way to the US?",
+        "resumen": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+        "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 14 Oct 2026 23:01:28 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "AI agents are coming to Rivian’s cars",
+        "resumen": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "publicado": "Thu, 15 Oct 2026 15:02:36 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Ramp reaches $60B valuation as it pushes deeper into AI",
+        "resumen": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+        "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+        "publicado": "Thu, 15 Oct 2026 14:47:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google’s Universal Cart shopping tool launches in the US",
+        "resumen": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "publicado": "Thu, 15 Oct 2026 14:29:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TechCrunch Disrupt 2026: Last day",
+        "resumen": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+        "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+        "publicado": "Thu, 15 Oct 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "resumen": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "publicado": "Thu, 15 Oct 2026 12:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+        "resumen": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+        "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+        "publicado": "Thu, 15 Oct 2026 10:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Shelly’s new presence sensor simultaneously detects up to ten people without a camera",
+        "resumen": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the [&#8230;]",
+        "url": "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera",
+        "publicado": "2026-10-15T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+        "resumen": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud",
+        "publicado": "2026-10-15T10:53:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump calls off livestream of execution",
+        "resumen": "The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterrent for the World to witness how [&#8230;]",
+        "url": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
+        "publicado": "2026-10-15T10:43:44-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+        "resumen": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
+        "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+        "publicado": "2026-10-15T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "An Israeli firm is sending spyware through online ads, researchers say",
+        "resumen": "An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at Citizen Lab and Confiant. It's the first time researchers have found technical evidence of a zero-click attack - a form of hacking that [&#8230;]",
+        "url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+        "publicado": "2026-10-15T10:10:50-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Prep your cart before iPhone Duo preorders open tomorrow",
+        "resumen": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for the phone now lets you select the color you want, along with storage capacity, carrier preference, and whether you [&#8230;]",
+        "url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+        "publicado": "2026-10-15T10:07:33-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7726.89,
+      "cambio_pct": 0.1,
+      "cierre_anterior": 7718.94,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.04,
+      "historico_fechas": [
+        "2026-07-15",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7726.89
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26608.82,
+      "cambio_pct": -0.31,
+      "cierre_anterior": 26692.87,
+      "historico_fechas": [
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        27366.17,
+        27245.9,
+        27204.38,
+        26692.87,
+        26608.82
+      ]
+    },
+    "dow": {
+      "ultimo": 52130.1,
+      "cambio_pct": 0.99,
+      "cierre_anterior": 51621.48,
+      "historico_fechas": [
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        51654.95,
+        51850.55,
+        51670.1,
+        51621.48,
+        52130.1
+      ]
+    },
+    "vix": {
+      "ultimo": 16.62,
+      "cambio_pct": -1.48,
+      "cierre_anterior": 16.87,
+      "historico_fechas": [
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        14.84,
+        15.21,
+        15.27,
+        16.87,
+        16.62
+      ]
+    },
+    "oro": {
+      "ultimo": 4176.7,
+      "cambio_pct": 1.67,
+      "cierre_anterior": 4107.9,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        4190.6,
+        4177.3,
+        4107.9,
+        4176.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 95.98,
+      "cambio_pct": 0.94,
+      "cierre_anterior": 95.09,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        93.74,
+        94.14,
+        95.09,
+        95.98
+      ]
+    },
+    "btc": {
+      "ultimo": 82225.97,
+      "cambio_pct": 0.81,
+      "cierre_anterior": 81562.49,
+      "historico_fechas": [
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        83679.47,
+        81762.56,
+        83095.12,
+        81562.49,
+        82225.97
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.14,
+      "cambio_pct": -0.4,
+      "cierre_anterior": 102.55,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15"
+      ],
+      "historico_cierres": [
+        102.58,
+        102.18,
+        102.55,
+        102.14
+      ]
+    }
+  }
+}
