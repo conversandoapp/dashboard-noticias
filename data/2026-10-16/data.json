@@ -1,0 +1,459 @@
+{
+  "fecha": "2026-10-16",
+  "generado_en": "2026-10-16T15:15:47.604009Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+        "resumen": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 14:44:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Norwegian teen 'hitman' detained for UK murder plot",
+        "resumen": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 13:43:21 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "resumen": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 14:31:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+        "resumen": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 14:21:32 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Did Tesla really just unveil a flying car?",
+        "resumen": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+        "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 12:32:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Pope pictured for first time since surgery and cancer diagnosis",
+        "resumen": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 14:36:39 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Banks expect to be hit with higher taxes in Budget",
+        "resumen": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 10:16:27 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Watch: Did Tesla really just unveil a flying car?",
+        "resumen": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+        "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 12:32:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I find it quite demoralising in store - why I do all my shopping online",
+        "resumen": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+        "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 23:16:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Ship attack reports near Hormuz reach record high as oil exports slow",
+        "resumen": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+        "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 16 Oct 2026 05:00:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+        "resumen": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 14:55:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Living with a stink? Technology might help",
+        "resumen": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+        "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 23:18:21 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "resumen": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+        "publicado": "Fri, 16 Oct 2026 14:26:51 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "resumen": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+        "publicado": "Fri, 16 Oct 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Replit’s CEO says the future of work is the ‘self-driving company’",
+        "resumen": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+        "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+        "publicado": "Fri, 16 Oct 2026 12:55:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+        "resumen": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+        "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+        "publicado": "Fri, 16 Oct 2026 05:16:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "resumen": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "publicado": "Fri, 16 Oct 2026 01:17:43 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "resumen": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+        "publicado": "Thu, 15 Oct 2026 23:44:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+        "resumen": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+        "publicado": "2026-10-16T11:08:38-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+        "resumen": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+        "publicado": "2026-10-16T11:02:23-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "resumen": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "publicado": "2026-10-16T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The incredible flying Tesla Roadster is just for show",
+        "resumen": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+        "publicado": "2026-10-16T10:15:29-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta’s new terms may allow it to train AI on news sites for free",
+        "resumen": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "publicado": "2026-10-16T10:02:40-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+        "resumen": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pairing a small stack of credit cards to your phone, but its storage capacity [&#8230;]",
+        "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+        "publicado": "2026-10-16T09:33:21-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7724.99,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 7744.06,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.54,
+      "historico_fechas": [
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7724.99
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26435.04,
+      "cambio_pct": -1.04,
+      "cierre_anterior": 26713.03,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        27245.9,
+        27204.38,
+        26692.87,
+        26713.03,
+        26435.04
+      ]
+    },
+    "dow": {
+      "ultimo": 52387.34,
+      "cambio_pct": 0.4,
+      "cierre_anterior": 52177.69,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        51850.55,
+        51670.1,
+        51621.48,
+        52177.69,
+        52387.34
+      ]
+    },
+    "vix": {
+      "ultimo": 15.89,
+      "cambio_pct": -3.46,
+      "cierre_anterior": 16.46,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        15.21,
+        15.27,
+        16.87,
+        16.46,
+        15.89
+      ]
+    },
+    "oro": {
+      "ultimo": 4206.5,
+      "cambio_pct": 0.87,
+      "cierre_anterior": 4170.1,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4206.5
+      ]
+    },
+    "petroleo": {
+      "ultimo": 95.8,
+      "cambio_pct": -2.21,
+      "cierre_anterior": 97.97,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        93.74,
+        94.14,
+        95.09,
+        97.97,
+        95.8
+      ]
+    },
+    "btc": {
+      "ultimo": 81634.79,
+      "cambio_pct": -0.62,
+      "cierre_anterior": 82141.46,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        81762.56,
+        83095.12,
+        81562.49,
+        82141.46,
+        81634.79
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.65,
+      "cambio_pct": -0.35,
+      "cierre_anterior": 102.0,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        102.58,
+        102.18,
+        102.55,
+        102.0,
+        101.65
+      ]
+    }
+  }
+}
