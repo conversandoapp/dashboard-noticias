@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-18",
+  "generado_en": "2026-10-18T14:19:39.970254Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "resumen": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 12:07:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Parisians wake up to protest damage and looted shops",
+        "resumen": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 10:58:39 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "resumen": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 11:14:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ending corridor care in hospitals for children a priority, says health secretary",
+        "resumen": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 12:09:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "resumen": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 05:04:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Police hunt for synthetic drugs in Chicago jail",
+        "resumen": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
+        "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 05:30:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "There's a crackdown on sports piracy - but is it already out of control?",
+        "resumen": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 00:11:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Third runway at Heathrow Airport would drive growth, Healey says",
+        "resumen": "It comes after the prime minister refused to say whether he backed expansion.",
+        "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 17 Oct 2026 03:57:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Faisal Islam: Why China and AI are worrying global finance bosses",
+        "resumen": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 17 Oct 2026 01:59:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is the Budget and what could be in it?",
+        "resumen": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 10:22:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Turning the tides: Could hidden sea power energise our coastal towns?",
+        "resumen": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+        "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 08:12:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Living with a stink? Technology might help",
+        "resumen": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+        "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 15 Oct 2026 23:18:21 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Meta removes language that raised scraping and AI training concerns",
+        "resumen": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "publicado": "Sat, 17 Oct 2026 21:31:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TikTok permanently bans ‘Musk’ documentary advertising account",
+        "resumen": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+        "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+        "publicado": "Sat, 17 Oct 2026 20:55:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "resumen": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "publicado": "Sat, 17 Oct 2026 20:21:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "resumen": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "publicado": "Sat, 17 Oct 2026 18:48:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+        "resumen": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+        "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+        "publicado": "Sat, 17 Oct 2026 15:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+        "resumen": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+        "publicado": "Sat, 17 Oct 2026 02:36:18 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "J Mascis has nothing better to do",
+        "resumen": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+        "publicado": "2026-10-18T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Trump says Google kisses his ass",
+        "resumen": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do [&#8230;]",
+        "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+        "publicado": "2026-10-18T09:25:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The best gadget I bought this year is a milk frother",
+        "resumen": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+        "publicado": "2026-10-18T09:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "How overhead projectors took over your classroom",
+        "resumen": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+        "publicado": "2026-10-18T08:55:01-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Cities want to put the boot on robotaxis",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+        "publicado": "2026-10-18T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "TikTok bans Musk documentary account",
+        "resumen": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has [&#8230;]",
+        "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+        "publicado": "2026-10-17T15:32:23-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7659.44,
+      "cambio_pct": -1.09,
+      "cierre_anterior": 7744.06,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.71,
+      "historico_fechas": [
+        "2026-07-17",
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26140.03,
+      "cambio_pct": -2.15,
+      "cierre_anterior": 26713.03,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        27245.9,
+        27204.38,
+        26692.87,
+        26713.03,
+        26140.03
+      ]
+    },
+    "dow": {
+      "ultimo": 52002.41,
+      "cambio_pct": -0.34,
+      "cierre_anterior": 52177.69,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        51850.55,
+        51670.1,
+        51621.48,
+        52177.69,
+        52002.41
+      ]
+    },
+    "vix": {
+      "ultimo": 19.99,
+      "cambio_pct": 21.45,
+      "cierre_anterior": 16.46,
+      "historico_fechas": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        15.21,
+        15.27,
+        16.87,
+        16.46,
+        19.99
+      ]
+    },
+    "oro": {
+      "ultimo": 4181.1,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 4170.1,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 99.02,
+      "cambio_pct": 1.07,
+      "cierre_anterior": 97.97,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        94.14,
+        95.09,
+        97.97,
+        99.02
+      ]
+    },
+    "btc": {
+      "ultimo": 81223.77,
+      "cambio_pct": -0.19,
+      "cierre_anterior": 81382.15,
+      "historico_fechas": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18"
+      ],
+      "historico_cierres": [
+        81562.49,
+        82141.46,
+        81500.8,
+        81382.15,
+        81223.77
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.84,
+      "cambio_pct": -0.16,
+      "cierre_anterior": 102.0,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ],
+      "historico_cierres": [
+        102.18,
+        102.55,
+        102.0,
+        101.84
+      ]
+    }
+  }
+}
