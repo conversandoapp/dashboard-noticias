@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-19",
+  "generado_en": "2026-10-19T17:21:02.585517Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Watch: Are the French riots a warning of an intense election to come?",
+        "resumen": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+        "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 13:43:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Australian MP critically injured after being hit by car in apparent attack",
+        "resumen": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 14:09:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+        "resumen": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 13:01:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+        "resumen": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 17:18:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+        "resumen": "The Saudi government did not immediately respond to BBC requests for comment.",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 16:22:12 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+        "resumen": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
+        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 12:12:02 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Vinted blocks French looters listing stolen goods for sale",
+        "resumen": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 16:46:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Bikes 'not for jousting,' says Lime after duel video",
+        "resumen": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+        "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 15:44:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Home sellers cut asking prices on 3,000 properties a day",
+        "resumen": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 12:54:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Musk and Anthropic pledge public share giveaways",
+        "resumen": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 09:38:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+        "resumen": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 19 Oct 2026 12:16:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Don't fall for this - how to protect yourself from AI scams",
+        "resumen": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 18 Oct 2026 23:24:59 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+        "resumen": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
+        "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+        "publicado": "Mon, 19 Oct 2026 16:55:56 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "People are using AI to make their smart TVs dumb again",
+        "resumen": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "publicado": "Mon, 19 Oct 2026 16:13:22 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "resumen": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+        "publicado": "Mon, 19 Oct 2026 15:37:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+        "resumen": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+        "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+        "publicado": "Mon, 19 Oct 2026 12:56:14 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+        "resumen": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+        "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+        "publicado": "Mon, 19 Oct 2026 12:42:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "resumen": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+        "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+        "publicado": "Mon, 19 Oct 2026 07:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple teases MacBook Pro event next week",
+        "resumen": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is expected to be a new MacBook Pro with an OLED [&#8230;]",
+        "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+        "publicado": "2026-10-19T12:04:29-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon is funding a new nuclear plant in Indiana",
+        "resumen": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]",
+        "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+        "publicado": "2026-10-19T11:44:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple’s last-gen Mac Mini with the M4 is $150 off",
+        "resumen": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
+        "publicado": "2026-10-19T10:41:48-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "resumen": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+        "publicado": "2026-10-19T10:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+        "resumen": "Deutsche Telekom, Orange, Telef&#243;nica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initi",
+        "url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+        "publicado": "2026-10-19T10:24:42-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Elon Musk promises to give one SpaceX share to every child in the US",
+        "resumen": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and [&#8230;]",
+        "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+        "publicado": "2026-10-19T10:20:11-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7697.23,
+      "cambio_pct": 0.49,
+      "cierre_anterior": 7659.44,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.41,
+      "historico_fechas": [
+        "2026-07-20",
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7697.23
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26454.85,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 26140.03,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        27204.38,
+        26692.87,
+        26713.03,
+        26140.03,
+        26454.85
+      ]
+    },
+    "dow": {
+      "ultimo": 51973.38,
+      "cambio_pct": -0.06,
+      "cierre_anterior": 52002.41,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        51670.1,
+        51621.48,
+        52177.69,
+        52002.41,
+        51973.38
+      ]
+    },
+    "vix": {
+      "ultimo": 18.38,
+      "cambio_pct": -8.05,
+      "cierre_anterior": 19.99,
+      "historico_fechas": [
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        15.27,
+        16.87,
+        16.46,
+        19.99,
+        18.38
+      ]
+    },
+    "oro": {
+      "ultimo": 4157.6,
+      "cambio_pct": -0.56,
+      "cierre_anterior": 4181.1,
+      "historico_fechas": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        4107.9,
+        4170.1,
+        4181.1,
+        4157.6
+      ]
+    },
+    "petroleo": {
+      "ultimo": 99.35,
+      "cambio_pct": -2.03,
+      "cierre_anterior": 101.41,
+      "historico_fechas": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        95.09,
+        97.97,
+        101.41,
+        99.35
+      ]
+    },
+    "btc": {
+      "ultimo": 81810.89,
+      "cambio_pct": -0.25,
+      "cierre_anterior": 82017.6,
+      "historico_fechas": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        82141.46,
+        81500.8,
+        81382.15,
+        82017.6,
+        81810.89
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.0,
+      "cambio_pct": 0.16,
+      "cierre_anterior": 101.84,
+      "historico_fechas": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ],
+      "historico_cierres": [
+        102.55,
+        102.0,
+        101.84,
+        102.0
+      ]
+    }
+  }
+}
