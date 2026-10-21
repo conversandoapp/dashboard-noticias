@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-10-21",
+  "generado_en": "2026-10-21T15:50:56.856947Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "resumen": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 15:36:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+        "resumen": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 14:26:24 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+        "resumen": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 13:49:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+        "resumen": "In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.",
+        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 15:17:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster",
+        "resumen": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.",
+        "url": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 11:21:58 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Websites taken down worldwide as critical cyber-security update issued",
+        "resumen": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 15:47:13 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+        "resumen": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 10:20:15 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+        "resumen": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 10:16:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Civil servant admits he 'made mistakes' juggling five government jobs",
+        "resumen": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+        "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 14:04:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is happening to UK prices?",
+        "resumen": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 08:35:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The tech helping crack decades-old cold cases",
+        "resumen": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+        "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 20 Oct 2026 23:13:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is the Budget and what could be in it?",
+        "resumen": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 20 Oct 2026 08:31:36 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+        "resumen": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+        "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+        "publicado": "Wed, 21 Oct 2026 14:03:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "resumen": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+        "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+        "publicado": "Wed, 21 Oct 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+        "resumen": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+        "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+        "publicado": "Wed, 21 Oct 2026 13:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mach9 raises $34M after pivoting to AI CAD software",
+        "resumen": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+        "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+        "publicado": "Wed, 21 Oct 2026 13:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "resumen": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "publicado": "Tue, 20 Oct 2026 23:01:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SpaceX and Tesla boards form special committees to review merger",
+        "resumen": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+        "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+        "publicado": "Tue, 20 Oct 2026 22:57:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple Music has a new logo",
+        "resumen": "Apple is officially launching a rebrand of Apple Music. Following the appearance of a redesigned wordmark in a video and an updated app icon in an iOS 27.2 beta, Apple introduced the new \"identity\" for Apple Music today. There's a new logo, the updated wordmark, and a new sound composed by British producer Fred Again [&#8230;]",
+        "url": "https://www.theverge.com/tech/1015533/apple-music-new-logo",
+        "publicado": "2026-10-21T11:48:12-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Conversational Gemini navigation comes to Apple CarPlay",
+        "resumen": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+        "publicado": "2026-10-21T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Samsung’s 5K monitor has good gaming chops and a great price",
+        "resumen": "There are quite a few 5K monitors out there. Many of them are designed to appeal to Mac users who are looking for cheaper Studio Display alternatives without giving up the pixel-dense 218ppi screen. However, if you’re interested in hearing about one with gaming chops, Samsung’s 27-inch Odyssey G80HF seems like one of the best [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale",
+        "publicado": "2026-10-21T10:47:14-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
+        "resumen": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into next year. \"On Friday morning, our teams look forward &#8203;to welcoming customers at Apple Stores to [&#8230;]",
+        "url": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
+        "publicado": "2026-10-21T10:22:59-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Blink brings 4K to its low-cost security camera lineup",
+        "resumen": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best [&#8230;]",
+        "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+        "publicado": "2026-10-21T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "resumen": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "publicado": "2026-10-21T09:57:43-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7753.49,
+      "cambio_pct": 0.53,
+      "cierre_anterior": 7712.57,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.25,
+      "historico_fechas": [
+        "2026-07-21",
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7753.49
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26727.95,
+      "cambio_pct": 1.15,
+      "cierre_anterior": 26424.82,
+      "historico_fechas": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        26713.03,
+        26140.03,
+        26430.89,
+        26424.82,
+        26727.95
+      ]
+    },
+    "dow": {
+      "ultimo": 52645.53,
+      "cambio_pct": 0.29,
+      "cierre_anterior": 52495.88,
+      "historico_fechas": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        52177.69,
+        52002.41,
+        51966.03,
+        52495.88,
+        52645.53
+      ]
+    },
+    "vix": {
+      "ultimo": 16.58,
+      "cambio_pct": -4.22,
+      "cierre_anterior": 17.31,
+      "historico_fechas": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        16.46,
+        19.99,
+        18.44,
+        17.31,
+        16.58
+      ]
+    },
+    "oro": {
+      "ultimo": 4154.7,
+      "cambio_pct": 0.29,
+      "cierre_anterior": 4142.6,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        4181.1,
+        4160.1,
+        4142.6,
+        4154.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 97.06,
+      "cambio_pct": -4.65,
+      "cierre_anterior": 101.79,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        101.41,
+        103.66,
+        101.79,
+        97.06
+      ]
+    },
+    "btc": {
+      "ultimo": 84360.9,
+      "cambio_pct": 1.71,
+      "cierre_anterior": 82941.0,
+      "historico_fechas": [
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        81382.15,
+        82017.6,
+        81853.54,
+        82941.0,
+        84360.9
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.76,
+      "cambio_pct": 0.03,
+      "cierre_anterior": 101.73,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "historico_cierres": [
+        101.84,
+        101.98,
+        101.73,
+        101.76
+      ]
+    }
+  }
+}
