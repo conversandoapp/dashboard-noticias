@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-10-22",
+  "generado_en": "2026-10-22T15:48:00.608140Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "AI discovered a massive cyber-security flaw - here's what happened",
+        "resumen": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+        "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 12:17:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "resumen": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 14:28:59 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+        "resumen": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 12:34:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Moment man rescued from sinking car by Australian TV reporter",
+        "resumen": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
+        "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 11:08:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two storms in two days as Austen and Boelo head for UK",
+        "resumen": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+        "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 10:34:17 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
+        "resumen": "He says he found treasure in his attic where the collection had been stored for 15 years.",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 13:31:04 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "'I wasn't thinking straight' says five jobs civil servant",
+        "resumen": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 15:05:47 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "resumen": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 14:28:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Tank barrel production returns to UK after 20 years",
+        "resumen": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 13:45:19 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The 'trillion pound' oil fund the government believes Britain could have built",
+        "resumen": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 21 Oct 2026 23:27:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What is PHP and why did it spark a global cyber-security scramble?",
+        "resumen": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 11:15:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "No order, no seat: Starbucks China rolls out new store policy",
+        "resumen": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 04:02:29 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Tesla is prepping a Cybercab onslaught",
+        "resumen": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+        "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+        "publicado": "Thu, 22 Oct 2026 15:44:39 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+        "resumen": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+        "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+        "publicado": "Thu, 22 Oct 2026 15:24:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Investors break down how founders can raise a Series A today",
+        "resumen": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+        "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+        "publicado": "Thu, 22 Oct 2026 15:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Spotify’s current AI bet is about being the music service that agents choose",
+        "resumen": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+        "publicado": "Thu, 22 Oct 2026 15:03:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+        "resumen": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+        "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+        "publicado": "Thu, 22 Oct 2026 14:59:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+        "resumen": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+        "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+        "publicado": "Thu, 22 Oct 2026 14:03:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+        "resumen": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare. That said, Woot says they’re in [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+        "publicado": "2026-10-22T11:14:20-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "PHP: The three little letters wreaking havoc across the web",
+        "resumen": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the [&#8230;]",
+        "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+        "publicado": "2026-10-22T11:12:27-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "You could just get a refurbished Samsung phone on Amazon",
+        "resumen": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warranty. They currently start at $489 for the Galaxy S24 FE with [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+        "publicado": "2026-10-22T10:55:29-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+        "resumen": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting their camera-equipped bird feeders for a limited time. Right now, you can buy Coolfy’s Aura Smart Bird [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+        "publicado": "2026-10-22T10:41:02-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+        "resumen": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider screen than what's [&#8230;]",
+        "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+        "publicado": "2026-10-22T10:24:49-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+        "resumen": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+        "publicado": "2026-10-22T10:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7659.28,
+      "cambio_pct": -1.26,
+      "cierre_anterior": 7757.17,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.14,
+      "historico_fechas": [
+        "2026-07-22",
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7659.28
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26109.49,
+      "cambio_pct": -2.22,
+      "cierre_anterior": 26702.86,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        26140.03,
+        26430.89,
+        26424.82,
+        26702.86,
+        26109.49
+      ]
+    },
+    "dow": {
+      "ultimo": 52744.74,
+      "cambio_pct": -0.21,
+      "cierre_anterior": 52856.09,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        52002.41,
+        51966.03,
+        52495.88,
+        52856.09,
+        52744.74
+      ]
+    },
+    "vix": {
+      "ultimo": 19.01,
+      "cambio_pct": 13.97,
+      "cierre_anterior": 16.68,
+      "historico_fechas": [
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        19.99,
+        18.44,
+        17.31,
+        16.68,
+        19.01
+      ]
+    },
+    "oro": {
+      "ultimo": 4068.2,
+      "cambio_pct": -1.97,
+      "cierre_anterior": 4150.0,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        4160.1,
+        4142.6,
+        4150.0,
+        4068.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 98.28,
+      "cambio_pct": 1.16,
+      "cierre_anterior": 97.15,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        103.66,
+        101.79,
+        97.15,
+        98.28
+      ]
+    },
+    "btc": {
+      "ultimo": 81419.9,
+      "cambio_pct": -3.09,
+      "cierre_anterior": 84011.97,
+      "historico_fechas": [
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        82017.6,
+        81853.54,
+        82941.0,
+        84011.97,
+        81419.9
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.77,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 101.78,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "historico_cierres": [
+        101.98,
+        101.73,
+        101.78,
+        101.77
+      ]
+    }
+  }
+}
