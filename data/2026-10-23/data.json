@@ -1,0 +1,459 @@
+{
+  "fecha": "2026-10-23",
+  "generado_en": "2026-10-23T15:38:55.148485Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+        "resumen": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 15:35:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Moment part of Brighton's historic West Pier collapses",
+        "resumen": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+        "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 13:03:29 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "resumen": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 14:15:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham suggests stocking up on tinned food and bottled water",
+        "resumen": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 12:41:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Detective raped by colleague says Met handling of case 'like being raped again'",
+        "resumen": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 05:00:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+        "resumen": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+        "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 05:00:12 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+        "resumen": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+        "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 15:15:13 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Earnings limit of up to £140K for first-time buyers loan scheme",
+        "resumen": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 11:48:04 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Lights will stay on this winter, grid operator says after concerns",
+        "resumen": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 06:47:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+        "resumen": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 23:20:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "resumen": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 22 Oct 2026 18:26:56 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The Indian workers filming their work to train AI",
+        "resumen": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 08:04:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+        "resumen": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
+        "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+        "publicado": "Fri, 23 Oct 2026 15:00:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+        "resumen": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+        "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+        "publicado": "Fri, 23 Oct 2026 04:22:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "resumen": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "publicado": "Fri, 23 Oct 2026 04:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Left alone with nothing to do, AI agents started playing",
+        "resumen": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "publicado": "Fri, 23 Oct 2026 00:45:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+        "resumen": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+        "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "publicado": "Thu, 22 Oct 2026 23:50:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "resumen": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "publicado": "Thu, 22 Oct 2026 23:15:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+        "resumen": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+        "publicado": "2026-10-23T11:24:45-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+        "resumen": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&#38;T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access [&#8230;]",
+        "url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+        "publicado": "2026-10-23T11:16:24-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta delays new business terms after publisher pushback on AI scraping",
+        "resumen": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
+        "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+        "publicado": "2026-10-23T10:47:41-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+        "resumen": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades including an improved sensor, an articulating LCD display, and longer battery life. But this time around Sigma is only claiming its new FP2 is the \"world's [&#8230;]",
+        "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+        "publicado": "2026-10-23T10:42:46-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Our best tips for using the iPhone Duo",
+        "resumen": "The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands [&#8230;]",
+        "url": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+        "publicado": "2026-10-23T10:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple revives the original iPod as an Apple Music easter egg",
+        "resumen": "If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's \"Viva La [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+        "publicado": "2026-10-23T09:58:43-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7651.02,
+      "cambio_pct": -0.16,
+      "cierre_anterior": 7663.43,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 3.28,
+      "historico_fechas": [
+        "2026-07-23",
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7651.02
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26061.71,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 26008.86,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        26430.89,
+        26424.82,
+        26702.86,
+        26008.86,
+        26061.71
+      ]
+    },
+    "dow": {
+      "ultimo": 52346.65,
+      "cambio_pct": -0.99,
+      "cierre_anterior": 52867.98,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        51966.03,
+        52495.88,
+        52856.09,
+        52867.98,
+        52346.65
+      ]
+    },
+    "vix": {
+      "ultimo": 19.21,
+      "cambio_pct": 0.95,
+      "cierre_anterior": 19.03,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        18.44,
+        17.31,
+        16.68,
+        19.03,
+        19.21
+      ]
+    },
+    "oro": {
+      "ultimo": 4010.8,
+      "cambio_pct": -1.22,
+      "cierre_anterior": 4060.4,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4010.8
+      ]
+    },
+    "petroleo": {
+      "ultimo": 102.04,
+      "cambio_pct": 2.58,
+      "cierre_anterior": 99.47,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        103.66,
+        101.79,
+        97.15,
+        99.47,
+        102.04
+      ]
+    },
+    "btc": {
+      "ultimo": 81422.06,
+      "cambio_pct": 0.14,
+      "cierre_anterior": 81311.89,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        81853.54,
+        82941.0,
+        84011.97,
+        81311.89,
+        81422.06
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.75,
+      "cambio_pct": 0.14,
+      "cierre_anterior": 101.61,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        101.98,
+        101.73,
+        101.78,
+        101.61,
+        101.75
+      ]
+    }
+  }
+}
