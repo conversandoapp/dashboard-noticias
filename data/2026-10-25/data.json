@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-10-25",
+  "generado_en": "2026-10-25T14:52:31.385181Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "resumen": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 09:00:00 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Burnham open to 'honest discussion' on EU free movement",
+        "resumen": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+        "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 12:11:23 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Couple were celebrating anniversary before Bahamas tragedy",
+        "resumen": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+        "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 14:38:51 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "resumen": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 11:54:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Meghan broke contact with father in letter citing abuse claims",
+        "resumen": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 08:05:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why the charts are full of old songs - and so are your playlists",
+        "resumen": "The chart is full of old music and classic songs are dominating streaming services. But why?",
+        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 24 Oct 2026 23:05:41 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Four ways Labour could raise money in the Budget without hiking income tax",
+        "resumen": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 06:00:15 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Budget to include £1bn for social and affordable housing",
+        "resumen": "The move will take funding for the 10-year programme to more than £40bn.",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 10:03:17 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will a new code end 'rip-off parking charges'?",
+        "resumen": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 07:05:30 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Rosebank: Life on the oil field at the centre of a political storm",
+        "resumen": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 25 Oct 2026 07:15:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Are California voters about to impose 'world's first' tax on billionaires?",
+        "resumen": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+        "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 23:11:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The Indian workers filming their work to train AI",
+        "resumen": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 23 Oct 2026 08:04:17 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "The hottest AI wearables and gadgets you should know about",
+        "resumen": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "publicado": "Sun, 25 Oct 2026 14:10:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Starlink seems to be working normally again in Ukraine",
+        "resumen": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "publicado": "Sat, 24 Oct 2026 20:46:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Will AI expose the rickety infrastructure of the internet?",
+        "resumen": "The moment you realize the internet is \"held together by glue and dreams.\"",
+        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "publicado": "Sat, 24 Oct 2026 20:15:33 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "resumen": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "publicado": "Sat, 24 Oct 2026 19:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+        "resumen": "Instacart might sell itself to a larger competitor.",
+        "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+        "publicado": "Sat, 24 Oct 2026 16:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Block’s new voice model sounds eerily human",
+        "resumen": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "publicado": "Sat, 24 Oct 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "r/opensource just banned AI, non-English speakers and more",
+        "resumen": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "publicado": "2026-10-25T09:25:32-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google’s AI search changes upended online publishing",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "publicado": "2026-10-25T08:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Blue Planet III is keeping the rough edges in the age of AI",
+        "resumen": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+        "publicado": "2026-10-24T17:29:12-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Pennsylvania will require labels on AI-generated ads",
+        "resumen": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "publicado": "2026-10-24T14:32:21-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+        "resumen": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&#38;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&#38;B [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+        "publicado": "2026-10-24T11:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+        "resumen": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+        "publicado": "2026-10-24T11:00:00-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7623.68,
+      "cambio_pct": -0.52,
+      "cierre_anterior": 7663.43,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 2.86,
+      "historico_fechas": [
+        "2026-07-24",
+        "2026-07-27",
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25955.34,
+      "cambio_pct": -0.21,
+      "cierre_anterior": 26008.86,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        26430.89,
+        26424.82,
+        26702.86,
+        26008.86,
+        25955.34
+      ]
+    },
+    "dow": {
+      "ultimo": 52215.16,
+      "cambio_pct": -1.23,
+      "cierre_anterior": 52867.98,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        51966.03,
+        52495.88,
+        52856.09,
+        52867.98,
+        52215.16
+      ]
+    },
+    "vix": {
+      "ultimo": 19.45,
+      "cambio_pct": 2.21,
+      "cierre_anterior": 19.03,
+      "historico_fechas": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        18.44,
+        17.31,
+        16.68,
+        19.03,
+        19.45
+      ]
+    },
+    "oro": {
+      "ultimo": 4007.9,
+      "cambio_pct": -1.29,
+      "cierre_anterior": 4060.4,
+      "historico_fechas": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 103.27,
+      "cambio_pct": 3.82,
+      "cierre_anterior": 99.47,
+      "historico_fechas": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        101.79,
+        97.15,
+        99.47,
+        103.27
+      ]
+    },
+    "btc": {
+      "ultimo": 80448.38,
+      "cambio_pct": -0.42,
+      "cierre_anterior": 80790.84,
+      "historico_fechas": [
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "historico_cierres": [
+        84011.97,
+        81311.89,
+        81074.19,
+        80790.84,
+        80448.38
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.81,
+      "cambio_pct": 0.2,
+      "cierre_anterior": 101.61,
+      "historico_fechas": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23"
+      ],
+      "historico_cierres": [
+        101.73,
+        101.78,
+        101.61,
+        101.81
+      ]
+    }
+  }
+}
