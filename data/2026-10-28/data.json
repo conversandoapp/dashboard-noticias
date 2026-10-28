@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-10-28",
+  "generado_en": "2026-10-28T17:01:09.927438Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Key points at a glance",
+        "resumen": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:55:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Chris Mason: Budget felt cautious despite its range of small measures",
+        "resumen": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:52:16 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Will I get the £100 energy payment and when will I receive it?",
+        "resumen": "Here is what you need to know about the payment that millions will receive from January.",
+        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:30:53 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "How the Budget affects you",
+        "resumen": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:43:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: What are the main points from the Budget and how will they be funded?",
+        "resumen": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:12:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: At the scene of Spain's deadly train crash",
+        "resumen": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+        "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:45:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Your pay, energy bills and savings: How the Budget affects you",
+        "resumen": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:43:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will I get the £100 energy payment and when will I receive it?",
+        "resumen": "Here is what you need to know about the payment that millions will receive from January.",
+        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:30:53 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The one thing that didn't change that will affect your pay the most",
+        "resumen": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+        "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:55:03 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Budget 2026: Key points at a glance",
+        "resumen": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 16:55:27 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'An annoying buzz': The search for stealthier drones",
+        "resumen": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 00:01:10 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How much is the minimum wage going up by?",
+        "resumen": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+        "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 28 Oct 2026 14:53:29 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Xreal Aura is a new wired headset powered by Android XR",
+        "resumen": "Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+        "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+        "publicado": "Wed, 28 Oct 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "resumen": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "publicado": "Wed, 28 Oct 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "resumen": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "publicado": "Wed, 28 Oct 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Reddit is the latest platform to embrace the ‘For You’ feed",
+        "resumen": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+        "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+        "publicado": "Wed, 28 Oct 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "AI execs may be too out of touch to build for the general public",
+        "resumen": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "publicado": "Wed, 28 Oct 2026 15:53:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump DOE loans $5B to nuclear plants that will power data centers",
+        "resumen": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+        "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+        "publicado": "Wed, 28 Oct 2026 15:53:21 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+        "resumen": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [&",
+        "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+        "publicado": "2026-10-28T13:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+        "resumen": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today [&#8230;]",
+        "url": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+        "publicado": "2026-10-28T12:33:32-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "All the news from Apple’s ‘Pro and tell’ event",
+        "resumen": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could feature yet another [&#8230;]",
+        "url": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+        "publicado": "2026-10-28T12:30:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+        "resumen": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" [&#8230;]",
+        "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+        "publicado": "2026-10-28T12:15:30-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Reddit is getting a For You feed",
+        "resumen": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For You feed that includes posts from your subreddits and \"recommendations related to your interests.\" You may already [&#8230;]",
+        "url": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+        "publicado": "2026-10-28T12:00:00-04:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Govee’s colorful smart string lights are down to their best price of the year",
+        "resumen": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or whatever else to stand out this year, Govee’s Christmas String Lights 2 are on sale starting at $74.99 ($25 off) at [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+        "publicado": "2026-10-28T11:34:43-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7742.88,
+      "cambio_pct": 0.26,
+      "cierre_anterior": 7722.6,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7316.15,
+      "rendimiento_periodo_pct": 4.23,
+      "historico_fechas": [
+        "2026-07-28",
+        "2026-07-29",
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7742.88
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 26500.76,
+      "cambio_pct": 0.09,
+      "cierre_anterior": 26477.81,
+      "historico_fechas": [
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        26008.86,
+        25955.34,
+        26169.38,
+        26477.81,
+        26500.76
+      ]
+    },
+    "dow": {
+      "ultimo": 52543.12,
+      "cambio_pct": 0.32,
+      "cierre_anterior": 52377.57,
+      "historico_fechas": [
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        52867.98,
+        52215.16,
+        52361.58,
+        52377.57,
+        52543.12
+      ]
+    },
+    "vix": {
+      "ultimo": 17.36,
+      "cambio_pct": -0.91,
+      "cierre_anterior": 17.52,
+      "historico_fechas": [
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        19.03,
+        19.45,
+        18.39,
+        17.52,
+        17.36
+      ]
+    },
+    "oro": {
+      "ultimo": 4052.2,
+      "cambio_pct": -0.55,
+      "cierre_anterior": 4074.6,
+      "historico_fechas": [
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        4007.9,
+        4038.4,
+        4074.6,
+        4052.2
+      ]
+    },
+    "petroleo": {
+      "ultimo": 103.52,
+      "cambio_pct": 3.62,
+      "cierre_anterior": 99.9,
+      "historico_fechas": [
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        103.27,
+        101.76,
+        99.9,
+        103.52
+      ]
+    },
+    "btc": {
+      "ultimo": 80436.67,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 80805.08,
+      "historico_fechas": [
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        80790.84,
+        80024.01,
+        80006.66,
+        80805.08,
+        80436.67
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.28,
+      "cambio_pct": -0.04,
+      "cierre_anterior": 102.32,
+      "historico_fechas": [
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ],
+      "historico_cierres": [
+        101.81,
+        101.96,
+        102.32,
+        102.28
+      ]
+    }
+  }
+}
