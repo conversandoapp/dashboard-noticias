@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-11-01",
+  "generado_en": "2026-11-01T17:00:42.420534Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Shops looted as German cost-of-living protests turn violent",
+        "resumen": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 11:57:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Healey risks breaking minimum wage promise for younger workers",
+        "resumen": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+        "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 11:05:40 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Five teenagers stabbed at Halloween party",
+        "resumen": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 15:01:31 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "University of Cambridge scientist among those who died in Spanish train crash",
+        "resumen": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 13:41:05 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+        "resumen": "His family describe the night police told them of his death, and watching him being handcuffed.",
+        "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 16:44:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+        "resumen": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+        "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 14:11:35 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+        "resumen": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 00:17:05 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "resumen": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sun, 01 Nov 2026 13:11:37 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "resumen": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 30 Oct 2026 20:34:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What we know about Binance's $6.3bn hack",
+        "resumen": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+        "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 30 Oct 2026 12:27:28 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "City of London chief tops UK Black Powerlist",
+        "resumen": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 30 Oct 2026 18:00:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How video game remakes tap the power of nostalgia",
+        "resumen": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 30 Oct 2026 07:45:00 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Binance resumes withdrawals following $6.3 billion breach",
+        "resumen": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+        "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+        "publicado": "Sun, 01 Nov 2026 16:20:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+        "resumen": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+        "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+        "publicado": "Sun, 01 Nov 2026 15:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+        "resumen": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+        "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+        "publicado": "Sun, 01 Nov 2026 14:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Data centers are now a midterm issue, even in Brooklyn",
+        "resumen": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+        "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "publicado": "Sun, 01 Nov 2026 02:22:10 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "resumen": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "publicado": "Sat, 31 Oct 2026 21:41:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "resumen": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "publicado": "Sat, 31 Oct 2026 21:36:07 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "A fully playable version of Portal prequel F-Stop leaked",
+        "resumen": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version [&#8230;]",
+        "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+        "publicado": "2026-11-01T11:19:21-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "North Korea linked to massive Binance crypto heist",
+        "resumen": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other [&#8230;]",
+        "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+        "publicado": "2026-11-01T09:33:11-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "HomePod Mini 2 first look: Three things I love and one disappointment",
+        "resumen": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [&#8230;]",
+        "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "publicado": "2026-11-01T09:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "New Zelda and GTA represent a games industry that no longer exists",
+        "resumen": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The two biggest games of [&#8230;]",
+        "url": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+        "publicado": "2026-11-01T08:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Prop 45 in California could be hiding a loophole for data centers",
+        "resumen": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponent",
+        "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+        "publicado": "2026-11-01T08:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Get in the spooky spirit with these horrors from YouTube",
+        "resumen": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+        "publicado": "2026-10-31T17:06:58-04:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7580.07,
+      "cambio_pct": -1.82,
+      "cierre_anterior": 7720.39,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7489.72,
+      "rendimiento_periodo_pct": 1.21,
+      "historico_fechas": [
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25437.0,
+      "cambio_pct": -2.86,
+      "cierre_anterior": 26184.72,
+      "historico_fechas": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        26169.38,
+        26477.81,
+        26549.85,
+        26184.72,
+        25437.0
+      ]
+    },
+    "dow": {
+      "ultimo": 51770.31,
+      "cambio_pct": -1.09,
+      "cierre_anterior": 52342.56,
+      "historico_fechas": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        52361.58,
+        52377.57,
+        52475.1,
+        52342.56,
+        51770.31
+      ]
+    },
+    "vix": {
+      "ultimo": 19.42,
+      "cambio_pct": 12.91,
+      "cierre_anterior": 17.2,
+      "historico_fechas": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        18.39,
+        17.52,
+        16.91,
+        17.2,
+        19.42
+      ]
+    },
+    "oro": {
+      "ultimo": 3898.9,
+      "cambio_pct": -3.29,
+      "cierre_anterior": 4031.4,
+      "historico_fechas": [
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 104.12,
+      "cambio_pct": 2.08,
+      "cierre_anterior": 102.0,
+      "historico_fechas": [
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        99.9,
+        102.78,
+        102.0,
+        104.12
+      ]
+    },
+    "btc": {
+      "ultimo": 78021.51,
+      "cambio_pct": 0.76,
+      "cierre_anterior": 77434.75,
+      "historico_fechas": [
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "historico_cierres": [
+        81267.59,
+        77775.11,
+        77198.21,
+        77434.75,
+        78021.51
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.88,
+      "cambio_pct": -0.16,
+      "cierre_anterior": 102.04,
+      "historico_fechas": [
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30"
+      ],
+      "historico_cierres": [
+        102.32,
+        102.19,
+        102.04,
+        101.88
+      ]
+    }
+  }
+}
