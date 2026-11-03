@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-11-03",
+  "generado_en": "2026-11-03T18:14:56.475334Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "How the US midterm results could unfold - as millions of Americans head to the polls",
+        "resumen": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+        "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 10:32:56 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Seven flights across Europe targeted by suspected bomb threats",
+        "resumen": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 17:56:03 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+        "resumen": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+        "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 17:04:02 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+        "resumen": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+        "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 16:34:33 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+        "resumen": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 16:57:41 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+        "resumen": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
+        "url": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 16:13:45 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "resumen": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 12:07:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Drivers may get compensation offers before car finance saga ends",
+        "resumen": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 11:56:31 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Mining giant joins fight to stop killer toad march across Australia",
+        "resumen": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 15:05:01 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Asda hires ex-Morrisons boss in bid to grow firm",
+        "resumen": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 15:12:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "'Quiet quitting' could be hitting the economy - here's why",
+        "resumen": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
+        "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 11:15:51 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+        "resumen": "The men and women who rummage through commercial bins to take clothes and other items.",
+        "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 03 Nov 2026 07:50:14 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+        "resumen": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+        "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+        "publicado": "Tue, 03 Nov 2026 17:56:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic is still grappling with the economics of compute",
+        "resumen": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "publicado": "Tue, 03 Nov 2026 17:07:01 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+        "resumen": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+        "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+        "publicado": "Tue, 03 Nov 2026 16:49:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "resumen": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+        "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+        "publicado": "Tue, 03 Nov 2026 16:30:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+        "resumen": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+        "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+        "publicado": "Tue, 03 Nov 2026 16:04:55 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple restricts dating apps and AI companions to users 18 and up",
+        "resumen": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+        "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "publicado": "Tue, 03 Nov 2026 15:38:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
+        "resumen": "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several years. In her review, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1025498/google-home-smart-speaker-holiday-2026-deal-sale",
+        "publicado": "2026-11-03T13:11:49-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+        "resumen": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [&#8230;]",
+        "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+        "publicado": "2026-11-03T13:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+        "resumen": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like [&#8230;]",
+        "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+        "publicado": "2026-11-03T12:27:52-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Xbox Nano has a hidden cloud secret",
+        "resumen": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The [&#8230;]",
+        "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+        "publicado": "2026-11-03T12:16:04-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+        "resumen": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts [&#8230;]",
+        "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "publicado": "2026-11-03T12:00:04-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Xbox’s smallest-ever controller is surprisingly comfortable",
+        "resumen": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or for anyone with smaller hands. I'm not young, but I do [&#8230;]",
+        "url": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+        "publicado": "2026-11-03T12:00:00-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7590.78,
+      "cambio_pct": 0.65,
+      "cierre_anterior": 7541.4,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7541.4,
+      "rendimiento_periodo_pct": -0.13,
+      "historico_fechas": [
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7590.78
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25467.1,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 25164.31,
+      "historico_fechas": [
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        26549.85,
+        26184.72,
+        25437.0,
+        25164.31,
+        25467.1
+      ]
+    },
+    "dow": {
+      "ultimo": 51860.21,
+      "cambio_pct": -0.24,
+      "cierre_anterior": 51983.98,
+      "historico_fechas": [
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        52475.1,
+        52342.56,
+        51770.31,
+        51983.98,
+        51860.21
+      ]
+    },
+    "vix": {
+      "ultimo": 20.68,
+      "cambio_pct": -2.22,
+      "cierre_anterior": 21.15,
+      "historico_fechas": [
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        16.91,
+        17.2,
+        19.42,
+        21.15,
+        20.68
+      ]
+    },
+    "oro": {
+      "ultimo": 3942.0,
+      "cambio_pct": -0.7,
+      "cierre_anterior": 3969.6,
+      "historico_fechas": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        4031.4,
+        3898.9,
+        3969.6,
+        3942.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 96.04,
+      "cambio_pct": -0.44,
+      "cierre_anterior": 96.46,
+      "historico_fechas": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        102.0,
+        104.12,
+        96.46,
+        96.04
+      ]
+    },
+    "btc": {
+      "ultimo": 77599.59,
+      "cambio_pct": 1.2,
+      "cierre_anterior": 76677.3,
+      "historico_fechas": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        77198.21,
+        77434.75,
+        78248.45,
+        76677.3,
+        77599.59
+      ]
+    },
+    "dxy": {
+      "ultimo": 101.79,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 101.75,
+      "historico_fechas": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03"
+      ],
+      "historico_cierres": [
+        102.04,
+        101.88,
+        101.75,
+        101.79
+      ]
+    }
+  }
+}
