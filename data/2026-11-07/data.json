@@ -1,0 +1,457 @@
+{
+  "fecha": "2026-11-07",
+  "generado_en": "2026-11-07T16:45:35.745138Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "resumen": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+        "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 15:19:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Victims in rape cases must not feel like they are on trial, Burnham says",
+        "resumen": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 11:04:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "resumen": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+        "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 16:25:55 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two men arrested after boy injured in sword attack",
+        "resumen": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 15:10:54 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "No clear winner after tight New Zealand general election",
+        "resumen": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 15:56:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+        "resumen": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Sat, 07 Nov 2026 00:31:54 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "AI stocks climb after trillions wiped from market values",
+        "resumen": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 21:06:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why the US midterms sparked an AI stock selloff",
+        "resumen": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+        "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 18:32:16 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How does it affect me if share prices fall?",
+        "resumen": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+        "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 09:21:50 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+        "resumen": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 17:19:38 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "resumen": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 21:49:50 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The engine parts that 'fight the laws of the universe'",
+        "resumen": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Fri, 06 Nov 2026 00:06:06 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Sequoia shutting down its Scouts program marks the end of an era",
+        "resumen": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+        "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+        "publicado": "Sat, 07 Nov 2026 05:01:54 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "From the front row to the hot seat — what the midterms mean for Big Tech",
+        "resumen": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+        "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+        "publicado": "Sat, 07 Nov 2026 04:16:43 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Crusoe sells troubled Wyoming data center project to Google",
+        "resumen": "The deal highlights the challenges of developing massive AI data centers.",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "publicado": "Sat, 07 Nov 2026 01:40:28 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "resumen": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "publicado": "Fri, 06 Nov 2026 22:53:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The Duo apps are coming, says Apple",
+        "resumen": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+        "publicado": "Fri, 06 Nov 2026 21:38:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "resumen": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "publicado": "Fri, 06 Nov 2026 18:44:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Costco members can get $5 off the reimagined Ocarina of Time",
+        "resumen": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+        "publicado": "2026-11-07T11:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+        "resumen": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions [&#8230;]",
+        "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+        "publicado": "2026-11-07T11:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "resumen": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "publicado": "2026-11-07T10:50:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The US let Nvidia sell chips to an empty office in China",
+        "resumen": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "publicado": "2026-11-07T10:43:45-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "AI broke the cybersecurity world. What’s next?",
+        "resumen": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "publicado": "2026-11-07T10:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Good riddance, Cybertruck!",
+        "resumen": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+        "publicado": "2026-11-07T09:40:06-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7376.86,
+      "cambio_pct": 0.31,
+      "cierre_anterior": 7353.73,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7353.73,
+      "rendimiento_periodo_pct": -4.91,
+      "historico_fechas": [
+        "2026-08-07",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24579.43,
+      "cambio_pct": 1.09,
+      "cierre_anterior": 24315.0,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        25164.31,
+        25372.01,
+        25736.51,
+        24315.0,
+        24579.43
+      ]
+    },
+    "dow": {
+      "ultimo": 51285.73,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 51523.06,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        51983.98,
+        51786.72,
+        53356.12,
+        51523.06,
+        51285.73
+      ]
+    },
+    "vix": {
+      "ultimo": 25.64,
+      "cambio_pct": -9.01,
+      "cierre_anterior": 28.18,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        21.15,
+        20.83,
+        16.61,
+        28.18,
+        25.64
+      ]
+    },
+    "oro": {
+      "ultimo": 4074.9,
+      "cambio_pct": -0.94,
+      "cierre_anterior": 4113.5,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9
+      ]
+    },
+    "petroleo": {
+      "ultimo": 90.83,
+      "cambio_pct": 0.34,
+      "cierre_anterior": 90.52,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        96.46,
+        96.09,
+        88.12,
+        90.52,
+        90.83
+      ]
+    },
+    "btc": {
+      "ultimo": 75681.93,
+      "cambio_pct": -0.09,
+      "cierre_anterior": 75746.93,
+      "historico_fechas": [
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "historico_cierres": [
+        77345.05,
+        80405.29,
+        75942.12,
+        75746.93,
+        75681.93
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.3,
+      "cambio_pct": 0.74,
+      "cierre_anterior": 101.55,
+      "historico_fechas": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ],
+      "historico_cierres": [
+        101.75,
+        101.87,
+        101.51,
+        101.55,
+        102.3
+      ]
+    }
+  }
+}
