@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-11-10",
+  "generado_en": "2026-11-10T18:29:47.713935Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Inside devastated front-line city that Russia wants Ukraine to give up",
+        "resumen": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 17:00:11 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Arrests made in Mohamed Al Fayed probe in France, police say",
+        "resumen": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 16:19:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Train attack driver had '10 seconds' to change line",
+        "resumen": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 16:56:26 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+        "resumen": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 15:10:20 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: Meghan's first public appearance since father arrested",
+        "resumen": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
+        "url": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 11:57:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "More than 12 US military aircraft leave second UK base",
+        "resumen": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 17:22:14 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+        "resumen": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 17:56:12 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+        "resumen": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 15:10:20 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "resumen": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 08:23:21 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US inflation higher than expected in October - here's what is happening with prices",
+        "resumen": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 14:45:46 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+        "resumen": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+        "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 17:04:55 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "I took Vinted to court to get my money back",
+        "resumen": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+        "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 10 Nov 2026 00:27:37 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "resumen": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+        "publicado": "Tue, 10 Nov 2026 17:30:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "resumen": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "publicado": "Tue, 10 Nov 2026 17:04:19 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+        "resumen": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
+        "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+        "publicado": "Tue, 10 Nov 2026 16:50:38 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Apple TV makes sign language interpretation a built-in accessibility feature",
+        "resumen": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+        "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+        "publicado": "Tue, 10 Nov 2026 16:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "resumen": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+        "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "publicado": "Tue, 10 Nov 2026 15:54:08 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+        "resumen": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+        "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+        "publicado": "Tue, 10 Nov 2026 15:45:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "ChatGPT is getting verified AI ‘Business Agents’",
+        "resumen": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+        "publicado": "2026-11-10T13:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+        "resumen": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention is the addition [&#8230;]",
+        "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+        "publicado": "2026-11-10T12:43:49-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The indie game community is in disarray over AI and Big Walk",
+        "resumen": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult [&#8230;]",
+        "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+        "publicado": "2026-11-10T12:32:47-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Google Fi is bringing back multiple cell network support for better coverage",
+        "resumen": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs disabled. When Google Fi first [&#8230;]",
+        "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+        "publicado": "2026-11-10T12:32:39-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Anthropic has its own AI-powered office suite now",
+        "resumen": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+        "publicado": "2026-11-10T12:30:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "eBay appears to have shut the door on third-party AI agents",
+        "resumen": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
+        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "publicado": "2026-11-10T11:20:30-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7484.46,
+      "cambio_pct": -0.87,
+      "cierre_anterior": 7549.94,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7353.73,
+      "rendimiento_periodo_pct": -3.47,
+      "historico_fechas": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7484.46
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24891.95,
+      "cambio_pct": -1.43,
+      "cierre_anterior": 25253.14,
+      "historico_fechas": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        25736.51,
+        24315.0,
+        24579.43,
+        25253.14,
+        24891.95
+      ]
+    },
+    "dow": {
+      "ultimo": 52076.35,
+      "cambio_pct": -0.6,
+      "cierre_anterior": 52389.75,
+      "historico_fechas": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        53356.12,
+        51523.06,
+        51285.73,
+        52389.75,
+        52076.35
+      ]
+    },
+    "vix": {
+      "ultimo": 20.86,
+      "cambio_pct": 4.72,
+      "cierre_anterior": 19.92,
+      "historico_fechas": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        16.61,
+        28.18,
+        25.64,
+        19.92,
+        20.86
+      ]
+    },
+    "oro": {
+      "ultimo": 4027.4,
+      "cambio_pct": -2.12,
+      "cierre_anterior": 4114.5,
+      "historico_fechas": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        4113.5,
+        4074.9,
+        4114.5,
+        4027.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 86.23,
+      "cambio_pct": -0.71,
+      "cierre_anterior": 86.85,
+      "historico_fechas": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        90.52,
+        90.83,
+        86.85,
+        86.23
+      ]
+    },
+    "btc": {
+      "ultimo": 73232.0,
+      "cambio_pct": -2.65,
+      "cierre_anterior": 75223.15,
+      "historico_fechas": [
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        75746.93,
+        75747.58,
+        74584.65,
+        75223.15,
+        73232.0
+      ]
+    },
+    "dxy": {
+      "ultimo": 102.32,
+      "cambio_pct": 0.66,
+      "cierre_anterior": 101.65,
+      "historico_fechas": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ],
+      "historico_cierres": [
+        101.55,
+        102.3,
+        101.65,
+        102.32
+      ]
+    }
+  }
+}
