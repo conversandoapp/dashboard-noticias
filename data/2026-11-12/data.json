@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-11-12",
+  "generado_en": "2026-11-12T18:43:12.291923Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+        "resumen": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 16:43:36 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "resumen": "The UK is seeing impressive growth, but will it last?",
+        "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 13:27:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Some childhood offenders may no longer have to reveal convictions to employers",
+        "resumen": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 17:24:48 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Can Burnham avoid another Labour welfare rebellion?",
+        "resumen": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government.",
+        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 18:21:38 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "resumen": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+        "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 13:02:46 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+        "resumen": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 18:28:59 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+        "resumen": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 17:11:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+        "resumen": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 15:10:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Faisal Islam: Why the UK economy is surprisingly resilient",
+        "resumen": "The UK is seeing impressive growth, but will it last?",
+        "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 13:27:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "UK economy grows at fastest rate for more than two years",
+        "resumen": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+        "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 11:20:25 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+        "resumen": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 14:29:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
+        "resumen": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 12 Nov 2026 17:32:14 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+        "resumen": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+        "publicado": "Thu, 12 Nov 2026 18:39:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "resumen": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "publicado": "Thu, 12 Nov 2026 17:36:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+        "resumen": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+        "publicado": "Thu, 12 Nov 2026 17:17:58 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+        "resumen": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+        "publicado": "Thu, 12 Nov 2026 17:00:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+        "resumen": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+        "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+        "publicado": "Thu, 12 Nov 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Jensen Huang agrees to testify before Congress",
+        "resumen": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+        "publicado": "Thu, 12 Nov 2026 16:36:37 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Oh, Palantir is ‘progressive’ now, is it?",
+        "resumen": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+        "publicado": "2026-11-12T13:06:54-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Jensen Huang scandal is hardly over",
+        "resumen": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+        "publicado": "2026-11-12T12:44:33-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+        "resumen": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy [&#8230;]",
+        "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+        "publicado": "2026-11-12T12:00:17-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "25 years later, Xbox is trying to reinvent itself again",
+        "resumen": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]",
+        "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+        "publicado": "2026-11-12T12:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "AI chatbots are recommending fake retail websites, study finds",
+        "resumen": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+        "publicado": "2026-11-12T12:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "More game developers are starting to use generative AI",
+        "resumen": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
+        "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+        "publicado": "2026-11-12T12:00:00-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7625.11,
+      "cambio_pct": 0.08,
+      "cierre_anterior": 7619.38,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7353.73,
+      "rendimiento_periodo_pct": -1.59,
+      "historico_fechas": [
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7625.11
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 25464.77,
+      "cambio_pct": -0.01,
+      "cierre_anterior": 25466.19,
+      "historico_fechas": [
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        24579.43,
+        25253.14,
+        25065.87,
+        25466.19,
+        25464.77
+      ]
+    },
+    "dow": {
+      "ultimo": 52578.95,
+      "cambio_pct": 0.18,
+      "cierre_anterior": 52486.49,
+      "historico_fechas": [
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        51285.73,
+        52389.75,
+        52231.89,
+        52486.49,
+        52578.95
+      ]
+    },
+    "vix": {
+      "ultimo": 17.74,
+      "cambio_pct": 1.43,
+      "cierre_anterior": 17.49,
+      "historico_fechas": [
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        25.64,
+        19.92,
+        19.46,
+        17.49,
+        17.74
+      ]
+    },
+    "oro": {
+      "ultimo": 3885.4,
+      "cambio_pct": -2.88,
+      "cierre_anterior": 4000.5,
+      "historico_fechas": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 88.29,
+      "cambio_pct": 2.03,
+      "cierre_anterior": 86.53,
+      "historico_fechas": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        86.85,
+        86.04,
+        86.53,
+        88.29
+      ]
+    },
+    "btc": {
+      "ultimo": 71828.86,
+      "cambio_pct": -2.89,
+      "cierre_anterior": 73964.47,
+      "historico_fechas": [
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        74584.65,
+        75223.15,
+        73720.12,
+        73964.47,
+        71828.86
+      ]
+    },
+    "dxy": {
+      "ultimo": 103.19,
+      "cambio_pct": 0.27,
+      "cierre_anterior": 102.91,
+      "historico_fechas": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12"
+      ],
+      "historico_cierres": [
+        101.65,
+        102.23,
+        102.91,
+        103.19
+      ]
+    }
+  }
+}
