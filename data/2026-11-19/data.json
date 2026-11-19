@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-11-19",
+  "generado_en": "2026-11-19T19:22:17.406312Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Men guilty of abusing woman drugged and advertised for sex by husband",
+        "resumen": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
+        "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 17:42:25 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'You can be believed and understood': Joanne Young speaks after verdict",
+        "resumen": "Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.",
+        "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 16:44:22 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "resumen": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+        "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 16:55:57 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+        "resumen": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
+        "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 12:47:27 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+        "resumen": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+        "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 17:23:29 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+        "resumen": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+        "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 12:17:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "resumen": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 18 Nov 2026 21:28:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
+        "resumen": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 18 Nov 2026 23:42:07 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+        "resumen": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 00:00:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+        "resumen": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 13:35:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Europe plans to catch the next computer chip wave",
+        "resumen": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+        "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 18 Nov 2026 00:00:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+        "resumen": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+        "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Thu, 19 Nov 2026 00:05:31 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic’s IPO could deliver $156 billion to charity",
+        "resumen": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+        "publicado": "Thu, 19 Nov 2026 19:10:45 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Google gives Gemini the ability to use your Mac for you",
+        "resumen": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "publicado": "Thu, 19 Nov 2026 18:09:11 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "resumen": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "publicado": "Thu, 19 Nov 2026 17:38:40 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+        "resumen": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+        "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+        "publicado": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+        "resumen": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+        "publicado": "Thu, 19 Nov 2026 16:59:23 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "resumen": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+        "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "publicado": "Thu, 19 Nov 2026 16:19:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Some creators are skeptical of Instagram’s new affiliate program",
+        "resumen": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
+        "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+        "publicado": "2026-11-19T14:12:30-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+        "resumen": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+        "publicado": "2026-11-19T13:33:08-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Gemini on Mac can now use your computer",
+        "resumen": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "publicado": "2026-11-19T13:21:13-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Leaked images reveal Motorola’s wide foldable",
+        "resumen": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its [&#8230;]",
+        "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+        "publicado": "2026-11-19T13:19:03-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Oh, Elon Musk is ‘moderate’ now, is he?",
+        "resumen": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. \"I think I'm ideologically quite moderate. [&#8230;]",
+        "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+        "publicado": "2026-11-19T13:15:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple’s iPhone camera leader has reportedly left the company",
+        "resumen": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, [&#8230;]",
+        "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+        "publicado": "2026-11-19T13:13:05-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7215.23,
+      "cambio_pct": -1.48,
+      "cierre_anterior": 7323.63,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 7215.23,
+      "rendimiento_periodo_pct": -6.39,
+      "historico_fechas": [
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7215.23
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24054.61,
+      "cambio_pct": -1.54,
+      "cierre_anterior": 24429.88,
+      "historico_fechas": [
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        25136.27,
+        24509.76,
+        24328.38,
+        24429.88,
+        24054.61
+      ]
+    },
+    "dow": {
+      "ultimo": 49309.37,
+      "cambio_pct": -1.77,
+      "cierre_anterior": 50198.17,
+      "historico_fechas": [
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        52347.55,
+        51608.17,
+        50759.42,
+        50198.17,
+        49309.37
+      ]
+    },
+    "vix": {
+      "ultimo": 27.71,
+      "cambio_pct": 12.83,
+      "cierre_anterior": 24.56,
+      "historico_fechas": [
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        19.3,
+        22.91,
+        25.46,
+        24.56,
+        27.71
+      ]
+    },
+    "oro": {
+      "ultimo": 3676.1,
+      "cambio_pct": -1.76,
+      "cierre_anterior": 3741.9,
+      "historico_fechas": [
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        3853.0,
+        3864.2,
+        3741.9,
+        3676.1
+      ]
+    },
+    "petroleo": {
+      "ultimo": 82.91,
+      "cambio_pct": -0.42,
+      "cierre_anterior": 83.26,
+      "historico_fechas": [
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        85.72,
+        86.01,
+        83.26,
+        82.91
+      ]
+    },
+    "btc": {
+      "ultimo": 62729.52,
+      "cambio_pct": -0.41,
+      "cierre_anterior": 62987.27,
+      "historico_fechas": [
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        65305.06,
+        64855.84,
+        64893.95,
+        62987.27,
+        62729.52
+      ]
+    },
+    "dxy": {
+      "ultimo": 103.88,
+      "cambio_pct": 0.02,
+      "cierre_anterior": 103.86,
+      "historico_fechas": [
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19"
+      ],
+      "historico_cierres": [
+        103.55,
+        103.49,
+        103.86,
+        103.88
+      ]
+    }
+  }
+}
