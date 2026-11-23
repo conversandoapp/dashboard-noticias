@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-11-23",
+  "generado_en": "2026-11-23T22:28:09.882654Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "My approach to EU is pragmatic, says Burnham",
+        "resumen": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\".",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 19:10:44 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "resumen": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 20:48:35 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+        "resumen": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+        "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 20:49:08 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+        "resumen": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+        "url": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 22:01:09 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "UK to host 2035 Women's World Cup, Fifa confirms",
+        "resumen": "The United Kingdom will host a football World Cup for the first time since 1966.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 15:09:50 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
+        "resumen": "The former Duke of York is expected to give evidence in the complex court case next month.",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 19:36:56 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Faisal Islam: Why Jensen Huang proved too big to fire",
+        "resumen": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 17:11:58 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+        "resumen": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 21:23:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "How important are Nvidia and Jensen Huang to the US economy?",
+        "resumen": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 16:12:35 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The rise and fall and rise again of Jensen Huang",
+        "resumen": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 15:49:52 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "resumen": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 00:08:00 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+        "resumen": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
+        "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Mon, 23 Nov 2026 11:24:37 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "resumen": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "publicado": "Mon, 23 Nov 2026 22:05:50 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "resumen": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "publicado": "Mon, 23 Nov 2026 22:02:05 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "resumen": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "publicado": "Mon, 23 Nov 2026 21:47:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "resumen": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "publicado": "Mon, 23 Nov 2026 21:25:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "resumen": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "publicado": "Mon, 23 Nov 2026 20:38:53 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+        "resumen": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
+        "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+        "publicado": "Mon, 23 Nov 2026 19:31:41 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Trump engineered a risky comeback for Jensen Huang",
+        "resumen": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+        "publicado": "2026-11-23T17:25:12-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Nvidia CEO Jensen Huang is back. What happens next?",
+        "resumen": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "publicado": "2026-11-23T17:10:32-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Welcome to elite impunity, Jensen Huang",
+        "resumen": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+        "publicado": "2026-11-23T17:09:26-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+        "resumen": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+        "publicado": "2026-11-23T16:36:48-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "AI data centers throw another wrench into chaotic UN climate talks",
+        "resumen": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees [&#8230;]",
+        "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+        "publicado": "2026-11-23T16:09:37-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Apple renews Ted Lasso for season 5",
+        "resumen": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when it might debut. [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+        "publicado": "2026-11-23T15:56:00-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7237.17,
+      "cambio_pct": 4.73,
+      "cierre_anterior": 6910.39,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 6910.39,
+      "rendimiento_periodo_pct": -5.43,
+      "historico_fechas": [
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83,
+        6910.39,
+        7237.17
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 24089.56,
+      "cambio_pct": 6.51,
+      "cierre_anterior": 22617.73,
+      "historico_fechas": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        24328.38,
+        24429.88,
+        23879.2,
+        22617.73,
+        24089.56
+      ]
+    },
+    "dow": {
+      "ultimo": 49595.31,
+      "cambio_pct": 3.01,
+      "cierre_anterior": 48147.33,
+      "historico_fechas": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        50759.42,
+        50198.17,
+        49097.06,
+        48147.33,
+        49595.31
+      ]
+    },
+    "vix": {
+      "ultimo": 26.62,
+      "cambio_pct": -25.83,
+      "cierre_anterior": 35.89,
+      "historico_fechas": [
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        25.46,
+        24.56,
+        28.44,
+        35.89,
+        26.62
+      ]
+    },
+    "oro": {
+      "ultimo": 3634.4,
+      "cambio_pct": 3.39,
+      "cierre_anterior": 3515.4,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        3741.9,
+        3685.5,
+        3515.4,
+        3634.4
+      ]
+    },
+    "petroleo": {
+      "ultimo": 80.25,
+      "cambio_pct": -4.44,
+      "cierre_anterior": 83.98,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        83.26,
+        83.21,
+        83.98,
+        80.25
+      ]
+    },
+    "btc": {
+      "ultimo": 61187.39,
+      "cambio_pct": 0.04,
+      "cierre_anterior": 61161.91,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        61901.82,
+        58798.98,
+        60094.09,
+        61161.91,
+        61187.39
+      ]
+    },
+    "dxy": {
+      "ultimo": 104.35,
+      "cambio_pct": 0.52,
+      "cierre_anterior": 103.81,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23"
+      ],
+      "historico_cierres": [
+        103.86,
+        103.9,
+        103.81,
+        104.35
+      ]
+    }
+  }
+}
