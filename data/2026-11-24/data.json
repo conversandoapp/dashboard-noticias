@@ -1,0 +1,451 @@
+{
+  "fecha": "2026-11-24",
+  "generado_en": "2026-11-24T21:00:12.642623Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Disability benefit review calls for closer link with claimant costs",
+        "resumen": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 19:49:04 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+        "resumen": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 16:19:29 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US attorney general dodges questions about Nvidia investigation",
+        "resumen": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 18:55:59 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "resumen": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 18:21:43 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Substance released at Manchester concert could be linked to robberies, police say",
+        "resumen": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 20:10:14 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+        "resumen": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 17:39:32 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "resumen": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 18:21:43 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US attorney general dodges questions about Nvidia investigation",
+        "resumen": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 18:55:59 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Will I get the £100 energy payment and when will I receive it?",
+        "resumen": "Here is what you need to know about the payment that millions will receive from January.",
+        "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 20:16:24 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "The shake-up facing renters as a new kind of landlord emerges",
+        "resumen": "Companies building flats that they then rent out could usher in big changes for renters.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 00:28:48 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+        "resumen": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+        "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 00:11:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "resumen": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Tue, 24 Nov 2026 10:53:37 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "resumen": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "publicado": "Tue, 24 Nov 2026 18:30:42 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "resumen": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "publicado": "Tue, 24 Nov 2026 18:02:59 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+        "resumen": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+        "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+        "publicado": "Tue, 24 Nov 2026 17:44:34 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+        "resumen": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+        "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+        "publicado": "Tue, 24 Nov 2026 17:29:09 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "resumen": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "publicado": "Tue, 24 Nov 2026 17:00:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "resumen": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "publicado": "Tue, 24 Nov 2026 16:46:00 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "TikTok was down",
+        "resumen": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying [&#8230;]",
+        "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+        "publicado": "2026-11-24T15:27:27-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+        "resumen": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+        "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+        "publicado": "2026-11-24T15:02:03-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The clock is running out for America’s most contentious spying law",
+        "resumen": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization [&#8230;]",
+        "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+        "publicado": "2026-11-24T15:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Amazon is knocking almost $50 off six months of Apple TV",
+        "resumen": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+        "publicado": "2026-11-24T14:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+        "resumen": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it manually [&#8230;]",
+        "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+        "publicado": "2026-11-24T13:44:57-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "resumen": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+        "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "publicado": "2026-11-24T13:15:00-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7201.69,
+      "cambio_pct": -0.49,
+      "cierre_anterior": 7237.17,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 6910.39,
+      "rendimiento_periodo_pct": -6.19,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83,
+        6910.39,
+        7237.17,
+        7201.69
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 23733.54,
+      "cambio_pct": -1.48,
+      "cierre_anterior": 24089.56,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        24429.88,
+        23879.2,
+        22617.73,
+        24089.56,
+        23733.54
+      ]
+    },
+    "dow": {
+      "ultimo": 50021.91,
+      "cambio_pct": 0.86,
+      "cierre_anterior": 49595.31,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        50198.17,
+        49097.06,
+        48147.33,
+        49595.31,
+        50021.91
+      ]
+    },
+    "vix": {
+      "ultimo": 26.93,
+      "cambio_pct": 1.16,
+      "cierre_anterior": 26.62,
+      "historico_fechas": [
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        24.56,
+        28.44,
+        35.89,
+        26.62,
+        26.93
+      ]
+    },
+    "oro": {
+      "ultimo": 3547.7,
+      "cambio_pct": -2.84,
+      "cierre_anterior": 3651.4,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        3685.5,
+        3515.4,
+        3651.4,
+        3547.7
+      ]
+    },
+    "petroleo": {
+      "ultimo": 81.4,
+      "cambio_pct": 1.53,
+      "cierre_anterior": 80.17,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        83.21,
+        83.98,
+        80.17,
+        81.4
+      ]
+    },
+    "btc": {
+      "ultimo": 59697.35,
+      "cambio_pct": -2.47,
+      "cierre_anterior": 61210.98,
+      "historico_fechas": [
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        58798.98,
+        60094.09,
+        61161.91,
+        61210.98,
+        59697.35
+      ]
+    },
+    "dxy": {
+      "ultimo": 103.83,
+      "cambio_pct": -0.46,
+      "cierre_anterior": 104.32,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ],
+      "historico_cierres": [
+        103.9,
+        103.81,
+        104.32,
+        103.83
+      ]
+    }
+  }
+}
