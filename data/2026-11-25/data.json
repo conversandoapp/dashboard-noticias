@@ -1,0 +1,453 @@
+{
+  "fecha": "2026-11-25",
+  "generado_en": "2026-11-25T20:23:23.824932Z",
+  "noticias": {
+    "mundo": [
+      {
+        "titulo": "Poundland collapses putting 11,000 jobs at risk",
+        "resumen": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 18:29:42 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Why has Poundland collapsed and what happens next?",
+        "resumen": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+        "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 16:24:30 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "US announces new tariff proposals on EU, China, and other trade partners",
+        "resumen": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 16:21:34 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
+        "resumen": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
+        "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 15:42:10 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+        "resumen": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 17:48:28 GMT",
+        "fuente": "BBC News"
+      },
+      {
+        "titulo": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+        "resumen": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 17:30:16 GMT",
+        "fuente": "BBC News"
+      }
+    ],
+    "negocios": [
+      {
+        "titulo": "Poundland collapses putting 11,000 jobs at risk",
+        "resumen": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 18:29:42 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "What's gone wrong at Poundland?",
+        "resumen": "Poundland has collapse into administration. Why?",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 17:00:32 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US announces new tariffs on host of countries including China",
+        "resumen": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 16:21:34 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "US stocks fall further as fears over AI intensify",
+        "resumen": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 17:48:09 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Energy bills to rise by 26% from January after gas prices surge",
+        "resumen": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 13:42:08 GMT",
+        "fuente": "BBC Business"
+      },
+      {
+        "titulo": "Why tiny cars are taking off across Europe",
+        "resumen": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+        "publicado": "Wed, 25 Nov 2026 00:34:05 GMT",
+        "fuente": "BBC Business"
+      }
+    ],
+    "tecnologia": [
+      {
+        "titulo": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "resumen": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "publicado": "Wed, 25 Nov 2026 20:03:27 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "resumen": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "publicado": "Wed, 25 Nov 2026 19:54:57 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+        "resumen": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+        "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+        "publicado": "Wed, 25 Nov 2026 19:54:32 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "resumen": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "publicado": "Wed, 25 Nov 2026 19:44:24 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+        "resumen": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+        "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+        "publicado": "Wed, 25 Nov 2026 18:49:52 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "resumen": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "publicado": "Wed, 25 Nov 2026 18:11:46 +0000",
+        "fuente": "TechCrunch"
+      },
+      {
+        "titulo": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+        "resumen": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
+        "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+        "publicado": "2026-11-25T14:45:51-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "1Password breach leaked customer names and emails, but not passwords",
+        "resumen": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
+        "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+        "publicado": "2026-11-25T14:10:15-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+        "resumen": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+        "publicado": "2026-11-25T13:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The loneliest peptide party in New York",
+        "resumen": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There [&#8230;]",
+        "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+        "publicado": "2026-11-25T13:00:00-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+        "resumen": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [&#8230;]",
+        "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "publicado": "2026-11-25T12:44:51-05:00",
+        "fuente": "The Verge"
+      },
+      {
+        "titulo": "The Verge’s guide to the best gifts under $100",
+        "resumen": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, [&#8230;]",
+        "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+        "publicado": "2026-11-25T12:00:00-05:00",
+        "fuente": "The Verge"
+      }
+    ]
+  },
+  "mercados": {
+    "sp500": {
+      "ultimo": 7179.33,
+      "cambio_pct": -0.3,
+      "cierre_anterior": 7201.09,
+      "maximo_periodo": 7818.93,
+      "minimo_periodo": 6910.39,
+      "rendimiento_periodo_pct": -6.49,
+      "historico_fechas": [
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83,
+        6910.39,
+        7237.17,
+        7201.09,
+        7179.33
+      ]
+    },
+    "nasdaq": {
+      "ultimo": 23554.06,
+      "cambio_pct": -0.76,
+      "cierre_anterior": 23733.54,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        23879.2,
+        22617.73,
+        24089.56,
+        23733.54,
+        23554.06
+      ]
+    },
+    "dow": {
+      "ultimo": 50230.53,
+      "cambio_pct": 0.42,
+      "cierre_anterior": 50018.7,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        49097.06,
+        48147.33,
+        49595.31,
+        50018.7,
+        50230.53
+      ]
+    },
+    "vix": {
+      "ultimo": 27.9,
+      "cambio_pct": 5.84,
+      "cierre_anterior": 26.36,
+      "historico_fechas": [
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        28.44,
+        35.89,
+        26.62,
+        26.36,
+        27.9
+      ]
+    },
+    "oro": {
+      "ultimo": 3594.0,
+      "cambio_pct": 0.9,
+      "cierre_anterior": 3561.9,
+      "historico_fechas": [
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        3515.4,
+        3651.4,
+        3561.9,
+        3594.0
+      ]
+    },
+    "petroleo": {
+      "ultimo": 83.89,
+      "cambio_pct": 2.24,
+      "cierre_anterior": 82.05,
+      "historico_fechas": [
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        83.98,
+        80.17,
+        82.05,
+        83.89
+      ]
+    },
+    "btc": {
+      "ultimo": 59991.68,
+      "cambio_pct": 0.41,
+      "cierre_anterior": 59747.77,
+      "historico_fechas": [
+        "2026-11-21",
+        "2026-11-22",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        60094.09,
+        61161.91,
+        61210.98,
+        59747.77,
+        59991.68
+      ]
+    },
+    "dxy": {
+      "ultimo": 103.67,
+      "cambio_pct": -0.13,
+      "cierre_anterior": 103.81,
+      "historico_fechas": [
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24",
+        "2026-11-25"
+      ],
+      "historico_cierres": [
+        103.81,
+        104.32,
+        103.81,
+        103.67
+      ]
+    }
+  }
+}
